@@ -1,5 +1,3 @@
-# Solution-Eng_Python
-
 # GDPR Compliance Scoring for Privacy Policies
 
 ## Problem Statement
