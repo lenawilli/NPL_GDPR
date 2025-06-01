@@ -1,0 +1,17 @@
+{
+  "url": "https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html",
+  "domain": "aol.com",
+  "scraped_at": "2025-05-28T19:42:07.770771",
+  "content_length": 134558,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "data protection",
+    "personal data",
+    "data controller",
+    "consent",
+    "legitimate interest",
+    "data protection officer"
+  ],
+  "final_url": "https://legal.yahoo.com/us/en/yahoo/privacy/index.html",
+  "status_code": 200
+}

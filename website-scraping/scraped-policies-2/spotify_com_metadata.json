@@ -1,0 +1,17 @@
+{
+  "url": "https://www.spotify.com/us/legal/privacy-policy/",
+  "domain": "spotify.com",
+  "scraped_at": "2025-05-28T19:37:47.967263",
+  "content_length": 138482,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data controller",
+    "consent",
+    "privacy rights",
+    "data portability",
+    "data protection officer"
+  ],
+  "final_url": "https://www.spotify.com/us/legal/privacy-policy/",
+  "status_code": 200
+}

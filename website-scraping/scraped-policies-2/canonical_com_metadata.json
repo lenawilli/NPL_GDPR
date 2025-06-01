@@ -1,0 +1,18 @@
+{
+  "url": "https://ubuntu.com/legal/data-privacy",
+  "domain": "canonical.com",
+  "scraped_at": "2025-05-28T19:41:43.557395",
+  "content_length": 90113,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "consent",
+    "right to erasure",
+    "right to rectification",
+    "data portability"
+  ],
+  "final_url": "https://ubuntu.com/legal/data-privacy",
+  "status_code": 200
+}

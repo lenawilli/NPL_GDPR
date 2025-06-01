@@ -1,0 +1,18 @@
+{
+  "url": "https://www.digitalocean.com/legal/privacy-policy/",
+  "domain": "digitalocean.com",
+  "scraped_at": "2025-05-28T19:41:36.799623",
+  "content_length": 177690,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "consent",
+    "legitimate interest"
+  ],
+  "final_url": "https://www.digitalocean.com/legal/privacy-policy",
+  "status_code": 200
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.mongodb.com/legal/privacy-policy",
+  "domain": "mongodb.com",
+  "scraped_at": "2025-05-28T19:41:41.227297",
+  "content_length": 165287,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data subject",
+    "consent",
+    "legitimate interest",
+    "data breach",
+    "privacy rights",
+    "data protection officer",
+    "dpo"
+  ],
+  "final_url": "https://www.mongodb.com/legal/privacy/privacy-policy",
+  "status_code": 200
+}

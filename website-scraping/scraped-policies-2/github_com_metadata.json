@@ -1,0 +1,21 @@
+{
+  "url": "https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement",
+  "domain": "github.com",
+  "scraped_at": "2025-05-28T19:41:37.856368",
+  "content_length": 241429,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "data processor",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "data protection officer",
+    "dpo"
+  ],
+  "final_url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+  "status_code": 200
+}

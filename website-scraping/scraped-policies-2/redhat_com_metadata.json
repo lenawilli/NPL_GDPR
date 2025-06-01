@@ -1,0 +1,18 @@
+{
+  "url": "https://www.redhat.com/en/about/privacy-policy",
+  "domain": "redhat.com",
+  "scraped_at": "2025-05-28T19:41:45.108294",
+  "content_length": 345113,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data subject",
+    "consent",
+    "privacy rights",
+    "data portability"
+  ],
+  "final_url": "https://www.redhat.com/en/about/privacy-policy",
+  "status_code": 200
+}

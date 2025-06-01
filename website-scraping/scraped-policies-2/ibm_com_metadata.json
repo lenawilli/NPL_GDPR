@@ -1,0 +1,15 @@
+{
+  "url": "https://www.ibm.com/privacy",
+  "domain": "ibm.com",
+  "scraped_at": "2025-05-28T19:41:43.114356",
+  "content_length": 618443,
+  "gdpr_keywords_found": [
+    "data protection",
+    "consent",
+    "legitimate interest",
+    "data portability",
+    "data protection officer"
+  ],
+  "final_url": "https://www.ibm.com/us-en/privacy",
+  "status_code": 200
+}

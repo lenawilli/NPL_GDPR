@@ -1,0 +1,17 @@
+{
+  "url": "https://www.ikea.com/gb/en/customer-service/privacy-policy/",
+  "domain": "ikea.com",
+  "scraped_at": "2025-05-28T19:41:05.317223",
+  "content_length": 713356,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "data protection",
+    "personal data",
+    "data controller",
+    "consent",
+    "legitimate interest",
+    "data protection officer"
+  ],
+  "final_url": "https://www.ikea.com/gb/en/customer-service/privacy-policy/",
+  "status_code": 200
+}

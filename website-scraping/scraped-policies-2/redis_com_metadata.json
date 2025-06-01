@@ -1,0 +1,22 @@
+{
+  "url": "https://redis.com/legal/privacy-policy/",
+  "domain": "redis.com",
+  "scraped_at": "2025-05-28T19:41:40.477481",
+  "content_length": 53698,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "data processor",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "data portability",
+    "data protection officer"
+  ],
+  "final_url": "https://redis.io/legal/privacy-policy/",
+  "status_code": 200
+}

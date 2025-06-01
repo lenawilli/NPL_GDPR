@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hetzner.com/legal/privacy-policy/",
+  "domain": "hetzner.com",
+  "scraped_at": "2025-05-28T19:41:34.891020",
+  "content_length": 202551,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "consent",
+    "legitimate interest",
+    "right to erasure",
+    "right to rectification",
+    "data portability",
+    "data protection officer"
+  ],
+  "final_url": "https://www.hetzner.com/legal/privacy-policy/",
+  "status_code": 200
+}

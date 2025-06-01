@@ -1,0 +1,18 @@
+{
+  "url": "https://about.gitlab.com/privacy/",
+  "domain": "gitlab.com",
+  "scraped_at": "2025-05-28T19:41:36.185264",
+  "content_length": 355441,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data subject",
+    "consent",
+    "legitimate interest",
+    "privacy rights"
+  ],
+  "final_url": "https://about.gitlab.com/privacy/",
+  "status_code": 200
+}

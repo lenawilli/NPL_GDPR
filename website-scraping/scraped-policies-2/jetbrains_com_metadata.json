@@ -1,0 +1,24 @@
+{
+  "url": "https://www.jetbrains.com/legal/docs/privacy/privacy/",
+  "domain": "jetbrains.com",
+  "scraped_at": "2025-05-28T19:41:37.897530",
+  "content_length": 317133,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "data processor",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "right to erasure",
+    "right to rectification",
+    "data portability",
+    "dpo"
+  ],
+  "final_url": "https://www.jetbrains.com/legal/docs/privacy/privacy/",
+  "status_code": 200
+}

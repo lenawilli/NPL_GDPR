@@ -1,0 +1,16 @@
+{
+  "url": "https://proton.me/legal/privacy",
+  "domain": "protonmail.com",
+  "scraped_at": "2025-05-28T19:41:55.475587",
+  "content_length": 105935,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "personal data",
+    "data processor",
+    "consent",
+    "legitimate interest",
+    "privacy rights"
+  ],
+  "final_url": "https://proton.me/legal/privacy",
+  "status_code": 200
+}

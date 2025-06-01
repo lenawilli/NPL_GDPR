@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ovhcloud.com/en-gb/personal-data-protection/",
+  "domain": "ovh.com",
+  "scraped_at": "2025-05-28T19:41:32.450408",
+  "content_length": 37754,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data"
+  ],
+  "final_url": "https://www.ovhcloud.com/en-gb/personal-data-protection/",
+  "status_code": 200
+}

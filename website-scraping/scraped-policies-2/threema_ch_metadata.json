@@ -1,0 +1,13 @@
+{
+  "url": "https://threema.ch/en/privacy",
+  "domain": "threema.ch",
+  "scraped_at": "2025-05-28T19:42:11.511381",
+  "content_length": 13552,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "privacy by design"
+  ],
+  "final_url": "https://threema.com/en/why-threema/privacy",
+  "status_code": 200
+}

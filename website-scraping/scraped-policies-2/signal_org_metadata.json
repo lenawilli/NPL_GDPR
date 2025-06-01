@@ -1,0 +1,13 @@
+{
+  "url": "https://signal.org/legal/",
+  "domain": "signal.org",
+  "scraped_at": "2025-05-28T19:42:09.962782",
+  "content_length": 271749,
+  "gdpr_keywords_found": [
+    "personal data",
+    "consent",
+    "privacy by design"
+  ],
+  "final_url": "https://signal.org/legal/",
+  "status_code": 200
+}
