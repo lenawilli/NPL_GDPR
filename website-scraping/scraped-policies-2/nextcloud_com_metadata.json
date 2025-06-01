@@ -1,0 +1,22 @@
+{
+  "url": "https://nextcloud.com/privacy/",
+  "domain": "nextcloud.com",
+  "scraped_at": "2025-05-28T19:42:14.633953",
+  "content_length": 721926,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "consent",
+    "legitimate interest",
+    "right to erasure",
+    "right to rectification",
+    "data portability",
+    "data protection officer"
+  ],
+  "final_url": "https://nextcloud.com/privacy/",
+  "status_code": 200
+}

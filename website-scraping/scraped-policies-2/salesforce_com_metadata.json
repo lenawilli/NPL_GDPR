@@ -1,0 +1,16 @@
+{
+  "url": "https://www.salesforce.com/company/privacy/",
+  "domain": "salesforce.com",
+  "scraped_at": "2025-05-28T19:38:03.749344",
+  "content_length": 211286,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data subject",
+    "consent",
+    "legitimate interest",
+    "data protection officer"
+  ],
+  "final_url": "https://www.salesforce.com/company/legal/privacy/?bc=OTH",
+  "status_code": 200
+}

@@ -1,0 +1,13 @@
+{
+  "url": "https://www.paypal.com/us/webapps/mpp/ua/privacy-full",
+  "domain": "paypal.com",
+  "scraped_at": "2025-05-28T19:38:06.873665",
+  "content_length": 3969,
+  "gdpr_keywords_found": [
+    "data protection",
+    "data controller",
+    "data processor"
+  ],
+  "final_url": "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+  "status_code": 200
+}

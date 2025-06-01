@@ -1,0 +1,17 @@
+{
+  "url": "https://www.atlassian.com/legal/privacy-policy",
+  "domain": "bitbucket.org",
+  "scraped_at": "2025-05-28T19:41:37.583338",
+  "content_length": 393258,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data processor",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "data portability"
+  ],
+  "final_url": "https://www.atlassian.com/legal/privacy-policy",
+  "status_code": 200
+}

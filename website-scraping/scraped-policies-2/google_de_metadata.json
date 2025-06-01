@@ -1,0 +1,14 @@
+{
+  "url": "https://policies.google.com/privacy",
+  "domain": "google.de",
+  "scraped_at": "2025-05-28T19:37:37.754481",
+  "content_length": 580612,
+  "gdpr_keywords_found": [
+    "data protection",
+    "data controller",
+    "consent",
+    "legitimate interest"
+  ],
+  "final_url": "https://policies.google.com/privacy",
+  "status_code": 200
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://www.elastic.co/legal/privacy-statement",
+  "domain": "elastic.co",
+  "scraped_at": "2025-05-28T19:41:39.724903",
+  "content_length": 89350,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "data protection officer"
+  ],
+  "final_url": "https://www.elastic.co/legal/privacy-statement",
+  "status_code": 200
+}

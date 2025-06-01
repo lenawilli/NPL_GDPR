@@ -1,0 +1,17 @@
+{
+  "url": "https://help.netflix.com/legal/privacy",
+  "domain": "netflix.com",
+  "scraped_at": "2025-05-28T19:37:46.408401",
+  "content_length": 260910,
+  "gdpr_keywords_found": [
+    "data protection",
+    "data subject",
+    "data controller",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "data protection officer"
+  ],
+  "final_url": "https://help.netflix.com/legal/privacy",
+  "status_code": 200
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://matrix.org/legal/privacy-notice/",
+  "domain": "matrix.org",
+  "scraped_at": "2025-05-28T19:42:11.668876",
+  "content_length": 29886,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "consent",
+    "legitimate interest",
+    "right to erasure",
+    "right to rectification",
+    "data portability"
+  ],
+  "final_url": "https://matrix.org/legal/privacy-notice/",
+  "status_code": 200
+}

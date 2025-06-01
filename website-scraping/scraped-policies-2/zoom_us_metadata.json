@@ -1,0 +1,18 @@
+{
+  "url": "https://zoom.us/privacy",
+  "domain": "zoom.us",
+  "scraped_at": "2025-05-28T19:38:01.152143",
+  "content_length": 378889,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data subject",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "right to rectification",
+    "data protection officer"
+  ],
+  "final_url": "https://www.zoom.com/en/trust/privacy/privacy-statement/?cms_guid=false&lang=null",
+  "status_code": 200
+}

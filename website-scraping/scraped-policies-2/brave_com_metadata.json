@@ -1,0 +1,21 @@
+{
+  "url": "https://brave.com/privacy/",
+  "domain": "brave.com",
+  "scraped_at": "2025-05-28T19:41:48.376719",
+  "content_length": 89715,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data processor",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "right to rectification",
+    "data portability",
+    "data protection officer"
+  ],
+  "final_url": "https://brave.com/privacy/browser/",
+  "status_code": 200
+}

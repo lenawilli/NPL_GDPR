@@ -1,0 +1,17 @@
+{
+  "url": "https://www.philips.com/a-w/privacy-notice.html",
+  "domain": "philips.com",
+  "scraped_at": "2025-05-28T19:40:44.319065",
+  "content_length": 2076921,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "data portability",
+    "data protection officer"
+  ],
+  "final_url": "https://www.philips.com/a-w/privacy-notice.html",
+  "status_code": 200
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://twitter.com/en/privacy",
+  "domain": "twitter.com",
+  "scraped_at": "2025-05-28T19:37:48.618266",
+  "content_length": 787813,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data controller",
+    "consent",
+    "data protection officer"
+  ],
+  "final_url": "https://x.com/en/privacy",
+  "status_code": 200
+}

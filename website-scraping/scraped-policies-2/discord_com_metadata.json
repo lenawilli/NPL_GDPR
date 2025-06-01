@@ -1,0 +1,18 @@
+{
+  "url": "https://discord.com/privacy",
+  "domain": "discord.com",
+  "scraped_at": "2025-05-28T19:37:55.603556",
+  "content_length": 96290,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data controller",
+    "consent",
+    "data protection officer",
+    "dpo"
+  ],
+  "final_url": "https://discord.com/privacy",
+  "status_code": 200
+}

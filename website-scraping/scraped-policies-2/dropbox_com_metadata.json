@@ -1,0 +1,14 @@
+{
+  "url": "https://www.dropbox.com/privacy",
+  "domain": "dropbox.com",
+  "scraped_at": "2025-05-28T19:38:03.269281",
+  "content_length": 102409,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "consent",
+    "data protection officer"
+  ],
+  "final_url": "https://www.dropbox.com/privacy",
+  "status_code": 200
+}

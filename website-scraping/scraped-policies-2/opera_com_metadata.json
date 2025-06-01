@@ -1,0 +1,19 @@
+{
+  "url": "https://www.opera.com/privacy",
+  "domain": "opera.com",
+  "scraped_at": "2025-05-28T19:41:47.151654",
+  "content_length": 412758,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data controller",
+    "data processor",
+    "consent",
+    "legitimate interest",
+    "data protection officer"
+  ],
+  "final_url": "https://www.opera.com/legal/privacy",
+  "status_code": 200
+}

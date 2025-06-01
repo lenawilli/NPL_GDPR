@@ -1,0 +1,17 @@
+{
+  "url": "https://www.booking.com/content/privacy.html",
+  "domain": "booking.com",
+  "scraped_at": "2025-05-28T19:39:34.902198",
+  "content_length": 349467,
+  "gdpr_keywords_found": [
+    "data protection",
+    "personal data",
+    "data subject",
+    "consent",
+    "legitimate interest",
+    "data breach",
+    "data protection officer"
+  ],
+  "final_url": "https://www.booking.com/content/privacy.html",
+  "status_code": 200
+}

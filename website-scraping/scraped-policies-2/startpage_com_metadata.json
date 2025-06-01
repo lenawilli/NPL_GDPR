@@ -1,0 +1,15 @@
+{
+  "url": "https://www.startpage.com/en/privacy-policy/",
+  "domain": "startpage.com",
+  "scraped_at": "2025-05-28T19:41:52.124301",
+  "content_length": 59213,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "privacy by design"
+  ],
+  "final_url": "https://www.startpage.com/en/privacy-policy/",
+  "status_code": 200
+}

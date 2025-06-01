@@ -1,0 +1,21 @@
+{
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "domain": "microsoft.com",
+  "scraped_at": "2025-05-28T19:37:45.557773",
+  "content_length": 4266662,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "general data protection regulation",
+    "data protection",
+    "personal data",
+    "data subject",
+    "data controller",
+    "data processor",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "data protection officer"
+  ],
+  "final_url": "https://www.microsoft.com/en-us/privacy/privacystatement",
+  "status_code": 200
+}

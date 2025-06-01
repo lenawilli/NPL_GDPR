@@ -1,0 +1,18 @@
+{
+  "url": "https://owncloud.com/privacy-policy/",
+  "domain": "owncloud.com",
+  "scraped_at": "2025-05-28T19:42:15.720522",
+  "content_length": 383218,
+  "gdpr_keywords_found": [
+    "gdpr",
+    "data protection",
+    "personal data",
+    "data subject",
+    "consent",
+    "legitimate interest",
+    "privacy rights",
+    "data portability"
+  ],
+  "final_url": "https://owncloud.com/privacy-statement/",
+  "status_code": 200
+}
