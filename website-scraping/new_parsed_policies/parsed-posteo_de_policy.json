@@ -1,0 +1,354 @@
+[
+  {
+    "article_number": 5,
+    "article_title": "Principles relating to processing of personal data",
+    "matches": {
+      "6.": [
+        {
+          "matched_policy_passage": "We delete this data, which cannot be traced back to an individual, automatically after 7 days In addition, we create generic, anonymised system usage and capacity statistics These statistics also do not contain any personal information or IP addresses.Content data. Content data as a term is not legally defined We refer to it in this context as the saved contents in an email account.The contents of a communication and its accompanying circumstances (emails and their metadata) are subject to telecommunications secrecy and are protected by fundamental rights",
+          "similarity_score": 0.6084
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 23,
+    "article_title": "Restrictions",
+    "matches": {
+      "19.": [
+        {
+          "matched_policy_passage": "These statistics also do not contain any personal information or IP addresses.Content data. Content data as a term is not legally defined We refer to it in this context as the saved contents in an email account.The contents of a communication and its accompanying circumstances (emails and their metadata) are subject to telecommunications secrecy and are protected by fundamental rights That means that no one is allowed to read your emails and we're not allowed to pass them on to third parties This would be a violation of your fundamental rights and punishable by law",
+          "similarity_score": 0.6129
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 6,
+    "article_title": "Lawfulness of processing",
+    "matches": {
+      "17.": [
+        {
+          "matched_policy_passage": "This would be a violation of your fundamental rights and punishable by law Telecommunications secrecy can be restricted only in individual cases and only by way of a judge if there is suspicion of certain criminal offenses We always technically protect your content data with the latest security technologies (see ourinformation page about encryption) In addition, content data is consistently saved on encrypted hard drives to protect them from physical access",
+          "similarity_score": 0.6286
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 14,
+    "article_title": "Information to be provided where personal data have not been obtained from the data subject",
+    "matches": {
+      "25.": [
+        {
+          "matched_policy_passage": "Telecommunications secrecy can be restricted only in individual cases and only by way of a judge if there is suspicion of certain criminal offenses We always technically protect your content data with the latest security technologies (see ourinformation page about encryption) In addition, content data is consistently saved on encrypted hard drives to protect them from physical access We operate and maintain our own server infrastructure",
+          "similarity_score": 0.6057
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 29,
+    "article_title": "Processing under the authority of the controller or processor",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "The results are as follows As we are a publicly accessible email provider that orients itself towards private individual use, we are not a data processor as defined in the General Data Protection Regulation (GDPR) Because of this, agreements with customers of this nature do not need to be made.This also applies to cases where Posteo is used for professional or occupational purposes There is no processing as defined by Art",
+          "similarity_score": 0.6068
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 95,
+    "article_title": "Relationship with Directive 2002/58/EC",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "As we are a publicly accessible email provider that orients itself towards private individual use, we are not a data processor as defined in the General Data Protection Regulation (GDPR) Because of this, agreements with customers of this nature do not need to be made.This also applies to cases where Posteo is used for professional or occupational purposes There is no processing as defined by Art 28. of the GDPR.The explanation is as follows:Telecommunication services like Posteo are not only required to be in accordance with general data protection laws",
+          "similarity_score": 0.6065
+        },
+        {
+          "matched_policy_passage": "Because of this, agreements with customers of this nature do not need to be made.This also applies to cases where Posteo is used for professional or occupational purposes There is no processing as defined by Art 28. of the GDPR.The explanation is as follows:Telecommunication services like Posteo are not only required to be in accordance with general data protection laws They are subject to additional legal requirements and are thereby also regulated by strict security provisions that have been established by German telecommuncations law (TKG) and the Telecommunications Telemedia Data Protection Act (TTDSG).According to these additional legal regulations, we are, for example, required to provide a security concept that needs to be checked by the German Federal Network Agency (Bundesnetzagentur)",
+          "similarity_score": 0.6333
+        },
+        {
+          "matched_policy_passage": "There is no processing as defined by Art 28. of the GDPR.The explanation is as follows:Telecommunication services like Posteo are not only required to be in accordance with general data protection laws They are subject to additional legal requirements and are thereby also regulated by strict security provisions that have been established by German telecommuncations law (TKG) and the Telecommunications Telemedia Data Protection Act (TTDSG).According to these additional legal regulations, we are, for example, required to provide a security concept that needs to be checked by the German Federal Network Agency (Bundesnetzagentur) At least every two years an inspection is conducted by the supervising authorities",
+          "similarity_score": 0.6472
+        },
+        {
+          "matched_policy_passage": "At least every two years an inspection is conducted by the supervising authorities Unlike a data processor, we are not bound by directives from our customers We make decisions ourselves regarding the security of our service and these decisions must meet legal requirements.For this reason, even before the GDPR came into effect, Posteo did not have any processing as defined in Art 28 GDPR.In the GDPR Art. 95 there is a specific regulation that has been established for publicly accessible electronic communication services like Posteo: âThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.â Posteo is subject to the obligations that are defined in the Directive on privacy and electronic communications (2002/58/EG)",
+          "similarity_score": 0.7016
+        },
+        {
+          "matched_policy_passage": "Unlike a data processor, we are not bound by directives from our customers We make decisions ourselves regarding the security of our service and these decisions must meet legal requirements.For this reason, even before the GDPR came into effect, Posteo did not have any processing as defined in Art 28 GDPR.In the GDPR Art. 95 there is a specific regulation that has been established for publicly accessible electronic communication services like Posteo: âThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.â Posteo is subject to the obligations that are defined in the Directive on privacy and electronic communications (2002/58/EG) These are also in conformity with the requirements of ÂÂ 3-18 TTDSG",
+          "similarity_score": 0.7419
+        },
+        {
+          "matched_policy_passage": "We make decisions ourselves regarding the security of our service and these decisions must meet legal requirements.For this reason, even before the GDPR came into effect, Posteo did not have any processing as defined in Art 28 GDPR.In the GDPR Art. 95 there is a specific regulation that has been established for publicly accessible electronic communication services like Posteo: âThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.â Posteo is subject to the obligations that are defined in the Directive on privacy and electronic communications (2002/58/EG) These are also in conformity with the requirements of ÂÂ 3-18 TTDSG Because of this, you are neither required to have a data processing agreement with us to meet the guideliness of GDPR nor do we offer such agreements.Additional reading:The industry association Bitkom expand upon this even further in their brochure about data processing in accordance with the GDPR: âProcessing also does not exist if the service has been regulated in special law (e.g",
+          "similarity_score": 0.7409
+        },
+        {
+          "matched_policy_passage": "28 GDPR.In the GDPR Art. 95 there is a specific regulation that has been established for publicly accessible electronic communication services like Posteo: âThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.â Posteo is subject to the obligations that are defined in the Directive on privacy and electronic communications (2002/58/EG) These are also in conformity with the requirements of ÂÂ 3-18 TTDSG Because of this, you are neither required to have a data processing agreement with us to meet the guideliness of GDPR nor do we offer such agreements.Additional reading:The industry association Bitkom expand upon this even further in their brochure about data processing in accordance with the GDPR: âProcessing also does not exist if the service has been regulated in special law (e.g telecommunications services or postal services).â (Source, page 23, German text)Your rights according to the General Data Protection Regulation (legally required part of the privacy policy)We do neither collect or save inventory data (like names or address)nor personally identifiable IP addresses from you.Nevertheless, we are legally required to fully inform you of your rights in our privacy policy",
+          "similarity_score": 0.7303
+        },
+        {
+          "matched_policy_passage": "These are also in conformity with the requirements of ÂÂ 3-18 TTDSG Because of this, you are neither required to have a data processing agreement with us to meet the guideliness of GDPR nor do we offer such agreements.Additional reading:The industry association Bitkom expand upon this even further in their brochure about data processing in accordance with the GDPR: âProcessing also does not exist if the service has been regulated in special law (e.g telecommunications services or postal services).â (Source, page 23, German text)Your rights according to the General Data Protection Regulation (legally required part of the privacy policy)We do neither collect or save inventory data (like names or address)nor personally identifiable IP addresses from you.Nevertheless, we are legally required to fully inform you of your rights in our privacy policy We hereby do so.You have the right:In accordance with. GDPR article 15you have the right to demand a confirmation from Posteo e.K",
+          "similarity_score": 0.6486
+        },
+        {
+          "matched_policy_passage": "Because of this, you are neither required to have a data processing agreement with us to meet the guideliness of GDPR nor do we offer such agreements.Additional reading:The industry association Bitkom expand upon this even further in their brochure about data processing in accordance with the GDPR: âProcessing also does not exist if the service has been regulated in special law (e.g telecommunications services or postal services).â (Source, page 23, German text)Your rights according to the General Data Protection Regulation (legally required part of the privacy policy)We do neither collect or save inventory data (like names or address)nor personally identifiable IP addresses from you.Nevertheless, we are legally required to fully inform you of your rights in our privacy policy We hereby do so.You have the right:In accordance with. GDPR article 15you have the right to demand a confirmation from Posteo e.K as to whether we process personal data in relation to you",
+          "similarity_score": 0.6042
+        },
+        {
+          "matched_policy_passage": "Requests by government agencies/Transparency reports You do not need a processing agreement with us We had some legal research conducted on this subject for our customers The results are as follows As we are a publicly accessible email provider that orients itself towards private individual use, we are not a data processor as defined in the General Data Protection Regulation (GDPR) Because of this, agreements with customers of this nature do not need to be made.This also applies to cases where Posteo is used for professional or occupational purposes",
+          "similarity_score": 0.6029
+        },
+        {
+          "matched_policy_passage": "Unlike a data processor, we are not bound by directives from our customers We make decisions ourselves regarding the security of our service and these decisions must meet legal requirements For this reason, even before the GDPR came into effect, Posteo did not have any processing as defined in Art 95 there is a specific regulation that has been established for publicly accessible electronic communication services like Posteo: âThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.â Posteo is subject to the obligations that are defined in the Directive on privacy and electronic communications (2002/58/EG)",
+          "similarity_score": 0.7256
+        },
+        {
+          "matched_policy_passage": "We make decisions ourselves regarding the security of our service and these decisions must meet legal requirements For this reason, even before the GDPR came into effect, Posteo did not have any processing as defined in Art 95 there is a specific regulation that has been established for publicly accessible electronic communication services like Posteo: âThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.â Posteo is subject to the obligations that are defined in the Directive on privacy and electronic communications (2002/58/EG) These are also in conformity with the requirements of ÂÂ 3-18 TTDSG",
+          "similarity_score": 0.6764
+        },
+        {
+          "matched_policy_passage": "For this reason, even before the GDPR came into effect, Posteo did not have any processing as defined in Art 95 there is a specific regulation that has been established for publicly accessible electronic communication services like Posteo: âThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.â Posteo is subject to the obligations that are defined in the Directive on privacy and electronic communications (2002/58/EG) These are also in conformity with the requirements of ÂÂ 3-18 TTDSG Because of this, you are neither required to have a data processing agreement with us to meet the guideliness of GDPR nor do we offer such agreements",
+          "similarity_score": 0.6646
+        },
+        {
+          "matched_policy_passage": "These are also in conformity with the requirements of ÂÂ 3-18 TTDSG Because of this, you are neither required to have a data processing agreement with us to meet the guideliness of GDPR nor do we offer such agreements Additional reading:The industry association Bitkom expand upon this even further in their brochure about data processing in accordance with the GDPR: âProcessing also does not exist if the service has been regulated in special law (e.g telecommunications services or postal services).â (Source, page 23, German text) Your rights according to the General Data Protection Regulation (legally required part of the privacy policy) We do neither collect or save inventory data (like names or address)nor personally identifiable IP addresses from you.Nevertheless, we are legally required to fully inform you of your rights in our privacy policy",
+          "similarity_score": 0.6635
+        },
+        {
+          "matched_policy_passage": "Because of this, you are neither required to have a data processing agreement with us to meet the guideliness of GDPR nor do we offer such agreements Additional reading:The industry association Bitkom expand upon this even further in their brochure about data processing in accordance with the GDPR: âProcessing also does not exist if the service has been regulated in special law (e.g telecommunications services or postal services).â (Source, page 23, German text) Your rights according to the General Data Protection Regulation (legally required part of the privacy policy) We do neither collect or save inventory data (like names or address)nor personally identifiable IP addresses from you.Nevertheless, we are legally required to fully inform you of your rights in our privacy policy In accordance with. GDPR article 15you have the right to demand a confirmation from Posteo e.K",
+          "similarity_score": 0.6088
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 42,
+    "article_title": "Certification",
+    "matches": {
+      "2.": [
+        {
+          "matched_policy_passage": "28. of the GDPR.The explanation is as follows:Telecommunication services like Posteo are not only required to be in accordance with general data protection laws They are subject to additional legal requirements and are thereby also regulated by strict security provisions that have been established by German telecommuncations law (TKG) and the Telecommunications Telemedia Data Protection Act (TTDSG).According to these additional legal regulations, we are, for example, required to provide a security concept that needs to be checked by the German Federal Network Agency (Bundesnetzagentur) At least every two years an inspection is conducted by the supervising authorities Unlike a data processor, we are not bound by directives from our customers",
+          "similarity_score": 0.6342
+        },
+        {
+          "matched_policy_passage": "They are subject to additional legal requirements and are thereby also regulated by strict security provisions that have been established by German telecommuncations law (TKG) and the Telecommunications Telemedia Data Protection Act (TTDSG).According to these additional legal regulations, we are, for example, required to provide a security concept that needs to be checked by the German Federal Network Agency (Bundesnetzagentur) At least every two years an inspection is conducted by the supervising authorities Unlike a data processor, we are not bound by directives from our customers We make decisions ourselves regarding the security of our service and these decisions must meet legal requirements.For this reason, even before the GDPR came into effect, Posteo did not have any processing as defined in Art",
+          "similarity_score": 0.649
+        },
+        {
+          "matched_policy_passage": "The competent supervisory authority is:The German Federal Commissioner for Data Protection (Bf. DI)Husarenstr 3053117 Bonn. Germany. Actuality and changes in this privacy policy. This privacy policy is currently valid and is applicable as of November 2022.It may become necessary to change this privacy policy as Posteo develops or based on changes in legal or official guidelines The respectively current privacy policy can be accessed and printed at any time on our website:https://posteo.de/en/site/privacy_policy Posteo stands for maximum data protection, data economy and privacy by design We show how an internet provider can consistently be run without collecting data, tracking or financing through advertising",
+          "similarity_score": 0.6017
+        },
+        {
+          "matched_policy_passage": "There is no processing as defined by Art The explanation is as follows:Telecommunication services like Posteo are not only required to be in accordance with general data protection laws They are subject to additional legal requirements and are thereby also regulated by strict security provisions that have been established by German telecommuncations law (TKG) and the Telecommunications Telemedia Data Protection Act (TTDSG) According to these additional legal regulations, we are, for example, required to provide a security concept that needs to be checked by the German Federal Network Agency (Bundesnetzagentur)",
+          "similarity_score": 0.622
+        },
+        {
+          "matched_policy_passage": "The explanation is as follows:Telecommunication services like Posteo are not only required to be in accordance with general data protection laws They are subject to additional legal requirements and are thereby also regulated by strict security provisions that have been established by German telecommuncations law (TKG) and the Telecommunications Telemedia Data Protection Act (TTDSG) According to these additional legal regulations, we are, for example, required to provide a security concept that needs to be checked by the German Federal Network Agency (Bundesnetzagentur) At least every two years an inspection is conducted by the supervising authorities",
+          "similarity_score": 0.6515
+        },
+        {
+          "matched_policy_passage": "They are subject to additional legal requirements and are thereby also regulated by strict security provisions that have been established by German telecommuncations law (TKG) and the Telecommunications Telemedia Data Protection Act (TTDSG) According to these additional legal regulations, we are, for example, required to provide a security concept that needs to be checked by the German Federal Network Agency (Bundesnetzagentur) At least every two years an inspection is conducted by the supervising authorities Unlike a data processor, we are not bound by directives from our customers",
+          "similarity_score": 0.6379
+        },
+        {
+          "matched_policy_passage": "According to these additional legal regulations, we are, for example, required to provide a security concept that needs to be checked by the German Federal Network Agency (Bundesnetzagentur) At least every two years an inspection is conducted by the supervising authorities Unlike a data processor, we are not bound by directives from our customers We make decisions ourselves regarding the security of our service and these decisions must meet legal requirements",
+          "similarity_score": 0.6482
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 45,
+    "article_title": "Transfers on the basis of an adequacy decision",
+    "matches": {
+      "3.": [
+        {
+          "matched_policy_passage": "telecommunications services or postal services).â (Source, page 23, German text)Your rights according to the General Data Protection Regulation (legally required part of the privacy policy)We do neither collect or save inventory data (like names or address)nor personally identifiable IP addresses from you.Nevertheless, we are legally required to fully inform you of your rights in our privacy policy We hereby do so.You have the right:In accordance with. GDPR article 15you have the right to demand a confirmation from Posteo e.K as to whether we process personal data in relation to you In this case, we will confirm in writing that we do not have any inventory data orpersonally identifiable IP addresses and that no customer database entry exists in relation to you",
+          "similarity_score": 0.6522
+        },
+        {
+          "matched_policy_passage": "Additional reading:The industry association Bitkom expand upon this even further in their brochure about data processing in accordance with the GDPR: âProcessing also does not exist if the service has been regulated in special law (e.g telecommunications services or postal services).â (Source, page 23, German text) Your rights according to the General Data Protection Regulation (legally required part of the privacy policy) We do neither collect or save inventory data (like names or address)nor personally identifiable IP addresses from you.Nevertheless, we are legally required to fully inform you of your rights in our privacy policy In accordance with. GDPR article 15you have the right to demand a confirmation from Posteo e.K as to whether we process personal data in relation to you",
+          "similarity_score": 0.6039
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 19,
+    "article_title": "Notification obligation regarding rectification or erasure of personal data or restriction of processing",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "This data cannot be deleted.In accordance with. GDPR article 18you have the right to demand a restriction of the processing of personal data that is stored at a company in relation to you Inventory data andpersonally identifiable IP addresses donot exist at Posteo We only retain payment data for tax purposes Restrictions of the processing of this data cannot be made due to tax reasons.If companies give personal data to third parties, the company must inform the recipients if personal data has been corrected or deleted according to. GDPR article 19.You have the right to request to which recipients this information went from the company.As no inventory data such as names or addresses in relation to your email account is collected at Posteo, no such data set exist with which we could pass on to third parties or with which we could make changes (corrections/deletions).Should you have provided a company with personal data in an automated process, you have the right to receive this stored personal data in a structured, current and machine-readable format or to demand the transfer of this data to another responsible party according to. GDPR article 20",
+          "similarity_score": 0.6342
+        },
+        {
+          "matched_policy_passage": "At least within technical possibilities.In accordance with. GDPR article 21you have the right to revoke the processing of personal data within a company We neither collect inventory data nor personally identifiable IP addressesfrom you and your email account at Posteo We only retain payment data for tax purposes and this cannot be revoked.In accordance with. GDPR article 7 paragraph 3, you also have the right to revoke given consent of the processing of personal data from a company We neither collect inventory data nor personally identifiable IP addressesfrom you and your email account at Posteo",
+          "similarity_score": 0.6038
+        },
+        {
+          "matched_policy_passage": "We only retain payment data for tax purposes and this cannot be revoked.In accordance with. GDPR article 22you also have the right not to be subject to a resulting decision from an automated process including profiling.At no point in time will you be subject to a resulting decision from an automated process (including profiling) at Posteo.Should a company store any of your personal data, the company has to inform you immediately if the protection of your data has been infringed upon according to. GDPR article 34 As a matter of principle, we do not store any inventory data, payment data or personally identifiable IP addressesfor your email account.Due to our data economy and the protection of sensitive data, we conceptually prevent the theft and other abuse of customer data related to your account through maximal \"Privacy by Design\".In the case of a security related incident that could affect the security of your data stored at Posteo, we will inform you via email and in our companyâs blog Furthermore, we will explain how to contact our data protection officer and offer tips for suitable measures.According to. GDPR article 77, you have the right to raise a complaint with a supervisory authority The competent supervisory authority is:The German Federal Commissioner for Data Protection (Bf. DI)Husarenstr",
+          "similarity_score": 0.613
+        },
+        {
+          "matched_policy_passage": "This data cannot be deleted In accordance with. GDPR article 18you have the right to demand a restriction of the processing of personal data that is stored at a company in relation to you Inventory data andpersonally identifiable IP addresses donot exist at Posteo We only retain payment data for tax purposes",
+          "similarity_score": 0.6127
+        },
+        {
+          "matched_policy_passage": "At least within technical possibilities In accordance with. GDPR article 21you have the right to revoke the processing of personal data within a company We neither collect inventory data nor personally identifiable IP addressesfrom you and your email account at Posteo We only retain payment data for tax purposes and this cannot be revoked",
+          "similarity_score": 0.6315
+        },
+        {
+          "matched_policy_passage": "In accordance with. GDPR article 21you have the right to revoke the processing of personal data within a company We neither collect inventory data nor personally identifiable IP addressesfrom you and your email account at Posteo We only retain payment data for tax purposes and this cannot be revoked In accordance with. GDPR article 7 paragraph 3, you also have the right to revoke given consent of the processing of personal data from a company",
+          "similarity_score": 0.6109
+        },
+        {
+          "matched_policy_passage": "In accordance with. GDPR article 7 paragraph 3, you also have the right to revoke given consent of the processing of personal data from a company We neither collect inventory data nor personally identifiable IP addressesfrom you and your email account at Posteo We only retain payment data for tax purposes and this cannot be revoked In accordance with. GDPR article 22you also have the right not to be subject to a resulting decision from an automated process including profiling.At no point in time will you be subject to a resulting decision from an automated process (including profiling) at Posteo",
+          "similarity_score": 0.646
+        },
+        {
+          "matched_policy_passage": "We only retain payment data for tax purposes and this cannot be revoked In accordance with. GDPR article 22you also have the right not to be subject to a resulting decision from an automated process including profiling.At no point in time will you be subject to a resulting decision from an automated process (including profiling) at Posteo Should a company store any of your personal data, the company has to inform you immediately if the protection of your data has been infringed upon according to. GDPR article 34 As a matter of principle, we do not store any inventory data, payment data or personally identifiable IP addressesfor your email account.Due to our data economy and the protection of sensitive data, we conceptually prevent the theft and other abuse of customer data related to your account through maximal \"Privacy by Design\".In the case of a security related incident that could affect the security of your data stored at Posteo, we will inform you via email and in our companyâs blog",
+          "similarity_score": 0.6167
+        },
+        {
+          "matched_policy_passage": "In accordance with. GDPR article 22you also have the right not to be subject to a resulting decision from an automated process including profiling.At no point in time will you be subject to a resulting decision from an automated process (including profiling) at Posteo Should a company store any of your personal data, the company has to inform you immediately if the protection of your data has been infringed upon according to. GDPR article 34 As a matter of principle, we do not store any inventory data, payment data or personally identifiable IP addressesfor your email account.Due to our data economy and the protection of sensitive data, we conceptually prevent the theft and other abuse of customer data related to your account through maximal \"Privacy by Design\".In the case of a security related incident that could affect the security of your data stored at Posteo, we will inform you via email and in our companyâs blog Furthermore, we will explain how to contact our data protection officer and offer tips for suitable measures",
+          "similarity_score": 0.631
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 86,
+    "article_title": "Processing and public access to official documents",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "We only retain payment data for tax purposes Restrictions of the processing of this data cannot be made due to tax reasons.If companies give personal data to third parties, the company must inform the recipients if personal data has been corrected or deleted according to. GDPR article 19.You have the right to request to which recipients this information went from the company.As no inventory data such as names or addresses in relation to your email account is collected at Posteo, no such data set exist with which we could pass on to third parties or with which we could make changes (corrections/deletions).Should you have provided a company with personal data in an automated process, you have the right to receive this stored personal data in a structured, current and machine-readable format or to demand the transfer of this data to another responsible party according to. GDPR article 20 At least within technical possibilities.In accordance with. GDPR article 21you have the right to revoke the processing of personal data within a company We neither collect inventory data nor personally identifiable IP addressesfrom you and your email account at Posteo",
+          "similarity_score": 0.6082
+        },
+        {
+          "matched_policy_passage": "telecommunications services or postal services).â (Source, page 23, German text) Your rights according to the General Data Protection Regulation (legally required part of the privacy policy) We do neither collect or save inventory data (like names or address)nor personally identifiable IP addresses from you.Nevertheless, we are legally required to fully inform you of your rights in our privacy policy In accordance with. GDPR article 15you have the right to demand a confirmation from Posteo e.K as to whether we process personal data in relation to you In this case, we will confirm in writing that we do not have any inventory data orpersonally identifiable IP addresses and that no customer database entry exists in relation to you",
+          "similarity_score": 0.6312
+        },
+        {
+          "matched_policy_passage": "We only retain payment data for tax purposes Restrictions of the processing of this data cannot be made due to tax reasons If companies give personal data to third parties, the company must inform the recipients if personal data has been corrected or deleted according to. GDPR article 19.You have the right to request to which recipients this information went from the company.As no inventory data such as names or addresses in relation to your email account is collected at Posteo, no such data set exist with which we could pass on to third parties or with which we could make changes (corrections/deletions) Should you have provided a company with personal data in an automated process, you have the right to receive this stored personal data in a structured, current and machine-readable format or to demand the transfer of this data to another responsible party according to. GDPR article 20",
+          "similarity_score": 0.6183
+        },
+        {
+          "matched_policy_passage": "Should you have provided a company with personal data in an automated process, you have the right to receive this stored personal data in a structured, current and machine-readable format or to demand the transfer of this data to another responsible party according to. GDPR article 20 At least within technical possibilities In accordance with. GDPR article 21you have the right to revoke the processing of personal data within a company We neither collect inventory data nor personally identifiable IP addressesfrom you and your email account at Posteo",
+          "similarity_score": 0.6506
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 15,
+    "article_title": "Right of access by the data subject",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "Restrictions of the processing of this data cannot be made due to tax reasons.If companies give personal data to third parties, the company must inform the recipients if personal data has been corrected or deleted according to. GDPR article 19.You have the right to request to which recipients this information went from the company.As no inventory data such as names or addresses in relation to your email account is collected at Posteo, no such data set exist with which we could pass on to third parties or with which we could make changes (corrections/deletions).Should you have provided a company with personal data in an automated process, you have the right to receive this stored personal data in a structured, current and machine-readable format or to demand the transfer of this data to another responsible party according to. GDPR article 20 At least within technical possibilities.In accordance with. GDPR article 21you have the right to revoke the processing of personal data within a company We neither collect inventory data nor personally identifiable IP addressesfrom you and your email account at Posteo We only retain payment data for tax purposes and this cannot be revoked.In accordance with. GDPR article 7 paragraph 3, you also have the right to revoke given consent of the processing of personal data from a company",
+          "similarity_score": 0.6248
+        },
+        {
+          "matched_policy_passage": "If companies give personal data to third parties, the company must inform the recipients if personal data has been corrected or deleted according to. GDPR article 19.You have the right to request to which recipients this information went from the company.As no inventory data such as names or addresses in relation to your email account is collected at Posteo, no such data set exist with which we could pass on to third parties or with which we could make changes (corrections/deletions) Should you have provided a company with personal data in an automated process, you have the right to receive this stored personal data in a structured, current and machine-readable format or to demand the transfer of this data to another responsible party according to. GDPR article 20 At least within technical possibilities In accordance with. GDPR article 21you have the right to revoke the processing of personal data within a company",
+          "similarity_score": 0.6685
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 50,
+    "article_title": "International cooperation for the protection of personal data",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "Furthermore, we will explain how to contact our data protection officer and offer tips for suitable measures.According to. GDPR article 77, you have the right to raise a complaint with a supervisory authority The competent supervisory authority is:The German Federal Commissioner for Data Protection (Bf. DI)Husarenstr 3053117 Bonn. Germany. Actuality and changes in this privacy policy. This privacy policy is currently valid and is applicable as of November 2022.It may become necessary to change this privacy policy as Posteo develops or based on changes in legal or official guidelines The respectively current privacy policy can be accessed and printed at any time on our website:https://posteo.de/en/site/privacy_policy Privacy policy. Posteo stands for maximum data protection, data economy and privacy by design",
+          "similarity_score": 0.6443
+        },
+        {
+          "matched_policy_passage": "Furthermore, we will explain how to contact our data protection officer and offer tips for suitable measures.According to. GDPR article 77, you have the right to raise a complaint with a supervisory authority The competent supervisory authority is:The German Federal Commissioner for Data Protection (Bf. DI)Husarenstr 3053117 Bonn. Germany. Actuality and changes in this privacy policy. This privacy policy is currently valid and is applicable as of November 2022.It may become necessary to change this privacy policy as Posteo develops or based on changes in legal or official guidelines The respectively current privacy policy can be accessed and printed at any time on our website:https://posteo.de/en/site/privacy_policy Posteo stands for maximum data protection, data economy and privacy by design",
+          "similarity_score": 0.6443
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 13,
+    "article_title": "Information to be provided where personal data are collected from the data subject",
+    "matches": {
+      "3.": [
+        {
+          "matched_policy_passage": "This privacy information applies to the processing of data by: Data Protection Officer: The Data Protection Officer at Posteo e.K is also reachable at the postal address listed above (Addition to the Posteo e.K postal address: \"Data Protection Officer Niels Herrmann\")",
+          "similarity_score": 0.6602
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 40,
+    "article_title": "Codes of conduct",
+    "matches": {
+      "14.": [
+        {
+          "matched_policy_passage": "95 there is a specific regulation that has been established for publicly accessible electronic communication services like Posteo: âThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.â Posteo is subject to the obligations that are defined in the Directive on privacy and electronic communications (2002/58/EG) These are also in conformity with the requirements of ÂÂ 3-18 TTDSG Because of this, you are neither required to have a data processing agreement with us to meet the guideliness of GDPR nor do we offer such agreements Additional reading:The industry association Bitkom expand upon this even further in their brochure about data processing in accordance with the GDPR: âProcessing also does not exist if the service has been regulated in special law (e.g",
+          "similarity_score": 0.711
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 16,
+    "article_title": "Right to rectification",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "Changes cannot be made to this data In accordance with. GDPR article 17you have the right to demand the immediate deletion of personal data that is saved within a company in relation to you Inventory dataas well as personally identifiable IP addresses donot exist at Posteo Payment data cannot be deleted upon your request as it would conflict with legal requirement of retaining this information for 10 years for tax authorities",
+          "similarity_score": 0.6
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 18,
+    "article_title": "Right to restriction of processing",
+    "matches": {
+      "6.": [
+        {
+          "matched_policy_passage": "In accordance with. GDPR article 18you have the right to demand a restriction of the processing of personal data that is stored at a company in relation to you Inventory data andpersonally identifiable IP addresses donot exist at Posteo We only retain payment data for tax purposes Restrictions of the processing of this data cannot be made due to tax reasons",
+          "similarity_score": 0.6242
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 48,
+    "article_title": "Transfers or disclosures not authorised by Union law",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "Restrictions of the processing of this data cannot be made due to tax reasons If companies give personal data to third parties, the company must inform the recipients if personal data has been corrected or deleted according to. GDPR article 19.You have the right to request to which recipients this information went from the company.As no inventory data such as names or addresses in relation to your email account is collected at Posteo, no such data set exist with which we could pass on to third parties or with which we could make changes (corrections/deletions) Should you have provided a company with personal data in an automated process, you have the right to receive this stored personal data in a structured, current and machine-readable format or to demand the transfer of this data to another responsible party according to. GDPR article 20 At least within technical possibilities",
+          "similarity_score": 0.6222
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 70,
+    "article_title": "Tasks of the Board",
+    "matches": {
+      "3.": [
+        {
+          "matched_policy_passage": "Furthermore, we will explain how to contact our data protection officer and offer tips for suitable measures According to. GDPR article 77, you have the right to raise a complaint with a supervisory authority The competent supervisory authority is: Actuality and changes in this privacy policy This privacy policy is currently valid and is applicable as of November 2022.It may become necessary to change this privacy policy as Posteo develops or based on changes in legal or official guidelines The respectively current privacy policy can be accessed and printed at any time on our website:https://posteo.de/en/site/privacy_policy",
+          "similarity_score": 0.6387
+        }
+      ]
+    }
+  }
+]
