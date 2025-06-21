@@ -1,0 +1,198 @@
+[
+  {
+    "article_number": 22,
+    "article_title": "Automated individual decision-making, including profiling",
+    "matches": {
+      "3.": [
+        {
+          "matched_policy_passage": "Access to Your Data2.1 What is the legal basis for processing my data and how does this affect my rights under GDPR (General Data Protection Regulation)?2.1 Legal Basis for Processing. Element has different legal basis for processing, based on which product you are using:Element Users: we collect your IP address when you request access to the Element client from our web server This data is collected under. Legitimate Interest, to support operational maintenance and to protect against malicious actions against our infrastructure.Element Customers: your data is processed under. Performance of Contract This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote);2.2 Data Ownership - Messaging and File data within hosted homeservers. The Customer can use ESS to provision and manage hosted Matrix homeservers The Customer owns and controls all messages and files submitted to their homeserver by User accounts registered natively on their homeserver",
+          "similarity_score": 0.6128
+        },
+        {
+          "matched_policy_passage": "This data is collected under. Legitimate Interest, to support operational maintenance and to protect against malicious actions against our infrastructure.Element Customers: your data is processed under. Performance of Contract This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote);2.2 Data Ownership - Messaging and File data within hosted homeservers. The Customer can use ESS to provision and manage hosted Matrix homeservers The Customer owns and controls all messages and files submitted to their homeserver by User accounts registered natively on their homeserver This ownership does not extend to messages and files submitted over federation or bridging.This means that, in addition to the usual data access controls defined by the Matrix protocol, all unencrypted messages and files can be accessed by the Customer, and that access is retained even if no User account within the system retains access to the data.3 Your Rights as Data Subject. You have rights in relation to the personal data we hold about you",
+          "similarity_score": 0.6134
+        },
+        {
+          "matched_policy_passage": "Access to Your Data 2.1 What is the legal basis for processing my data and how does this affect my rights under GDPR (General Data Protection Regulation)? 2.1 Legal Basis for Processing Element has different legal basis for processing, based on which product you are using: Element Users: we collect your IP address when you request access to the Element client from our web server. This data is collected under. Legitimate Interest, to support operational maintenance and to protect against malicious actions against our infrastructure Element Customers: your data is processed under. Performance of Contract This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote); 2.2 Data Ownership - Messaging and File data within hosted homeservers The Customer can use ESS to provision and manage hosted Matrix homeservers The Customer owns and controls all messages and files submitted to their homeserver by User accounts registered natively on their homeserver",
+          "similarity_score": 0.6068
+        },
+        {
+          "matched_policy_passage": "Element Customers: your data is processed under. Performance of Contract This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote); 2.2 Data Ownership - Messaging and File data within hosted homeservers The Customer can use ESS to provision and manage hosted Matrix homeservers The Customer owns and controls all messages and files submitted to their homeserver by User accounts registered natively on their homeserver This ownership does not extend to messages and files submitted over federation or bridging",
+          "similarity_score": 0.638
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 13,
+    "article_title": "Information to be provided where personal data are collected from the data subject",
+    "matches": {
+      "10.": [
+        {
+          "matched_policy_passage": "The Customer owns and controls all messages and files submitted to their homeserver by User accounts registered natively on their homeserver This ownership does not extend to messages and files submitted over federation or bridging.This means that, in addition to the usual data access controls defined by the Matrix protocol, all unencrypted messages and files can be accessed by the Customer, and that access is retained even if no User account within the system retains access to the data.3 Your Rights as Data Subject. You have rights in relation to the personal data we hold about you Some of these only apply in certain circumstances Some of these rights are explored in more detail elsewhere in this document",
+          "similarity_score": 0.6065
+        },
+        {
+          "matched_policy_passage": "The Customer owns and controls all messages and files submitted to their homeserver by User accounts registered natively on their homeserver This ownership does not extend to messages and files submitted over federation or bridging This means that, in addition to the usual data access controls defined by the Matrix protocol, all unencrypted messages and files can be accessed by the Customer, and that access is retained even if no User account within the system retains access to the data 2.3 Your Rights as Data Subject You have rights in relation to the personal data we hold about you",
+          "similarity_score": 0.606
+        },
+        {
+          "matched_policy_passage": "This ownership does not extend to messages and files submitted over federation or bridging This means that, in addition to the usual data access controls defined by the Matrix protocol, all unencrypted messages and files can be accessed by the Customer, and that access is retained even if no User account within the system retains access to the data 2.3 Your Rights as Data Subject You have rights in relation to the personal data we hold about you Some of these only apply in certain circumstances",
+          "similarity_score": 0.6173
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 86,
+    "article_title": "Processing and public access to official documents",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "This ownership does not extend to messages and files submitted over federation or bridging.This means that, in addition to the usual data access controls defined by the Matrix protocol, all unencrypted messages and files can be accessed by the Customer, and that access is retained even if no User account within the system retains access to the data.3 Your Rights as Data Subject. You have rights in relation to the personal data we hold about you Some of these only apply in certain circumstances Some of these rights are explored in more detail elsewhere in this document For completeness, your rights under GDPR are:The right to be informed. The right of access. The right to rectification. The right to erasure. The right to restrict processing. The right to data portability. The right to object. Rights in relation to automated decision making and profiling.For more information about these rights, please seethe guidance provided by the ICO",
+          "similarity_score": 0.6314
+        },
+        {
+          "matched_policy_passage": "Some of these rights are explored in more detail elsewhere in this document For completeness, your rights under GDPR are:The right to be informed. The right of access. The right to rectification. The right to erasure. The right to restrict processing. The right to data portability. The right to object. Rights in relation to automated decision making and profiling.For more information about these rights, please seethe guidance provided by the ICO If you have any questions or are unsure how to exercise your rights, please contact us at[email protected].2 What Information Do You Collect About Me and Why?The information we collect is for the purpose of supporting your management of hosted homeservers, or to support operational maintenance of the Element apps We do not profile homeserver Users or their data, but we might profile metadata pertaining to the configuration and management of hosted homeservers so that we can improve our products and services.1 Information you provide to us:We collect information about you when you input it to the Element or Element Matrix Services apps or otherwise provide it directly to us.ESS and EMS Customer Account and Profile Information. We collect information when you register for an account",
+          "similarity_score": 0.6096
+        },
+        {
+          "matched_policy_passage": "Some of these only apply in certain circumstances Some of these rights are explored in more detail elsewhere in this document For completeness, your rights under GDPR are: The right to be informed The right to rectification The right to restrict processing The right to data portability Rights in relation to automated decision making and profiling For more information about these rights, please seethe guidance provided by the ICO",
+          "similarity_score": 0.637
+        },
+        {
+          "matched_policy_passage": "Some of these rights are explored in more detail elsewhere in this document For completeness, your rights under GDPR are: The right to be informed The right to rectification The right to restrict processing The right to data portability Rights in relation to automated decision making and profiling For more information about these rights, please seethe guidance provided by the ICO If you have any questions or are unsure how to exercise your rights, please contact us at[email protected]",
+          "similarity_score": 0.631
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 19,
+    "article_title": "Notification obligation regarding rectification or erasure of personal data or restriction of processing",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "Some of these only apply in certain circumstances Some of these rights are explored in more detail elsewhere in this document For completeness, your rights under GDPR are:The right to be informed. The right of access. The right to rectification. The right to erasure. The right to restrict processing. The right to data portability. The right to object. Rights in relation to automated decision making and profiling.For more information about these rights, please seethe guidance provided by the ICO If you have any questions or are unsure how to exercise your rights, please contact us at[email protected].2 What Information Do You Collect About Me and Why?The information we collect is for the purpose of supporting your management of hosted homeservers, or to support operational maintenance of the Element apps",
+          "similarity_score": 0.6347
+        },
+        {
+          "matched_policy_passage": "For completeness, your rights under GDPR are:The right to be informed. The right of access. The right to rectification. The right to erasure. The right to restrict processing. The right to data portability. The right to object. Rights in relation to automated decision making and profiling.For more information about these rights, please seethe guidance provided by the ICO If you have any questions or are unsure how to exercise your rights, please contact us at[email protected].2 What Information Do You Collect About Me and Why?The information we collect is for the purpose of supporting your management of hosted homeservers, or to support operational maintenance of the Element apps We do not profile homeserver Users or their data, but we might profile metadata pertaining to the configuration and management of hosted homeservers so that we can improve our products and services.1 Information you provide to us:We collect information about you when you input it to the Element or Element Matrix Services apps or otherwise provide it directly to us.ESS and EMS Customer Account and Profile Information. We collect information when you register for an account This information is kept to a minimum on purpose, and is restricted to:Email address. Authentication Identifier; one of:Email address and password. Twitter id. Google id. Your authentication identifier is used to authenticate your access to Element Matrix Services athttps://ems.hostand to uniquely identify you.You will be given the choice to set up 2-Factor Authentication to secure your account",
+          "similarity_score": 0.6181
+        },
+        {
+          "matched_policy_passage": "For completeness, your rights under GDPR are: The right to be informed The right to rectification The right to restrict processing The right to data portability Rights in relation to automated decision making and profiling For more information about these rights, please seethe guidance provided by the ICO If you have any questions or are unsure how to exercise your rights, please contact us at[email protected] 2.2 What Information Do You Collect About Me and Why? The information we collect is for the purpose of supporting your management of hosted homeservers, or to support operational maintenance of the Element apps. We do not profile homeserver Users or their data, but we might profile metadata pertaining to the configuration and management of hosted homeservers so that we can improve our products and services",
+          "similarity_score": 0.6151
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 32,
+    "article_title": "Security of processing",
+    "matches": {
+      "2.": [
+        {
+          "matched_policy_passage": "This means that no encrypted data is ever decrypted or shared externally, even using this function.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights. In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to:(a) comply with any applicable law, regulation, legal process or governmental request,(b) protect the security or integrity of our products and services (e.g for a security audit),(c) protect Element and our users from harm or illegal activities, or(d) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the serious bodily harm of any person.Shared information is exclusively limited to what we are technically able to see, which means end-to-end encrypted information is never accessed by our teams or shared externally.5 How Do You Handle Passwords?We never store password data in plain text; instead they are stored hashed (with at least 12 rounds of bcrypt, including both a salt and a server-side pepper secret) Passwords sent to the server are encrypted using SSL.It is your sole responsibility to keep your user name, password and other sensitive information confidential Actions taken using your credentials shall be deemed to be actions taken by you, with all consequences including service termination, civil and criminal penalties.Users should manage good password hygiene (e.g",
+          "similarity_score": 0.6485
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 70,
+    "article_title": "Tasks of the Board",
+    "matches": {
+      "3.": [
+        {
+          "matched_policy_passage": "For this reason, we take any complaints we receive about this very seriously We encourage people to bring it to our attention at[email protected]if they think that our collection or use of information is unfair, misleading or inappropriate We would also welcome any suggestions for improving our procedures.If you want to make a complaint about the way we have processed your personal information to the supervisory authority, you can contact the ICO (the statutory body which oversees data protection law in the UK) athttps://www.ico.org.uk/concerns CCPA and CPRA Addendum. This California Consumer Privacy Act and California Privacy Rights Act Addendum (\"CCPA and CPRA Addendum\") supplements the Element Data Processing Agreement and any applicable Order Forms and Services Addenda (Agreement)",
+          "similarity_score": 0.6044
+        },
+        {
+          "matched_policy_passage": "We encourage people to bring it to our attention at[email protected]if they think that our collection or use of information is unfair, misleading or inappropriate We would also welcome any suggestions for improving our procedures.If you want to make a complaint about the way we have processed your personal information to the supervisory authority, you can contact the ICO (the statutory body which oversees data protection law in the UK) athttps://www.ico.org.uk/concerns CCPA and CPRA Addendum. This California Consumer Privacy Act and California Privacy Rights Act Addendum (\"CCPA and CPRA Addendum\") supplements the Element Data Processing Agreement and any applicable Order Forms and Services Addenda (Agreement) It is effective upon acceptance of Elements Software and Services License Agreement(SSLA).This CCPA and CPRA Addendum is being entered into pursuant to the California Consumer Privacy Act of 2018 and the California Privacy Rights Act 2020 and reflects the parties agreement on the processing of Personal Information by Element pursuant to the Agreement",
+          "similarity_score": 0.6161
+        },
+        {
+          "matched_policy_passage": "We encourage people to bring it to our attention at[email protected]if they think that our collection or use of information is unfair, misleading or inappropriate We would also welcome any suggestions for improving our procedures If you want to make a complaint about the way we have processed your personal information to the supervisory authority, you can contact the ICO (the statutory body which oversees data protection law in the UK) athttps://www.ico.org.uk/concerns CCPA and CPRA Addendum This California Consumer Privacy Act and California Privacy Rights Act Addendum (\"CCPA and CPRA Addendum\") supplements the Element Data Processing Agreement and any applicable Order Forms and Services Addenda (Agreement)",
+          "similarity_score": 0.6121
+        },
+        {
+          "matched_policy_passage": "We would also welcome any suggestions for improving our procedures If you want to make a complaint about the way we have processed your personal information to the supervisory authority, you can contact the ICO (the statutory body which oversees data protection law in the UK) athttps://www.ico.org.uk/concerns CCPA and CPRA Addendum This California Consumer Privacy Act and California Privacy Rights Act Addendum (\"CCPA and CPRA Addendum\") supplements the Element Data Processing Agreement and any applicable Order Forms and Services Addenda (Agreement) It is effective upon acceptance of Elements Software and Services License Agreement(SSLA)",
+          "similarity_score": 0.6018
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 28,
+    "article_title": "Processor",
+    "matches": {
+      "5.": [
+        {
+          "matched_policy_passage": "The Customer is responsible for compliance with its own obligations as a business under CCPA and CPRA and shall ensure that it has provided notice and has obtained or shall obtain all consents and rights necessary under the CCPA and the CPRA for Element to collect and process the personal information for the Services specified in the Agreement.Restrictions.Element will not: (i) sell (as defined in the CCPA) Personal Information, (ii) collect, retain, use, or disclose Personal Information for any purpose other than for the specific purpose of performing the Services specified in the Agreement, including collecting, retaining, using, or disclosing Personal Information for any Commercial Purpose other than providing the Services specified in the Agreement unless otherwise permitted under the CCPA and CPRA, or (iii) retain, use or disclose personal data outside the direct business relationship between the parties.Data Subject Requests:Where Element acts as the Customers Service Provider it will reasonably assist the customer with any data subject rights under the CCPA and CPRA, unless Element has direct permission to carry out any data subject rights on behalf of the customer.Effect of CCPA and CPRA Addendum: In the event of any conflict or inconsistency between the terms of this CCPA and CPRA Addendum and the terms of the Agreement with respect to the subject matter and only where the CCPA and CPRA applies the terms of this CCPA and CPRA Addendum shall prevail Document History2018, March 28: Policy document for public homeserver exposed athttps://matrix.orgwas created.2018, August 2: This document was derived from the above.2020, July 15: Document revision2020, August 14: Updates to section 2.2 and 2.102020, October 2: Update to section 2 to include Gitter user data and section 2.2 to include Sentry error log collection2021, February 22: Updates to section 2, to include Element Home offering and update to section 2.1 to include marketing Information2021, April 23: Updates to 1.1 to include US subsidiary and 2.1 to cover Twilio for 2FA2021, October 11: updates to 2.1 to cover changes in Marketing subprocessors2021, December 1: updates to 1.2 to define relationship with identity servers2022, May 30: updates to 2.2 to include location sharing2024, August 2: adding CCPA section2025, February 24: annual review, adding details on Element call and push functions 1 Introduction1.1 English, Not Legalese. Most Terms of Use and Privacy Policy documents are unreadable They are written by lawyers and for lawyers, and in our opinion are not very effective.Privacy is important, and we want you to understand the issues involved",
+          "similarity_score": 0.6379
+        },
+        {
+          "matched_policy_passage": "The Customer is responsible for compliance with its own obligations as a business under CCPA and CPRA and shall ensure that it has provided notice and has obtained or shall obtain all consents and rights necessary under the CCPA and the CPRA for Element to collect and process the personal information for the Services specified in the Agreement.Restrictions.Element will not: (i) sell (as defined in the CCPA) Personal Information, (ii) collect, retain, use, or disclose Personal Information for any purpose other than for the specific purpose of performing the Services specified in the Agreement, including collecting, retaining, using, or disclosing Personal Information for any Commercial Purpose other than providing the Services specified in the Agreement unless otherwise permitted under the CCPA and CPRA, or (iii) retain, use or disclose personal data outside the direct business relationship between the parties.Data Subject Requests:Where Element acts as the Customers Service Provider it will reasonably assist the customer with any data subject rights under the CCPA and CPRA, unless Element has direct permission to carry out any data subject rights on behalf of the customer.Effect of CCPA and CPRA Addendum: In the event of any conflict or inconsistency between the terms of this CCPA and CPRA Addendum and the terms of the Agreement with respect to the subject matter and only where the CCPA and CPRA applies the terms of this CCPA and CPRA Addendum shall prevail Document History2018, March 28: Policy document for public homeserver exposed athttps://matrix.orgwas created.2018, August 2: This document was derived from the above.2020, July 15: Document revision2020, August 14: Updates to section 2.2 and 2.102020, October 2: Update to section 2 to include Gitter user data and section 2.2 to include Sentry error log collection2021, February 22: Updates to section 2, to include Element Home offering and update to section 2.1 to include marketing Information2021, April 23: Updates to 1.1 to include US subsidiary and 2.1 to cover Twilio for 2FA2021, October 11: updates to 2.1 to cover changes in Marketing subprocessors2021, December 1: updates to 1.2 to define relationship with identity servers2022, May 30: updates to 2.2 to include location sharing2024, August 2: adding CCPA section2025, February 24: annual review, adding details on Element call and push functions 1.1 English, Not Legalese Most Terms of Use and Privacy Policy documents are unreadable They are written by lawyers and for lawyers, and in our opinion are not very effective Privacy is important, and we want you to understand the issues involved",
+          "similarity_score": 0.6379
+        },
+        {
+          "matched_policy_passage": "The Customer is responsible for compliance with its own obligations as a business under CCPA and CPRA and shall ensure that it has provided notice and has obtained or shall obtain all consents and rights necessary under the CCPA and the CPRA for Element to collect and process the personal information for the Services specified in the Agreement Restrictions.Element will not: (i) sell (as defined in the CCPA) Personal Information, (ii) collect, retain, use, or disclose Personal Information for any purpose other than for the specific purpose of performing the Services specified in the Agreement, including collecting, retaining, using, or disclosing Personal Information for any Commercial Purpose other than providing the Services specified in the Agreement unless otherwise permitted under the CCPA and CPRA, or (iii) retain, use or disclose personal data outside the direct business relationship between the parties Data Subject Requests:Where Element acts as the Customers Service Provider it will reasonably assist the customer with any data subject rights under the CCPA and CPRA, unless Element has direct permission to carry out any data subject rights on behalf of the customer Effect of CCPA and CPRA Addendum: In the event of any conflict or inconsistency between the terms of this CCPA and CPRA Addendum and the terms of the Agreement with respect to the subject matter and only where the CCPA and CPRA applies the terms of this CCPA and CPRA Addendum shall prevail",
+          "similarity_score": 0.6227
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 98,
+    "article_title": "Review of other Union legal acts on data protection",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "If we make a material change we will provide the Customer with reasonable notice prior to the change We will set forth the date upon which the changes will become effective; any use of Element by the Customer, or any use of Services by a User will constitute their acceptance of these changes Your access and use of Element is always subject to the most current version of this document Access to Your Data 2.1 What is the legal basis for processing my data and how does this affect my rights under GDPR (General Data Protection Regulation)? 2.1 Legal Basis for Processing Element has different legal basis for processing, based on which product you are using: Element Users: we collect your IP address when you request access to the Element client from our web server. This data is collected under. Legitimate Interest, to support operational maintenance and to protect against malicious actions against our infrastructure",
+          "similarity_score": 0.6205
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 47,
+    "article_title": "Binding corporate rules",
+    "matches": {
+      "3.": [
+        {
+          "matched_policy_passage": "This means that, in addition to the usual data access controls defined by the Matrix protocol, all unencrypted messages and files can be accessed by the Customer, and that access is retained even if no User account within the system retains access to the data 2.3 Your Rights as Data Subject You have rights in relation to the personal data we hold about you Some of these only apply in certain circumstances Some of these rights are explored in more detail elsewhere in this document",
+          "similarity_score": 0.6732
+        },
+        {
+          "matched_policy_passage": "2.3 Your Rights as Data Subject You have rights in relation to the personal data we hold about you Some of these only apply in certain circumstances Some of these rights are explored in more detail elsewhere in this document For completeness, your rights under GDPR are: The right to be informed The right to rectification The right to restrict processing The right to data portability Rights in relation to automated decision making and profiling",
+          "similarity_score": 0.7168
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 6,
+    "article_title": "Lawfulness of processing",
+    "matches": {
+      "17.": [
+        {
+          "matched_policy_passage": "This means that no encrypted data is ever decrypted or shared externally, even using this function 2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to: (a) comply with any applicable law, regulation, legal process or governmental request, (b) protect the security or integrity of our products and services (e.g for a security audit), (c) protect Element and our users from harm or illegal activities, or (d) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the serious bodily harm of any person Shared information is exclusively limited to what we are technically able to see, which means end-to-end encrypted information is never accessed by our teams or shared externally",
+          "similarity_score": 0.6511
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 50,
+    "article_title": "International cooperation for the protection of personal data",
+    "matches": {
+      "3.": [
+        {
+          "matched_policy_passage": "2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to: (a) comply with any applicable law, regulation, legal process or governmental request, (b) protect the security or integrity of our products and services (e.g for a security audit), (c) protect Element and our users from harm or illegal activities, or (d) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the serious bodily harm of any person Shared information is exclusively limited to what we are technically able to see, which means end-to-end encrypted information is never accessed by our teams or shared externally 2.5 How Do You Handle Passwords? We never store password data in plain text; instead they are stored hashed (with at least 12 rounds of bcrypt, including both a salt and a server-side pepper secret). Passwords sent to the server are encrypted using SSL. It is your sole responsibility to keep your user name, password and other sensitive information confidential",
+          "similarity_score": 0.6345
+        }
+      ]
+    }
+  }
+]

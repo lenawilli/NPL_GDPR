@@ -1,0 +1,116 @@
+[
+  {
+    "article_number": 45,
+    "article_title": "Transfers on the basis of an adequacy decision",
+    "matches": {
+      "3.": [
+        {
+          "matched_policy_passage": "We believe that your data should receive the same legal protections regardless of whether its stored on our Services or on your home computers hard drive Well abide by the following. Government Request Principleswhen receiving, scrutinizing, and responding to government requests (including national security requests) for your data:Be transparent. Fight blanket requests. Protect all users, and. Provide trusted services.We publish a. Transparency Reportas part of our commitment to informing you about when and how governments ask us for information This report details the types and numbers of requests we receive from law enforcement We encourage you to review our. Government Request Principlesand. Transparency Reportfor more detailed information on our approach and response to government requests.How. Security.We have a team dedicated to keeping your information secure and testing for vulnerabilities",
+          "similarity_score": 0.652
+        },
+        {
+          "matched_policy_passage": "Law & Order and the Public Interest Stewardship of your data is critical to us and a responsibility that we embrace We believe that your data should receive the same legal protections regardless of whether its stored on our Services or on your home computers hard drive Well abide by the following. Government Request Principleswhen receiving, scrutinizing, and responding to government requests (including national security requests) for your data: Fight blanket requests Protect all users, and Provide trusted services",
+          "similarity_score": 0.695
+        },
+        {
+          "matched_policy_passage": "Stewardship of your data is critical to us and a responsibility that we embrace We believe that your data should receive the same legal protections regardless of whether its stored on our Services or on your home computers hard drive Well abide by the following. Government Request Principleswhen receiving, scrutinizing, and responding to government requests (including national security requests) for your data: Fight blanket requests Protect all users, and Provide trusted services We publish a. Transparency Reportas part of our commitment to informing you about when and how governments ask us for information",
+          "similarity_score": 0.6615
+        },
+        {
+          "matched_policy_passage": "We believe that your data should receive the same legal protections regardless of whether its stored on our Services or on your home computers hard drive Well abide by the following. Government Request Principleswhen receiving, scrutinizing, and responding to government requests (including national security requests) for your data: Fight blanket requests Protect all users, and Provide trusted services We publish a. Transparency Reportas part of our commitment to informing you about when and how governments ask us for information This report details the types and numbers of requests we receive from law enforcement",
+          "similarity_score": 0.6757
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 40,
+    "article_title": "Codes of conduct",
+    "matches": {
+      "12.": [
+        {
+          "matched_policy_passage": "Data may also be stored locally on the devices you use to access the Services.Data Transfers.When transferring data from the European Union, the European Economic Area, the United Kingdom, and Switzerland, Dropbox relies upon a variety of legal mechanisms, such as contracts with our customers and affiliates,Standard Contractual Clauses, the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework, and the European Commission'sadequacy decisionsabout certain countries, as applicable.Data Privacy Frameworks.Dropbox complies with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework, as set forth by the U.S. Department of Commerce regarding the processing of personal data transferred from the European Union, the European Economic Area, the United Kingdom, and Switzerland to the United States Dropbox has certified to the U.S. Department of Commerce that it adheres to the Principles of these Data Privacy Frameworks with respect to such data, but this does not include the Doc. Send or Formswift portions of the Services If there is any conflict between this Privacy Policy and the Data Privacy Framework Principles, the Principles shall govern In accordance with the Principles, Dropbox shall remain liable for onward transfers if a processor processes personal data in a manner inconsistent with the Principles",
+          "similarity_score": 0.6105
+        },
+        {
+          "matched_policy_passage": "Use of Data from Google APIs Around the world.To provide you with the Services, we may store, process, and transmit data in the United States and locations around the worldincluding those outside your country Data may also be stored locally on the devices you use to access the Services Data Transfers.When transferring data from the European Union, the European Economic Area, the United Kingdom, and Switzerland, Dropbox relies upon a variety of legal mechanisms, such as contracts with our customers and affiliates,Standard Contractual Clauses, the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework, and the European Commission'sadequacy decisionsabout certain countries, as applicable",
+          "similarity_score": 0.6164
+        },
+        {
+          "matched_policy_passage": "Around the world.To provide you with the Services, we may store, process, and transmit data in the United States and locations around the worldincluding those outside your country Data may also be stored locally on the devices you use to access the Services Data Transfers.When transferring data from the European Union, the European Economic Area, the United Kingdom, and Switzerland, Dropbox relies upon a variety of legal mechanisms, such as contracts with our customers and affiliates,Standard Contractual Clauses, the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework, and the European Commission'sadequacy decisionsabout certain countries, as applicable Data Privacy Frameworks.Dropbox complies with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework, as set forth by the U.S. Department of Commerce regarding the processing of personal data transferred from the European Union, the European Economic Area, the United Kingdom, and Switzerland to the United States",
+          "similarity_score": 0.6208
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 17,
+    "article_title": "Right to erasure (‘right to be forgotten’)",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "You can also ask us for a copy of personal data you provided to us or that weve collected, the business or commercial purpose for collecting it, the types of sources we got it from, and types of third parties weve shared it with.Object to the processing of your personal data.Depending on the processing activity, you can request that we stop or limit processing of your personal data.If you would like to submit a data access request or object to the processing of your personal data, please email us atprivacy@dropbox.com To request that your personal data be deleted, please fill out thisform For more information on how to control and access your personal data, please see our. FAQ.Dropbox as controller or processor.If you reside in North America (the United States, Canada, and Mexico), Dropbox, Inc. acts as your service provider For all other users, Dropbox International Unlimited Company acts as a controller of your personal data",
+          "similarity_score": 0.6138
+        },
+        {
+          "matched_policy_passage": "Object to the processing of your personal data.Depending on the processing activity, you can request that we stop or limit processing of your personal data Object to the processing of your personal data If you would like to submit a data access request or object to the processing of your personal data, please email us atprivacy@dropbox.com To request that your personal data be deleted, please fill out thisform",
+          "similarity_score": 0.6299
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 6,
+    "article_title": "Lawfulness of processing",
+    "matches": {
+      "2.": [
+        {
+          "matched_policy_passage": "Bases for processing your data.We collect and use the personal data described above in order to provide you with the Services in a reliable and secure manner We also collect and use personal data for our legitimate business needs To the extent we process your personal data for other purposes, we ask for your consent in advance or require that our partners obtain such consent For more information on the lawful bases for processing your data, please see our. FAQ",
+          "similarity_score": 0.6985
+        },
+        {
+          "matched_policy_passage": "We also collect and use personal data for our legitimate business needs To the extent we process your personal data for other purposes, we ask for your consent in advance or require that our partners obtain such consent For more information on the lawful bases for processing your data, please see our. FAQ Bases for processing your data",
+          "similarity_score": 0.7158
+        },
+        {
+          "matched_policy_passage": "To the extent we process your personal data for other purposes, we ask for your consent in advance or require that our partners obtain such consent For more information on the lawful bases for processing your data, please see our. FAQ Bases for processing your data For more details on the categories of personal information that are included in the information above, please see our. FAQ",
+          "similarity_score": 0.7655
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 13,
+    "article_title": "Information to be provided where personal data are collected from the data subject",
+    "matches": {
+      "4.": [
+        {
+          "matched_policy_passage": "For more information on the lawful bases for processing your data, please see our. FAQ Bases for processing your data For more details on the categories of personal information that are included in the information above, please see our. FAQ We may share information as discussed below, but we wont sell it to advertisers or other third parties",
+          "similarity_score": 0.6472
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 15,
+    "article_title": "Right of access by the data subject",
+    "matches": {
+      "8.": [
+        {
+          "matched_policy_passage": "You can also ask us for a copy of personal data you provided to us or that weve collected, the business or commercial purpose for collecting it, the types of sources we got it from, and types of third parties weve shared it with Access and take your data elsewhere Object to the processing of your personal data.Depending on the processing activity, you can request that we stop or limit processing of your personal data Object to the processing of your personal data",
+          "similarity_score": 0.6045
+        }
+      ],
+      "6.": [
+        {
+          "matched_policy_passage": "Access and take your data elsewhere Object to the processing of your personal data.Depending on the processing activity, you can request that we stop or limit processing of your personal data Object to the processing of your personal data If you would like to submit a data access request or object to the processing of your personal data, please email us atprivacy@dropbox.com",
+          "similarity_score": 0.6478
+        },
+        {
+          "matched_policy_passage": "Object to the processing of your personal data If you would like to submit a data access request or object to the processing of your personal data, please email us atprivacy@dropbox.com To request that your personal data be deleted, please fill out thisform For more information on how to control and access your personal data, please see our. FAQ",
+          "similarity_score": 0.6163
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "article_number": 48,
+    "article_title": "Transfers or disclosures not authorised by Union law",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "Additional information about the legal framework can be found in ourtransparency report.We are also GDPR compliant The designated representative of the Company in the European Union (notably for the purpose of art 27 GDPR) is Proton Europe sàrl, rue de Grünewald 94, L-1912 Luxembourg Data Proton collects from you, and how we use it. Our overriding policy is to collect as little user information (personal data included) as possible to ensure a private user experience when using the Services",
+          "similarity_score": 0.6023
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 25,
+    "article_title": "Data protection by design and by default",
+    "matches": {
+      "1.": [
+        {
+          "matched_policy_passage": "The legal basis of these processing activities is the necessity to the execution of the contract to provide the Services In order to respect the principle of data minimisation, we reserve our right to remove payment information from our systems that is no longer valid, without notice.10 Native applications:When you use our native applications, we (or the mobile app platform providers) may collect certain information We may use mobile analytics software, app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs Some platforms, such as Google's Play Store or Apple's App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and Terms of Service",
+          "similarity_score": 0.6056
+        },
+        {
+          "matched_policy_passage": "The legal basis of these processing activities is the necessity to the execution of the contract to provide the Services In order to respect the principle of data minimisation, we reserve our right to remove payment information from our systems that is no longer valid, without notice 2.10 Native applications:When you use our native applications, we (or the mobile app platform providers) may collect certain information We may use mobile analytics software, app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs",
+          "similarity_score": 0.6095
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 30,
+    "article_title": "Records of processing activities",
+    "matches": {
+      "9.": [
+        {
+          "matched_policy_passage": "Data processors. To provide the Services, we rely on different data processors, which process different categories of data Processors never store data outside of the scope of their specific purpose.Notably, they do not store data in relation with the general day-to-day use of your Account and Services, which is exclusively processed by the Company Processors are as follow:4.1 Proton Group processors. Proton. Labs DOOEL Skopje. Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)Data processing location: Macedonia. Proton. Labs Taiwan Co., Ltd. Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)Data processing location: Taiwan (R.O.C)4.2 Third-party processors. Zendesk, Inc.Purpose: Provide services in relation with the processing of customer support data (section 2.6)Data processing location: United States. Guarantees for international transfer: Standard Contractual Clauses, Binding Corporate Rules, Certifications. Stripe, Inc.Purpose: Provide services in relation with the processing of payment data (section 2.8)Data processing location: United States. Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement. Pay. Pal group. Purpose: Provide services in relation with the processing of payment data (section 2.8)Data processing location: United States, Singapore. Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement. Chargebee, Inc.Purpose: Provide services in relation with the processing of payment data (section 2.8)Data processing location: United States. Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement. Atlassian Pty Ltd. Purpose: store data in relation with customer support. Data processing location: European Union, United States, United Kingdom. Guarantees for international transfer: Adequacy decision, Standard Contractual Clauses, Certifications5 Data disclosure. We will only disclose the limited user data we possess if we are legally obligated to do so by a binding request coming from the competent Swiss authorities",
+          "similarity_score": 0.6182
+        },
+        {
+          "matched_policy_passage": "Processors are as follow:4.1 Proton Group processors. Proton. Labs DOOEL Skopje. Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)Data processing location: Macedonia. Proton. Labs Taiwan Co., Ltd. Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)Data processing location: Taiwan (R.O.C)4.2 Third-party processors. Zendesk, Inc.Purpose: Provide services in relation with the processing of customer support data (section 2.6)Data processing location: United States. Guarantees for international transfer: Standard Contractual Clauses, Binding Corporate Rules, Certifications. Stripe, Inc.Purpose: Provide services in relation with the processing of payment data (section 2.8)Data processing location: United States. Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement. Pay. Pal group. Purpose: Provide services in relation with the processing of payment data (section 2.8)Data processing location: United States, Singapore. Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement. Chargebee, Inc.Purpose: Provide services in relation with the processing of payment data (section 2.8)Data processing location: United States. Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement. Atlassian Pty Ltd. Purpose: store data in relation with customer support. Data processing location: European Union, United States, United Kingdom. Guarantees for international transfer: Adequacy decision, Standard Contractual Clauses, Certifications5 Data disclosure. We will only disclose the limited user data we possess if we are legally obligated to do so by a binding request coming from the competent Swiss authorities We may comply with electronically delivered notices only when they are delivered in full compliance with the requirements of Swiss law Protons general policy is to challenge requests whenever possible and where there are doubts as to the validity of the request or if there is a public interest in doing so",
+          "similarity_score": 0.6405
+        },
+        {
+          "matched_policy_passage": "Processors are as follow: 4.1 Proton Group processors Proton. Labs DOOEL Skopje Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6) Data processing location: Macedonia Proton. Labs Taiwan Co., Ltd Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6) Data processing location: Taiwan (R.O.C) 4.2 Third-party processors Purpose: Provide services in relation with the processing of customer support data (section 2.6) Data processing location: United States Guarantees for international transfer: Standard Contractual Clauses, Binding Corporate Rules, Certifications Purpose: Provide services in relation with the processing of payment data (section 2.8) Data processing location: United States Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement Purpose: Provide services in relation with the processing of payment data (section 2.8) Data processing location: United States, Singapore Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement Purpose: Provide services in relation with the processing of payment data (section 2.8) Data processing location: United States Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement Purpose: store data in relation with customer support Data processing location: European Union, United States, United Kingdom Guarantees for international transfer: Adequacy decision, Standard Contractual Clauses, Certifications We will only disclose the limited user data we possess if we are legally obligated to do so by a binding request coming from the competent Swiss authorities We may comply with electronically delivered notices only when they are delivered in full compliance with the requirements of Swiss law Protons general policy is to challenge requests whenever possible and where there are doubts as to the validity of the request or if there is a public interest in doing so In such situations, we will not comply with the request until all legal or other remedies have been exhausted",
+          "similarity_score": 0.6372
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 47,
+    "article_title": "Binding corporate rules",
+    "matches": {
+      "15.": [
+        {
+          "matched_policy_passage": "The legal basis for processing is consent and you are free to modify this in your Account settings panel at any time In order to pursue our legitimate interest of preventing the creation of accounts by spam bots or human spammers, we use a variety of human verification methods Verification may also be requested for some sensitive operations besides account creation in order to protect against brute-force attacks You may be asked to verify using either Proton Captcha, email, or SMS",
+          "similarity_score": 0.6298
+        }
+      ]
+    }
+  },
+  {
+    "article_number": 13,
+    "article_title": "Information to be provided where personal data are collected from the data subject",
+    "matches": {
+      "12.": [
+        {
+          "matched_policy_passage": "In case of violation of your rights, you have the right to lodge a complaint to the competent supervisory authority Modifications to Privacy Policy Within the limits of applicable law, the Company reserves the right to review and change this Privacy Policy at any time As long as you are using the Services, you are responsible for regularly reviewing this Privacy Policy Continued use of the Services after such changes are performed shall constitute your consent to it",
+          "similarity_score": 0.7118
+        }
+      ]
+    }
+  }
+]
