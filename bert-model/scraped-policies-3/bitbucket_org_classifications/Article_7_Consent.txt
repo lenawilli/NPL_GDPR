@@ -1,0 +1,182 @@
+=== Article 7 Consent ===
+
+Sentence 1 (Confidence: 1):
+You can control whether you receive these communications as described below under "Opt-out of communications
+
+Sentence 2 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 3 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 4 (Confidence: 2):
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the text messaging services
+
+Sentence 5 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 6 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 7 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 8 (Confidence: 1):
+You can also opt-out of our use of your information for certain marketing purposes by contacting us, as provided below
+
+Sentence 9 (Confidence: 1):
+If personal data is to be used in a way not previously disclosed, or shared with external parties not covered in this policy, you will be provided the opportunity to opt-out
+
+Sentence 10 (Confidence: 1):
+Our websites may not respond to all browser-based DNT signals; however, our websites do respond to the Global Privacy Control (GPC) to opt-out of sales of personal information and targeted advertising in certain locales
+
+Sentence 11 (Confidence: 1):
+You can control whether you receive these communications as described below under "Opt-out of communications
+
+Sentence 12 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 13 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 14 (Confidence: 2):
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the text messaging services
+
+Sentence 15 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 16 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 17 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 18 (Confidence: 1):
+You can also opt-out of our use of your information for certain marketing purposes by contacting us, as provided below
+
+Sentence 19 (Confidence: 1):
+If personal data is to be used in a way not previously disclosed, or shared with external parties not covered in this policy, you will be provided the opportunity to opt-out
+
+Sentence 20 (Confidence: 1):
+Our websites may not respond to all browser-based DNT signals; however, our websites do respond to the Global Privacy Control (GPC) to opt-out of sales of personal information and targeted advertising in certain locales
+
+Sentence 21 (Confidence: 1):
+You can control whether you receive these communications as described below under "Opt-out of communications
+
+Sentence 22 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 23 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 24 (Confidence: 2):
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the text messaging services
+
+Sentence 25 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 26 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 27 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 28 (Confidence: 1):
+You can also opt-out of our use of your information for certain marketing purposes by contacting us, as provided below
+
+Sentence 29 (Confidence: 1):
+If personal data is to be used in a way not previously disclosed, or shared with external parties not covered in this policy, you will be provided the opportunity to opt-out
+
+Sentence 30 (Confidence: 1):
+Our websites may not respond to all browser-based DNT signals; however, our websites do respond to the Global Privacy Control (GPC) to opt-out of sales of personal information and targeted advertising in certain locales
+
+Sentence 31 (Confidence: 1):
+You can control whether you receive these communications as described below under "Opt-out of communications
+
+Sentence 32 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 33 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 34 (Confidence: 1):
+You can control whether you receive these communications as described below under "Opt-out of communications
+
+Sentence 35 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 36 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 37 (Confidence: 1):
+You can control whether you receive these communications as described below under "Opt-out of communications
+
+Sentence 38 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 39 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 40 (Confidence: 2):
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the text messaging services
+
+Sentence 41 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 42 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 43 (Confidence: 2):
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the text messaging services
+
+Sentence 44 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 45 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 46 (Confidence: 2):
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the text messaging services
+
+Sentence 47 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 48 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 49 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 50 (Confidence: 1):
+You can also opt-out of our use of your information for certain marketing purposes by contacting us, as provided below
+
+Sentence 51 (Confidence: 1):
+If personal data is to be used in a way not previously disclosed, or shared with external parties not covered in this policy, you will be provided the opportunity to opt-out
+
+Sentence 52 (Confidence: 1):
+Our websites may not respond to all browser-based DNT signals; however, our websites do respond to the Global Privacy Control (GPC) to opt-out of sales of personal information and targeted advertising in certain locales
+
+Sentence 53 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 54 (Confidence: 1):
+You can also opt-out of our use of your information for certain marketing purposes by contacting us, as provided below
+
+Sentence 55 (Confidence: 1):
+If personal data is to be used in a way not previously disclosed, or shared with external parties not covered in this policy, you will be provided the opportunity to opt-out
+
+Sentence 56 (Confidence: 1):
+Our websites may not respond to all browser-based DNT signals; however, our websites do respond to the Global Privacy Control (GPC) to opt-out of sales of personal information and targeted advertising in certain locales
+
+Sentence 57 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 58 (Confidence: 1):
+You can also opt-out of our use of your information for certain marketing purposes by contacting us, as provided below
+
+Sentence 59 (Confidence: 1):
+If personal data is to be used in a way not previously disclosed, or shared with external parties not covered in this policy, you will be provided the opportunity to opt-out
+
+Sentence 60 (Confidence: 1):
+Our websites may not respond to all browser-based DNT signals; however, our websites do respond to the Global Privacy Control (GPC) to opt-out of sales of personal information and targeted advertising in certain locales
+

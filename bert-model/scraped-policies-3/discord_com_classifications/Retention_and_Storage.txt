@@ -1,0 +1,35 @@
+=== Retention And Storage ===
+
+Sentence 1 (Confidence: 1):
+Data retentionWe retain personal information until we determine it is no longer needed for the processing purposes for which we collected or retain it or for legal compliance
+
+Sentence 2 (Confidence: 6):
+You can learn more about data retention periods inour data retention policy
+
+Sentence 3 (Confidence: 2):
+Deleting your account permanently deletes identifying information and anonymizes other data as described inour data retention policy
+
+Sentence 4 (Confidence: 2):
+Content may be retained by Discord for use as described elsewhere in this policy and inour data retention policy
+
+Sentence 5 (Confidence: 1):
+Data retentionWe retain personal information until we determine it is no longer needed for the processing purposes for which we collected or retain it or for legal compliance
+
+Sentence 6 (Confidence: 6):
+You can learn more about data retention periods inour data retention policy
+
+Sentence 7 (Confidence: 6):
+You can learn more about data retention periods inour data retention policy
+
+Sentence 8 (Confidence: 2):
+Deleting your account permanently deletes identifying information and anonymizes other data as described inour data retention policy
+
+Sentence 9 (Confidence: 2):
+Content may be retained by Discord for use as described elsewhere in this policy and inour data retention policy
+
+Sentence 10 (Confidence: 2):
+Deleting your account permanently deletes identifying information and anonymizes other data as described inour data retention policy
+
+Sentence 11 (Confidence: 2):
+Content may be retained by Discord for use as described elsewhere in this policy and inour data retention policy
+

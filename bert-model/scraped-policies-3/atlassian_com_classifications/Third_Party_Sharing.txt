@@ -1,0 +1,299 @@
+=== Third Party Sharing ===
+
+Sentence 1 (Confidence: 1):
+and any of our corporate affiliates
+
+Sentence 2 (Confidence: 1):
+Information we receive from other sourcesWe receive information about you from other Service users, from third-party services, from our related companies, social media platforms, public databases, and from our business and channel partners
+
+Sentence 3 (Confidence: 1):
+Atlassian Companies: We receive information about you from other Atlassian corporate affiliates, in accordance with their terms and policies
+
+Sentence 4 (Confidence: 1):
+Atlassian Partners: We work with aglobal network of partnerswho provide consulting, implementation, training and other services around our products
+
+Sentence 5 (Confidence: 1):
+Some of these partners also help us to market and promote our Services, generate leads for us, and resell our Services
+
+Sentence 6 (Confidence: 1):
+We receive information from these partners, such as billing information, billing and technical contact information, company name, what Atlassian Services you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in
+
+Sentence 7 (Confidence: 1):
+Other Partners: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements
+
+Sentence 8 (Confidence: 1):
+Service Providers: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, marketing, and other services for us, which may require them to access or use information about you
+
+Sentence 9 (Confidence: 1):
+Atlassian Partners: We work with third parties who provide consulting, sales, support, and technical services to deliver and implement customer solutions around the Services
+
+Sentence 10 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 11 (Confidence: 1):
+Atlassian companies: We disclose information we have about you to other Atlassian corporate affiliates in order to operate and improve products and services and to offer other Atlassian affiliated services to you
+
+Sentence 12 (Confidence: 1):
+Where you have asked us to disclose data to third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted
+
+Sentence 13 (Confidence: 1):
+How we transfer information we collect internationallyInternational transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 14 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 15 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 16 (Confidence: 2):
+Category of InformationPurpose(s) for Collecting & DisclosingRecipients of Disclosures for Business PurposesRecipients of Sales or SharingIdentifiers, such as name, email address, unique identifiers associated with user or user account, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersThird Party AppsRecipients of Sales or SharingThird Party Advertising ProvidersCommercial information, such as purchase details, transaction records, billing information, billing address, payment card detailsPurpose(s) for Collecting & DisclosingProviding the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Visual information, such as photos or avatars, with your consent, recordings of your attendance at our eventsPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Professional or employment information, such as job title, company name, company domainPurpose(s) for Collecting & DisclosingProviding the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Geolocation data, such as your approximate location, IP address, time zonePurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsMarketing-Customer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersInferences(drawn about you based on other personal information we collect), such as preferences, interests, user behavior dataPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchMarketingRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersSensitive personal information, such as login credentials and passwordsPurpose(s) for Collecting & DisclosingUser authenticationService access controlsRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or Sharing-NA-If you have questions about the categories of information we may collect about you or the sources of such information, please be sure to visit the section of this policy called, What information we collect about you
+
+Sentence 17 (Confidence: 1):
+and any of our corporate affiliates
+
+Sentence 18 (Confidence: 1):
+Information we receive from other sourcesWe receive information about you from other Service users, from third-party services, from our related companies, social media platforms, public databases, and from our business and channel partners
+
+Sentence 19 (Confidence: 1):
+Atlassian Companies: We receive information about you from other Atlassian corporate affiliates, in accordance with their terms and policies
+
+Sentence 20 (Confidence: 1):
+Atlassian Partners: We work with aglobal network of partnerswho provide consulting, implementation, training and other services around our products
+
+Sentence 21 (Confidence: 1):
+Some of these partners also help us to market and promote our Services, generate leads for us, and resell our Services
+
+Sentence 22 (Confidence: 1):
+We receive information from these partners, such as billing information, billing and technical contact information, company name, what Atlassian Services you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in
+
+Sentence 23 (Confidence: 1):
+Other Partners: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements
+
+Sentence 24 (Confidence: 1):
+Service Providers: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, marketing, and other services for us, which may require them to access or use information about you
+
+Sentence 25 (Confidence: 1):
+Atlassian Partners: We work with third parties who provide consulting, sales, support, and technical services to deliver and implement customer solutions around the Services
+
+Sentence 26 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 27 (Confidence: 1):
+Atlassian companies: We disclose information we have about you to other Atlassian corporate affiliates in order to operate and improve products and services and to offer other Atlassian affiliated services to you
+
+Sentence 28 (Confidence: 1):
+Where you have asked us to disclose data to third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted
+
+Sentence 29 (Confidence: 1):
+How we transfer information we collect internationallyInternational transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 30 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 31 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 32 (Confidence: 2):
+Category of InformationPurpose(s) for Collecting & DisclosingRecipients of Disclosures for Business PurposesRecipients of Sales or SharingIdentifiers, such as name, email address, unique identifiers associated with user or user account, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersThird Party AppsRecipients of Sales or SharingThird Party Advertising ProvidersCommercial information, such as purchase details, transaction records, billing information, billing address, payment card detailsPurpose(s) for Collecting & DisclosingProviding the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Visual information, such as photos or avatars, with your consent, recordings of your attendance at our eventsPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Professional or employment information, such as job title, company name, company domainPurpose(s) for Collecting & DisclosingProviding the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Geolocation data, such as your approximate location, IP address, time zonePurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsMarketing-Customer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersInferences(drawn about you based on other personal information we collect), such as preferences, interests, user behavior dataPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchMarketingRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersSensitive personal information, such as login credentials and passwordsPurpose(s) for Collecting & DisclosingUser authenticationService access controlsRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or Sharing-NA-If you have questions about the categories of information we may collect about you or the sources of such information, please be sure to visit the section of this policy called, What information we collect about you
+
+Sentence 33 (Confidence: 1):
+and any of our corporate affiliates
+
+Sentence 34 (Confidence: 1):
+Information we receive from other sourcesWe receive information about you from other Service users, from third-party services, from our related companies, social media platforms, public databases, and from our business and channel partners
+
+Sentence 35 (Confidence: 1):
+Atlassian Companies: We receive information about you from other Atlassian corporate affiliates, in accordance with their terms and policies
+
+Sentence 36 (Confidence: 1):
+Atlassian Partners: We work with aglobal network of partnerswho provide consulting, implementation, training and other services around our products
+
+Sentence 37 (Confidence: 1):
+Some of these partners also help us to market and promote our Services, generate leads for us, and resell our Services
+
+Sentence 38 (Confidence: 1):
+We receive information from these partners, such as billing information, billing and technical contact information, company name, what Atlassian Services you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in
+
+Sentence 39 (Confidence: 1):
+Other Partners: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements
+
+Sentence 40 (Confidence: 1):
+Service Providers: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, marketing, and other services for us, which may require them to access or use information about you
+
+Sentence 41 (Confidence: 1):
+Atlassian Partners: We work with third parties who provide consulting, sales, support, and technical services to deliver and implement customer solutions around the Services
+
+Sentence 42 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 43 (Confidence: 1):
+Atlassian companies: We disclose information we have about you to other Atlassian corporate affiliates in order to operate and improve products and services and to offer other Atlassian affiliated services to you
+
+Sentence 44 (Confidence: 1):
+Where you have asked us to disclose data to third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted
+
+Sentence 45 (Confidence: 1):
+How we transfer information we collect internationallyInternational transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 46 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 47 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 48 (Confidence: 2):
+Category of InformationPurpose(s) for Collecting & DisclosingRecipients of Disclosures for Business PurposesRecipients of Sales or SharingIdentifiers, such as name, email address, unique identifiers associated with user or user account, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersThird Party AppsRecipients of Sales or SharingThird Party Advertising ProvidersCommercial information, such as purchase details, transaction records, billing information, billing address, payment card detailsPurpose(s) for Collecting & DisclosingProviding the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Visual information, such as photos or avatars, with your consent, recordings of your attendance at our eventsPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Professional or employment information, such as job title, company name, company domainPurpose(s) for Collecting & DisclosingProviding the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Geolocation data, such as your approximate location, IP address, time zonePurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsMarketing-Customer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersInferences(drawn about you based on other personal information we collect), such as preferences, interests, user behavior dataPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchMarketingRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersSensitive personal information, such as login credentials and passwordsPurpose(s) for Collecting & DisclosingUser authenticationService access controlsRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or Sharing-NA-If you have questions about the categories of information we may collect about you or the sources of such information, please be sure to visit the section of this policy called, What information we collect about you
+
+Sentence 49 (Confidence: 1):
+and any of our corporate affiliates
+
+Sentence 50 (Confidence: 1):
+and any of our corporate affiliates
+
+Sentence 51 (Confidence: 1):
+and any of our corporate affiliates
+
+Sentence 52 (Confidence: 1):
+Information we receive from other sourcesWe receive information about you from other Service users, from third-party services, from our related companies, social media platforms, public databases, and from our business and channel partners
+
+Sentence 53 (Confidence: 1):
+Atlassian Companies: We receive information about you from other Atlassian corporate affiliates, in accordance with their terms and policies
+
+Sentence 54 (Confidence: 1):
+Atlassian Partners: We work with aglobal network of partnerswho provide consulting, implementation, training and other services around our products
+
+Sentence 55 (Confidence: 1):
+Some of these partners also help us to market and promote our Services, generate leads for us, and resell our Services
+
+Sentence 56 (Confidence: 1):
+We receive information from these partners, such as billing information, billing and technical contact information, company name, what Atlassian Services you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in
+
+Sentence 57 (Confidence: 1):
+Other Partners: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements
+
+Sentence 58 (Confidence: 1):
+Information we receive from other sourcesWe receive information about you from other Service users, from third-party services, from our related companies, social media platforms, public databases, and from our business and channel partners
+
+Sentence 59 (Confidence: 1):
+Atlassian Companies: We receive information about you from other Atlassian corporate affiliates, in accordance with their terms and policies
+
+Sentence 60 (Confidence: 1):
+Atlassian Partners: We work with aglobal network of partnerswho provide consulting, implementation, training and other services around our products
+
+Sentence 61 (Confidence: 1):
+Some of these partners also help us to market and promote our Services, generate leads for us, and resell our Services
+
+Sentence 62 (Confidence: 1):
+We receive information from these partners, such as billing information, billing and technical contact information, company name, what Atlassian Services you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in
+
+Sentence 63 (Confidence: 1):
+Other Partners: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements
+
+Sentence 64 (Confidence: 1):
+Information we receive from other sources We receive information about you from other Service users, from third-party services, from our related companies, social media platforms, public databases, and from our business and channel partners
+
+Sentence 65 (Confidence: 1):
+Atlassian Companies: We receive information about you from other Atlassian corporate affiliates, in accordance with their terms and policies
+
+Sentence 66 (Confidence: 1):
+Atlassian Partners: We work with aglobal network of partnerswho provide consulting, implementation, training and other services around our products
+
+Sentence 67 (Confidence: 1):
+Some of these partners also help us to market and promote our Services, generate leads for us, and resell our Services
+
+Sentence 68 (Confidence: 1):
+We receive information from these partners, such as billing information, billing and technical contact information, company name, what Atlassian Services you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in
+
+Sentence 69 (Confidence: 1):
+Other Partners: We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements
+
+Sentence 70 (Confidence: 1):
+Service Providers: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, marketing, and other services for us, which may require them to access or use information about you
+
+Sentence 71 (Confidence: 1):
+Atlassian Partners: We work with third parties who provide consulting, sales, support, and technical services to deliver and implement customer solutions around the Services
+
+Sentence 72 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 73 (Confidence: 1):
+Atlassian companies: We disclose information we have about you to other Atlassian corporate affiliates in order to operate and improve products and services and to offer other Atlassian affiliated services to you
+
+Sentence 74 (Confidence: 1):
+Service Providers: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, marketing, and other services for us, which may require them to access or use information about you
+
+Sentence 75 (Confidence: 1):
+Atlassian Partners: We work with third parties who provide consulting, sales, support, and technical services to deliver and implement customer solutions around the Services
+
+Sentence 76 (Confidence: 1):
+Service Providers: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, marketing, and other services for us, which may require them to access or use information about you
+
+Sentence 77 (Confidence: 1):
+Atlassian Partners: We work with third parties who provide consulting, sales, support, and technical services to deliver and implement customer solutions around the Services
+
+Sentence 78 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 79 (Confidence: 1):
+Atlassian companies: We disclose information we have about you to other Atlassian corporate affiliates in order to operate and improve products and services and to offer other Atlassian affiliated services to you
+
+Sentence 80 (Confidence: 1):
+Disclosing to affiliated companies We disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 81 (Confidence: 1):
+Atlassian companies: We disclose information we have about you to other Atlassian corporate affiliates in order to operate and improve products and services and to offer other Atlassian affiliated services to you
+
+Sentence 82 (Confidence: 1):
+Where you have asked us to disclose data to third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted
+
+Sentence 83 (Confidence: 1):
+Where you have asked us to disclose data to third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted
+
+Sentence 84 (Confidence: 1):
+Where you have asked us to disclose data to third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted
+
+Sentence 85 (Confidence: 1):
+How we transfer information we collect internationallyInternational transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 86 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 87 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 88 (Confidence: 1):
+How we transfer information we collect internationally How we transfer information we collect internationally International transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 89 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 90 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 91 (Confidence: 1):
+International transfers of information we collect We collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 92 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 93 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 94 (Confidence: 2):
+Category of InformationPurpose(s) for Collecting & DisclosingRecipients of Disclosures for Business PurposesRecipients of Sales or SharingIdentifiers, such as name, email address, unique identifiers associated with user or user account, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersThird Party AppsRecipients of Sales or SharingThird Party Advertising ProvidersCommercial information, such as purchase details, transaction records, billing information, billing address, payment card detailsPurpose(s) for Collecting & DisclosingProviding the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Visual information, such as photos or avatars, with your consent, recordings of your attendance at our eventsPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Professional or employment information, such as job title, company name, company domainPurpose(s) for Collecting & DisclosingProviding the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Geolocation data, such as your approximate location, IP address, time zonePurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsMarketing-Customer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersInferences(drawn about you based on other personal information we collect), such as preferences, interests, user behavior dataPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchMarketingRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersSensitive personal information, such as login credentials and passwordsPurpose(s) for Collecting & DisclosingUser authenticationService access controlsRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or Sharing-NA-If you have questions about the categories of information we may collect about you or the sources of such information, please be sure to visit the section of this policy called, What information we collect about you
+
+Sentence 95 (Confidence: 2):
+Category of InformationPurpose(s) for Collecting & DisclosingRecipients of Disclosures for Business PurposesRecipients of Sales or SharingIdentifiers, such as name, email address, unique identifiers associated with user or user account, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersThird Party AppsRecipients of Sales or SharingThird Party Advertising ProvidersCommercial information, such as purchase details, transaction records, billing information, billing address, payment card detailsPurpose(s) for Collecting & DisclosingProviding the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Visual information, such as photos or avatars, with your consent, recordings of your attendance at our eventsPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Professional or employment information, such as job title, company name, company domainPurpose(s) for Collecting & DisclosingProviding the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Geolocation data, such as your approximate location, IP address, time zonePurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsMarketing-Customer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersInferences(drawn about you based on other personal information we collect), such as preferences, interests, user behavior dataPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchMarketingRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersSensitive personal information, such as login credentials and passwordsPurpose(s) for Collecting & DisclosingUser authenticationService access controlsRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or Sharing-NA- Category of InformationPurpose(s) for Collecting & DisclosingRecipients of Disclosures for Business PurposesRecipients of Sales or SharingIdentifiers, such as name, email address, unique identifiers associated with user or user account, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersThird Party AppsRecipients of Sales or SharingThird Party Advertising ProvidersCommercial information, such as purchase details, transaction records, billing information, billing address, payment card detailsPurpose(s) for Collecting & DisclosingProviding the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP AddressPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Visual information, such as photos or avatars, with your consent, recordings of your attendance at our eventsPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService ProvidersRecipients of Sales or Sharing-NA-Professional or employment information, such as job title, company name, company domainPurpose(s) for Collecting & DisclosingProviding the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or Sharing-NA-Geolocation data, such as your approximate location, IP address, time zonePurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsMarketing-Customer supportRecipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersInferences(drawn about you based on other personal information we collect), such as preferences, interests, user behavior dataPurpose(s) for Collecting & DisclosingProviding the ServicesInternal researchMarketingRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or SharingThird Party Advertising ProvidersSensitive personal information, such as login credentials and passwordsPurpose(s) for Collecting & DisclosingUser authenticationService access controlsRecipients of Disclosures for Business PurposesAtlassian CompaniesService ProvidersRecipients of Sales or Sharing-NA- Category of Information Purpose(s) for Collecting & Disclosing Recipients of Disclosures for Business Purposes Recipients of Sales or Sharing Identifiers, such as name, email address, unique identifiers associated with user or user account, IP Address Identifiers, such as name, email address, unique identifiers associated with user or user account, IP Address Purpose(s) for Collecting & DisclosingProviding the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Purpose(s) for Collecting & Disclosing Purpose(s) for Collecting & Disclosing Providing the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Providing the ServicesUser authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support User authenticationService access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Service access controlsBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support BillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Analytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support MarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Detecting security incidentsDebuggingInternal researchService enhancementsCustomer support DebuggingInternal researchService enhancementsCustomer support Internal researchService enhancementsCustomer support Service enhancementsCustomer support Recipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService ProvidersThird Party Apps Recipients of Disclosures for Business Purposes Recipients of Disclosures for Business Purposes Atlassian CompaniesAtlassian PartnersService ProvidersThird Party Apps Atlassian CompaniesAtlassian PartnersService ProvidersThird Party Apps Atlassian PartnersService ProvidersThird Party Apps Service ProvidersThird Party Apps Recipients of Sales or SharingThird Party Advertising Providers Recipients of Sales or Sharing Recipients of Sales or Sharing Third Party Advertising Providers Commercial information, such as purchase details, transaction records, billing information, billing address, payment card details Commercial information, such as purchase details, transaction records, billing information, billing address, payment card details Purpose(s) for Collecting & DisclosingProviding the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Purpose(s) for Collecting & Disclosing Purpose(s) for Collecting & Disclosing Providing the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Providing the ServicesBillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support BillingAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Analytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support MarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Detecting security incidentsDebuggingInternal researchService enhancementsCustomer support DebuggingInternal researchService enhancementsCustomer support Internal researchService enhancementsCustomer support Service enhancementsCustomer support Recipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService Providers Recipients of Disclosures for Business Purposes Recipients of Disclosures for Business Purposes Atlassian CompaniesAtlassian PartnersService Providers Atlassian CompaniesAtlassian PartnersService Providers Atlassian PartnersService Providers Recipients of Sales or Sharing-NA- Recipients of Sales or Sharing Recipients of Sales or Sharing Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP Address Internet or other electronic network activity information, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP Address Purpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancements Purpose(s) for Collecting & Disclosing Purpose(s) for Collecting & Disclosing Providing the ServicesInternal researchService enhancements Providing the ServicesInternal researchService enhancements Internal researchService enhancements Recipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService Providers Recipients of Disclosures for Business Purposes Recipients of Disclosures for Business Purposes Atlassian CompaniesAtlassian PartnersEvent SponsorsService Providers Atlassian CompaniesAtlassian PartnersEvent SponsorsService Providers Atlassian PartnersEvent SponsorsService Providers Event SponsorsService Providers Recipients of Sales or Sharing-NA- Recipients of Sales or Sharing Recipients of Sales or Sharing Visual information, such as photos or avatars, with your consent, recordings of your attendance at our events Visual information, such as photos or avatars, with your consent, recordings of your attendance at our events Purpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancements Purpose(s) for Collecting & Disclosing Purpose(s) for Collecting & Disclosing Providing the ServicesInternal researchService enhancements Providing the ServicesInternal researchService enhancements Internal researchService enhancements Recipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersEvent SponsorsService Providers Recipients of Disclosures for Business Purposes Recipients of Disclosures for Business Purposes Atlassian CompaniesAtlassian PartnersEvent SponsorsService Providers Atlassian CompaniesAtlassian PartnersEvent SponsorsService Providers Atlassian PartnersEvent SponsorsService Providers Event SponsorsService Providers Recipients of Sales or Sharing-NA- Recipients of Sales or Sharing Recipients of Sales or Sharing Professional or employment information, such as job title, company name, company domain Professional or employment information, such as job title, company name, company domain Purpose(s) for Collecting & DisclosingProviding the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Purpose(s) for Collecting & Disclosing Purpose(s) for Collecting & Disclosing Providing the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Providing the ServicesAnalytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Analytics and researchMarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support MarketingDetecting security incidentsDebuggingInternal researchService enhancementsCustomer support Detecting security incidentsDebuggingInternal researchService enhancementsCustomer support DebuggingInternal researchService enhancementsCustomer support Internal researchService enhancementsCustomer support Service enhancementsCustomer support Recipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService Providers Recipients of Disclosures for Business Purposes Recipients of Disclosures for Business Purposes Atlassian CompaniesAtlassian PartnersService Providers Atlassian CompaniesAtlassian PartnersService Providers Atlassian PartnersService Providers Recipients of Sales or Sharing-NA- Recipients of Sales or Sharing Recipients of Sales or Sharing Geolocation data, such as your approximate location, IP address, time zone Geolocation data, such as your approximate location, IP address, time zone Purpose(s) for Collecting & DisclosingProviding the ServicesInternal researchService enhancementsMarketing-Customer support Purpose(s) for Collecting & Disclosing Purpose(s) for Collecting & Disclosing Providing the ServicesInternal researchService enhancementsMarketing-Customer support Providing the ServicesInternal researchService enhancementsMarketing-Customer support Internal researchService enhancementsMarketing-Customer support Service enhancementsMarketing-Customer support Marketing-Customer support Recipients of Disclosures for Business PurposesAtlassian CompaniesAtlassian PartnersService Providers Recipients of Disclosures for Business Purposes Recipients of Disclosures for Business Purposes Atlassian CompaniesAtlassian PartnersService Providers Atlassian CompaniesAtlassian PartnersService Providers Atlassian PartnersService Providers Recipients of Sales or SharingThird Party Advertising Providers Recipients of Sales or Sharing Recipients of Sales or Sharing Third Party Advertising Providers Inferences(drawn about you based on other personal information we collect), such as preferences, interests, user behavior data Inferences(drawn about you based on other personal information we collect), such as preferences, interests, user behavior data Purpose(s) for Collecting & DisclosingProviding the ServicesInternal researchMarketing Purpose(s) for Collecting & Disclosing Purpose(s) for Collecting & Disclosing Providing the ServicesInternal researchMarketing Providing the ServicesInternal researchMarketing Internal researchMarketing Recipients of Disclosures for Business PurposesAtlassian CompaniesService Providers Recipients of Disclosures for Business Purposes Recipients of Disclosures for Business Purposes Atlassian CompaniesService Providers Atlassian CompaniesService Providers Recipients of Sales or SharingThird Party Advertising Providers Recipients of Sales or Sharing Recipients of Sales or Sharing Third Party Advertising Providers Sensitive personal information, such as login credentials and passwords Sensitive personal information, such as login credentials and passwords Purpose(s) for Collecting & DisclosingUser authenticationService access controls Purpose(s) for Collecting & Disclosing Purpose(s) for Collecting & Disclosing User authenticationService access controls User authenticationService access controls Service access controls Recipients of Disclosures for Business PurposesAtlassian CompaniesService Providers Recipients of Disclosures for Business Purposes Recipients of Disclosures for Business Purposes Atlassian CompaniesService Providers Atlassian CompaniesService Providers Recipients of Sales or Sharing-NA- Recipients of Sales or Sharing Recipients of Sales or Sharing If you have questions about the categories of information we may collect about you or the sources of such information, please be sure to visit the section of this policy called, What information we collect about you
+
+Sentence 96 (Confidence: 1):
+Sign up for updates Stay informedSubscribe to receive notifications from us about updates to our legal terms (including our legal policies) and our list of sub-processors
+
+Sentence 97 (Confidence: 1):
+Sign up for updates Stay informedSubscribe to receive notifications from us about updates to our legal terms (including our legal policies) and our list of sub-processors
+
+Sentence 98 (Confidence: 1):
+Sign up for updates Stay informedSubscribe to receive notifications from us about updates to our legal terms (including our legal policies) and our list of sub-processors
+
+Sentence 99 (Confidence: 1):
+Subscribe to receive notifications from us about updates to our legal terms (including our legal policies) and our list of sub-processors
+

@@ -1,0 +1,239 @@
+=== Article 21 Right To Object ===
+
+Sentence 1 (Confidence: 1):
+To opt out of this personalization, please contact privacy@atlassian
+
+Sentence 2 (Confidence: 1):
+These communications are part of the Services and in most cases you cannot opt out of them
+
+Sentence 3 (Confidence: 1):
+If an opt out is available, you will find that option within the communication itself or in your account settings
+
+Sentence 4 (Confidence: 4):
+your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services
+
+Sentence 5 (Confidence: 1):
+Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database
+
+Sentence 6 (Confidence: 1):
+Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services
+
+Sentence 7 (Confidence: 1):
+You can opt out of some notification messages in your account settings
+
+Sentence 8 (Confidence: 1):
+Opt out of targeted advertising: Where applicable under local law, you may have the right to opt out of targeted advertising byclicking hereand following the instructions
+
+Sentence 9 (Confidence: 1):
+You may also be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising
+
+Sentence 10 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 11 (Confidence: 1):
+Opt out of certain disclosures to third parties: You may also opt out of sales of personal information and sharing of personal information for purposes of cross-context behavioral advertising by clickinghereand following the instructions
+
+Sentence 12 (Confidence: 1):
+Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (GPC)
+
+Sentence 13 (Confidence: 1):
+We provided information about how we create user profiles and how you can opt out of this
+
+Sentence 14 (Confidence: 1):
+To opt out of this personalization, please contact privacy@atlassian
+
+Sentence 15 (Confidence: 1):
+These communications are part of the Services and in most cases you cannot opt out of them
+
+Sentence 16 (Confidence: 1):
+If an opt out is available, you will find that option within the communication itself or in your account settings
+
+Sentence 17 (Confidence: 4):
+your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services
+
+Sentence 18 (Confidence: 1):
+Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database
+
+Sentence 19 (Confidence: 1):
+Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services
+
+Sentence 20 (Confidence: 1):
+You can opt out of some notification messages in your account settings
+
+Sentence 21 (Confidence: 1):
+Opt out of targeted advertising: Where applicable under local law, you may have the right to opt out of targeted advertising byclicking hereand following the instructions
+
+Sentence 22 (Confidence: 1):
+You may also be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising
+
+Sentence 23 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 24 (Confidence: 1):
+Opt out of certain disclosures to third parties: You may also opt out of sales of personal information and sharing of personal information for purposes of cross-context behavioral advertising by clickinghereand following the instructions
+
+Sentence 25 (Confidence: 1):
+Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (GPC)
+
+Sentence 26 (Confidence: 1):
+We provided information about how we create user profiles and how you can opt out of this
+
+Sentence 27 (Confidence: 1):
+To opt out of this personalization, please contact privacy@atlassian
+
+Sentence 28 (Confidence: 1):
+These communications are part of the Services and in most cases you cannot opt out of them
+
+Sentence 29 (Confidence: 1):
+If an opt out is available, you will find that option within the communication itself or in your account settings
+
+Sentence 30 (Confidence: 4):
+your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services
+
+Sentence 31 (Confidence: 1):
+Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database
+
+Sentence 32 (Confidence: 1):
+Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services
+
+Sentence 33 (Confidence: 1):
+You can opt out of some notification messages in your account settings
+
+Sentence 34 (Confidence: 1):
+Opt out of targeted advertising: Where applicable under local law, you may have the right to opt out of targeted advertising byclicking hereand following the instructions
+
+Sentence 35 (Confidence: 1):
+You may also be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising
+
+Sentence 36 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 37 (Confidence: 1):
+Opt out of certain disclosures to third parties: You may also opt out of sales of personal information and sharing of personal information for purposes of cross-context behavioral advertising by clickinghereand following the instructions
+
+Sentence 38 (Confidence: 1):
+Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (GPC)
+
+Sentence 39 (Confidence: 1):
+We provided information about how we create user profiles and how you can opt out of this
+
+Sentence 40 (Confidence: 1):
+To opt out of this personalization, please contact privacy@atlassian
+
+Sentence 41 (Confidence: 1):
+These communications are part of the Services and in most cases you cannot opt out of them
+
+Sentence 42 (Confidence: 1):
+If an opt out is available, you will find that option within the communication itself or in your account settings
+
+Sentence 43 (Confidence: 4):
+your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services
+
+Sentence 44 (Confidence: 1):
+To opt out of this personalization, please contact privacy@atlassian
+
+Sentence 45 (Confidence: 1):
+These communications are part of the Services and in most cases you cannot opt out of them
+
+Sentence 46 (Confidence: 1):
+If an opt out is available, you will find that option within the communication itself or in your account settings
+
+Sentence 47 (Confidence: 4):
+your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services
+
+Sentence 48 (Confidence: 1):
+To opt out of this personalization, please contact privacy@atlassian
+
+Sentence 49 (Confidence: 1):
+These communications are part of the Services and in most cases you cannot opt out of them
+
+Sentence 50 (Confidence: 1):
+If an opt out is available, you will find that option within the communication itself or in your account settings
+
+Sentence 51 (Confidence: 4):
+your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services
+
+Sentence 52 (Confidence: 1):
+Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database
+
+Sentence 53 (Confidence: 1):
+Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services
+
+Sentence 54 (Confidence: 1):
+You can opt out of some notification messages in your account settings
+
+Sentence 55 (Confidence: 1):
+Opt out of targeted advertising: Where applicable under local law, you may have the right to opt out of targeted advertising byclicking hereand following the instructions
+
+Sentence 56 (Confidence: 1):
+You may also be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising
+
+Sentence 57 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 58 (Confidence: 1):
+Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database
+
+Sentence 59 (Confidence: 1):
+Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services
+
+Sentence 60 (Confidence: 1):
+You can opt out of some notification messages in your account settings
+
+Sentence 61 (Confidence: 1):
+Opt out of targeted advertising: Where applicable under local law, you may have the right to opt out of targeted advertising byclicking hereand following the instructions
+
+Sentence 62 (Confidence: 1):
+You may also be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising
+
+Sentence 63 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 64 (Confidence: 1):
+Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database
+
+Sentence 65 (Confidence: 1):
+Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services
+
+Sentence 66 (Confidence: 1):
+You can opt out of some notification messages in your account settings
+
+Sentence 67 (Confidence: 1):
+Opt out of targeted advertising: Where applicable under local law, you may have the right to opt out of targeted advertising byclicking hereand following the instructions
+
+Sentence 68 (Confidence: 1):
+You may also be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising
+
+Sentence 69 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 70 (Confidence: 1):
+Opt out of certain disclosures to third parties: You may also opt out of sales of personal information and sharing of personal information for purposes of cross-context behavioral advertising by clickinghereand following the instructions
+
+Sentence 71 (Confidence: 1):
+Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (GPC)
+
+Sentence 72 (Confidence: 1):
+Opt out of certain disclosures to third parties: You may also opt out of sales of personal information and sharing of personal information for purposes of cross-context behavioral advertising by clickinghereand following the instructions
+
+Sentence 73 (Confidence: 1):
+Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (GPC)
+
+Sentence 74 (Confidence: 1):
+Opt out of certain disclosures to third parties: You may also opt out of sales of personal information and sharing of personal information for purposes of cross-context behavioral advertising by clickinghereand following the instructions
+
+Sentence 75 (Confidence: 1):
+Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (GPC)
+
+Sentence 76 (Confidence: 1):
+We provided information about how we create user profiles and how you can opt out of this
+
+Sentence 77 (Confidence: 1):
+We provided information about how we create user profiles and how you can opt out of this
+
+Sentence 78 (Confidence: 1):
+We provided information about how we create user profiles and how you can opt out of this
+
+Sentence 79 (Confidence: 1):
+We provided information about how we create user profiles and how you can opt out of this
+

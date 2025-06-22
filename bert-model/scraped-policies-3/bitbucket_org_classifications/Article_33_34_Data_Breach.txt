@@ -1,0 +1,38 @@
+=== Article 33 34 Data Breach ===
+
+Sentence 1 (Confidence: 1):
+For safety and security: We use information about you and your Service use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Service policies
+
+Sentence 2 (Confidence: 1):
+In order to protect your information from unauthorized access or deletion, we may require you to provide additional information to for verification your identity
+
+Sentence 3 (Confidence: 1):
+For safety and security: We use information about you and your Service use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Service policies
+
+Sentence 4 (Confidence: 1):
+In order to protect your information from unauthorized access or deletion, we may require you to provide additional information to for verification your identity
+
+Sentence 5 (Confidence: 1):
+For safety and security: We use information about you and your Service use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Service policies
+
+Sentence 6 (Confidence: 1):
+In order to protect your information from unauthorized access or deletion, we may require you to provide additional information to for verification your identity
+
+Sentence 7 (Confidence: 1):
+For safety and security: We use information about you and your Service use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Service policies
+
+Sentence 8 (Confidence: 1):
+For safety and security: We use information about you and your Service use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Service policies
+
+Sentence 9 (Confidence: 1):
+For safety and security: We use information about you and your Service use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Service policies
+
+Sentence 10 (Confidence: 1):
+In order to protect your information from unauthorized access or deletion, we may require you to provide additional information to for verification your identity
+
+Sentence 11 (Confidence: 1):
+In order to protect your information from unauthorized access or deletion, we may require you to provide additional information to for verification your identity
+
+Sentence 12 (Confidence: 1):
+In order to protect your information from unauthorized access or deletion, we may require you to provide additional information to for verification your identity
+

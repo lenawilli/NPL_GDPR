@@ -1,0 +1,56 @@
+=== Article 14 Information Third Parties ===
+
+Sentence 1 (Confidence: 1):
+For example, when we advertise for Discord on third party platforms, if you click on the ad, we may receive information about which ad you saw and on which platform
+
+Sentence 2 (Confidence: 1):
+Similarly, if you link your Discord account with a third-party service (like a music-streaming service or gaming platform), embed content, interact with third party content posted on Discord, or participate in a server that has third-party features like bots enabled, we may provide certain information to that service or to other Discord users to operate that service or feature
+
+Sentence 3 (Confidence: 1):
+, one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more
+
+Sentence 4 (Confidence: 1):
+In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries
+
+Sentence 5 (Confidence: 1):
+Services offered by third partiesWe allow third party developers to build certain features or other services and offer them within the Discord services
+
+Sentence 6 (Confidence: 1):
+For example, server administrators can add âbotsâ created by third party developers that provide features like content moderation and interactive games
+
+Sentence 7 (Confidence: 1):
+For example, when we advertise for Discord on third party platforms, if you click on the ad, we may receive information about which ad you saw and on which platform
+
+Sentence 8 (Confidence: 1):
+For example, when we advertise for Discord on third party platforms, if you click on the ad, we may receive information about which ad you saw and on which platform
+
+Sentence 9 (Confidence: 1):
+Similarly, if you link your Discord account with a third-party service (like a music-streaming service or gaming platform), embed content, interact with third party content posted on Discord, or participate in a server that has third-party features like bots enabled, we may provide certain information to that service or to other Discord users to operate that service or feature
+
+Sentence 10 (Confidence: 1):
+Similarly, if you link your Discord account with a third-party service (like a music-streaming service or gaming platform), embed content, interact with third party content posted on Discord, or participate in a server that has third-party features like bots enabled, we may provide certain information to that service or to other Discord users to operate that service or feature
+
+Sentence 11 (Confidence: 1):
+, one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more
+
+Sentence 12 (Confidence: 1):
+, one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more
+
+Sentence 13 (Confidence: 1):
+In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries
+
+Sentence 14 (Confidence: 1):
+In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries
+
+Sentence 15 (Confidence: 1):
+Services offered by third partiesWe allow third party developers to build certain features or other services and offer them within the Discord services
+
+Sentence 16 (Confidence: 1):
+For example, server administrators can add âbotsâ created by third party developers that provide features like content moderation and interactive games
+
+Sentence 17 (Confidence: 1):
+Services offered by third parties We allow third party developers to build certain features or other services and offer them within the Discord services
+
+Sentence 18 (Confidence: 1):
+For example, server administrators can add âbotsâ created by third party developers that provide features like content moderation and interactive games
+

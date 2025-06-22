@@ -1,0 +1,56 @@
+=== Article 7 Consent ===
+
+Sentence 1 (Confidence: 1):
+You may opt-out of receiving such marketing communications
+
+Sentence 2 (Confidence: 1):
+Where local law requires, we will obtain your consent before sending such communications
+
+Sentence 3 (Confidence: 1):
+âWith your consentâWe may also collect and use personal information with your consent, such as to send you marketing communications where legally required
+
+Sentence 4 (Confidence: 1):
+You can revoke your consent at any time (mostly through our services directly), though note that you might not be able to use any service or feature that requires collection or use of that personal information
+
+Sentence 5 (Confidence: 1):
+We may also disclose your information as you otherwise instruct us or provide us your consent to do so
+
+Sentence 6 (Confidence: 1):
+Withdrawing consent does not affect the lawfulness of processing based on consent before withdrawal
+
+Sentence 7 (Confidence: 1):
+You may opt-out of receiving such marketing communications
+
+Sentence 8 (Confidence: 1):
+Where local law requires, we will obtain your consent before sending such communications
+
+Sentence 9 (Confidence: 1):
+âWith your consentâWe may also collect and use personal information with your consent, such as to send you marketing communications where legally required
+
+Sentence 10 (Confidence: 1):
+You can revoke your consent at any time (mostly through our services directly), though note that you might not be able to use any service or feature that requires collection or use of that personal information
+
+Sentence 11 (Confidence: 1):
+You may opt-out of receiving such marketing communications
+
+Sentence 12 (Confidence: 1):
+Where local law requires, we will obtain your consent before sending such communications
+
+Sentence 13 (Confidence: 1):
+âWe may also collect and use personal information with your consent, such as to send you marketing communications where legally required
+
+Sentence 14 (Confidence: 1):
+You can revoke your consent at any time (mostly through our services directly), though note that you might not be able to use any service or feature that requires collection or use of that personal information
+
+Sentence 15 (Confidence: 1):
+We may also disclose your information as you otherwise instruct us or provide us your consent to do so
+
+Sentence 16 (Confidence: 1):
+We may also disclose your information as you otherwise instruct us or provide us your consent to do so
+
+Sentence 17 (Confidence: 1):
+Withdrawing consent does not affect the lawfulness of processing based on consent before withdrawal
+
+Sentence 18 (Confidence: 1):
+Withdrawing consent does not affect the lawfulness of processing based on consent before withdrawal
+

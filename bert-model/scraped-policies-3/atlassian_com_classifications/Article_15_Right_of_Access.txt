@@ -1,0 +1,20 @@
+=== Article 15 Right Of Access ===
+
+Sentence 1 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 2 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 3 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 4 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 5 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 6 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+

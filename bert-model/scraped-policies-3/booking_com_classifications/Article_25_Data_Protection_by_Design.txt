@@ -1,0 +1,32 @@
+=== Article 25 Data Protection By Design ===
+
+Sentence 1 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 2 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 3 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 4 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 5 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 6 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 7 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 8 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 9 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 10 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+

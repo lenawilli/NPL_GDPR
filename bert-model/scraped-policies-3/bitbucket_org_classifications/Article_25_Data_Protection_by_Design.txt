@@ -1,0 +1,20 @@
+=== Article 25 Data Protection By Design ===
+
+Sentence 1 (Confidence: 1):
+How we store and secure information we collectInformation storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 2 (Confidence: 1):
+How we store and secure information we collectInformation storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 3 (Confidence: 1):
+How we store and secure information we collectInformation storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 4 (Confidence: 1):
+How we store and secure information we collectInformation storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 5 (Confidence: 1):
+How we store and secure information we collect How we store and secure information we collect Information storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 6 (Confidence: 1):
+Information storage and security We use industry standard technical and organizational measures to secure the information we store
+

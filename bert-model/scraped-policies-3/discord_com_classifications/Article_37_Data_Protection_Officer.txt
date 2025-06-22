@@ -1,0 +1,26 @@
+=== Article 37 Data Protection Officer ===
+
+Sentence 1 (Confidence: 4):
+Data Protection Officer12
+
+Sentence 2 (Confidence: 5):
+Data Protection OfficerYou can contact Discord Netherlands BVâs Data Protection Officer atdpo@discord
+
+Sentence 3 (Confidence: 5):
+To contact Discordâs Data Protection Officer, please email dpo@discord
+
+Sentence 4 (Confidence: 4):
+Â37 Albert EmbankmentÂLondon SE1 7TL United Kingdom Discord Privacy Policy Discord Privacy Policy Effective: April 15, 2024Last Updated: March 15, 2024 Effective: April 15, 2024 Last Updated: March 15, 2024 Discord is the best place to talk, hang out and have fun with friends online The information we collect Information you provide to us Information we collect automatically Information we receive from other sources How we use your information How we disclose your information How we protect your information How to control your privacy International data transfers Services offered by third parties Data Protection Officer Information about local privacy laws Changes to this Privacy Policy Welcome
+
+Sentence 5 (Confidence: 5):
+Data Protection OfficerYou can contact Discord Netherlands BVâs Data Protection Officer atdpo@discord
+
+Sentence 6 (Confidence: 5):
+Data Protection Officer You can contact Discord Netherlands BVâs Data Protection Officer atdpo@discord
+
+Sentence 7 (Confidence: 5):
+To contact Discordâs Data Protection Officer, please email dpo@discord
+
+Sentence 8 (Confidence: 5):
+To contact Discordâs Data Protection Officer, please email dpo@discord
+

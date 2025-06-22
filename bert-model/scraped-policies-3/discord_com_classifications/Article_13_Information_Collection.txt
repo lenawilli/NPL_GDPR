@@ -1,0 +1,59 @@
+=== Article 13 Information Collection ===
+
+Sentence 1 (Confidence: 1):
+The information we collectâInformation you provide to usâInformation we collect automaticallyâInformation we receive from other sources4
+
+Sentence 2 (Confidence: 1):
+If you reside in the European Economic Area (âEEAâ) or United Kingdom, Discord Netherlands BV is the âdata controllerâ of your personal information collected through the services (as defined in ourTerms of Service)
+
+Sentence 3 (Confidence: 1):
+The information we collectWe collect certain information when you use Discord
+
+Sentence 4 (Confidence: 1):
+This includes information you provide to us, information we collect automatically, and information we receive from other sources
+
+Sentence 5 (Confidence: 1):
+Information we collect automaticallyWe also collect information automatically from you when you use Discord
+
+Sentence 6 (Confidence: 1):
+We use the Information We CollectâAccount information,Content you create,Payment information,Information from actions you take,Information used to enable optional features,Other information you provide directly to us,Information about your device,Information about your use of the apps or websites,other information that we collect automatically, andInformation we receive from other sourcesâfor the following reasons and according to these legal bases
+
+Sentence 7 (Confidence: 1):
+We offer certain settings that allow you to limit the information we collect to help us understand how users use our services, what features or products they may want, or to otherwise help us improve our business
+
+Sentence 8 (Confidence: 1):
+If you reside in the European Economic Area (âEEAâ) or United Kingdom, Discord Netherlands BV is the âdata controllerâ of your personal information collected through the services (as defined in ourTerms of Service)
+
+Sentence 9 (Confidence: 1):
+If you reside in the European Economic Area (âEEAâ) or United Kingdom, Discord Netherlands BV is the âdata controllerâ of your personal information collected through the services (as defined in ourTerms of Service)
+
+Sentence 10 (Confidence: 1):
+The information we collectWe collect certain information when you use Discord
+
+Sentence 11 (Confidence: 1):
+This includes information you provide to us, information we collect automatically, and information we receive from other sources
+
+Sentence 12 (Confidence: 1):
+Information we collect automaticallyWe also collect information automatically from you when you use Discord
+
+Sentence 13 (Confidence: 1):
+The information we collect We collect certain information when you use Discord
+
+Sentence 14 (Confidence: 1):
+This includes information you provide to us, information we collect automatically, and information we receive from other sources
+
+Sentence 15 (Confidence: 1):
+Information we collect automatically We also collect information automatically from you when you use Discord
+
+Sentence 16 (Confidence: 1):
+We use the Information We CollectâAccount information,Content you create,Payment information,Information from actions you take,Information used to enable optional features,Other information you provide directly to us,Information about your device,Information about your use of the apps or websites,other information that we collect automatically, andInformation we receive from other sourcesâfor the following reasons and according to these legal bases
+
+Sentence 17 (Confidence: 1):
+We use the Information We CollectâAccount information,Content you create,Payment information,Information from actions you take,Information used to enable optional features,Other information you provide directly to us,Information about your device,Information about your use of the apps or websites,other information that we collect automatically, andInformation we receive from other sourcesâfor the following reasons and according to these legal bases
+
+Sentence 18 (Confidence: 1):
+We offer certain settings that allow you to limit the information we collect to help us understand how users use our services, what features or products they may want, or to otherwise help us improve our business
+
+Sentence 19 (Confidence: 1):
+We offer certain settings that allow you to limit the information we collect to help us understand how users use our services, what features or products they may want, or to otherwise help us improve our business
+

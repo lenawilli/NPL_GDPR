@@ -1,0 +1,236 @@
+=== Article 6 Lawful Basis ===
+
+Sentence 1 (Confidence: 1):
+Where we provide the Services under contract with an organization (for example, your employer), that organization controls the information processed by the Services
+
+Sentence 2 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 3 (Confidence: 3):
+This means we collect and use your information only where:We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;You give us consent to do so for a specific purpose; orWe need to process your data to comply with a legal obligation
+
+Sentence 4 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 5 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 6 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 7 (Confidence: 1):
+We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services
+
+Sentence 8 (Confidence: 1):
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep
+
+Sentence 9 (Confidence: 1):
+Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations
+
+Sentence 10 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 11 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 12 (Confidence: 1):
+International transfers to third parties: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside
+
+Sentence 13 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 14 (Confidence: 1):
+Where we provide the Services under contract with an organization (for example, your employer), that organization controls the information processed by the Services
+
+Sentence 15 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 16 (Confidence: 3):
+This means we collect and use your information only where:We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;You give us consent to do so for a specific purpose; orWe need to process your data to comply with a legal obligation
+
+Sentence 17 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 18 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 19 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 20 (Confidence: 1):
+We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services
+
+Sentence 21 (Confidence: 1):
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep
+
+Sentence 22 (Confidence: 1):
+Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations
+
+Sentence 23 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 24 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 25 (Confidence: 1):
+International transfers to third parties: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside
+
+Sentence 26 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 27 (Confidence: 1):
+Where we provide the Services under contract with an organization (for example, your employer), that organization controls the information processed by the Services
+
+Sentence 28 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 29 (Confidence: 3):
+This means we collect and use your information only where:We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;You give us consent to do so for a specific purpose; orWe need to process your data to comply with a legal obligation
+
+Sentence 30 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 31 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 32 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 33 (Confidence: 1):
+We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services
+
+Sentence 34 (Confidence: 1):
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep
+
+Sentence 35 (Confidence: 1):
+Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations
+
+Sentence 36 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 37 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 38 (Confidence: 1):
+International transfers to third parties: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside
+
+Sentence 39 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 40 (Confidence: 1):
+Where we provide the Services under contract with an organization (for example, your employer), that organization controls the information processed by the Services
+
+Sentence 41 (Confidence: 1):
+Where we provide the Services under contract with an organization (for example, your employer), that organization controls the information processed by the Services
+
+Sentence 42 (Confidence: 1):
+Where we provide the Services under contract with an organization (for example, your employer), that organization controls the information processed by the Services
+
+Sentence 43 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 44 (Confidence: 3):
+This means we collect and use your information only where:We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;You give us consent to do so for a specific purpose; orWe need to process your data to comply with a legal obligation
+
+Sentence 45 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 46 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 47 (Confidence: 3):
+This means we collect and use your information only where:We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;You give us consent to do so for a specific purpose; orWe need to process your data to comply with a legal obligation
+
+Sentence 48 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 49 (Confidence: 1):
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above
+
+Sentence 50 (Confidence: 3):
+This means we collect and use your information only where: We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services; It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests; You give us consent to do so for a specific purpose; or We need to process your data to comply with a legal obligation
+
+Sentence 51 (Confidence: 1):
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place
+
+Sentence 52 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 53 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 54 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 55 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 56 (Confidence: 1):
+With your consent: We disclose information about you to third parties when you give us consent to do so
+
+Sentence 57 (Confidence: 1):
+With your consent, we may post your name alongside the testimonial
+
+Sentence 58 (Confidence: 1):
+We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services
+
+Sentence 59 (Confidence: 1):
+We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services
+
+Sentence 60 (Confidence: 1):
+We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services
+
+Sentence 61 (Confidence: 1):
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep
+
+Sentence 62 (Confidence: 1):
+Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations
+
+Sentence 63 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 64 (Confidence: 1):
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep
+
+Sentence 65 (Confidence: 1):
+Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations
+
+Sentence 66 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 67 (Confidence: 1):
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep
+
+Sentence 68 (Confidence: 1):
+Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations
+
+Sentence 69 (Confidence: 1):
+Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time
+
+Sentence 70 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 71 (Confidence: 1):
+International transfers to third parties: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside
+
+Sentence 72 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 73 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 74 (Confidence: 1):
+International transfers to third parties: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside
+
+Sentence 75 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+
+Sentence 76 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 77 (Confidence: 1):
+International transfers to third parties: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside
+
+Sentence 78 (Confidence: 1):
+When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer
+

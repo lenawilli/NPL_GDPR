@@ -1,0 +1,32 @@
+=== Article 20 Data Portability ===
+
+Sentence 1 (Confidence: 3):
+In certain cases, we transfer your data outside the EEA because its necessary to conclude or perform the contract we have with you
+
+Sentence 2 (Confidence: 1):
+For example, if you make a trip reservation involving a trip provider or strategic partner operating outside the EEA, its likely to require that we transfer data about your specific reservation outside of the EEA
+
+Sentence 3 (Confidence: 3):
+In certain cases, we transfer your data outside the EEA because its necessary to conclude or perform the contract we have with you
+
+Sentence 4 (Confidence: 1):
+For example, if you make a trip reservation involving a trip provider or strategic partner operating outside the EEA, its likely to require that we transfer data about your specific reservation outside of the EEA
+
+Sentence 5 (Confidence: 3):
+In certain cases, we transfer your data outside the EEA because its necessary to conclude or perform the contract we have with you
+
+Sentence 6 (Confidence: 1):
+For example, if you make a trip reservation involving a trip provider or strategic partner operating outside the EEA, its likely to require that we transfer data about your specific reservation outside of the EEA
+
+Sentence 7 (Confidence: 3):
+In certain cases, we transfer your data outside the EEA because its necessary to conclude or perform the contract we have with you
+
+Sentence 8 (Confidence: 1):
+For example, if you make a trip reservation involving a trip provider or strategic partner operating outside the EEA, its likely to require that we transfer data about your specific reservation outside of the EEA
+
+Sentence 9 (Confidence: 3):
+In certain cases, we transfer your data outside the EEA because its necessary to conclude or perform the contract we have with you
+
+Sentence 10 (Confidence: 1):
+For example, if you make a trip reservation involving a trip provider or strategic partner operating outside the EEA, its likely to require that we transfer data about your specific reservation outside of the EEA
+
