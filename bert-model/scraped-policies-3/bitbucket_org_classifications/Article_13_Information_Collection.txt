@@ -1,0 +1,356 @@
+=== Article 13 Information Collection ===
+
+Sentence 1 (Confidence: 1):
+This policy is intended to help you understand:What information we collect about youHow we use information we collectHow we disclose information we collectHow we store and secure information we collectHow long we keep informationHow to access and control your informationHow we transfer information we collect internationallyOther important privacy informationAdditional disclosures for California residentsThis Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed
+
+Sentence 2 (Confidence: 1):
+What information we collect about youWe collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below
+
+Sentence 3 (Confidence: 1):
+Information we collect automatically when you use the ServicesWe collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services
+
+Sentence 4 (Confidence: 1):
+If you use a server or data center version of the Services, the information we collect about your use of the Services is limited to clickstream data about how you interact with and use features in the Services, in addition to content-related information described in "Content you provide through our products," above
+
+Sentence 5 (Confidence: 1):
+How much of this information we collect depends on the type and settings of the device you use to access the Services
+
+Sentence 6 (Confidence: 1):
+We may combine this information with information we collect through other means described above
+
+Sentence 7 (Confidence: 1):
+How we use information we collectHow we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us
+
+Sentence 8 (Confidence: 1):
+Below are the specific purposes for which we use the information we collect about you
+
+Sentence 9 (Confidence: 1):
+How we disclose information we collectWe make collaboration tools, and we want them to work well for you
+
+Sentence 10 (Confidence: 1):
+We disclose information we collect about you in the ways discussed below, including in connection with possible business transfers
+
+Sentence 11 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 12 (Confidence: 1):
+Business Transfers: We may disclose or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company
+
+Sentence 13 (Confidence: 1):
+How we store and secure information we collectInformation storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 14 (Confidence: 1):
+How long we keep informationHow long we keep information we collect about you depends on the type of information, as described in further detail below
+
+Sentence 15 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 16 (Confidence: 1):
+How we transfer information we collect internationallyInternational transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 17 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 18 (Confidence: 1):
+The table below describes the categories of personal information we collected in the past 12 months, the purposes for which we may collect and disclose this information, the categories of recipients of disclosures made for business purposes in the past 12 months, and the categories of recipients of disclosures made in the past 12 months that may be considered sales of personal information or sharing of personal information for cross-context behavioral advertising under California law
+
+Sentence 19 (Confidence: 1):
+For more details about our processing activities, please be sure to visit the section called, How we use information we collect
+
+Sentence 20 (Confidence: 1):
+And for more information about how we may disclose information to third parties, please visit the section called, How we disclose information we collect
+
+Sentence 21 (Confidence: 1):
+This policy is intended to help you understand:What information we collect about youHow we use information we collectHow we disclose information we collectHow we store and secure information we collectHow long we keep informationHow to access and control your informationHow we transfer information we collect internationallyOther important privacy informationAdditional disclosures for California residentsThis Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed
+
+Sentence 22 (Confidence: 1):
+What information we collect about youWe collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below
+
+Sentence 23 (Confidence: 1):
+Information we collect automatically when you use the ServicesWe collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services
+
+Sentence 24 (Confidence: 1):
+If you use a server or data center version of the Services, the information we collect about your use of the Services is limited to clickstream data about how you interact with and use features in the Services, in addition to content-related information described in "Content you provide through our products," above
+
+Sentence 25 (Confidence: 1):
+How much of this information we collect depends on the type and settings of the device you use to access the Services
+
+Sentence 26 (Confidence: 1):
+We may combine this information with information we collect through other means described above
+
+Sentence 27 (Confidence: 1):
+How we use information we collectHow we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us
+
+Sentence 28 (Confidence: 1):
+Below are the specific purposes for which we use the information we collect about you
+
+Sentence 29 (Confidence: 1):
+How we disclose information we collectWe make collaboration tools, and we want them to work well for you
+
+Sentence 30 (Confidence: 1):
+We disclose information we collect about you in the ways discussed below, including in connection with possible business transfers
+
+Sentence 31 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 32 (Confidence: 1):
+Business Transfers: We may disclose or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company
+
+Sentence 33 (Confidence: 1):
+How we store and secure information we collectInformation storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 34 (Confidence: 1):
+How long we keep informationHow long we keep information we collect about you depends on the type of information, as described in further detail below
+
+Sentence 35 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 36 (Confidence: 1):
+How we transfer information we collect internationallyInternational transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 37 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 38 (Confidence: 1):
+The table below describes the categories of personal information we collected in the past 12 months, the purposes for which we may collect and disclose this information, the categories of recipients of disclosures made for business purposes in the past 12 months, and the categories of recipients of disclosures made in the past 12 months that may be considered sales of personal information or sharing of personal information for cross-context behavioral advertising under California law
+
+Sentence 39 (Confidence: 1):
+For more details about our processing activities, please be sure to visit the section called, How we use information we collect
+
+Sentence 40 (Confidence: 1):
+And for more information about how we may disclose information to third parties, please visit the section called, How we disclose information we collect
+
+Sentence 41 (Confidence: 1):
+This policy is intended to help you understand:What information we collect about youHow we use information we collectHow we disclose information we collectHow we store and secure information we collectHow long we keep informationHow to access and control your informationHow we transfer information we collect internationallyOther important privacy informationAdditional disclosures for California residentsThis Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed
+
+Sentence 42 (Confidence: 1):
+What information we collect about youWe collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below
+
+Sentence 43 (Confidence: 1):
+Information we collect automatically when you use the ServicesWe collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services
+
+Sentence 44 (Confidence: 1):
+If you use a server or data center version of the Services, the information we collect about your use of the Services is limited to clickstream data about how you interact with and use features in the Services, in addition to content-related information described in "Content you provide through our products," above
+
+Sentence 45 (Confidence: 1):
+How much of this information we collect depends on the type and settings of the device you use to access the Services
+
+Sentence 46 (Confidence: 1):
+We may combine this information with information we collect through other means described above
+
+Sentence 47 (Confidence: 1):
+How we use information we collectHow we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us
+
+Sentence 48 (Confidence: 1):
+Below are the specific purposes for which we use the information we collect about you
+
+Sentence 49 (Confidence: 1):
+How we disclose information we collectWe make collaboration tools, and we want them to work well for you
+
+Sentence 50 (Confidence: 1):
+We disclose information we collect about you in the ways discussed below, including in connection with possible business transfers
+
+Sentence 51 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 52 (Confidence: 1):
+Business Transfers: We may disclose or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company
+
+Sentence 53 (Confidence: 1):
+How we store and secure information we collectInformation storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 54 (Confidence: 1):
+How long we keep informationHow long we keep information we collect about you depends on the type of information, as described in further detail below
+
+Sentence 55 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 56 (Confidence: 1):
+How we transfer information we collect internationallyInternational transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 57 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 58 (Confidence: 1):
+The table below describes the categories of personal information we collected in the past 12 months, the purposes for which we may collect and disclose this information, the categories of recipients of disclosures made for business purposes in the past 12 months, and the categories of recipients of disclosures made in the past 12 months that may be considered sales of personal information or sharing of personal information for cross-context behavioral advertising under California law
+
+Sentence 59 (Confidence: 1):
+For more details about our processing activities, please be sure to visit the section called, How we use information we collect
+
+Sentence 60 (Confidence: 1):
+And for more information about how we may disclose information to third parties, please visit the section called, How we disclose information we collect
+
+Sentence 61 (Confidence: 1):
+This policy is intended to help you understand:What information we collect about youHow we use information we collectHow we disclose information we collectHow we store and secure information we collectHow long we keep informationHow to access and control your informationHow we transfer information we collect internationallyOther important privacy informationAdditional disclosures for California residentsThis Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed
+
+Sentence 62 (Confidence: 1):
+This policy is intended to help you understand:What information we collect about youHow we use information we collectHow we disclose information we collectHow we store and secure information we collectHow long we keep informationHow to access and control your informationHow we transfer information we collect internationallyOther important privacy informationAdditional disclosures for California residentsThis Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed
+
+Sentence 63 (Confidence: 1):
+This policy is intended to help you understand: What information we collect about you What information we collect about you How we use information we collect How we use information we collect How we disclose information we collect How we disclose information we collect How we store and secure information we collect How we store and secure information we collect How long we keep information How long we keep information How to access and control your information How to access and control your information How we transfer information we collect internationally How we transfer information we collect internationally Other important privacy information Other important privacy information Additional disclosures for California residents Additional disclosures for California residents This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed
+
+Sentence 64 (Confidence: 1):
+What information we collect about youWe collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below
+
+Sentence 65 (Confidence: 1):
+Information we collect automatically when you use the ServicesWe collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services
+
+Sentence 66 (Confidence: 1):
+If you use a server or data center version of the Services, the information we collect about your use of the Services is limited to clickstream data about how you interact with and use features in the Services, in addition to content-related information described in "Content you provide through our products," above
+
+Sentence 67 (Confidence: 1):
+How much of this information we collect depends on the type and settings of the device you use to access the Services
+
+Sentence 68 (Confidence: 1):
+We may combine this information with information we collect through other means described above
+
+Sentence 69 (Confidence: 1):
+What information we collect about you What information we collect about you We collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below
+
+Sentence 70 (Confidence: 1):
+Information we collect automatically when you use the ServicesWe collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services
+
+Sentence 71 (Confidence: 1):
+If you use a server or data center version of the Services, the information we collect about your use of the Services is limited to clickstream data about how you interact with and use features in the Services, in addition to content-related information described in "Content you provide through our products," above
+
+Sentence 72 (Confidence: 1):
+How much of this information we collect depends on the type and settings of the device you use to access the Services
+
+Sentence 73 (Confidence: 1):
+Information we collect automatically when you use the Services We collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services
+
+Sentence 74 (Confidence: 1):
+If you use a server or data center version of the Services, the information we collect about your use of the Services is limited to clickstream data about how you interact with and use features in the Services, in addition to content-related information described in "Content you provide through our products," above
+
+Sentence 75 (Confidence: 1):
+How much of this information we collect depends on the type and settings of the device you use to access the Services
+
+Sentence 76 (Confidence: 1):
+We may combine this information with information we collect through other means described above
+
+Sentence 77 (Confidence: 1):
+We may combine this information with information we collect through other means described above
+
+Sentence 78 (Confidence: 1):
+How we use information we collectHow we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us
+
+Sentence 79 (Confidence: 1):
+Below are the specific purposes for which we use the information we collect about you
+
+Sentence 80 (Confidence: 1):
+How we use information we collect How we use information we collect How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us
+
+Sentence 81 (Confidence: 1):
+Below are the specific purposes for which we use the information we collect about you
+
+Sentence 82 (Confidence: 1):
+How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us
+
+Sentence 83 (Confidence: 1):
+Below are the specific purposes for which we use the information we collect about you
+
+Sentence 84 (Confidence: 1):
+How we disclose information we collectWe make collaboration tools, and we want them to work well for you
+
+Sentence 85 (Confidence: 1):
+We disclose information we collect about you in the ways discussed below, including in connection with possible business transfers
+
+Sentence 86 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 87 (Confidence: 1):
+Business Transfers: We may disclose or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company
+
+Sentence 88 (Confidence: 1):
+How we disclose information we collect How we disclose information we collect We make collaboration tools, and we want them to work well for you
+
+Sentence 89 (Confidence: 1):
+We disclose information we collect about you in the ways discussed below, including in connection with possible business transfers
+
+Sentence 90 (Confidence: 1):
+We disclose information we collect about you in the ways discussed below, including in connection with possible business transfers
+
+Sentence 91 (Confidence: 1):
+Disclosing to affiliated companiesWe disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 92 (Confidence: 1):
+Business Transfers: We may disclose or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company
+
+Sentence 93 (Confidence: 1):
+Disclosing to affiliated companies We disclose information we collect to affiliated companies and, in some cases, to prospective affiliates
+
+Sentence 94 (Confidence: 1):
+Business Transfers: We may disclose or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company
+
+Sentence 95 (Confidence: 1):
+How we store and secure information we collectInformation storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 96 (Confidence: 1):
+How we store and secure information we collect How we store and secure information we collect Information storage and securityWe use industry standard technical and organizational measures to secure the information we store
+
+Sentence 97 (Confidence: 1):
+How long we keep informationHow long we keep information we collect about you depends on the type of information, as described in further detail below
+
+Sentence 98 (Confidence: 1):
+How long we keep information How long we keep information How long we keep information we collect about you depends on the type of information, as described in further detail below
+
+Sentence 99 (Confidence: 1):
+How long we keep information we collect about you depends on the type of information, as described in further detail below
+
+Sentence 100 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 101 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 102 (Confidence: 1):
+You can also use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above
+
+Sentence 103 (Confidence: 1):
+How we transfer information we collect internationallyInternational transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 104 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 105 (Confidence: 1):
+How we transfer information we collect internationally How we transfer information we collect internationally International transfers of information we collectWe collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 106 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 107 (Confidence: 1):
+International transfers of information we collect We collect information globally and may transfer, process, and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services
+
+Sentence 108 (Confidence: 1):
+(see Data Privacy Framework Notice section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland
+
+Sentence 109 (Confidence: 1):
+The table below describes the categories of personal information we collected in the past 12 months, the purposes for which we may collect and disclose this information, the categories of recipients of disclosures made for business purposes in the past 12 months, and the categories of recipients of disclosures made in the past 12 months that may be considered sales of personal information or sharing of personal information for cross-context behavioral advertising under California law
+
+Sentence 110 (Confidence: 1):
+For more details about our processing activities, please be sure to visit the section called, How we use information we collect
+
+Sentence 111 (Confidence: 1):
+And for more information about how we may disclose information to third parties, please visit the section called, How we disclose information we collect
+
+Sentence 112 (Confidence: 1):
+The table below describes the categories of personal information we collected in the past 12 months, the purposes for which we may collect and disclose this information, the categories of recipients of disclosures made for business purposes in the past 12 months, and the categories of recipients of disclosures made in the past 12 months that may be considered sales of personal information or sharing of personal information for cross-context behavioral advertising under California law
+
+Sentence 113 (Confidence: 1):
+The table below describes the categories of personal information we collected in the past 12 months, the purposes for which we may collect and disclose this information, the categories of recipients of disclosures made for business purposes in the past 12 months, and the categories of recipients of disclosures made in the past 12 months that may be considered sales of personal information or sharing of personal information for cross-context behavioral advertising under California law
+
+Sentence 114 (Confidence: 1):
+For more details about our processing activities, please be sure to visit the section called, How we use information we collect
+
+Sentence 115 (Confidence: 1):
+And for more information about how we may disclose information to third parties, please visit the section called, How we disclose information we collect
+
+Sentence 116 (Confidence: 1):
+If you have questions about the categories of information we may collect about you or the sources of such information, please be sure to visit the section of this policy called, What information we collect about you
+
+Sentence 117 (Confidence: 1):
+For more details about our processing activities, please be sure to visit the section called, How we use information we collect
+
+Sentence 118 (Confidence: 1):
+And for more information about how we may disclose information to third parties, please visit the section called, How we disclose information we collect
+

@@ -1,0 +1,512 @@
+=== Article 6 Lawful Basis ===
+
+Sentence 1 (Confidence: 1):
+Strategic partnerA company (such as an airline, a bank, another BHI brand, or a phone manufacturer) with whom we contract and collaborate to expand reservation opportunities
+
+Sentence 2 (Confidence: 1):
+This can include one or more of the following:Other BHI companiesTrip providers, for example as part of their interactions with our customer servicesStrategic partners we contract withOther third-party companies such as marketing partnersInformation we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 3 (Confidence: 1):
+This is summarized as follows:Purpose of personal data processingLegal basis and commentsA
+
+Sentence 4 (Confidence: 2):
+com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalize and administer your trip reservation
+
+Sentence 5 (Confidence: 1):
+Promotion of safe and trustworthy service and prevention of fraudUnless provided otherwise in this overview, the collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking
+
+Sentence 6 (Confidence: 1):
+coms or a third-party's legitimate interests, Booking
+
+Sentence 7 (Confidence: 1):
+The legitimate interests include, for example, avoiding financial harm from online fraud, sharing peoples experiences with prospective travelers, and keeping people informed about offers we think might be of interest
+
+Sentence 8 (Confidence: 1):
+com also relies, where applicable, on compliance with legal obligations (e
+
+Sentence 9 (Confidence: 1):
+com will obtain your consent prior to processing your personal data, including for direct marketing purposes or where otherwise required by law
+
+Sentence 10 (Confidence: 2):
+Agoda or OpenTable), or share your personal data with them, for the following purposes:To provide services (including making, administering, and managing reservations or handling payments)To provide customer serviceTo detect, prevent, and investigate fraudulent or other illegal activities and data breaches, companies within BHI may need to exchange personal data about certain persons to ensure all platform users are protected, for example, from online fraud attemptsFor analytical and product improvement purposes where permitted by applicable lawTo provide personalized offers or send you marketing communications with your consent or as otherwise permitted by applicable lawFor hosting, technical support, overall maintenance, and maintaining security of such shared dataTo ensure compliance with applicable lawsAs applicable and unless indicated otherwise, for purposesA to Fwe rely on our legitimate interests to share and receive personal data
+
+Sentence 11 (Confidence: 1):
+For purposeG, we rely, where applicable, on compliance with legal obligations (such as lawful law enforcement requests)
+
+Sentence 12 (Confidence: 1):
+Where needed under applicable law, we will obtain your consent before sharing your personal data with other companies in the BHI group
+
+Sentence 13 (Confidence: 1):
+Connectivity providersMany trip providers contract with specific third-party companies (often referred to as connectivity providers) to automate the routing of reservation information from Booking
+
+Sentence 14 (Confidence: 1):
+We only share your personal data to the extent that is necessary and in line with contractual and other obligations applicable to them
+
+Sentence 15 (Confidence: 1):
+Such disclosures by us may be required to:Comply with a legal obligation, for instance, under applicable short-term rental lawsProtect and defend our rights or the rights and interests of our business partners
+
+Sentence 16 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 17 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 18 (Confidence: 1):
+Generally, we keep your personal data for as long as is necessary to:Enable you to use our services or to provide our services to youPrevent and detect online fraud attempts and/or other illegal activitiesComply with legal obligations such as those from accounting and tax lawsResolve any disputes and legal claimsHow you can further protect your personal data on Booking
+
+Sentence 19 (Confidence: 1):
+This may include sending you details of a trip we think you would be interested in (where you have consented to this communication) and ranking search results to put the best matches at the top of your feed
+
+Sentence 20 (Confidence: 1):
+We ensure we have a legal basis to use AI systems in accordance with data protection laws
+
+Sentence 21 (Confidence: 2):
+The legal basis of using AI will usually follow the overall purpose of processing set out in the sectionPurposes of collecting and processing your personal data:Beyond preventing and detecting fraud attempts, we may have a legitimate interest in developing AI systems to reduce our costs, improve the efficiency and quality of our processing, and provide better products for our customers
+
+Sentence 22 (Confidence: 1):
+We consider whether your rights and freedoms arent unduly infringed upon by the processing of your personal data and only proceed where this legitimate interest isnt overridden by your rights
+
+Sentence 23 (Confidence: 1):
+In other cases where we may use AI, well seek your consent where this is required
+
+Sentence 24 (Confidence: 1):
+We dont collect personal data about people below that age (collectively called minors) unless that data is provided by (and with the consent of) a parent or guardian
+
+Sentence 25 (Confidence: 1):
+via a Customer Service request) that weve processed personal data about minors without the valid consent of their parent or guardian, well delete it
+
+Sentence 26 (Confidence: 1):
+ErasureYou can ask us to erase the personal data we hold about you when, for example, its no longer needed or weve asked for your consent and youve now withdrawn it
+
+Sentence 27 (Confidence: 1):
+Withdrawal of consentWhere weve collected and processed your personal data on the basis of your consent, you can withdraw that consent anytime subject to applicable law
+
+Sentence 28 (Confidence: 1):
+Strategic partnerA company (such as an airline, a bank, another BHI brand, or a phone manufacturer) with whom we contract and collaborate to expand reservation opportunities
+
+Sentence 29 (Confidence: 1):
+This can include one or more of the following:Other BHI companiesTrip providers, for example as part of their interactions with our customer servicesStrategic partners we contract withOther third-party companies such as marketing partnersInformation we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 30 (Confidence: 1):
+This is summarized as follows:Purpose of personal data processingLegal basis and commentsA
+
+Sentence 31 (Confidence: 2):
+com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalize and administer your trip reservation
+
+Sentence 32 (Confidence: 1):
+Promotion of safe and trustworthy service and prevention of fraudUnless provided otherwise in this overview, the collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking
+
+Sentence 33 (Confidence: 1):
+coms or a third-party's legitimate interests, Booking
+
+Sentence 34 (Confidence: 1):
+The legitimate interests include, for example, avoiding financial harm from online fraud, sharing peoples experiences with prospective travelers, and keeping people informed about offers we think might be of interest
+
+Sentence 35 (Confidence: 1):
+com also relies, where applicable, on compliance with legal obligations (e
+
+Sentence 36 (Confidence: 1):
+com will obtain your consent prior to processing your personal data, including for direct marketing purposes or where otherwise required by law
+
+Sentence 37 (Confidence: 2):
+Agoda or OpenTable), or share your personal data with them, for the following purposes:To provide services (including making, administering, and managing reservations or handling payments)To provide customer serviceTo detect, prevent, and investigate fraudulent or other illegal activities and data breaches, companies within BHI may need to exchange personal data about certain persons to ensure all platform users are protected, for example, from online fraud attemptsFor analytical and product improvement purposes where permitted by applicable lawTo provide personalized offers or send you marketing communications with your consent or as otherwise permitted by applicable lawFor hosting, technical support, overall maintenance, and maintaining security of such shared dataTo ensure compliance with applicable lawsAs applicable and unless indicated otherwise, for purposesA to Fwe rely on our legitimate interests to share and receive personal data
+
+Sentence 38 (Confidence: 1):
+For purposeG, we rely, where applicable, on compliance with legal obligations (such as lawful law enforcement requests)
+
+Sentence 39 (Confidence: 1):
+Where needed under applicable law, we will obtain your consent before sharing your personal data with other companies in the BHI group
+
+Sentence 40 (Confidence: 1):
+Connectivity providersMany trip providers contract with specific third-party companies (often referred to as connectivity providers) to automate the routing of reservation information from Booking
+
+Sentence 41 (Confidence: 1):
+We only share your personal data to the extent that is necessary and in line with contractual and other obligations applicable to them
+
+Sentence 42 (Confidence: 1):
+Such disclosures by us may be required to:Comply with a legal obligation, for instance, under applicable short-term rental lawsProtect and defend our rights or the rights and interests of our business partners
+
+Sentence 43 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 44 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 45 (Confidence: 1):
+Generally, we keep your personal data for as long as is necessary to:Enable you to use our services or to provide our services to youPrevent and detect online fraud attempts and/or other illegal activitiesComply with legal obligations such as those from accounting and tax lawsResolve any disputes and legal claimsHow you can further protect your personal data on Booking
+
+Sentence 46 (Confidence: 1):
+This may include sending you details of a trip we think you would be interested in (where you have consented to this communication) and ranking search results to put the best matches at the top of your feed
+
+Sentence 47 (Confidence: 1):
+We ensure we have a legal basis to use AI systems in accordance with data protection laws
+
+Sentence 48 (Confidence: 2):
+The legal basis of using AI will usually follow the overall purpose of processing set out in the sectionPurposes of collecting and processing your personal data:Beyond preventing and detecting fraud attempts, we may have a legitimate interest in developing AI systems to reduce our costs, improve the efficiency and quality of our processing, and provide better products for our customers
+
+Sentence 49 (Confidence: 1):
+We consider whether your rights and freedoms arent unduly infringed upon by the processing of your personal data and only proceed where this legitimate interest isnt overridden by your rights
+
+Sentence 50 (Confidence: 1):
+In other cases where we may use AI, well seek your consent where this is required
+
+Sentence 51 (Confidence: 1):
+We dont collect personal data about people below that age (collectively called minors) unless that data is provided by (and with the consent of) a parent or guardian
+
+Sentence 52 (Confidence: 1):
+via a Customer Service request) that weve processed personal data about minors without the valid consent of their parent or guardian, well delete it
+
+Sentence 53 (Confidence: 1):
+ErasureYou can ask us to erase the personal data we hold about you when, for example, its no longer needed or weve asked for your consent and youve now withdrawn it
+
+Sentence 54 (Confidence: 1):
+Withdrawal of consentWhere weve collected and processed your personal data on the basis of your consent, you can withdraw that consent anytime subject to applicable law
+
+Sentence 55 (Confidence: 1):
+Strategic partnerA company (such as an airline, a bank, another BHI brand, or a phone manufacturer) with whom we contract and collaborate to expand reservation opportunities
+
+Sentence 56 (Confidence: 1):
+This can include one or more of the following:Other BHI companiesTrip providers, for example as part of their interactions with our customer servicesStrategic partners we contract withOther third-party companies such as marketing partnersInformation we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 57 (Confidence: 1):
+This is summarized as follows:Purpose of personal data processingLegal basis and commentsA
+
+Sentence 58 (Confidence: 2):
+com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalize and administer your trip reservation
+
+Sentence 59 (Confidence: 1):
+Promotion of safe and trustworthy service and prevention of fraudUnless provided otherwise in this overview, the collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking
+
+Sentence 60 (Confidence: 1):
+coms or a third-party's legitimate interests, Booking
+
+Sentence 61 (Confidence: 1):
+The legitimate interests include, for example, avoiding financial harm from online fraud, sharing peoples experiences with prospective travelers, and keeping people informed about offers we think might be of interest
+
+Sentence 62 (Confidence: 1):
+com also relies, where applicable, on compliance with legal obligations (e
+
+Sentence 63 (Confidence: 1):
+com will obtain your consent prior to processing your personal data, including for direct marketing purposes or where otherwise required by law
+
+Sentence 64 (Confidence: 2):
+Agoda or OpenTable), or share your personal data with them, for the following purposes:To provide services (including making, administering, and managing reservations or handling payments)To provide customer serviceTo detect, prevent, and investigate fraudulent or other illegal activities and data breaches, companies within BHI may need to exchange personal data about certain persons to ensure all platform users are protected, for example, from online fraud attemptsFor analytical and product improvement purposes where permitted by applicable lawTo provide personalized offers or send you marketing communications with your consent or as otherwise permitted by applicable lawFor hosting, technical support, overall maintenance, and maintaining security of such shared dataTo ensure compliance with applicable lawsAs applicable and unless indicated otherwise, for purposesA to Fwe rely on our legitimate interests to share and receive personal data
+
+Sentence 65 (Confidence: 1):
+For purposeG, we rely, where applicable, on compliance with legal obligations (such as lawful law enforcement requests)
+
+Sentence 66 (Confidence: 1):
+Where needed under applicable law, we will obtain your consent before sharing your personal data with other companies in the BHI group
+
+Sentence 67 (Confidence: 1):
+Connectivity providersMany trip providers contract with specific third-party companies (often referred to as connectivity providers) to automate the routing of reservation information from Booking
+
+Sentence 68 (Confidence: 1):
+We only share your personal data to the extent that is necessary and in line with contractual and other obligations applicable to them
+
+Sentence 69 (Confidence: 1):
+Such disclosures by us may be required to:Comply with a legal obligation, for instance, under applicable short-term rental lawsProtect and defend our rights or the rights and interests of our business partners
+
+Sentence 70 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 71 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 72 (Confidence: 1):
+Generally, we keep your personal data for as long as is necessary to:Enable you to use our services or to provide our services to youPrevent and detect online fraud attempts and/or other illegal activitiesComply with legal obligations such as those from accounting and tax lawsResolve any disputes and legal claimsHow you can further protect your personal data on Booking
+
+Sentence 73 (Confidence: 1):
+This may include sending you details of a trip we think you would be interested in (where you have consented to this communication) and ranking search results to put the best matches at the top of your feed
+
+Sentence 74 (Confidence: 1):
+We ensure we have a legal basis to use AI systems in accordance with data protection laws
+
+Sentence 75 (Confidence: 2):
+The legal basis of using AI will usually follow the overall purpose of processing set out in the sectionPurposes of collecting and processing your personal data:Beyond preventing and detecting fraud attempts, we may have a legitimate interest in developing AI systems to reduce our costs, improve the efficiency and quality of our processing, and provide better products for our customers
+
+Sentence 76 (Confidence: 1):
+We consider whether your rights and freedoms arent unduly infringed upon by the processing of your personal data and only proceed where this legitimate interest isnt overridden by your rights
+
+Sentence 77 (Confidence: 1):
+In other cases where we may use AI, well seek your consent where this is required
+
+Sentence 78 (Confidence: 1):
+We dont collect personal data about people below that age (collectively called minors) unless that data is provided by (and with the consent of) a parent or guardian
+
+Sentence 79 (Confidence: 1):
+via a Customer Service request) that weve processed personal data about minors without the valid consent of their parent or guardian, well delete it
+
+Sentence 80 (Confidence: 1):
+ErasureYou can ask us to erase the personal data we hold about you when, for example, its no longer needed or weve asked for your consent and youve now withdrawn it
+
+Sentence 81 (Confidence: 1):
+Withdrawal of consentWhere weve collected and processed your personal data on the basis of your consent, you can withdraw that consent anytime subject to applicable law
+
+Sentence 82 (Confidence: 1):
+Strategic partnerA company (such as an airline, a bank, another BHI brand, or a phone manufacturer) with whom we contract and collaborate to expand reservation opportunities
+
+Sentence 83 (Confidence: 1):
+This can include one or more of the following:Other BHI companiesTrip providers, for example as part of their interactions with our customer servicesStrategic partners we contract withOther third-party companies such as marketing partnersInformation we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 84 (Confidence: 1):
+This is summarized as follows:Purpose of personal data processingLegal basis and commentsA
+
+Sentence 85 (Confidence: 2):
+com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalize and administer your trip reservation
+
+Sentence 86 (Confidence: 1):
+Promotion of safe and trustworthy service and prevention of fraudUnless provided otherwise in this overview, the collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking
+
+Sentence 87 (Confidence: 1):
+coms or a third-party's legitimate interests, Booking
+
+Sentence 88 (Confidence: 1):
+The legitimate interests include, for example, avoiding financial harm from online fraud, sharing peoples experiences with prospective travelers, and keeping people informed about offers we think might be of interest
+
+Sentence 89 (Confidence: 1):
+com also relies, where applicable, on compliance with legal obligations (e
+
+Sentence 90 (Confidence: 1):
+com will obtain your consent prior to processing your personal data, including for direct marketing purposes or where otherwise required by law
+
+Sentence 91 (Confidence: 2):
+Agoda or OpenTable), or share your personal data with them, for the following purposes:To provide services (including making, administering, and managing reservations or handling payments)To provide customer serviceTo detect, prevent, and investigate fraudulent or other illegal activities and data breaches, companies within BHI may need to exchange personal data about certain persons to ensure all platform users are protected, for example, from online fraud attemptsFor analytical and product improvement purposes where permitted by applicable lawTo provide personalized offers or send you marketing communications with your consent or as otherwise permitted by applicable lawFor hosting, technical support, overall maintenance, and maintaining security of such shared dataTo ensure compliance with applicable lawsAs applicable and unless indicated otherwise, for purposesA to Fwe rely on our legitimate interests to share and receive personal data
+
+Sentence 92 (Confidence: 1):
+For purposeG, we rely, where applicable, on compliance with legal obligations (such as lawful law enforcement requests)
+
+Sentence 93 (Confidence: 1):
+Where needed under applicable law, we will obtain your consent before sharing your personal data with other companies in the BHI group
+
+Sentence 94 (Confidence: 1):
+Connectivity providersMany trip providers contract with specific third-party companies (often referred to as connectivity providers) to automate the routing of reservation information from Booking
+
+Sentence 95 (Confidence: 1):
+We only share your personal data to the extent that is necessary and in line with contractual and other obligations applicable to them
+
+Sentence 96 (Confidence: 1):
+Such disclosures by us may be required to:Comply with a legal obligation, for instance, under applicable short-term rental lawsProtect and defend our rights or the rights and interests of our business partners
+
+Sentence 97 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 98 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 99 (Confidence: 1):
+Strategic partnerA company (such as an airline, a bank, another BHI brand, or a phone manufacturer) with whom we contract and collaborate to expand reservation opportunities
+
+Sentence 100 (Confidence: 1):
+Strategic partnerA company (such as an airline, a bank, another BHI brand, or a phone manufacturer) with whom we contract and collaborate to expand reservation opportunities
+
+Sentence 101 (Confidence: 1):
+A company (such as an airline, a bank, another BHI brand, or a phone manufacturer) with whom we contract and collaborate to expand reservation opportunities
+
+Sentence 102 (Confidence: 1):
+This can include one or more of the following: Trip providers, for example as part of their interactions with our customer services Strategic partners we contract with Other third-party companies such as marketing partners Information we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 103 (Confidence: 1):
+This is summarized as follows: Purpose of personal data processingLegal basis and commentsA
+
+Sentence 104 (Confidence: 2):
+com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalize and administer your trip reservation
+
+Sentence 105 (Confidence: 1):
+Promotion of safe and trustworthy service and prevention of fraudUnless provided otherwise in this overview, the collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking
+
+Sentence 106 (Confidence: 1):
+coms or a third-party's legitimate interests, Booking
+
+Sentence 107 (Confidence: 1):
+The legitimate interests include, for example, avoiding financial harm from online fraud, sharing peoples experiences with prospective travelers, and keeping people informed about offers we think might be of interest
+
+Sentence 108 (Confidence: 1):
+com also relies, where applicable, on compliance with legal obligations (e
+
+Sentence 109 (Confidence: 1):
+com will obtain your consent prior to processing your personal data, including for direct marketing purposes or where otherwise required by law
+
+Sentence 110 (Confidence: 1):
+Purpose of personal data processingLegal basis and commentsA
+
+Sentence 111 (Confidence: 2):
+com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalize and administer your trip reservation
+
+Sentence 112 (Confidence: 1):
+Promotion of safe and trustworthy service and prevention of fraudUnless provided otherwise in this overview, the collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking
+
+Sentence 113 (Confidence: 1):
+coms or a third-party's legitimate interests, Booking
+
+Sentence 114 (Confidence: 1):
+The legitimate interests include, for example, avoiding financial harm from online fraud, sharing peoples experiences with prospective travelers, and keeping people informed about offers we think might be of interest
+
+Sentence 115 (Confidence: 1):
+com also relies, where applicable, on compliance with legal obligations (e
+
+Sentence 116 (Confidence: 1):
+com will obtain your consent prior to processing your personal data, including for direct marketing purposes or where otherwise required by law
+
+Sentence 117 (Confidence: 1):
+Purpose of personal data processingLegal basis and commentsA
+
+Sentence 118 (Confidence: 2):
+com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalize and administer your trip reservation
+
+Sentence 119 (Confidence: 1):
+Promotion of safe and trustworthy service and prevention of fraudUnless provided otherwise in this overview, the collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking
+
+Sentence 120 (Confidence: 1):
+coms or a third-party's legitimate interests, Booking
+
+Sentence 121 (Confidence: 1):
+The legitimate interests include, for example, avoiding financial harm from online fraud, sharing peoples experiences with prospective travelers, and keeping people informed about offers we think might be of interest
+
+Sentence 122 (Confidence: 1):
+com also relies, where applicable, on compliance with legal obligations (e
+
+Sentence 123 (Confidence: 1):
+com will obtain your consent prior to processing your personal data, including for direct marketing purposes or where otherwise required by law
+
+Sentence 124 (Confidence: 1):
+Purpose of personal data processing Legal basis and comments A
+
+Sentence 125 (Confidence: 2):
+com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalize and administer your trip reservation
+
+Sentence 126 (Confidence: 1):
+Promotion of safe and trustworthy service and prevention of fraud Unless provided otherwise in this overview, the collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking
+
+Sentence 127 (Confidence: 1):
+coms or a third-party's legitimate interests, Booking
+
+Sentence 128 (Confidence: 1):
+The legitimate interests include, for example, avoiding financial harm from online fraud, sharing peoples experiences with prospective travelers, and keeping people informed about offers we think might be of interest
+
+Sentence 129 (Confidence: 1):
+com also relies, where applicable, on compliance with legal obligations (e
+
+Sentence 130 (Confidence: 1):
+com will obtain your consent prior to processing your personal data, including for direct marketing purposes or where otherwise required by law
+
+Sentence 131 (Confidence: 2):
+Agoda or OpenTable), or share your personal data with them, for the following purposes: To provide services (including making, administering, and managing reservations or handling payments) To provide customer service To detect, prevent, and investigate fraudulent or other illegal activities and data breaches, companies within BHI may need to exchange personal data about certain persons to ensure all platform users are protected, for example, from online fraud attempts For analytical and product improvement purposes where permitted by applicable law To provide personalized offers or send you marketing communications with your consent or as otherwise permitted by applicable law For hosting, technical support, overall maintenance, and maintaining security of such shared data To ensure compliance with applicable laws As applicable and unless indicated otherwise, for purposesA to Fwe rely on our legitimate interests to share and receive personal data
+
+Sentence 132 (Confidence: 1):
+For purposeG, we rely, where applicable, on compliance with legal obligations (such as lawful law enforcement requests)
+
+Sentence 133 (Confidence: 1):
+Where needed under applicable law, we will obtain your consent before sharing your personal data with other companies in the BHI group
+
+Sentence 134 (Confidence: 1):
+Connectivity providers Connectivity providers Connectivity providers Many trip providers contract with specific third-party companies (often referred to as connectivity providers) to automate the routing of reservation information from Booking
+
+Sentence 135 (Confidence: 1):
+We only share your personal data to the extent that is necessary and in line with contractual and other obligations applicable to them
+
+Sentence 136 (Confidence: 1):
+Such disclosures by us may be required to: Comply with a legal obligation, for instance, under applicable short-term rental laws Protect and defend our rights or the rights and interests of our business partners
+
+Sentence 137 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 138 (Confidence: 1):
+This is done by using Standard Contractual Clauses as approved by the EC, by examining the countries to which the data may be transferred, and by imposing specific technical and organizational measures
+
+Sentence 139 (Confidence: 1):
+Generally, we keep your personal data for as long as is necessary to:Enable you to use our services or to provide our services to youPrevent and detect online fraud attempts and/or other illegal activitiesComply with legal obligations such as those from accounting and tax lawsResolve any disputes and legal claimsHow you can further protect your personal data on Booking
+
+Sentence 140 (Confidence: 1):
+Generally, we keep your personal data for as long as is necessary to: Enable you to use our services or to provide our services to you Prevent and detect online fraud attempts and/or other illegal activities Comply with legal obligations such as those from accounting and tax laws Resolve any disputes and legal claims How you can further protect your personal data on Booking
+
+Sentence 141 (Confidence: 1):
+This may include sending you details of a trip we think you would be interested in (where you have consented to this communication) and ranking search results to put the best matches at the top of your feed
+
+Sentence 142 (Confidence: 1):
+We ensure we have a legal basis to use AI systems in accordance with data protection laws
+
+Sentence 143 (Confidence: 2):
+The legal basis of using AI will usually follow the overall purpose of processing set out in the sectionPurposes of collecting and processing your personal data:Beyond preventing and detecting fraud attempts, we may have a legitimate interest in developing AI systems to reduce our costs, improve the efficiency and quality of our processing, and provide better products for our customers
+
+Sentence 144 (Confidence: 1):
+We consider whether your rights and freedoms arent unduly infringed upon by the processing of your personal data and only proceed where this legitimate interest isnt overridden by your rights
+
+Sentence 145 (Confidence: 1):
+In other cases where we may use AI, well seek your consent where this is required
+
+Sentence 146 (Confidence: 1):
+This may include sending you details of a trip we think you would be interested in (where you have consented to this communication) and ranking search results to put the best matches at the top of your feed
+
+Sentence 147 (Confidence: 1):
+This may include sending you details of a trip we think you would be interested in (where you have consented to this communication) and ranking search results to put the best matches at the top of your feed
+
+Sentence 148 (Confidence: 1):
+This may include sending you details of a trip we think you would be interested in (where you have consented to this communication) and ranking search results to put the best matches at the top of your feed
+
+Sentence 149 (Confidence: 1):
+This may include sending you details of a trip we think you would be interested in (where you have consented to this communication) and ranking search results to put the best matches at the top of your feed
+
+Sentence 150 (Confidence: 1):
+Purposes of collecting and processing your personal data We ensure we have a legal basis to use AI systems in accordance with data protection laws
+
+Sentence 151 (Confidence: 2):
+The legal basis of using AI will usually follow the overall purpose of processing set out in the sectionPurposes of collecting and processing your personal data: Purposes of collecting and processing your personal data Beyond preventing and detecting fraud attempts, we may have a legitimate interest in developing AI systems to reduce our costs, improve the efficiency and quality of our processing, and provide better products for our customers
+
+Sentence 152 (Confidence: 1):
+We consider whether your rights and freedoms arent unduly infringed upon by the processing of your personal data and only proceed where this legitimate interest isnt overridden by your rights
+
+Sentence 153 (Confidence: 1):
+Beyond preventing and detecting fraud attempts, we may have a legitimate interest in developing AI systems to reduce our costs, improve the efficiency and quality of our processing, and provide better products for our customers
+
+Sentence 154 (Confidence: 1):
+We consider whether your rights and freedoms arent unduly infringed upon by the processing of your personal data and only proceed where this legitimate interest isnt overridden by your rights
+
+Sentence 155 (Confidence: 1):
+In other cases where we may use AI, well seek your consent where this is required
+
+Sentence 156 (Confidence: 1):
+In other cases where we may use AI, well seek your consent where this is required
+
+Sentence 157 (Confidence: 1):
+We dont collect personal data about people below that age (collectively called minors) unless that data is provided by (and with the consent of) a parent or guardian
+
+Sentence 158 (Confidence: 1):
+via a Customer Service request) that weve processed personal data about minors without the valid consent of their parent or guardian, well delete it
+
+Sentence 159 (Confidence: 1):
+We dont collect personal data about people below that age (collectively called minors) unless that data is provided by (and with the consent of) a parent or guardian
+
+Sentence 160 (Confidence: 1):
+via a Customer Service request) that weve processed personal data about minors without the valid consent of their parent or guardian, well delete it
+
+Sentence 161 (Confidence: 1):
+ErasureYou can ask us to erase the personal data we hold about you when, for example, its no longer needed or weve asked for your consent and youve now withdrawn it
+
+Sentence 162 (Confidence: 1):
+Withdrawal of consentWhere weve collected and processed your personal data on the basis of your consent, you can withdraw that consent anytime subject to applicable law
+
+Sentence 163 (Confidence: 1):
+ErasureYou can ask us to erase the personal data we hold about you when, for example, its no longer needed or weve asked for your consent and youve now withdrawn it
+
+Sentence 164 (Confidence: 1):
+Withdrawal of consentWhere weve collected and processed your personal data on the basis of your consent, you can withdraw that consent anytime subject to applicable law
+
+Sentence 165 (Confidence: 1):
+ErasureYou can ask us to erase the personal data we hold about you when, for example, its no longer needed or weve asked for your consent and youve now withdrawn it
+
+Sentence 166 (Confidence: 1):
+Withdrawal of consentWhere weve collected and processed your personal data on the basis of your consent, you can withdraw that consent anytime subject to applicable law
+
+Sentence 167 (Confidence: 1):
+ErasureYou can ask us to erase the personal data we hold about you when, for example, its no longer needed or weve asked for your consent and youve now withdrawn it
+
+Sentence 168 (Confidence: 1):
+Withdrawal of consentWhere weve collected and processed your personal data on the basis of your consent, you can withdraw that consent anytime subject to applicable law
+
+Sentence 169 (Confidence: 1):
+You can ask us to erase the personal data we hold about you when, for example, its no longer needed or weve asked for your consent and youve now withdrawn it
+
+Sentence 170 (Confidence: 1):
+Withdrawal of consent Where weve collected and processed your personal data on the basis of your consent, you can withdraw that consent anytime subject to applicable law
+

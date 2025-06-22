@@ -1,0 +1,23 @@
+=== International Transfers ===
+
+Sentence 1 (Confidence: 3):
+International data transfers10
+
+Sentence 2 (Confidence: 3):
+International data transfersWe are based in the United States, and we process and store information on servers located in the United States
+
+Sentence 3 (Confidence: 1):
+When transferring data outside the EEA, we usestandard contract clauses(Module 1 and Module 2), and we rely on the European Commission'sadequacy decisionsabout certain countries, as applicable, or other legally compliant mechanisms or conditions for such data transfer
+
+Sentence 4 (Confidence: 3):
+International data transfersWe are based in the United States, and we process and store information on servers located in the United States
+
+Sentence 5 (Confidence: 1):
+When transferring data outside the EEA, we usestandard contract clauses(Module 1 and Module 2), and we rely on the European Commission'sadequacy decisionsabout certain countries, as applicable, or other legally compliant mechanisms or conditions for such data transfer
+
+Sentence 6 (Confidence: 3):
+International data transfers We are based in the United States, and we process and store information on servers located in the United States
+
+Sentence 7 (Confidence: 1):
+When transferring data outside the EEA, we usestandard contract clauses(Module 1 and Module 2), and we rely on the European Commission'sadequacy decisionsabout certain countries, as applicable, or other legally compliant mechanisms or conditions for such data transfer
+

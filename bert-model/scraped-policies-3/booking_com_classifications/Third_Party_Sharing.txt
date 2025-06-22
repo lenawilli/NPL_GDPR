@@ -1,0 +1,476 @@
+=== Third Party Sharing ===
+
+Sentence 1 (Confidence: 1):
+com offers online travel-related services through its own websites and mobile apps as well as via third-party channels such as partners websites
+
+Sentence 2 (Confidence: 1):
+coms business partners
+
+Sentence 3 (Confidence: 1):
+Through these partnerships, travelers can conveniently book their trip at various touchpoints beyond our direct channels of Booking
+
+Sentence 4 (Confidence: 1):
+This can include one or more of the following:Other BHI companiesTrip providers, for example as part of their interactions with our customer servicesStrategic partners we contract withOther third-party companies such as marketing partnersInformation we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 5 (Confidence: 1):
+They are also integrated into the services of strategic partners you can find online
+
+Sentence 6 (Confidence: 1):
+We integrate with third-party payment service providers such as Adyen and Stripe to, for example, facilitate electronic payments between you, Booking
+
+Sentence 7 (Confidence: 1):
+These service providers share payment information so we can administer and handle your trip reservation
+
+Sentence 8 (Confidence: 1):
+In some cases, we link to other business partners providing trip reservations that may not be available on our website or mobile apps
+
+Sentence 9 (Confidence: 1):
+When you click on these, youre redirected to other business partners websites, where you can make a reservation
+
+Sentence 10 (Confidence: 1):
+These partners may share certain personal data related to your specific reservation and your interactions on these websites or mobile apps with us in accordance with their privacy policies
+
+Sentence 11 (Confidence: 1):
+the additional cookie data our social media and marketing partners may make available to us on an aggregated basis) in order for us to measure the effectiveness of advertising and marketing campaigns
+
+Sentence 12 (Confidence: 1):
+These may be offers and recommendations we think you may find interesting that you can book directly on our platform, on sites operated in partnership with a strategic partner, or on other third-party sites
+
+Sentence 13 (Confidence: 1):
+Strategic partnersWe work with many strategic partners around the world
+
+Sentence 14 (Confidence: 1):
+These strategic partners distribute and advertise Booking
+
+Sentence 15 (Confidence: 1):
+Depending on the strategic partner, you may make your trip reservation through:our website thats operated in partnership with a strategic partner; orstrategic partners websites or mobile apps
+
+Sentence 16 (Confidence: 1):
+For the former, the strategic partners will receive certain personal data related to your specific reservation and your interactions on these websites
+
+Sentence 17 (Confidence: 1):
+With these strategic partners, we may act as joint controllers for processing of specific personal data
+
+Sentence 18 (Confidence: 1):
+If you choose to exercise your data subject rights with our strategic partners, we may collaborate to ensure an adequate response to your request
+
+Sentence 19 (Confidence: 1):
+For fraud detection and prevention purposes, we may also exchange information about our users with strategic partners  but only when strictly necessary
+
+Sentence 20 (Confidence: 1):
+Third-party service providersWe use service providers from outside of the Booking Holdings Inc
+
+Sentence 21 (Confidence: 1):
+The payment service providers may, in some cases, use your personal data for their own purposes, such as to detect and prevent fraud attempts and to comply with legal requirements applicable to them
+
+Sentence 22 (Confidence: 1):
+Marketing servicesWe may share some of your personal data (such as identifiers) with advertising partners as part of the marketing of our trip services via third parties (to ensure that relevant advertisements are shown to the right audience)
+
+Sentence 23 (Confidence: 1):
+Such disclosures by us may be required to:Comply with a legal obligation, for instance, under applicable short-term rental lawsProtect and defend our rights or the rights and interests of our business partners
+
+Sentence 24 (Confidence: 1):
+Other business partnersWe may share personal data in other instances with other business partners
+
+Sentence 25 (Confidence: 1):
+com is a business that connects travelers and partners around the world
+
+Sentence 26 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 27 (Confidence: 1):
+These parties might include other entities of the providers corporate group or service providers, drivers, or end fleets who are handling the data on the providers behalf
+
+Sentence 28 (Confidence: 1):
+Read (and follow the guidance from) articles we may make available to travelers and partners about online fraud prevention and data protection
+
+Sentence 29 (Confidence: 1):
+Analytical cookiesWe and our partners use analytical cookies to gain information on your website and mobile app usage, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services
+
+Sentence 30 (Confidence: 1):
+Marketing cookiesWe and our partners use marketing cookies, including social media cookies, to collect information about your browsing behavior that helps us and our partners decide which products to show you on and off our site, to display and send personalized content and advertisements on our platform, other websites, and via push messages and email
+
+Sentence 31 (Confidence: 1):
+com offers online travel-related services through its own websites and mobile apps as well as via third-party channels such as partners websites
+
+Sentence 32 (Confidence: 1):
+coms business partners
+
+Sentence 33 (Confidence: 1):
+Through these partnerships, travelers can conveniently book their trip at various touchpoints beyond our direct channels of Booking
+
+Sentence 34 (Confidence: 1):
+This can include one or more of the following:Other BHI companiesTrip providers, for example as part of their interactions with our customer servicesStrategic partners we contract withOther third-party companies such as marketing partnersInformation we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 35 (Confidence: 1):
+They are also integrated into the services of strategic partners you can find online
+
+Sentence 36 (Confidence: 1):
+We integrate with third-party payment service providers such as Adyen and Stripe to, for example, facilitate electronic payments between you, Booking
+
+Sentence 37 (Confidence: 1):
+These service providers share payment information so we can administer and handle your trip reservation
+
+Sentence 38 (Confidence: 1):
+In some cases, we link to other business partners providing trip reservations that may not be available on our website or mobile apps
+
+Sentence 39 (Confidence: 1):
+When you click on these, youre redirected to other business partners websites, where you can make a reservation
+
+Sentence 40 (Confidence: 1):
+These partners may share certain personal data related to your specific reservation and your interactions on these websites or mobile apps with us in accordance with their privacy policies
+
+Sentence 41 (Confidence: 1):
+the additional cookie data our social media and marketing partners may make available to us on an aggregated basis) in order for us to measure the effectiveness of advertising and marketing campaigns
+
+Sentence 42 (Confidence: 1):
+These may be offers and recommendations we think you may find interesting that you can book directly on our platform, on sites operated in partnership with a strategic partner, or on other third-party sites
+
+Sentence 43 (Confidence: 1):
+Strategic partnersWe work with many strategic partners around the world
+
+Sentence 44 (Confidence: 1):
+These strategic partners distribute and advertise Booking
+
+Sentence 45 (Confidence: 1):
+Depending on the strategic partner, you may make your trip reservation through:our website thats operated in partnership with a strategic partner; orstrategic partners websites or mobile apps
+
+Sentence 46 (Confidence: 1):
+For the former, the strategic partners will receive certain personal data related to your specific reservation and your interactions on these websites
+
+Sentence 47 (Confidence: 1):
+With these strategic partners, we may act as joint controllers for processing of specific personal data
+
+Sentence 48 (Confidence: 1):
+If you choose to exercise your data subject rights with our strategic partners, we may collaborate to ensure an adequate response to your request
+
+Sentence 49 (Confidence: 1):
+For fraud detection and prevention purposes, we may also exchange information about our users with strategic partners  but only when strictly necessary
+
+Sentence 50 (Confidence: 1):
+Third-party service providersWe use service providers from outside of the Booking Holdings Inc
+
+Sentence 51 (Confidence: 1):
+The payment service providers may, in some cases, use your personal data for their own purposes, such as to detect and prevent fraud attempts and to comply with legal requirements applicable to them
+
+Sentence 52 (Confidence: 1):
+Marketing servicesWe may share some of your personal data (such as identifiers) with advertising partners as part of the marketing of our trip services via third parties (to ensure that relevant advertisements are shown to the right audience)
+
+Sentence 53 (Confidence: 1):
+Such disclosures by us may be required to:Comply with a legal obligation, for instance, under applicable short-term rental lawsProtect and defend our rights or the rights and interests of our business partners
+
+Sentence 54 (Confidence: 1):
+Other business partnersWe may share personal data in other instances with other business partners
+
+Sentence 55 (Confidence: 1):
+com is a business that connects travelers and partners around the world
+
+Sentence 56 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 57 (Confidence: 1):
+These parties might include other entities of the providers corporate group or service providers, drivers, or end fleets who are handling the data on the providers behalf
+
+Sentence 58 (Confidence: 1):
+Read (and follow the guidance from) articles we may make available to travelers and partners about online fraud prevention and data protection
+
+Sentence 59 (Confidence: 1):
+Analytical cookiesWe and our partners use analytical cookies to gain information on your website and mobile app usage, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services
+
+Sentence 60 (Confidence: 1):
+Marketing cookiesWe and our partners use marketing cookies, including social media cookies, to collect information about your browsing behavior that helps us and our partners decide which products to show you on and off our site, to display and send personalized content and advertisements on our platform, other websites, and via push messages and email
+
+Sentence 61 (Confidence: 1):
+com offers online travel-related services through its own websites and mobile apps as well as via third-party channels such as partners websites
+
+Sentence 62 (Confidence: 1):
+coms business partners
+
+Sentence 63 (Confidence: 1):
+Through these partnerships, travelers can conveniently book their trip at various touchpoints beyond our direct channels of Booking
+
+Sentence 64 (Confidence: 1):
+This can include one or more of the following:Other BHI companiesTrip providers, for example as part of their interactions with our customer servicesStrategic partners we contract withOther third-party companies such as marketing partnersInformation we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 65 (Confidence: 1):
+They are also integrated into the services of strategic partners you can find online
+
+Sentence 66 (Confidence: 1):
+We integrate with third-party payment service providers such as Adyen and Stripe to, for example, facilitate electronic payments between you, Booking
+
+Sentence 67 (Confidence: 1):
+These service providers share payment information so we can administer and handle your trip reservation
+
+Sentence 68 (Confidence: 1):
+In some cases, we link to other business partners providing trip reservations that may not be available on our website or mobile apps
+
+Sentence 69 (Confidence: 1):
+When you click on these, youre redirected to other business partners websites, where you can make a reservation
+
+Sentence 70 (Confidence: 1):
+These partners may share certain personal data related to your specific reservation and your interactions on these websites or mobile apps with us in accordance with their privacy policies
+
+Sentence 71 (Confidence: 1):
+the additional cookie data our social media and marketing partners may make available to us on an aggregated basis) in order for us to measure the effectiveness of advertising and marketing campaigns
+
+Sentence 72 (Confidence: 1):
+These may be offers and recommendations we think you may find interesting that you can book directly on our platform, on sites operated in partnership with a strategic partner, or on other third-party sites
+
+Sentence 73 (Confidence: 1):
+Strategic partnersWe work with many strategic partners around the world
+
+Sentence 74 (Confidence: 1):
+These strategic partners distribute and advertise Booking
+
+Sentence 75 (Confidence: 1):
+Depending on the strategic partner, you may make your trip reservation through:our website thats operated in partnership with a strategic partner; orstrategic partners websites or mobile apps
+
+Sentence 76 (Confidence: 1):
+For the former, the strategic partners will receive certain personal data related to your specific reservation and your interactions on these websites
+
+Sentence 77 (Confidence: 1):
+With these strategic partners, we may act as joint controllers for processing of specific personal data
+
+Sentence 78 (Confidence: 1):
+If you choose to exercise your data subject rights with our strategic partners, we may collaborate to ensure an adequate response to your request
+
+Sentence 79 (Confidence: 1):
+For fraud detection and prevention purposes, we may also exchange information about our users with strategic partners  but only when strictly necessary
+
+Sentence 80 (Confidence: 1):
+Third-party service providersWe use service providers from outside of the Booking Holdings Inc
+
+Sentence 81 (Confidence: 1):
+The payment service providers may, in some cases, use your personal data for their own purposes, such as to detect and prevent fraud attempts and to comply with legal requirements applicable to them
+
+Sentence 82 (Confidence: 1):
+Marketing servicesWe may share some of your personal data (such as identifiers) with advertising partners as part of the marketing of our trip services via third parties (to ensure that relevant advertisements are shown to the right audience)
+
+Sentence 83 (Confidence: 1):
+Such disclosures by us may be required to:Comply with a legal obligation, for instance, under applicable short-term rental lawsProtect and defend our rights or the rights and interests of our business partners
+
+Sentence 84 (Confidence: 1):
+Other business partnersWe may share personal data in other instances with other business partners
+
+Sentence 85 (Confidence: 1):
+com is a business that connects travelers and partners around the world
+
+Sentence 86 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 87 (Confidence: 1):
+These parties might include other entities of the providers corporate group or service providers, drivers, or end fleets who are handling the data on the providers behalf
+
+Sentence 88 (Confidence: 1):
+Read (and follow the guidance from) articles we may make available to travelers and partners about online fraud prevention and data protection
+
+Sentence 89 (Confidence: 1):
+Analytical cookiesWe and our partners use analytical cookies to gain information on your website and mobile app usage, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services
+
+Sentence 90 (Confidence: 1):
+Marketing cookiesWe and our partners use marketing cookies, including social media cookies, to collect information about your browsing behavior that helps us and our partners decide which products to show you on and off our site, to display and send personalized content and advertisements on our platform, other websites, and via push messages and email
+
+Sentence 91 (Confidence: 1):
+com offers online travel-related services through its own websites and mobile apps as well as via third-party channels such as partners websites
+
+Sentence 92 (Confidence: 1):
+coms business partners
+
+Sentence 93 (Confidence: 1):
+Through these partnerships, travelers can conveniently book their trip at various touchpoints beyond our direct channels of Booking
+
+Sentence 94 (Confidence: 1):
+This can include one or more of the following:Other BHI companiesTrip providers, for example as part of their interactions with our customer servicesStrategic partners we contract withOther third-party companies such as marketing partnersInformation we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 95 (Confidence: 1):
+They are also integrated into the services of strategic partners you can find online
+
+Sentence 96 (Confidence: 1):
+We integrate with third-party payment service providers such as Adyen and Stripe to, for example, facilitate electronic payments between you, Booking
+
+Sentence 97 (Confidence: 1):
+These service providers share payment information so we can administer and handle your trip reservation
+
+Sentence 98 (Confidence: 1):
+In some cases, we link to other business partners providing trip reservations that may not be available on our website or mobile apps
+
+Sentence 99 (Confidence: 1):
+When you click on these, youre redirected to other business partners websites, where you can make a reservation
+
+Sentence 100 (Confidence: 1):
+These partners may share certain personal data related to your specific reservation and your interactions on these websites or mobile apps with us in accordance with their privacy policies
+
+Sentence 101 (Confidence: 1):
+the additional cookie data our social media and marketing partners may make available to us on an aggregated basis) in order for us to measure the effectiveness of advertising and marketing campaigns
+
+Sentence 102 (Confidence: 1):
+These may be offers and recommendations we think you may find interesting that you can book directly on our platform, on sites operated in partnership with a strategic partner, or on other third-party sites
+
+Sentence 103 (Confidence: 1):
+Strategic partnersWe work with many strategic partners around the world
+
+Sentence 104 (Confidence: 1):
+These strategic partners distribute and advertise Booking
+
+Sentence 105 (Confidence: 1):
+Depending on the strategic partner, you may make your trip reservation through:our website thats operated in partnership with a strategic partner; orstrategic partners websites or mobile apps
+
+Sentence 106 (Confidence: 1):
+For the former, the strategic partners will receive certain personal data related to your specific reservation and your interactions on these websites
+
+Sentence 107 (Confidence: 1):
+With these strategic partners, we may act as joint controllers for processing of specific personal data
+
+Sentence 108 (Confidence: 1):
+If you choose to exercise your data subject rights with our strategic partners, we may collaborate to ensure an adequate response to your request
+
+Sentence 109 (Confidence: 1):
+For fraud detection and prevention purposes, we may also exchange information about our users with strategic partners  but only when strictly necessary
+
+Sentence 110 (Confidence: 1):
+Third-party service providersWe use service providers from outside of the Booking Holdings Inc
+
+Sentence 111 (Confidence: 1):
+The payment service providers may, in some cases, use your personal data for their own purposes, such as to detect and prevent fraud attempts and to comply with legal requirements applicable to them
+
+Sentence 112 (Confidence: 1):
+Marketing servicesWe may share some of your personal data (such as identifiers) with advertising partners as part of the marketing of our trip services via third parties (to ensure that relevant advertisements are shown to the right audience)
+
+Sentence 113 (Confidence: 1):
+Such disclosures by us may be required to:Comply with a legal obligation, for instance, under applicable short-term rental lawsProtect and defend our rights or the rights and interests of our business partners
+
+Sentence 114 (Confidence: 1):
+Other business partnersWe may share personal data in other instances with other business partners
+
+Sentence 115 (Confidence: 1):
+com is a business that connects travelers and partners around the world
+
+Sentence 116 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 117 (Confidence: 1):
+These parties might include other entities of the providers corporate group or service providers, drivers, or end fleets who are handling the data on the providers behalf
+
+Sentence 118 (Confidence: 1):
+com offers online travel-related services through its own websites and mobile apps as well as via third-party channels such as partners websites
+
+Sentence 119 (Confidence: 1):
+coms business partners
+
+Sentence 120 (Confidence: 1):
+Through these partnerships, travelers can conveniently book their trip at various touchpoints beyond our direct channels of Booking
+
+Sentence 121 (Confidence: 1):
+Through these partnerships, travelers can conveniently book their trip at various touchpoints beyond our direct channels of Booking
+
+Sentence 122 (Confidence: 1):
+Through these partnerships, travelers can conveniently book their trip at various touchpoints beyond our direct channels of Booking
+
+Sentence 123 (Confidence: 1):
+This can include one or more of the following: Trip providers, for example as part of their interactions with our customer services Strategic partners we contract with Other third-party companies such as marketing partners Information we receive from these parties may be used together with information you provide us with directly via our platform for the purposes of providing services to you
+
+Sentence 124 (Confidence: 1):
+They are also integrated into the services of strategic partners you can find online
+
+Sentence 125 (Confidence: 1):
+We integrate with third-party payment service providers such as Adyen and Stripe to, for example, facilitate electronic payments between you, Booking
+
+Sentence 126 (Confidence: 1):
+These service providers share payment information so we can administer and handle your trip reservation
+
+Sentence 127 (Confidence: 1):
+In some cases, we link to other business partners providing trip reservations that may not be available on our website or mobile apps
+
+Sentence 128 (Confidence: 1):
+When you click on these, youre redirected to other business partners websites, where you can make a reservation
+
+Sentence 129 (Confidence: 1):
+These partners may share certain personal data related to your specific reservation and your interactions on these websites or mobile apps with us in accordance with their privacy policies
+
+Sentence 130 (Confidence: 1):
+the additional cookie data our social media and marketing partners may make available to us on an aggregated basis) in order for us to measure the effectiveness of advertising and marketing campaigns
+
+Sentence 131 (Confidence: 1):
+These may be offers and recommendations we think you may find interesting that you can book directly on our platform, on sites operated in partnership with a strategic partner, or on other third-party sites
+
+Sentence 132 (Confidence: 1):
+We work with many strategic partners around the world
+
+Sentence 133 (Confidence: 1):
+These strategic partners distribute and advertise Booking
+
+Sentence 134 (Confidence: 1):
+Depending on the strategic partner, you may make your trip reservation through: our website thats operated in partnership with a strategic partner; or strategic partners websites or mobile apps
+
+Sentence 135 (Confidence: 1):
+For the former, the strategic partners will receive certain personal data related to your specific reservation and your interactions on these websites
+
+Sentence 136 (Confidence: 1):
+With these strategic partners, we may act as joint controllers for processing of specific personal data
+
+Sentence 137 (Confidence: 1):
+If you choose to exercise your data subject rights with our strategic partners, we may collaborate to ensure an adequate response to your request
+
+Sentence 138 (Confidence: 1):
+For fraud detection and prevention purposes, we may also exchange information about our users with strategic partners  but only when strictly necessary
+
+Sentence 139 (Confidence: 1):
+Third-party service providers Third-party service providers Third-party service providers We use service providers from outside of the Booking Holdings Inc
+
+Sentence 140 (Confidence: 1):
+The payment service providers may, in some cases, use your personal data for their own purposes, such as to detect and prevent fraud attempts and to comply with legal requirements applicable to them
+
+Sentence 141 (Confidence: 1):
+We may share some of your personal data (such as identifiers) with advertising partners as part of the marketing of our trip services via third parties (to ensure that relevant advertisements are shown to the right audience)
+
+Sentence 142 (Confidence: 1):
+Such disclosures by us may be required to: Comply with a legal obligation, for instance, under applicable short-term rental laws Protect and defend our rights or the rights and interests of our business partners
+
+Sentence 143 (Confidence: 1):
+Other business partners Other business partners Other business partners We may share personal data in other instances with other business partners
+
+Sentence 144 (Confidence: 1):
+com is a business that connects travelers and partners around the world
+
+Sentence 145 (Confidence: 1):
+In particular, if youre in the European Economic Area (EEA) and your personal data is transferred to third-party service providers in countries not considered adequate by the European Commission (EC), we establish and implement appropriate contractual, organizational, and technical measures with these third-party companies
+
+Sentence 146 (Confidence: 1):
+These parties might include other entities of the providers corporate group or service providers, drivers, or end fleets who are handling the data on the providers behalf
+
+Sentence 147 (Confidence: 1):
+Read (and follow the guidance from) articles we may make available to travelers and partners about online fraud prevention and data protection
+
+Sentence 148 (Confidence: 1):
+Read (and follow the guidance from) articles we may make available to travelers and partners about online fraud prevention and data protection
+
+Sentence 149 (Confidence: 1):
+Analytical cookiesWe and our partners use analytical cookies to gain information on your website and mobile app usage, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services
+
+Sentence 150 (Confidence: 1):
+Marketing cookiesWe and our partners use marketing cookies, including social media cookies, to collect information about your browsing behavior that helps us and our partners decide which products to show you on and off our site, to display and send personalized content and advertisements on our platform, other websites, and via push messages and email
+
+Sentence 151 (Confidence: 1):
+Analytical cookiesWe and our partners use analytical cookies to gain information on your website and mobile app usage, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services
+
+Sentence 152 (Confidence: 1):
+Marketing cookiesWe and our partners use marketing cookies, including social media cookies, to collect information about your browsing behavior that helps us and our partners decide which products to show you on and off our site, to display and send personalized content and advertisements on our platform, other websites, and via push messages and email
+
+Sentence 153 (Confidence: 1):
+Analytical cookiesWe and our partners use analytical cookies to gain information on your website and mobile app usage, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services
+
+Sentence 154 (Confidence: 1):
+Marketing cookiesWe and our partners use marketing cookies, including social media cookies, to collect information about your browsing behavior that helps us and our partners decide which products to show you on and off our site, to display and send personalized content and advertisements on our platform, other websites, and via push messages and email
+
+Sentence 155 (Confidence: 1):
+Analytical cookiesWe and our partners use analytical cookies to gain information on your website and mobile app usage, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services
+
+Sentence 156 (Confidence: 1):
+Marketing cookiesWe and our partners use marketing cookies, including social media cookies, to collect information about your browsing behavior that helps us and our partners decide which products to show you on and off our site, to display and send personalized content and advertisements on our platform, other websites, and via push messages and email
+
+Sentence 157 (Confidence: 1):
+We and our partners use analytical cookies to gain information on your website and mobile app usage, which is then used to understand how visitors like you use our platform and to improve the performance of our site and services
+
+Sentence 158 (Confidence: 1):
+We and our partners use marketing cookies, including social media cookies, to collect information about your browsing behavior that helps us and our partners decide which products to show you on and off our site, to display and send personalized content and advertisements on our platform, other websites, and via push messages and email
+

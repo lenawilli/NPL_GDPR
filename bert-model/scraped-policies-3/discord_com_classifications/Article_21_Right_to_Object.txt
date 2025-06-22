@@ -1,0 +1,11 @@
+=== Article 21 Right To Object ===
+
+Sentence 1 (Confidence: 7):
+If you are located in certain regions, including the European Union, you may have additional rights such as those listed below, and as outlined in thestate and region specific informationand disclosures that you can exercise through the Discord app directly or by contacting us:Right of access to your personal dataRight to rectify your personal data if it is incorrectRight to erase your personal dataRight to limit the processing of your personal dataRight to the portability of your personal dataRight to object to the processing of your personal dataRight to withdraw consent
+
+Sentence 2 (Confidence: 7):
+If you are located in certain regions, including the European Union, you may have additional rights such as those listed below, and as outlined in thestate and region specific informationand disclosures that you can exercise through the Discord app directly or by contacting us:Right of access to your personal dataRight to rectify your personal data if it is incorrectRight to erase your personal dataRight to limit the processing of your personal dataRight to the portability of your personal dataRight to object to the processing of your personal dataRight to withdraw consent
+
+Sentence 3 (Confidence: 7):
+If you are located in certain regions, including the European Union, you may have additional rights such as those listed below, and as outlined in thestate and region specific informationand disclosures that you can exercise through the Discord app directly or by contacting us: Right of access to your personal data Right to rectify your personal data if it is incorrect Right to erase your personal data Right to limit the processing of your personal data Right to the portability of your personal data Right to object to the processing of your personal data Right to withdraw consent
+

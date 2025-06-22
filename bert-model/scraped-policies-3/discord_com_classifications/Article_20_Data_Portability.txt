@@ -1,0 +1,20 @@
+=== Article 20 Data Portability ===
+
+Sentence 1 (Confidence: 1):
+These data transfers allow us to provide our services to you
+
+Sentence 2 (Confidence: 1):
+When transferring data outside the EEA, we usestandard contract clauses(Module 1 and Module 2), and we rely on the European Commission'sadequacy decisionsabout certain countries, as applicable, or other legally compliant mechanisms or conditions for such data transfer
+
+Sentence 3 (Confidence: 1):
+These data transfers allow us to provide our services to you
+
+Sentence 4 (Confidence: 1):
+When transferring data outside the EEA, we usestandard contract clauses(Module 1 and Module 2), and we rely on the European Commission'sadequacy decisionsabout certain countries, as applicable, or other legally compliant mechanisms or conditions for such data transfer
+
+Sentence 5 (Confidence: 1):
+These data transfers allow us to provide our services to you
+
+Sentence 6 (Confidence: 1):
+When transferring data outside the EEA, we usestandard contract clauses(Module 1 and Module 2), and we rely on the European Commission'sadequacy decisionsabout certain countries, as applicable, or other legally compliant mechanisms or conditions for such data transfer
+

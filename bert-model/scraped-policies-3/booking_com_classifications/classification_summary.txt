@@ -1,0 +1,20 @@
+GDPR Article Classification Summary for booking.com
+============================================================
+
+Cookies And Tracking: 210 points, 110 sentences
+Article 6 Lawful Basis: 201 points, 170 sentences
+Third Party Sharing: 158 points, 158 sentences
+Article 7 Consent: 63 points, 53 sentences
+Article 21 Right To Object: 55 points, 21 sentences
+Article 37 Data Protection Officer: 52 points, 13 sentences
+Article 14 Information Third Parties: 24 points, 24 sentences
+Article 18 Right To Restriction: 24 points, 8 sentences
+Article 32 Security Of Processing: 20 points, 5 sentences
+Article 20 Data Portability: 20 points, 10 sentences
+International Transfers: 15 points, 15 sentences
+Article 33 34 Data Breach: 10 points, 0 sentences
+Article 25 Data Protection By Design: 10 points, 10 sentences
+Article 12 Transparent Information: 5 points, 5 sentences
+
+Total classified sentences: 602
+Total content length: 349467 characters

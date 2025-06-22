@@ -1,0 +1,47 @@
+=== Cookies And Tracking ===
+
+Sentence 1 (Confidence: 1):
+We may receive information from cookies (small text files placed on your computer or device) and similar technologies
+
+Sentence 2 (Confidence: 1):
+You can find out more about Discordâs cookie usage and how you can manage your cookie permissions in ourCookie Policy
+
+Sentence 3 (Confidence: 1):
+We may tell you about our paid services and other features directly in the services and through our own channels, and we spend money advertising Discord on other platforms
+
+Sentence 4 (Confidence: 1):
+As part of that, we use certain information to assist in the delivery of our advertising, to measure the effectiveness of advertisements for our own products, and to improve such advertisements in the future
+
+Sentence 5 (Confidence: 1):
+We may also provide limited information to advertising platforms to help us reach people that we think will like our products and to measure the performance of our ads shown on those platforms
+
+Sentence 6 (Confidence: 1):
+We may receive information from cookies (small text files placed on your computer or device) and similar technologies
+
+Sentence 7 (Confidence: 1):
+You can find out more about Discordâs cookie usage and how you can manage your cookie permissions in ourCookie Policy
+
+Sentence 8 (Confidence: 1):
+We may receive information from cookies (small text files placed on your computer or device) and similar technologies
+
+Sentence 9 (Confidence: 1):
+You can find out more about Discordâs cookie usage and how you can manage your cookie permissions in ourCookie Policy
+
+Sentence 10 (Confidence: 1):
+We may tell you about our paid services and other features directly in the services and through our own channels, and we spend money advertising Discord on other platforms
+
+Sentence 11 (Confidence: 1):
+As part of that, we use certain information to assist in the delivery of our advertising, to measure the effectiveness of advertisements for our own products, and to improve such advertisements in the future
+
+Sentence 12 (Confidence: 1):
+We may tell you about our paid services and other features directly in the services and through our own channels, and we spend money advertising Discord on other platforms
+
+Sentence 13 (Confidence: 1):
+As part of that, we use certain information to assist in the delivery of our advertising, to measure the effectiveness of advertisements for our own products, and to improve such advertisements in the future
+
+Sentence 14 (Confidence: 1):
+We may also provide limited information to advertising platforms to help us reach people that we think will like our products and to measure the performance of our ads shown on those platforms
+
+Sentence 15 (Confidence: 1):
+We may also provide limited information to advertising platforms to help us reach people that we think will like our products and to measure the performance of our ads shown on those platforms
+

@@ -1,0 +1,23 @@
+GDPR Article Classification Summary for bitbucket.org
+============================================================
+
+Cookies And Tracking: 348 points, 108 sentences
+Article 13 Information Collection: 123 points, 118 sentences
+Third Party Sharing: 111 points, 99 sentences
+Article 21 Right To Object: 109 points, 79 sentences
+Article 6 Lawful Basis: 107 points, 78 sentences
+Article 7 Consent: 77 points, 60 sentences
+Article 14 Information Third Parties: 71 points, 66 sentences
+Retention And Storage: 43 points, 31 sentences
+International Transfers: 37 points, 37 sentences
+Article 16 Right To Rectification: 36 points, 12 sentences
+Article 33 34 Data Breach: 17 points, 12 sentences
+Article 12 Transparent Information: 13 points, 13 sentences
+Article 20 Data Portability: 12 points, 12 sentences
+Article 25 Data Protection By Design: 6 points, 6 sentences
+Article 37 Data Protection Officer: 6 points, 6 sentences
+Article 15 Right Of Access: 6 points, 6 sentences
+Article 32 Security Of Processing: 5 points, 0 sentences
+
+Total classified sentences: 743
+Total content length: 393258 characters

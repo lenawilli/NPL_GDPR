@@ -1,0 +1,11 @@
+=== Article 32 Security Of Processing ===
+
+Sentence 1 (Confidence: 1):
+We also enforce technical and administrative access controls to limit which of our employees and contractors have access to nonpublic personal information
+
+Sentence 2 (Confidence: 1):
+We also enforce technical and administrative access controls to limit which of our employees and contractors have access to nonpublic personal information
+
+Sentence 3 (Confidence: 1):
+We also enforce technical and administrative access controls to limit which of our employees and contractors have access to nonpublic personal information
+

@@ -1,0 +1,11 @@
+=== Article 12 Transparent Information ===
+
+Sentence 1 (Confidence: 1):
+If we do not resolve your complaint, you may submit your complaint free of charge toJAMS
+
+Sentence 2 (Confidence: 1):
+If we do not resolve your complaint, you may submit your complaint free of charge toJAMS
+
+Sentence 3 (Confidence: 1):
+If we do not resolve your complaint, you may submit your complaint free of charge toJAMS
+

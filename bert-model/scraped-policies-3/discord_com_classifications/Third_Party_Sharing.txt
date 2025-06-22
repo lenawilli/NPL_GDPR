@@ -1,0 +1,74 @@
+=== Third Party Sharing ===
+
+Sentence 1 (Confidence: 1):
+Our payment processors, like Stripe and PayPal, receive and process your payment information
+
+Sentence 2 (Confidence: 1):
+If you sell something through Discord, you may be required to provide additional information to Discord or to our payment processors, such as bank account information to facilitate payments, tax identification information, and copies of government issued identification required to identify users in accordance with regulatory obligations
+
+Sentence 3 (Confidence: 1):
+This information also helps us surface Discord features and promotions from us and our partners that may be of interest to you
+
+Sentence 4 (Confidence: 1):
+We may provide information to vendors we hire to carry out specific work for us
+
+Sentence 5 (Confidence: 1):
+This includes payment processors like Stripe and PayPal that process transactions on our behalf and cloud providers like Google that host our data and our services
+
+Sentence 6 (Confidence: 1):
+We may provide information toour related companies, including parents, affiliates, subsidiaries, and other companies under common control and ownership
+
+Sentence 7 (Confidence: 1):
+For example, we may share aggregated user statistics in order to describe our business, features, or promotions to partners or the public
+
+Sentence 8 (Confidence: 1):
+We may also store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers
+
+Sentence 9 (Confidence: 1):
+Our payment processors, like Stripe and PayPal, receive and process your payment information
+
+Sentence 10 (Confidence: 1):
+If you sell something through Discord, you may be required to provide additional information to Discord or to our payment processors, such as bank account information to facilitate payments, tax identification information, and copies of government issued identification required to identify users in accordance with regulatory obligations
+
+Sentence 11 (Confidence: 1):
+Our payment processors, like Stripe and PayPal, receive and process your payment information
+
+Sentence 12 (Confidence: 1):
+If you sell something through Discord, you may be required to provide additional information to Discord or to our payment processors, such as bank account information to facilitate payments, tax identification information, and copies of government issued identification required to identify users in accordance with regulatory obligations
+
+Sentence 13 (Confidence: 1):
+This information also helps us surface Discord features and promotions from us and our partners that may be of interest to you
+
+Sentence 14 (Confidence: 1):
+This information also helps us surface Discord features and promotions from us and our partners that may be of interest to you
+
+Sentence 15 (Confidence: 1):
+We may provide information to vendors we hire to carry out specific work for us
+
+Sentence 16 (Confidence: 1):
+This includes payment processors like Stripe and PayPal that process transactions on our behalf and cloud providers like Google that host our data and our services
+
+Sentence 17 (Confidence: 1):
+We may provide information toour related companies, including parents, affiliates, subsidiaries, and other companies under common control and ownership
+
+Sentence 18 (Confidence: 1):
+For example, we may share aggregated user statistics in order to describe our business, features, or promotions to partners or the public
+
+Sentence 19 (Confidence: 1):
+We may provide information to vendors we hire to carry out specific work for us
+
+Sentence 20 (Confidence: 1):
+This includes payment processors like Stripe and PayPal that process transactions on our behalf and cloud providers like Google that host our data and our services
+
+Sentence 21 (Confidence: 1):
+We may provide information toour related companies, including parents, affiliates, subsidiaries, and other companies under common control and ownership
+
+Sentence 22 (Confidence: 1):
+For example, we may share aggregated user statistics in order to describe our business, features, or promotions to partners or the public
+
+Sentence 23 (Confidence: 1):
+We may also store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers
+
+Sentence 24 (Confidence: 1):
+We may also store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers
+

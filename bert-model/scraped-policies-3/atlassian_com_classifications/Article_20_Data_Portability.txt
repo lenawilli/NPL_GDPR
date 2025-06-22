@@ -1,0 +1,38 @@
+=== Article 20 Data Portability ===
+
+Sentence 1 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 2 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 3 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 4 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 5 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 6 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 7 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 8 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 9 (Confidence: 1):
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier)
+
+Sentence 10 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 11 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
+Sentence 12 (Confidence: 1):
+When we disclose information about you within and among Atlassian corporate affiliates, we make use of the Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U
+
