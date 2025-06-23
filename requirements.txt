@@ -3,4 +3,7 @@ scikit-learn
 nltk
 joblib
 streamlit
-
+torch
+transformers
+numpy
+python_version >= 3.8
