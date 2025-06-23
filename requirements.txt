@@ -6,4 +6,3 @@ streamlit
 torch
 transformers
 numpy
-python_version >= 3.8
