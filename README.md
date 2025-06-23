@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### 2. Start the Streamlit app
 From the terminal (in the app's folder):
 ```bash
-streamlit run gdpr_streamlit_app_final_total_clean.py
+streamlit run app-st.py
 ```
 
 ## Required Files
