@@ -29,6 +29,7 @@ for article in gdpr_data:
                 "clause_text": clause
             })
 
+# Combine questions with likely answer sentences: preserve meaning & complete context
 def merge_question_with_list(sentences, window_size=3):
     merged = []
     i = 0
@@ -58,6 +59,7 @@ def merge_question_with_list(sentences, window_size=3):
             i += 1
     return merged
 
+# Re-joins bullet points or numbered lists that got broken during tokenization:
 def merge_list_items(sentences):
     merged = []
     buffer = ""
@@ -96,6 +98,8 @@ def merge_questions_with_context(sentences, forced_context=4):
 
 import re
 
+# Fix kumbering spills (8., e.g.8.), Run-on capitalization (UKWe → UK. We) Extra whitespace or punctuation
+
 def clean_sentence_artifacts(sent):
     # Remove common numbering artifacts like '8.', '9.' that leak into sentence ends
     sent = re.sub(r"\.\s*\d+\.", ".", sent)  # e.g., "...period. 8." → "...period."
@@ -114,7 +118,7 @@ def clean_sentence_artifacts(sent):
 
     return sent.strip()
 
-# Mapping function
+# Mapping function, core function. processes one privacy policy and outputs GDPR article matches
 def map_policy_to_gdpr_with_windowing(raw_text, similarity_threshold=0.60, window_size=4):
     from hashlib import sha1
 
@@ -134,7 +138,8 @@ def map_policy_to_gdpr_with_windowing(raw_text, similarity_threshold=0.60, windo
     sentences = merge_questions_with_context(sentences, forced_context=2)  
     sentences = [clean_sentence_artifacts(s) for s in sentences]       
 
-    # Create sentence windows
+    # Create sentence windows ie overlapping chunks of multiple sentences (e.g., 4 in a row) for more context
+    # this unit is compared to GDPR clauses using embeddings.
     blocks = []
    # for i in range(len(sentences)):
      #   window = " ".join(sentences[i:i+window_size])
@@ -146,6 +151,11 @@ def map_policy_to_gdpr_with_windowing(raw_text, similarity_threshold=0.60, windo
 
 
     # Embed
+    #Convert text to numerical vectors
+    #Compute cosine similarity between policy blocks and GDPR clauses
+
+
+# Represent each block of your policy and each GDPR clause as a vector in a high-dimensional space, where similar meanings are closer together
     policy_embeddings = model.encode([b[1] for b in blocks], convert_to_tensor=True)
     gdpr_embeddings = model.encode(gdpr_clauses, convert_to_tensor=True)
 
