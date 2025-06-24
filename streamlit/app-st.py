@@ -119,7 +119,7 @@ with st.sidebar:
 if gdpr_file and policy_file:
     model_choice = st.selectbox(
         "Choose the model to use:",
-        ["Logistic Regression", "MultinomialNB", "LegalBERT (Eurlex)", "Knowledge Graphs"]
+        ["Logistic Regression", "MultinomialNB", "LegalBERT (Eurlex)", "SentenceTransformer", "RAG Model", "Knowledge Graphs"]
     )
 
     gdpr_data = json.load(gdpr_file)
@@ -176,6 +176,59 @@ if gdpr_file and policy_file:
                 "article_scores": dict(article_scores)
             }
 
+        elif model_choice == "SentenceTransformer":
+            model = joblib.load("sentence_transformer_model.joblib")
+            gdpr_texts = []
+            gdpr_map = {}
+            for article in gdpr_data:
+                number, title = article["article_number"], article["article_title"]
+                body = " ".join([f"{k} {v}" for sec in article["sections"] for k, v in sec.items()])
+                full_text = f"Article {number}: {title}. {body}"
+                gdpr_map[number] = {
+                    "title": title,
+                    "text": full_text
+                }
+                gdpr_texts.append(full_text)
+
+            gdpr_embeddings = model.encode(gdpr_texts, convert_to_numpy=True)
+
+            chunks = chunk_policy_text(policy_text)
+            chunk_embeddings = model.encode(chunks, convert_to_numpy=True)
+
+            sim_matrix = cosine_similarity(gdpr_embeddings, chunk_embeddings)
+
+            article_scores = {}
+            presence_threshold = 0.35
+            total_score, counted_articles = 0, 0
+
+            for i, (art_num, art_data) in enumerate(gdpr_map.items()):
+                max_sim = np.max(sim_matrix[i])
+                best_idx = np.argmax(sim_matrix[i])
+
+                if max_sim < presence_threshold:
+                    continue
+
+                score_pct = min(100, max(0, (max_sim - presence_threshold) / (1 - presence_threshold) * 100))
+                article_scores[art_num] = {
+                    "article_title": art_data["title"],
+                    "compliance_percentage": round(score_pct, 2),
+                    "similarity_score": round(max_sim, 4),
+                    "matched_text_snippet": chunks[best_idx][:300] + "..."
+                }
+                total_score += score_pct
+                counted_articles += 1
+
+            overall = round(total_score / counted_articles, 2) if counted_articles else 0
+            result = {
+                "overall_compliance_percentage": overall,
+                "relevant_articles_analyzed": counted_articles,
+                "total_policy_chunks": len(chunks),
+                "article_scores": article_scores
+            }
+
+        elif model_choice == "RAG Model":
+            st.warning("Knowledge Graphs model is not implemented yet.")
+            result = {}
         elif model_choice == "Knowledge Graphs":
             st.warning("Knowledge Graphs model is not implemented yet.")
             result = {}
