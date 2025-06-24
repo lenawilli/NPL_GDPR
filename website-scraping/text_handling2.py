@@ -155,11 +155,16 @@ def map_policy_to_gdpr_with_windowing(raw_text, similarity_threshold=0.60, windo
     #Compute cosine similarity between policy blocks and GDPR clauses
 
 
-# Represent each block of your policy and each GDPR clause as a vector in a high-dimensional space, where similar meanings are closer together
+    # Represent each block of your policy and each GDPR clause as a vector in a high-dimensional space, where similar meanings are closer together
     policy_embeddings = model.encode([b[1] for b in blocks], convert_to_tensor=True)
     gdpr_embeddings = model.encode(gdpr_clauses, convert_to_tensor=True)
 
-    # Similarity
+    # Similarity Computes cosine similarity between each policy_embedding and each gdpr_embedding
+    #Returns a 2D matrix where:
+    #Rows = each policy block
+    #Columns = each GDPR clause
+    #Value at [i][j] = similarity score between policy block i and GDPR clause j
+    
     cos_scores = util.cos_sim(policy_embeddings, gdpr_embeddings)
 
     seen_blocks = set()
