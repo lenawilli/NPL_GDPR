@@ -10,3 +10,5 @@ matplotlib
 seaborn
 sentence_transformers
 rdflib
+openai
+python-dotenv
