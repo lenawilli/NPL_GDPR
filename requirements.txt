@@ -12,3 +12,6 @@ sentence_transformers
 rdflib
 openai
 python-dotenv
+rdflib
+networkx
+pyvis

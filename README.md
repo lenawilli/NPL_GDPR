@@ -65,7 +65,8 @@ You can choose one of the following models in the sidebar:
 - **MultinomialNB** (Naive Bayes + TF-IDF)
 - **LegalBERT (Eurlex)** (Transformer embeddings + cosine similarity)
 - **Sentence Transformer** (Embeddings + cosine similarity)
-- **Knowledge Graphs** (Not implemented yet)
+- **LLM Based** (Embeddings + cosine similarity using openAI)
+- **Knowledge Graphs** (with cosine similarity)
 
 ## Input Files
 
@@ -78,7 +79,7 @@ You can choose one of the following models in the sidebar:
 - Overall compliance score (0–100%)
 - Breakdown of relevant articles matched
 - Similarity score and sample matched text for each article
-
+- RDF graph
 ---
 
 

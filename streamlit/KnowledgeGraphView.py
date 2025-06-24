@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 
 # --- Load RDF ---
 g = Graph()
-g.parse("../gdpr_policy_graph.ttl", format="ttl")
+g.parse("../KnowledgeGraph/gdpr_policy_graph.ttl", format="ttl")
 
 BASE_URI = "http://example.org/gdpr#"
 EX = Namespace(BASE_URI)

@@ -11,6 +11,12 @@ from typing import List, Dict, Any
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
+from sentence_transformers import SentenceTransformer
+from rdflib import Graph, Namespace, URIRef, Literal, RDF, RDFS, XSD
+import os
+import networkx as nx
+from pyvis.network import Network
+import streamlit.components.v1 as components
 
 # ---------------------------
 # LegalBERT-based compliance checker
@@ -128,6 +134,17 @@ def get_embedding(text: str) -> List[float]:
     else:
         return resp.data[0].embedding
 
+def rdflib_to_networkx(rdflib_graph):
+    nx_graph = nx.MultiDiGraph()
+    for s, p, o in rdflib_graph:
+        nx_graph.add_edge(str(s), str(o), label=str(p))
+    return nx_graph
+
+def draw_pyvis_graph(nx_graph):
+    net = Network(height="600px", width="100%", directed=True, notebook=False)
+    net.from_nx(nx_graph)
+    net.repulsion(node_distance=200, central_gravity=0.33, spring_length=100, spring_strength=0.10, damping=0.95)
+    return net
 # ---------------------------
 # Streamlit interface
 # ---------------------------
@@ -298,8 +315,95 @@ if gdpr_file and policy_file:
                 "article_scores": article_scores
             }
         elif model_choice == "Knowledge Graphs":
-            st.warning("Knowledge Graphs model is not implemented yet.")
-            result = {}
+            EMBED_MODEL = "all-MiniLM-L6-v2"
+            model = SentenceTransformer(EMBED_MODEL)
+            TOP_N = 1
+            BASE_URI = "http://example.org/gdpr#"
+            gdpr_embeddings = {}
+            gdpr_map = {}
+            for art in gdpr_data:
+                number, title = art["article_number"], art["article_title"]
+                art_text = prepare_article_text(art)
+                gdpr_embeddings[art["article_number"]] = {
+                    "embedding": model.encode(art_text),
+                    "title": art["article_title"],
+                    "uri": URIRef(f"{BASE_URI}Article{art['article_number']}")
+                }
+                gdpr_map[number] = {"title": title, "text": art_text}
+            g = Graph()
+            EX = Namespace(BASE_URI)
+            g.bind("ex", EX)
+
+            # Add article nodes
+            for num, info in gdpr_embeddings.items():
+                g.add((info["uri"], RDF.type, EX.Article))
+                g.add((info["uri"], RDFS.label, Literal(f"Article {num}: {info['title']}")))
+            # Extract GDPR article vectors
+            article_nums = list(gdpr_embeddings.keys())
+            article_vectors = np.array([gdpr_embeddings[num]["embedding"] for num in article_nums])
+
+            # Score tracking
+            total_score = 0
+            counted_sections = 0
+            chunks = chunk_policy_text(policy_text)
+            report = []
+            presence_threshold = 0.35
+
+            # Process each policy chunk
+            for idx, text in enumerate(chunks, start=1):
+                if not text.strip():
+                    continue
+
+                # RDF section node
+                sec_uri = URIRef(f"{BASE_URI}PolicySection{idx}")
+                g.add((sec_uri, RDF.type, EX.PolicySection))
+                g.add((sec_uri, RDFS.label, Literal(f"Section {idx}")))
+
+                # Embed section
+                sec_emb = model.encode(text)
+
+                # Similarities to all articles
+                sims = []
+                for i, art_num in enumerate(article_nums):
+                    art_emb = article_vectors[i]
+                    sim = cosine_similarity([sec_emb], [art_emb])[0][0]
+                    sims.append({
+                        "article": art_num,
+                        "title": gdpr_embeddings[art_num]["title"],
+                        "similarity": round(sim, 4),
+                        "uri": gdpr_embeddings[art_num]["uri"],
+                        "text": gdpr_map[art_num]["text"]
+                    })
+
+                # Sort and pick best match
+                sims.sort(key=lambda x: x["similarity"], reverse=True)
+                top_match = sims[0]
+
+                # Threshold filtering
+                if top_match["similarity"] < presence_threshold:
+                    continue
+
+                # Compliance score
+                score_pct = min(100, max(0, (top_match["similarity"] - presence_threshold) / (1 - presence_threshold) * 100))
+
+                # Add RDF triples
+                g.add((sec_uri, EX.relatesTo, top_match["uri"]))
+                g.add((sec_uri, EX.similarityScore, Literal(top_match["similarity"], datatype=XSD.float)))
+
+                
+                g.serialize(destination="gdpr_policy_graph.ttl", format="turtle")
+
+                total_score += score_pct
+                counted_sections += 1
+
+            # Final summary
+            overall = round(total_score / counted_sections, 2) if counted_sections else 0
+            result = {
+                "overall_compliance_percentage": overall,
+                "relevant_sections_analyzed": counted_sections,
+                "total_policy_sections": len(chunks),
+                "ttl": True
+            }
 
         else:
             result = {}
@@ -308,9 +412,31 @@ if gdpr_file and policy_file:
         st.subheader(f"✅ Overall Compliance Score: {result['overall_compliance_percentage']}%")
         st.markdown("---")
         st.subheader("📋 Detailed Article Breakdown")
-        for art_num, data in sorted(result['article_scores'].items(), key=lambda x: -x[1]['compliance_percentage']):
-            with st.expander(f"Article {art_num} - {data['article_title']} ({data['compliance_percentage']}%)"):
-                st.write(f"**Similarity Score**: {data['similarity_score']}")
-                st.write(f"**Matched Text**:\n\n{data['matched_text_snippet']}")
+        ttl_file_path = "gdpr_policy_graph.ttl"
+        if result.get('article_scores'):
+            for art_num, data in sorted(result['article_scores'].items(), key=lambda x: -x[1]['compliance_percentage']):
+                with st.expander(f"Article {art_num} - {data['article_title']} ({data['compliance_percentage']}%)"):
+                    st.write(f"**Similarity Score**: {data['similarity_score']}")
+                    st.write(f"**Matched Text**:\n\n{data['matched_text_snippet']}")
+        elif result.get("ttl") and os.path.exists(ttl_file_path):
+            st.markdown("---")
+            st.subheader("🧠 Interactive RDF Graph Visualization")
+
+            g = Graph()
+            g.parse(ttl_file_path, format="ttl")
+
+            nx_graph = rdflib_to_networkx(g)
+            net = draw_pyvis_graph(nx_graph)
+
+            # Save the interactive graph temporarily
+            net.save_graph("rdf_graph.html")
+            HtmlFile = open("rdf_graph.html", "r", encoding="utf-8").read()
+
+            # Display interactive graph inside Streamlit
+            components.html(HtmlFile, height=650, scrolling=True)
+        
+        else:
+            st.info("No article scores or RDF graph to display.")
+
 else:
     st.info("Please upload both a GDPR JSON file and a company policy text file to begin.")
