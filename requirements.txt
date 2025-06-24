@@ -6,3 +6,7 @@ streamlit
 torch
 transformers
 numpy
+matplotlib
+seaborn
+sentence_transformers
+rdflib
