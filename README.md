@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Start the Streamlit app
-From the terminal (in the app's folder):
+From the terminal (in the folder "streamlit"):
 ```bash
 streamlit run app-st.py
 ```
