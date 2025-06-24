@@ -1,0 +1,3469 @@
+@prefix ex: <http://example.org/gdpr#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Article10_1 a ex:Clause ;
+    rdfs:label "Art. 10 1." ;
+    ex:partOf ex:Article10 .
+
+ex:Article11_1 a ex:Clause ;
+    rdfs:label "Art. 11 1." ;
+    ex:partOf ex:Article11 .
+
+ex:Article11_2 a ex:Clause ;
+    rdfs:label "Art. 11 2." ;
+    ex:partOf ex:Article11 .
+
+ex:Article12_1 a ex:Clause ;
+    rdfs:label "Art. 12 1." ;
+    ex:partOf ex:Article12 .
+
+ex:Article12_10 a ex:Clause ;
+    rdfs:label "Art. 12 10." ;
+    ex:partOf ex:Article12 .
+
+ex:Article12_2 a ex:Clause ;
+    rdfs:label "Art. 12 2." ;
+    ex:partOf ex:Article12 .
+
+ex:Article12_3 a ex:Clause ;
+    rdfs:label "Art. 12 3." ;
+    ex:partOf ex:Article12 .
+
+ex:Article12_5 a ex:Clause ;
+    rdfs:label "Art. 12 5." ;
+    ex:partOf ex:Article12 .
+
+ex:Article12_6 a ex:Clause ;
+    rdfs:label "Art. 12 6." ;
+    ex:partOf ex:Article12 .
+
+ex:Article12_7 a ex:Clause ;
+    rdfs:label "Art. 12 7." ;
+    ex:partOf ex:Article12 .
+
+ex:Article12_8 a ex:Clause ;
+    rdfs:label "Art. 12 8." ;
+    ex:partOf ex:Article12 .
+
+ex:Article12_9 a ex:Clause ;
+    rdfs:label "Art. 12 9." ;
+    ex:partOf ex:Article12 .
+
+ex:Article13_10 a ex:Clause ;
+    rdfs:label "Art. 13 10." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_11 a ex:Clause ;
+    rdfs:label "Art. 13 11." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_12 a ex:Clause ;
+    rdfs:label "Art. 13 12." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_15 a ex:Clause ;
+    rdfs:label "Art. 13 15." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_16 a ex:Clause ;
+    rdfs:label "Art. 13 16." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_2 a ex:Clause ;
+    rdfs:label "Art. 13 2." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_3 a ex:Clause ;
+    rdfs:label "Art. 13 3." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_4 a ex:Clause ;
+    rdfs:label "Art. 13 4." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_5 a ex:Clause ;
+    rdfs:label "Art. 13 5." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_6 a ex:Clause ;
+    rdfs:label "Art. 13 6." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_7 a ex:Clause ;
+    rdfs:label "Art. 13 7." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_9 a ex:Clause ;
+    rdfs:label "Art. 13 9." ;
+    ex:partOf ex:Article13 .
+
+ex:Article14_10 a ex:Clause ;
+    rdfs:label "Art. 14 10." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_11 a ex:Clause ;
+    rdfs:label "Art. 14 11." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_12 a ex:Clause ;
+    rdfs:label "Art. 14 12." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_13 a ex:Clause ;
+    rdfs:label "Art. 14 13." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_14 a ex:Clause ;
+    rdfs:label "Art. 14 14." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_16 a ex:Clause ;
+    rdfs:label "Art. 14 16." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_18 a ex:Clause ;
+    rdfs:label "Art. 14 18." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_19 a ex:Clause ;
+    rdfs:label "Art. 14 19." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_2 a ex:Clause ;
+    rdfs:label "Art. 14 2." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_20 a ex:Clause ;
+    rdfs:label "Art. 14 20." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_21 a ex:Clause ;
+    rdfs:label "Art. 14 21." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_22 a ex:Clause ;
+    rdfs:label "Art. 14 22." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_23 a ex:Clause ;
+    rdfs:label "Art. 14 23." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_24 a ex:Clause ;
+    rdfs:label "Art. 14 24." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_25 a ex:Clause ;
+    rdfs:label "Art. 14 25." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_3 a ex:Clause ;
+    rdfs:label "Art. 14 3." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_4 a ex:Clause ;
+    rdfs:label "Art. 14 4." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_5 a ex:Clause ;
+    rdfs:label "Art. 14 5." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_6 a ex:Clause ;
+    rdfs:label "Art. 14 6." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_7 a ex:Clause ;
+    rdfs:label "Art. 14 7." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_8 a ex:Clause ;
+    rdfs:label "Art. 14 8." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_9 a ex:Clause ;
+    rdfs:label "Art. 14 9." ;
+    ex:partOf ex:Article14 .
+
+ex:Article15_12 a ex:Clause ;
+    rdfs:label "Art. 15 12." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_2 a ex:Clause ;
+    rdfs:label "Art. 15 2." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_3 a ex:Clause ;
+    rdfs:label "Art. 15 3." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_4 a ex:Clause ;
+    rdfs:label "Art. 15 4." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_5 a ex:Clause ;
+    rdfs:label "Art. 15 5." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_6 a ex:Clause ;
+    rdfs:label "Art. 15 6." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_7 a ex:Clause ;
+    rdfs:label "Art. 15 7." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_8 a ex:Clause ;
+    rdfs:label "Art. 15 8." ;
+    ex:partOf ex:Article15 .
+
+ex:Article17_1 a ex:Clause ;
+    rdfs:label "Art. 17 1." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_10 a ex:Clause ;
+    rdfs:label "Art. 17 10." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_11 a ex:Clause ;
+    rdfs:label "Art. 17 11." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_12 a ex:Clause ;
+    rdfs:label "Art. 17 12." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_13 a ex:Clause ;
+    rdfs:label "Art. 17 13." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_14 a ex:Clause ;
+    rdfs:label "Art. 17 14." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_2 a ex:Clause ;
+    rdfs:label "Art. 17 2." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_3 a ex:Clause ;
+    rdfs:label "Art. 17 3." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_4 a ex:Clause ;
+    rdfs:label "Art. 17 4." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_5 a ex:Clause ;
+    rdfs:label "Art. 17 5." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_6 a ex:Clause ;
+    rdfs:label "Art. 17 6." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_8 a ex:Clause ;
+    rdfs:label "Art. 17 8." ;
+    ex:partOf ex:Article17 .
+
+ex:Article17_9 a ex:Clause ;
+    rdfs:label "Art. 17 9." ;
+    ex:partOf ex:Article17 .
+
+ex:Article18_1 a ex:Clause ;
+    rdfs:label "Art. 18 1." ;
+    ex:partOf ex:Article18 .
+
+ex:Article18_2 a ex:Clause ;
+    rdfs:label "Art. 18 2." ;
+    ex:partOf ex:Article18 .
+
+ex:Article18_3 a ex:Clause ;
+    rdfs:label "Art. 18 3." ;
+    ex:partOf ex:Article18 .
+
+ex:Article18_4 a ex:Clause ;
+    rdfs:label "Art. 18 4." ;
+    ex:partOf ex:Article18 .
+
+ex:Article18_5 a ex:Clause ;
+    rdfs:label "Art. 18 5." ;
+    ex:partOf ex:Article18 .
+
+ex:Article18_6 a ex:Clause ;
+    rdfs:label "Art. 18 6." ;
+    ex:partOf ex:Article18 .
+
+ex:Article18_7 a ex:Clause ;
+    rdfs:label "Art. 18 7." ;
+    ex:partOf ex:Article18 .
+
+ex:Article1_1 a ex:Clause ;
+    rdfs:label "Art. 1 1." ;
+    ex:partOf ex:Article1 .
+
+ex:Article1_2 a ex:Clause ;
+    rdfs:label "Art. 1 2." ;
+    ex:partOf ex:Article1 .
+
+ex:Article1_3 a ex:Clause ;
+    rdfs:label "Art. 1 3." ;
+    ex:partOf ex:Article1 .
+
+ex:Article20_1 a ex:Clause ;
+    rdfs:label "Art. 20 1." ;
+    ex:partOf ex:Article20 .
+
+ex:Article20_2 a ex:Clause ;
+    rdfs:label "Art. 20 2." ;
+    ex:partOf ex:Article20 .
+
+ex:Article20_3 a ex:Clause ;
+    rdfs:label "Art. 20 3." ;
+    ex:partOf ex:Article20 .
+
+ex:Article20_4 a ex:Clause ;
+    rdfs:label "Art. 20 4." ;
+    ex:partOf ex:Article20 .
+
+ex:Article20_5 a ex:Clause ;
+    rdfs:label "Art. 20 5." ;
+    ex:partOf ex:Article20 .
+
+ex:Article20_6 a ex:Clause ;
+    rdfs:label "Art. 20 6." ;
+    ex:partOf ex:Article20 .
+
+ex:Article21_1 a ex:Clause ;
+    rdfs:label "Art. 21 1." ;
+    ex:partOf ex:Article21 .
+
+ex:Article21_2 a ex:Clause ;
+    rdfs:label "Art. 21 2." ;
+    ex:partOf ex:Article21 .
+
+ex:Article21_3 a ex:Clause ;
+    rdfs:label "Art. 21 3." ;
+    ex:partOf ex:Article21 .
+
+ex:Article21_4 a ex:Clause ;
+    rdfs:label "Art. 21 4." ;
+    ex:partOf ex:Article21 .
+
+ex:Article21_5 a ex:Clause ;
+    rdfs:label "Art. 21 5." ;
+    ex:partOf ex:Article21 .
+
+ex:Article21_6 a ex:Clause ;
+    rdfs:label "Art. 21 6." ;
+    ex:partOf ex:Article21 .
+
+ex:Article22_2 a ex:Clause ;
+    rdfs:label "Art. 22 2." ;
+    ex:partOf ex:Article22 .
+
+ex:Article22_3 a ex:Clause ;
+    rdfs:label "Art. 22 3." ;
+    ex:partOf ex:Article22 .
+
+ex:Article22_4 a ex:Clause ;
+    rdfs:label "Art. 22 4." ;
+    ex:partOf ex:Article22 .
+
+ex:Article22_5 a ex:Clause ;
+    rdfs:label "Art. 22 5." ;
+    ex:partOf ex:Article22 .
+
+ex:Article22_6 a ex:Clause ;
+    rdfs:label "Art. 22 6." ;
+    ex:partOf ex:Article22 .
+
+ex:Article23_1 a ex:Clause ;
+    rdfs:label "Art. 23 1." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_10 a ex:Clause ;
+    rdfs:label "Art. 23 10." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_11 a ex:Clause ;
+    rdfs:label "Art. 23 11." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_12 a ex:Clause ;
+    rdfs:label "Art. 23 12." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_13 a ex:Clause ;
+    rdfs:label "Art. 23 13." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_14 a ex:Clause ;
+    rdfs:label "Art. 23 14." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_15 a ex:Clause ;
+    rdfs:label "Art. 23 15." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_16 a ex:Clause ;
+    rdfs:label "Art. 23 16." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_17 a ex:Clause ;
+    rdfs:label "Art. 23 17." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_18 a ex:Clause ;
+    rdfs:label "Art. 23 18." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_19 a ex:Clause ;
+    rdfs:label "Art. 23 19." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_2 a ex:Clause ;
+    rdfs:label "Art. 23 2." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_20 a ex:Clause ;
+    rdfs:label "Art. 23 20." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_3 a ex:Clause ;
+    rdfs:label "Art. 23 3." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_4 a ex:Clause ;
+    rdfs:label "Art. 23 4." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_5 a ex:Clause ;
+    rdfs:label "Art. 23 5." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_6 a ex:Clause ;
+    rdfs:label "Art. 23 6." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_7 a ex:Clause ;
+    rdfs:label "Art. 23 7." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_8 a ex:Clause ;
+    rdfs:label "Art. 23 8." ;
+    ex:partOf ex:Article23 .
+
+ex:Article23_9 a ex:Clause ;
+    rdfs:label "Art. 23 9." ;
+    ex:partOf ex:Article23 .
+
+ex:Article24_1 a ex:Clause ;
+    rdfs:label "Art. 24 1." ;
+    ex:partOf ex:Article24 .
+
+ex:Article24_2 a ex:Clause ;
+    rdfs:label "Art. 24 2." ;
+    ex:partOf ex:Article24 .
+
+ex:Article24_3 a ex:Clause ;
+    rdfs:label "Art. 24 3." ;
+    ex:partOf ex:Article24 .
+
+ex:Article25_1 a ex:Clause ;
+    rdfs:label "Art. 25 1." ;
+    ex:partOf ex:Article25 .
+
+ex:Article25_3 a ex:Clause ;
+    rdfs:label "Art. 25 3." ;
+    ex:partOf ex:Article25 .
+
+ex:Article26_1 a ex:Clause ;
+    rdfs:label "Art. 26 1." ;
+    ex:partOf ex:Article26 .
+
+ex:Article26_2 a ex:Clause ;
+    rdfs:label "Art. 26 2." ;
+    ex:partOf ex:Article26 .
+
+ex:Article26_3 a ex:Clause ;
+    rdfs:label "Art. 26 3." ;
+    ex:partOf ex:Article26 .
+
+ex:Article27_1 a ex:Clause ;
+    rdfs:label "Art. 27 1." ;
+    ex:partOf ex:Article27 .
+
+ex:Article27_2 a ex:Clause ;
+    rdfs:label "Art. 27 2." ;
+    ex:partOf ex:Article27 .
+
+ex:Article27_3 a ex:Clause ;
+    rdfs:label "Art. 27 3." ;
+    ex:partOf ex:Article27 .
+
+ex:Article27_4 a ex:Clause ;
+    rdfs:label "Art. 27 4." ;
+    ex:partOf ex:Article27 .
+
+ex:Article27_5 a ex:Clause ;
+    rdfs:label "Art. 27 5." ;
+    ex:partOf ex:Article27 .
+
+ex:Article27_6 a ex:Clause ;
+    rdfs:label "Art. 27 6." ;
+    ex:partOf ex:Article27 .
+
+ex:Article27_7 a ex:Clause ;
+    rdfs:label "Art. 27 7." ;
+    ex:partOf ex:Article27 .
+
+ex:Article28_1 a ex:Clause ;
+    rdfs:label "Art. 28 1." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_10 a ex:Clause ;
+    rdfs:label "Art. 28 10." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_11 a ex:Clause ;
+    rdfs:label "Art. 28 11." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_2 a ex:Clause ;
+    rdfs:label "Art. 28 2." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_3 a ex:Clause ;
+    rdfs:label "Art. 28 3." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_5 a ex:Clause ;
+    rdfs:label "Art. 28 5." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_6 a ex:Clause ;
+    rdfs:label "Art. 28 6." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_7 a ex:Clause ;
+    rdfs:label "Art. 28 7." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_9 a ex:Clause ;
+    rdfs:label "Art. 28 9." ;
+    ex:partOf ex:Article28 .
+
+ex:Article29_1 a ex:Clause ;
+    rdfs:label "Art. 29 1." ;
+    ex:partOf ex:Article29 .
+
+ex:Article2_1 a ex:Clause ;
+    rdfs:label "Art. 2 1." ;
+    ex:partOf ex:Article2 .
+
+ex:Article2_2 a ex:Clause ;
+    rdfs:label "Art. 2 2." ;
+    ex:partOf ex:Article2 .
+
+ex:Article2_3 a ex:Clause ;
+    rdfs:label "Art. 2 3." ;
+    ex:partOf ex:Article2 .
+
+ex:Article2_4 a ex:Clause ;
+    rdfs:label "Art. 2 4." ;
+    ex:partOf ex:Article2 .
+
+ex:Article2_5 a ex:Clause ;
+    rdfs:label "Art. 2 5." ;
+    ex:partOf ex:Article2 .
+
+ex:Article2_6 a ex:Clause ;
+    rdfs:label "Art. 2 6." ;
+    ex:partOf ex:Article2 .
+
+ex:Article2_7 a ex:Clause ;
+    rdfs:label "Art. 2 7." ;
+    ex:partOf ex:Article2 .
+
+ex:Article2_8 a ex:Clause ;
+    rdfs:label "Art. 2 8." ;
+    ex:partOf ex:Article2 .
+
+ex:Article30_10 a ex:Clause ;
+    rdfs:label "Art. 30 10." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_11 a ex:Clause ;
+    rdfs:label "Art. 30 11." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_12 a ex:Clause ;
+    rdfs:label "Art. 30 12." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_13 a ex:Clause ;
+    rdfs:label "Art. 30 13." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_14 a ex:Clause ;
+    rdfs:label "Art. 30 14." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_15 a ex:Clause ;
+    rdfs:label "Art. 30 15." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_16 a ex:Clause ;
+    rdfs:label "Art. 30 16." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_2 a ex:Clause ;
+    rdfs:label "Art. 30 2." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_3 a ex:Clause ;
+    rdfs:label "Art. 30 3." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_4 a ex:Clause ;
+    rdfs:label "Art. 30 4." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_5 a ex:Clause ;
+    rdfs:label "Art. 30 5." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_6 a ex:Clause ;
+    rdfs:label "Art. 30 6." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_7 a ex:Clause ;
+    rdfs:label "Art. 30 7." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_8 a ex:Clause ;
+    rdfs:label "Art. 30 8." ;
+    ex:partOf ex:Article30 .
+
+ex:Article30_9 a ex:Clause ;
+    rdfs:label "Art. 30 9." ;
+    ex:partOf ex:Article30 .
+
+ex:Article32_1 a ex:Clause ;
+    rdfs:label "Art. 32 1." ;
+    ex:partOf ex:Article32 .
+
+ex:Article32_2 a ex:Clause ;
+    rdfs:label "Art. 32 2." ;
+    ex:partOf ex:Article32 .
+
+ex:Article32_3 a ex:Clause ;
+    rdfs:label "Art. 32 3." ;
+    ex:partOf ex:Article32 .
+
+ex:Article32_4 a ex:Clause ;
+    rdfs:label "Art. 32 4." ;
+    ex:partOf ex:Article32 .
+
+ex:Article32_5 a ex:Clause ;
+    rdfs:label "Art. 32 5." ;
+    ex:partOf ex:Article32 .
+
+ex:Article32_6 a ex:Clause ;
+    rdfs:label "Art. 32 6." ;
+    ex:partOf ex:Article32 .
+
+ex:Article32_7 a ex:Clause ;
+    rdfs:label "Art. 32 7." ;
+    ex:partOf ex:Article32 .
+
+ex:Article32_8 a ex:Clause ;
+    rdfs:label "Art. 32 8." ;
+    ex:partOf ex:Article32 .
+
+ex:Article33_1 a ex:Clause ;
+    rdfs:label "Art. 33 1." ;
+    ex:partOf ex:Article33 .
+
+ex:Article33_2 a ex:Clause ;
+    rdfs:label "Art. 33 2." ;
+    ex:partOf ex:Article33 .
+
+ex:Article33_3 a ex:Clause ;
+    rdfs:label "Art. 33 3." ;
+    ex:partOf ex:Article33 .
+
+ex:Article33_4 a ex:Clause ;
+    rdfs:label "Art. 33 4." ;
+    ex:partOf ex:Article33 .
+
+ex:Article33_5 a ex:Clause ;
+    rdfs:label "Art. 33 5." ;
+    ex:partOf ex:Article33 .
+
+ex:Article33_6 a ex:Clause ;
+    rdfs:label "Art. 33 6." ;
+    ex:partOf ex:Article33 .
+
+ex:Article33_7 a ex:Clause ;
+    rdfs:label "Art. 33 7." ;
+    ex:partOf ex:Article33 .
+
+ex:Article33_8 a ex:Clause ;
+    rdfs:label "Art. 33 8." ;
+    ex:partOf ex:Article33 .
+
+ex:Article33_9 a ex:Clause ;
+    rdfs:label "Art. 33 9." ;
+    ex:partOf ex:Article33 .
+
+ex:Article34_1 a ex:Clause ;
+    rdfs:label "Art. 34 1." ;
+    ex:partOf ex:Article34 .
+
+ex:Article34_2 a ex:Clause ;
+    rdfs:label "Art. 34 2." ;
+    ex:partOf ex:Article34 .
+
+ex:Article34_3 a ex:Clause ;
+    rdfs:label "Art. 34 3." ;
+    ex:partOf ex:Article34 .
+
+ex:Article34_4 a ex:Clause ;
+    rdfs:label "Art. 34 4." ;
+    ex:partOf ex:Article34 .
+
+ex:Article34_5 a ex:Clause ;
+    rdfs:label "Art. 34 5." ;
+    ex:partOf ex:Article34 .
+
+ex:Article34_6 a ex:Clause ;
+    rdfs:label "Art. 34 6." ;
+    ex:partOf ex:Article34 .
+
+ex:Article34_7 a ex:Clause ;
+    rdfs:label "Art. 34 7." ;
+    ex:partOf ex:Article34 .
+
+ex:Article35_1 a ex:Clause ;
+    rdfs:label "Art. 35 1." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_10 a ex:Clause ;
+    rdfs:label "Art. 35 10." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_11 a ex:Clause ;
+    rdfs:label "Art. 35 11." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_12 a ex:Clause ;
+    rdfs:label "Art. 35 12." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_13 a ex:Clause ;
+    rdfs:label "Art. 35 13." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_14 a ex:Clause ;
+    rdfs:label "Art. 35 14." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_15 a ex:Clause ;
+    rdfs:label "Art. 35 15." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_16 a ex:Clause ;
+    rdfs:label "Art. 35 16." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_17 a ex:Clause ;
+    rdfs:label "Art. 35 17." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_18 a ex:Clause ;
+    rdfs:label "Art. 35 18." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_2 a ex:Clause ;
+    rdfs:label "Art. 35 2." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_3 a ex:Clause ;
+    rdfs:label "Art. 35 3." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_4 a ex:Clause ;
+    rdfs:label "Art. 35 4." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_5 a ex:Clause ;
+    rdfs:label "Art. 35 5." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_6 a ex:Clause ;
+    rdfs:label "Art. 35 6." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_7 a ex:Clause ;
+    rdfs:label "Art. 35 7." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_8 a ex:Clause ;
+    rdfs:label "Art. 35 8." ;
+    ex:partOf ex:Article35 .
+
+ex:Article35_9 a ex:Clause ;
+    rdfs:label "Art. 35 9." ;
+    ex:partOf ex:Article35 .
+
+ex:Article36_1 a ex:Clause ;
+    rdfs:label "Art. 36 1." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_10 a ex:Clause ;
+    rdfs:label "Art. 36 10." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_11 a ex:Clause ;
+    rdfs:label "Art. 36 11." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_2 a ex:Clause ;
+    rdfs:label "Art. 36 2." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_3 a ex:Clause ;
+    rdfs:label "Art. 36 3." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_4 a ex:Clause ;
+    rdfs:label "Art. 36 4." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_5 a ex:Clause ;
+    rdfs:label "Art. 36 5." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_6 a ex:Clause ;
+    rdfs:label "Art. 36 6." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_7 a ex:Clause ;
+    rdfs:label "Art. 36 7." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_8 a ex:Clause ;
+    rdfs:label "Art. 36 8." ;
+    ex:partOf ex:Article36 .
+
+ex:Article36_9 a ex:Clause ;
+    rdfs:label "Art. 36 9." ;
+    ex:partOf ex:Article36 .
+
+ex:Article37_1 a ex:Clause ;
+    rdfs:label "Art. 37 1." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_10 a ex:Clause ;
+    rdfs:label "Art. 37 10." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_2 a ex:Clause ;
+    rdfs:label "Art. 37 2." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_3 a ex:Clause ;
+    rdfs:label "Art. 37 3." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_4 a ex:Clause ;
+    rdfs:label "Art. 37 4." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_5 a ex:Clause ;
+    rdfs:label "Art. 37 5." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_6 a ex:Clause ;
+    rdfs:label "Art. 37 6." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_7 a ex:Clause ;
+    rdfs:label "Art. 37 7." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_8 a ex:Clause ;
+    rdfs:label "Art. 37 8." ;
+    ex:partOf ex:Article37 .
+
+ex:Article37_9 a ex:Clause ;
+    rdfs:label "Art. 37 9." ;
+    ex:partOf ex:Article37 .
+
+ex:Article38_1 a ex:Clause ;
+    rdfs:label "Art. 38 1." ;
+    ex:partOf ex:Article38 .
+
+ex:Article38_2 a ex:Clause ;
+    rdfs:label "Art. 38 2." ;
+    ex:partOf ex:Article38 .
+
+ex:Article38_3 a ex:Clause ;
+    rdfs:label "Art. 38 3." ;
+    ex:partOf ex:Article38 .
+
+ex:Article38_4 a ex:Clause ;
+    rdfs:label "Art. 38 4." ;
+    ex:partOf ex:Article38 .
+
+ex:Article38_5 a ex:Clause ;
+    rdfs:label "Art. 38 5." ;
+    ex:partOf ex:Article38 .
+
+ex:Article38_6 a ex:Clause ;
+    rdfs:label "Art. 38 6." ;
+    ex:partOf ex:Article38 .
+
+ex:Article39_1 a ex:Clause ;
+    rdfs:label "Art. 39 1." ;
+    ex:partOf ex:Article39 .
+
+ex:Article39_2 a ex:Clause ;
+    rdfs:label "Art. 39 2." ;
+    ex:partOf ex:Article39 .
+
+ex:Article39_3 a ex:Clause ;
+    rdfs:label "Art. 39 3." ;
+    ex:partOf ex:Article39 .
+
+ex:Article39_4 a ex:Clause ;
+    rdfs:label "Art. 39 4." ;
+    ex:partOf ex:Article39 .
+
+ex:Article39_5 a ex:Clause ;
+    rdfs:label "Art. 39 5." ;
+    ex:partOf ex:Article39 .
+
+ex:Article39_6 a ex:Clause ;
+    rdfs:label "Art. 39 6." ;
+    ex:partOf ex:Article39 .
+
+ex:Article39_7 a ex:Clause ;
+    rdfs:label "Art. 39 7." ;
+    ex:partOf ex:Article39 .
+
+ex:Article3_1 a ex:Clause ;
+    rdfs:label "Art. 3 1." ;
+    ex:partOf ex:Article3 .
+
+ex:Article3_2 a ex:Clause ;
+    rdfs:label "Art. 3 2." ;
+    ex:partOf ex:Article3 .
+
+ex:Article3_4 a ex:Clause ;
+    rdfs:label "Art. 3 4." ;
+    ex:partOf ex:Article3 .
+
+ex:Article3_5 a ex:Clause ;
+    rdfs:label "Art. 3 5." ;
+    ex:partOf ex:Article3 .
+
+ex:Article40_1 a ex:Clause ;
+    rdfs:label "Art. 40 1." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_10 a ex:Clause ;
+    rdfs:label "Art. 40 10." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_11 a ex:Clause ;
+    rdfs:label "Art. 40 11." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_12 a ex:Clause ;
+    rdfs:label "Art. 40 12." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_13 a ex:Clause ;
+    rdfs:label "Art. 40 13." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_14 a ex:Clause ;
+    rdfs:label "Art. 40 14." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_15 a ex:Clause ;
+    rdfs:label "Art. 40 15." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_16 a ex:Clause ;
+    rdfs:label "Art. 40 16." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_17 a ex:Clause ;
+    rdfs:label "Art. 40 17." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_18 a ex:Clause ;
+    rdfs:label "Art. 40 18." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_19 a ex:Clause ;
+    rdfs:label "Art. 40 19." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_20 a ex:Clause ;
+    rdfs:label "Art. 40 20." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_21 a ex:Clause ;
+    rdfs:label "Art. 40 21." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_22 a ex:Clause ;
+    rdfs:label "Art. 40 22." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_3 a ex:Clause ;
+    rdfs:label "Art. 40 3." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_4 a ex:Clause ;
+    rdfs:label "Art. 40 4." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_5 a ex:Clause ;
+    rdfs:label "Art. 40 5." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_6 a ex:Clause ;
+    rdfs:label "Art. 40 6." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_7 a ex:Clause ;
+    rdfs:label "Art. 40 7." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_8 a ex:Clause ;
+    rdfs:label "Art. 40 8." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_9 a ex:Clause ;
+    rdfs:label "Art. 40 9." ;
+    ex:partOf ex:Article40 .
+
+ex:Article41_1 a ex:Clause ;
+    rdfs:label "Art. 41 1." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_10 a ex:Clause ;
+    rdfs:label "Art. 41 10." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_2 a ex:Clause ;
+    rdfs:label "Art. 41 2." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_3 a ex:Clause ;
+    rdfs:label "Art. 41 3." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_4 a ex:Clause ;
+    rdfs:label "Art. 41 4." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_5 a ex:Clause ;
+    rdfs:label "Art. 41 5." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_6 a ex:Clause ;
+    rdfs:label "Art. 41 6." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_7 a ex:Clause ;
+    rdfs:label "Art. 41 7." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_8 a ex:Clause ;
+    rdfs:label "Art. 41 8." ;
+    ex:partOf ex:Article41 .
+
+ex:Article41_9 a ex:Clause ;
+    rdfs:label "Art. 41 9." ;
+    ex:partOf ex:Article41 .
+
+ex:Article42_1 a ex:Clause ;
+    rdfs:label "Art. 42 1." ;
+    ex:partOf ex:Article42 .
+
+ex:Article42_2 a ex:Clause ;
+    rdfs:label "Art. 42 2." ;
+    ex:partOf ex:Article42 .
+
+ex:Article42_3 a ex:Clause ;
+    rdfs:label "Art. 42 3." ;
+    ex:partOf ex:Article42 .
+
+ex:Article42_4 a ex:Clause ;
+    rdfs:label "Art. 42 4." ;
+    ex:partOf ex:Article42 .
+
+ex:Article42_5 a ex:Clause ;
+    rdfs:label "Art. 42 5." ;
+    ex:partOf ex:Article42 .
+
+ex:Article42_6 a ex:Clause ;
+    rdfs:label "Art. 42 6." ;
+    ex:partOf ex:Article42 .
+
+ex:Article42_7 a ex:Clause ;
+    rdfs:label "Art. 42 7." ;
+    ex:partOf ex:Article42 .
+
+ex:Article42_8 a ex:Clause ;
+    rdfs:label "Art. 42 8." ;
+    ex:partOf ex:Article42 .
+
+ex:Article43_1 a ex:Clause ;
+    rdfs:label "Art. 43 1." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_10 a ex:Clause ;
+    rdfs:label "Art. 43 10." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_11 a ex:Clause ;
+    rdfs:label "Art. 43 11." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_12 a ex:Clause ;
+    rdfs:label "Art. 43 12." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_13 a ex:Clause ;
+    rdfs:label "Art. 43 13." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_14 a ex:Clause ;
+    rdfs:label "Art. 43 14." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_15 a ex:Clause ;
+    rdfs:label "Art. 43 15." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_16 a ex:Clause ;
+    rdfs:label "Art. 43 16." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_2 a ex:Clause ;
+    rdfs:label "Art. 43 2." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_3 a ex:Clause ;
+    rdfs:label "Art. 43 3." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_4 a ex:Clause ;
+    rdfs:label "Art. 43 4." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_5 a ex:Clause ;
+    rdfs:label "Art. 43 5." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_6 a ex:Clause ;
+    rdfs:label "Art. 43 6." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_7 a ex:Clause ;
+    rdfs:label "Art. 43 7." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_8 a ex:Clause ;
+    rdfs:label "Art. 43 8." ;
+    ex:partOf ex:Article43 .
+
+ex:Article43_9 a ex:Clause ;
+    rdfs:label "Art. 43 9." ;
+    ex:partOf ex:Article43 .
+
+ex:Article44_1 a ex:Clause ;
+    rdfs:label "Art. 44 1." ;
+    ex:partOf ex:Article44 .
+
+ex:Article45_1 a ex:Clause ;
+    rdfs:label "Art. 45 1." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_10 a ex:Clause ;
+    rdfs:label "Art. 45 10." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_11 a ex:Clause ;
+    rdfs:label "Art. 45 11." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_12 a ex:Clause ;
+    rdfs:label "Art. 45 12." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_2 a ex:Clause ;
+    rdfs:label "Art. 45 2." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_3 a ex:Clause ;
+    rdfs:label "Art. 45 3." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_4 a ex:Clause ;
+    rdfs:label "Art. 45 4." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_5 a ex:Clause ;
+    rdfs:label "Art. 45 5." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_6 a ex:Clause ;
+    rdfs:label "Art. 45 6." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_7 a ex:Clause ;
+    rdfs:label "Art. 45 7." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_8 a ex:Clause ;
+    rdfs:label "Art. 45 8." ;
+    ex:partOf ex:Article45 .
+
+ex:Article45_9 a ex:Clause ;
+    rdfs:label "Art. 45 9." ;
+    ex:partOf ex:Article45 .
+
+ex:Article46_1 a ex:Clause ;
+    rdfs:label "Art. 46 1." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_10 a ex:Clause ;
+    rdfs:label "Art. 46 10." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_11 a ex:Clause ;
+    rdfs:label "Art. 46 11." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_12 a ex:Clause ;
+    rdfs:label "Art. 46 12." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_13 a ex:Clause ;
+    rdfs:label "Art. 46 13." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_2 a ex:Clause ;
+    rdfs:label "Art. 46 2." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_3 a ex:Clause ;
+    rdfs:label "Art. 46 3." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_4 a ex:Clause ;
+    rdfs:label "Art. 46 4." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_5 a ex:Clause ;
+    rdfs:label "Art. 46 5." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_6 a ex:Clause ;
+    rdfs:label "Art. 46 6." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_7 a ex:Clause ;
+    rdfs:label "Art. 46 7." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_8 a ex:Clause ;
+    rdfs:label "Art. 46 8." ;
+    ex:partOf ex:Article46 .
+
+ex:Article46_9 a ex:Clause ;
+    rdfs:label "Art. 46 9." ;
+    ex:partOf ex:Article46 .
+
+ex:Article47_1 a ex:Clause ;
+    rdfs:label "Art. 47 1." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_10 a ex:Clause ;
+    rdfs:label "Art. 47 10." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_11 a ex:Clause ;
+    rdfs:label "Art. 47 11." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_12 a ex:Clause ;
+    rdfs:label "Art. 47 12." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_13 a ex:Clause ;
+    rdfs:label "Art. 47 13." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_14 a ex:Clause ;
+    rdfs:label "Art. 47 14." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_15 a ex:Clause ;
+    rdfs:label "Art. 47 15." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_16 a ex:Clause ;
+    rdfs:label "Art. 47 16." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_17 a ex:Clause ;
+    rdfs:label "Art. 47 17." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_18 a ex:Clause ;
+    rdfs:label "Art. 47 18." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_19 a ex:Clause ;
+    rdfs:label "Art. 47 19." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_2 a ex:Clause ;
+    rdfs:label "Art. 47 2." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_20 a ex:Clause ;
+    rdfs:label "Art. 47 20." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_3 a ex:Clause ;
+    rdfs:label "Art. 47 3." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_4 a ex:Clause ;
+    rdfs:label "Art. 47 4." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_5 a ex:Clause ;
+    rdfs:label "Art. 47 5." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_6 a ex:Clause ;
+    rdfs:label "Art. 47 6." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_7 a ex:Clause ;
+    rdfs:label "Art. 47 7." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_8 a ex:Clause ;
+    rdfs:label "Art. 47 8." ;
+    ex:partOf ex:Article47 .
+
+ex:Article47_9 a ex:Clause ;
+    rdfs:label "Art. 47 9." ;
+    ex:partOf ex:Article47 .
+
+ex:Article48_1 a ex:Clause ;
+    rdfs:label "Art. 48 1." ;
+    ex:partOf ex:Article48 .
+
+ex:Article49_1 a ex:Clause ;
+    rdfs:label "Art. 49 1." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_10 a ex:Clause ;
+    rdfs:label "Art. 49 10." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_11 a ex:Clause ;
+    rdfs:label "Art. 49 11." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_12 a ex:Clause ;
+    rdfs:label "Art. 49 12." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_13 a ex:Clause ;
+    rdfs:label "Art. 49 13." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_2 a ex:Clause ;
+    rdfs:label "Art. 49 2." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_3 a ex:Clause ;
+    rdfs:label "Art. 49 3." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_4 a ex:Clause ;
+    rdfs:label "Art. 49 4." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_5 a ex:Clause ;
+    rdfs:label "Art. 49 5." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_6 a ex:Clause ;
+    rdfs:label "Art. 49 6." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_7 a ex:Clause ;
+    rdfs:label "Art. 49 7." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_8 a ex:Clause ;
+    rdfs:label "Art. 49 8." ;
+    ex:partOf ex:Article49 .
+
+ex:Article49_9 a ex:Clause ;
+    rdfs:label "Art. 49 9." ;
+    ex:partOf ex:Article49 .
+
+ex:Article4_1 a ex:Clause ;
+    rdfs:label "Art. 4 1." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_10 a ex:Clause ;
+    rdfs:label "Art. 4 10." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_11 a ex:Clause ;
+    rdfs:label "Art. 4 11." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_12 a ex:Clause ;
+    rdfs:label "Art. 4 12." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_13 a ex:Clause ;
+    rdfs:label "Art. 4 13." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_14 a ex:Clause ;
+    rdfs:label "Art. 4 14." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_15 a ex:Clause ;
+    rdfs:label "Art. 4 15." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_16 a ex:Clause ;
+    rdfs:label "Art. 4 16." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_17 a ex:Clause ;
+    rdfs:label "Art. 4 17." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_18 a ex:Clause ;
+    rdfs:label "Art. 4 18." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_19 a ex:Clause ;
+    rdfs:label "Art. 4 19." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_2 a ex:Clause ;
+    rdfs:label "Art. 4 2." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_20 a ex:Clause ;
+    rdfs:label "Art. 4 20." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_21 a ex:Clause ;
+    rdfs:label "Art. 4 21." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_22 a ex:Clause ;
+    rdfs:label "Art. 4 22." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_23 a ex:Clause ;
+    rdfs:label "Art. 4 23." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_24 a ex:Clause ;
+    rdfs:label "Art. 4 24." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_25 a ex:Clause ;
+    rdfs:label "Art. 4 25." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_26 a ex:Clause ;
+    rdfs:label "Art. 4 26." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_27 a ex:Clause ;
+    rdfs:label "Art. 4 27." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_28 a ex:Clause ;
+    rdfs:label "Art. 4 28." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_29 a ex:Clause ;
+    rdfs:label "Art. 4 29." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_3 a ex:Clause ;
+    rdfs:label "Art. 4 3." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_30 a ex:Clause ;
+    rdfs:label "Art. 4 30." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_31 a ex:Clause ;
+    rdfs:label "Art. 4 31." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_32 a ex:Clause ;
+    rdfs:label "Art. 4 32." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_33 a ex:Clause ;
+    rdfs:label "Art. 4 33." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_4 a ex:Clause ;
+    rdfs:label "Art. 4 4." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_5 a ex:Clause ;
+    rdfs:label "Art. 4 5." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_6 a ex:Clause ;
+    rdfs:label "Art. 4 6." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_7 a ex:Clause ;
+    rdfs:label "Art. 4 7." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_8 a ex:Clause ;
+    rdfs:label "Art. 4 8." ;
+    ex:partOf ex:Article4 .
+
+ex:Article4_9 a ex:Clause ;
+    rdfs:label "Art. 4 9." ;
+    ex:partOf ex:Article4 .
+
+ex:Article50_2 a ex:Clause ;
+    rdfs:label "Art. 50 2." ;
+    ex:partOf ex:Article50 .
+
+ex:Article50_3 a ex:Clause ;
+    rdfs:label "Art. 50 3." ;
+    ex:partOf ex:Article50 .
+
+ex:Article50_4 a ex:Clause ;
+    rdfs:label "Art. 50 4." ;
+    ex:partOf ex:Article50 .
+
+ex:Article50_5 a ex:Clause ;
+    rdfs:label "Art. 50 5." ;
+    ex:partOf ex:Article50 .
+
+ex:Article51_1 a ex:Clause ;
+    rdfs:label "Art. 51 1." ;
+    ex:partOf ex:Article51 .
+
+ex:Article51_2 a ex:Clause ;
+    rdfs:label "Art. 51 2." ;
+    ex:partOf ex:Article51 .
+
+ex:Article51_3 a ex:Clause ;
+    rdfs:label "Art. 51 3." ;
+    ex:partOf ex:Article51 .
+
+ex:Article51_4 a ex:Clause ;
+    rdfs:label "Art. 51 4." ;
+    ex:partOf ex:Article51 .
+
+ex:Article52_1 a ex:Clause ;
+    rdfs:label "Art. 52 1." ;
+    ex:partOf ex:Article52 .
+
+ex:Article52_2 a ex:Clause ;
+    rdfs:label "Art. 52 2." ;
+    ex:partOf ex:Article52 .
+
+ex:Article52_3 a ex:Clause ;
+    rdfs:label "Art. 52 3." ;
+    ex:partOf ex:Article52 .
+
+ex:Article52_4 a ex:Clause ;
+    rdfs:label "Art. 52 4." ;
+    ex:partOf ex:Article52 .
+
+ex:Article52_5 a ex:Clause ;
+    rdfs:label "Art. 52 5." ;
+    ex:partOf ex:Article52 .
+
+ex:Article52_6 a ex:Clause ;
+    rdfs:label "Art. 52 6." ;
+    ex:partOf ex:Article52 .
+
+ex:Article53_1 a ex:Clause ;
+    rdfs:label "Art. 53 1." ;
+    ex:partOf ex:Article53 .
+
+ex:Article53_2 a ex:Clause ;
+    rdfs:label "Art. 53 2." ;
+    ex:partOf ex:Article53 .
+
+ex:Article53_3 a ex:Clause ;
+    rdfs:label "Art. 53 3." ;
+    ex:partOf ex:Article53 .
+
+ex:Article53_4 a ex:Clause ;
+    rdfs:label "Art. 53 4." ;
+    ex:partOf ex:Article53 .
+
+ex:Article54_1 a ex:Clause ;
+    rdfs:label "Art. 54 1." ;
+    ex:partOf ex:Article54 .
+
+ex:Article54_2 a ex:Clause ;
+    rdfs:label "Art. 54 2." ;
+    ex:partOf ex:Article54 .
+
+ex:Article54_3 a ex:Clause ;
+    rdfs:label "Art. 54 3." ;
+    ex:partOf ex:Article54 .
+
+ex:Article54_4 a ex:Clause ;
+    rdfs:label "Art. 54 4." ;
+    ex:partOf ex:Article54 .
+
+ex:Article54_5 a ex:Clause ;
+    rdfs:label "Art. 54 5." ;
+    ex:partOf ex:Article54 .
+
+ex:Article54_6 a ex:Clause ;
+    rdfs:label "Art. 54 6." ;
+    ex:partOf ex:Article54 .
+
+ex:Article54_7 a ex:Clause ;
+    rdfs:label "Art. 54 7." ;
+    ex:partOf ex:Article54 .
+
+ex:Article54_8 a ex:Clause ;
+    rdfs:label "Art. 54 8." ;
+    ex:partOf ex:Article54 .
+
+ex:Article55_1 a ex:Clause ;
+    rdfs:label "Art. 55 1." ;
+    ex:partOf ex:Article55 .
+
+ex:Article55_2 a ex:Clause ;
+    rdfs:label "Art. 55 2." ;
+    ex:partOf ex:Article55 .
+
+ex:Article55_3 a ex:Clause ;
+    rdfs:label "Art. 55 3." ;
+    ex:partOf ex:Article55 .
+
+ex:Article56_1 a ex:Clause ;
+    rdfs:label "Art. 56 1." ;
+    ex:partOf ex:Article56 .
+
+ex:Article56_2 a ex:Clause ;
+    rdfs:label "Art. 56 2." ;
+    ex:partOf ex:Article56 .
+
+ex:Article56_3 a ex:Clause ;
+    rdfs:label "Art. 56 3." ;
+    ex:partOf ex:Article56 .
+
+ex:Article56_4 a ex:Clause ;
+    rdfs:label "Art. 56 4." ;
+    ex:partOf ex:Article56 .
+
+ex:Article56_5 a ex:Clause ;
+    rdfs:label "Art. 56 5." ;
+    ex:partOf ex:Article56 .
+
+ex:Article56_6 a ex:Clause ;
+    rdfs:label "Art. 56 6." ;
+    ex:partOf ex:Article56 .
+
+ex:Article57_1 a ex:Clause ;
+    rdfs:label "Art. 57 1." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_10 a ex:Clause ;
+    rdfs:label "Art. 57 10." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_11 a ex:Clause ;
+    rdfs:label "Art. 57 11." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_12 a ex:Clause ;
+    rdfs:label "Art. 57 12." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_13 a ex:Clause ;
+    rdfs:label "Art. 57 13." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_14 a ex:Clause ;
+    rdfs:label "Art. 57 14." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_15 a ex:Clause ;
+    rdfs:label "Art. 57 15." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_16 a ex:Clause ;
+    rdfs:label "Art. 57 16." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_17 a ex:Clause ;
+    rdfs:label "Art. 57 17." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_18 a ex:Clause ;
+    rdfs:label "Art. 57 18." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_19 a ex:Clause ;
+    rdfs:label "Art. 57 19." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_2 a ex:Clause ;
+    rdfs:label "Art. 57 2." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_20 a ex:Clause ;
+    rdfs:label "Art. 57 20." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_21 a ex:Clause ;
+    rdfs:label "Art. 57 21." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_22 a ex:Clause ;
+    rdfs:label "Art. 57 22." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_23 a ex:Clause ;
+    rdfs:label "Art. 57 23." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_24 a ex:Clause ;
+    rdfs:label "Art. 57 24." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_25 a ex:Clause ;
+    rdfs:label "Art. 57 25." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_26 a ex:Clause ;
+    rdfs:label "Art. 57 26." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_3 a ex:Clause ;
+    rdfs:label "Art. 57 3." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_4 a ex:Clause ;
+    rdfs:label "Art. 57 4." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_5 a ex:Clause ;
+    rdfs:label "Art. 57 5." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_6 a ex:Clause ;
+    rdfs:label "Art. 57 6." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_7 a ex:Clause ;
+    rdfs:label "Art. 57 7." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_8 a ex:Clause ;
+    rdfs:label "Art. 57 8." ;
+    ex:partOf ex:Article57 .
+
+ex:Article57_9 a ex:Clause ;
+    rdfs:label "Art. 57 9." ;
+    ex:partOf ex:Article57 .
+
+ex:Article58_1 a ex:Clause ;
+    rdfs:label "Art. 58 1." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_10 a ex:Clause ;
+    rdfs:label "Art. 58 10." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_11 a ex:Clause ;
+    rdfs:label "Art. 58 11." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_12 a ex:Clause ;
+    rdfs:label "Art. 58 12." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_14 a ex:Clause ;
+    rdfs:label "Art. 58 14." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_15 a ex:Clause ;
+    rdfs:label "Art. 58 15." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_16 a ex:Clause ;
+    rdfs:label "Art. 58 16." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_17 a ex:Clause ;
+    rdfs:label "Art. 58 17." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_18 a ex:Clause ;
+    rdfs:label "Art. 58 18." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_19 a ex:Clause ;
+    rdfs:label "Art. 58 19." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_2 a ex:Clause ;
+    rdfs:label "Art. 58 2." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_20 a ex:Clause ;
+    rdfs:label "Art. 58 20." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_21 a ex:Clause ;
+    rdfs:label "Art. 58 21." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_22 a ex:Clause ;
+    rdfs:label "Art. 58 22." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_23 a ex:Clause ;
+    rdfs:label "Art. 58 23." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_24 a ex:Clause ;
+    rdfs:label "Art. 58 24." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_25 a ex:Clause ;
+    rdfs:label "Art. 58 25." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_26 a ex:Clause ;
+    rdfs:label "Art. 58 26." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_27 a ex:Clause ;
+    rdfs:label "Art. 58 27." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_28 a ex:Clause ;
+    rdfs:label "Art. 58 28." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_29 a ex:Clause ;
+    rdfs:label "Art. 58 29." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_3 a ex:Clause ;
+    rdfs:label "Art. 58 3." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_30 a ex:Clause ;
+    rdfs:label "Art. 58 30." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_31 a ex:Clause ;
+    rdfs:label "Art. 58 31." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_32 a ex:Clause ;
+    rdfs:label "Art. 58 32." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_4 a ex:Clause ;
+    rdfs:label "Art. 58 4." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_5 a ex:Clause ;
+    rdfs:label "Art. 58 5." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_6 a ex:Clause ;
+    rdfs:label "Art. 58 6." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_7 a ex:Clause ;
+    rdfs:label "Art. 58 7." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_8 a ex:Clause ;
+    rdfs:label "Art. 58 8." ;
+    ex:partOf ex:Article58 .
+
+ex:Article58_9 a ex:Clause ;
+    rdfs:label "Art. 58 9." ;
+    ex:partOf ex:Article58 .
+
+ex:Article59_1 a ex:Clause ;
+    rdfs:label "Art. 59 1." ;
+    ex:partOf ex:Article59 .
+
+ex:Article5_2 a ex:Clause ;
+    rdfs:label "Art. 5 2." ;
+    ex:partOf ex:Article5 .
+
+ex:Article5_3 a ex:Clause ;
+    rdfs:label "Art. 5 3." ;
+    ex:partOf ex:Article5 .
+
+ex:Article5_4 a ex:Clause ;
+    rdfs:label "Art. 5 4." ;
+    ex:partOf ex:Article5 .
+
+ex:Article5_5 a ex:Clause ;
+    rdfs:label "Art. 5 5." ;
+    ex:partOf ex:Article5 .
+
+ex:Article5_7 a ex:Clause ;
+    rdfs:label "Art. 5 7." ;
+    ex:partOf ex:Article5 .
+
+ex:Article5_8 a ex:Clause ;
+    rdfs:label "Art. 5 8." ;
+    ex:partOf ex:Article5 .
+
+ex:Article60_1 a ex:Clause ;
+    rdfs:label "Art. 60 1." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_10 a ex:Clause ;
+    rdfs:label "Art. 60 10." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_11 a ex:Clause ;
+    rdfs:label "Art. 60 11." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_12 a ex:Clause ;
+    rdfs:label "Art. 60 12." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_2 a ex:Clause ;
+    rdfs:label "Art. 60 2." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_3 a ex:Clause ;
+    rdfs:label "Art. 60 3." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_4 a ex:Clause ;
+    rdfs:label "Art. 60 4." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_5 a ex:Clause ;
+    rdfs:label "Art. 60 5." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_6 a ex:Clause ;
+    rdfs:label "Art. 60 6." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_7 a ex:Clause ;
+    rdfs:label "Art. 60 7." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_8 a ex:Clause ;
+    rdfs:label "Art. 60 8." ;
+    ex:partOf ex:Article60 .
+
+ex:Article60_9 a ex:Clause ;
+    rdfs:label "Art. 60 9." ;
+    ex:partOf ex:Article60 .
+
+ex:Article61_1 a ex:Clause ;
+    rdfs:label "Art. 61 1." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_10 a ex:Clause ;
+    rdfs:label "Art. 61 10." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_11 a ex:Clause ;
+    rdfs:label "Art. 61 11." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_2 a ex:Clause ;
+    rdfs:label "Art. 61 2." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_3 a ex:Clause ;
+    rdfs:label "Art. 61 3." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_4 a ex:Clause ;
+    rdfs:label "Art. 61 4." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_5 a ex:Clause ;
+    rdfs:label "Art. 61 5." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_6 a ex:Clause ;
+    rdfs:label "Art. 61 6." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_7 a ex:Clause ;
+    rdfs:label "Art. 61 7." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_8 a ex:Clause ;
+    rdfs:label "Art. 61 8." ;
+    ex:partOf ex:Article61 .
+
+ex:Article61_9 a ex:Clause ;
+    rdfs:label "Art. 61 9." ;
+    ex:partOf ex:Article61 .
+
+ex:Article62_1 a ex:Clause ;
+    rdfs:label "Art. 62 1." ;
+    ex:partOf ex:Article62 .
+
+ex:Article62_2 a ex:Clause ;
+    rdfs:label "Art. 62 2." ;
+    ex:partOf ex:Article62 .
+
+ex:Article62_3 a ex:Clause ;
+    rdfs:label "Art. 62 3." ;
+    ex:partOf ex:Article62 .
+
+ex:Article62_4 a ex:Clause ;
+    rdfs:label "Art. 62 4." ;
+    ex:partOf ex:Article62 .
+
+ex:Article62_5 a ex:Clause ;
+    rdfs:label "Art. 62 5." ;
+    ex:partOf ex:Article62 .
+
+ex:Article62_6 a ex:Clause ;
+    rdfs:label "Art. 62 6." ;
+    ex:partOf ex:Article62 .
+
+ex:Article62_7 a ex:Clause ;
+    rdfs:label "Art. 62 7." ;
+    ex:partOf ex:Article62 .
+
+ex:Article63_1 a ex:Clause ;
+    rdfs:label "Art. 63 1." ;
+    ex:partOf ex:Article63 .
+
+ex:Article64_1 a ex:Clause ;
+    rdfs:label "Art. 64 1." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_10 a ex:Clause ;
+    rdfs:label "Art. 64 10." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_11 a ex:Clause ;
+    rdfs:label "Art. 64 11." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_12 a ex:Clause ;
+    rdfs:label "Art. 64 12." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_13 a ex:Clause ;
+    rdfs:label "Art. 64 13." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_14 a ex:Clause ;
+    rdfs:label "Art. 64 14." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_15 a ex:Clause ;
+    rdfs:label "Art. 64 15." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_16 a ex:Clause ;
+    rdfs:label "Art. 64 16." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_2 a ex:Clause ;
+    rdfs:label "Art. 64 2." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_3 a ex:Clause ;
+    rdfs:label "Art. 64 3." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_4 a ex:Clause ;
+    rdfs:label "Art. 64 4." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_5 a ex:Clause ;
+    rdfs:label "Art. 64 5." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_6 a ex:Clause ;
+    rdfs:label "Art. 64 6." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_7 a ex:Clause ;
+    rdfs:label "Art. 64 7." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_8 a ex:Clause ;
+    rdfs:label "Art. 64 8." ;
+    ex:partOf ex:Article64 .
+
+ex:Article64_9 a ex:Clause ;
+    rdfs:label "Art. 64 9." ;
+    ex:partOf ex:Article64 .
+
+ex:Article65_1 a ex:Clause ;
+    rdfs:label "Art. 65 1." ;
+    ex:partOf ex:Article65 .
+
+ex:Article65_2 a ex:Clause ;
+    rdfs:label "Art. 65 2." ;
+    ex:partOf ex:Article65 .
+
+ex:Article65_3 a ex:Clause ;
+    rdfs:label "Art. 65 3." ;
+    ex:partOf ex:Article65 .
+
+ex:Article65_4 a ex:Clause ;
+    rdfs:label "Art. 65 4." ;
+    ex:partOf ex:Article65 .
+
+ex:Article65_5 a ex:Clause ;
+    rdfs:label "Art. 65 5." ;
+    ex:partOf ex:Article65 .
+
+ex:Article65_6 a ex:Clause ;
+    rdfs:label "Art. 65 6." ;
+    ex:partOf ex:Article65 .
+
+ex:Article65_7 a ex:Clause ;
+    rdfs:label "Art. 65 7." ;
+    ex:partOf ex:Article65 .
+
+ex:Article65_8 a ex:Clause ;
+    rdfs:label "Art. 65 8." ;
+    ex:partOf ex:Article65 .
+
+ex:Article65_9 a ex:Clause ;
+    rdfs:label "Art. 65 9." ;
+    ex:partOf ex:Article65 .
+
+ex:Article66_1 a ex:Clause ;
+    rdfs:label "Art. 66 1." ;
+    ex:partOf ex:Article66 .
+
+ex:Article66_2 a ex:Clause ;
+    rdfs:label "Art. 66 2." ;
+    ex:partOf ex:Article66 .
+
+ex:Article66_3 a ex:Clause ;
+    rdfs:label "Art. 66 3." ;
+    ex:partOf ex:Article66 .
+
+ex:Article66_4 a ex:Clause ;
+    rdfs:label "Art. 66 4." ;
+    ex:partOf ex:Article66 .
+
+ex:Article67_1 a ex:Clause ;
+    rdfs:label "Art. 67 1." ;
+    ex:partOf ex:Article67 .
+
+ex:Article68_1 a ex:Clause ;
+    rdfs:label "Art. 68 1." ;
+    ex:partOf ex:Article68 .
+
+ex:Article68_2 a ex:Clause ;
+    rdfs:label "Art. 68 2." ;
+    ex:partOf ex:Article68 .
+
+ex:Article68_3 a ex:Clause ;
+    rdfs:label "Art. 68 3." ;
+    ex:partOf ex:Article68 .
+
+ex:Article68_4 a ex:Clause ;
+    rdfs:label "Art. 68 4." ;
+    ex:partOf ex:Article68 .
+
+ex:Article68_5 a ex:Clause ;
+    rdfs:label "Art. 68 5." ;
+    ex:partOf ex:Article68 .
+
+ex:Article68_6 a ex:Clause ;
+    rdfs:label "Art. 68 6." ;
+    ex:partOf ex:Article68 .
+
+ex:Article69_1 a ex:Clause ;
+    rdfs:label "Art. 69 1." ;
+    ex:partOf ex:Article69 .
+
+ex:Article69_2 a ex:Clause ;
+    rdfs:label "Art. 69 2." ;
+    ex:partOf ex:Article69 .
+
+ex:Article6_1 a ex:Clause ;
+    rdfs:label "Art. 6 1." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_10 a ex:Clause ;
+    rdfs:label "Art. 6 10." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_11 a ex:Clause ;
+    rdfs:label "Art. 6 11." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_13 a ex:Clause ;
+    rdfs:label "Art. 6 13." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_14 a ex:Clause ;
+    rdfs:label "Art. 6 14." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_15 a ex:Clause ;
+    rdfs:label "Art. 6 15." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_16 a ex:Clause ;
+    rdfs:label "Art. 6 16." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_17 a ex:Clause ;
+    rdfs:label "Art. 6 17." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_2 a ex:Clause ;
+    rdfs:label "Art. 6 2." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_3 a ex:Clause ;
+    rdfs:label "Art. 6 3." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_4 a ex:Clause ;
+    rdfs:label "Art. 6 4." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_5 a ex:Clause ;
+    rdfs:label "Art. 6 5." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_6 a ex:Clause ;
+    rdfs:label "Art. 6 6." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_7 a ex:Clause ;
+    rdfs:label "Art. 6 7." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_8 a ex:Clause ;
+    rdfs:label "Art. 6 8." ;
+    ex:partOf ex:Article6 .
+
+ex:Article6_9 a ex:Clause ;
+    rdfs:label "Art. 6 9." ;
+    ex:partOf ex:Article6 .
+
+ex:Article70_1 a ex:Clause ;
+    rdfs:label "Art. 70 1." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_11 a ex:Clause ;
+    rdfs:label "Art. 70 11." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_12 a ex:Clause ;
+    rdfs:label "Art. 70 12." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_13 a ex:Clause ;
+    rdfs:label "Art. 70 13." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_14 a ex:Clause ;
+    rdfs:label "Art. 70 14." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_15 a ex:Clause ;
+    rdfs:label "Art. 70 15." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_16 a ex:Clause ;
+    rdfs:label "Art. 70 16." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_17 a ex:Clause ;
+    rdfs:label "Art. 70 17." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_18 a ex:Clause ;
+    rdfs:label "Art. 70 18." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_19 a ex:Clause ;
+    rdfs:label "Art. 70 19." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_2 a ex:Clause ;
+    rdfs:label "Art. 70 2." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_20 a ex:Clause ;
+    rdfs:label "Art. 70 20." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_21 a ex:Clause ;
+    rdfs:label "Art. 70 21." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_22 a ex:Clause ;
+    rdfs:label "Art. 70 22." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_23 a ex:Clause ;
+    rdfs:label "Art. 70 23." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_24 a ex:Clause ;
+    rdfs:label "Art. 70 24." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_25 a ex:Clause ;
+    rdfs:label "Art. 70 25." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_26 a ex:Clause ;
+    rdfs:label "Art. 70 26." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_27 a ex:Clause ;
+    rdfs:label "Art. 70 27." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_28 a ex:Clause ;
+    rdfs:label "Art. 70 28." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_29 a ex:Clause ;
+    rdfs:label "Art. 70 29." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_3 a ex:Clause ;
+    rdfs:label "Art. 70 3." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_4 a ex:Clause ;
+    rdfs:label "Art. 70 4." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_5 a ex:Clause ;
+    rdfs:label "Art. 70 5." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_6 a ex:Clause ;
+    rdfs:label "Art. 70 6." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_7 a ex:Clause ;
+    rdfs:label "Art. 70 7." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_8 a ex:Clause ;
+    rdfs:label "Art. 70 8." ;
+    ex:partOf ex:Article70 .
+
+ex:Article70_9 a ex:Clause ;
+    rdfs:label "Art. 70 9." ;
+    ex:partOf ex:Article70 .
+
+ex:Article71_1 a ex:Clause ;
+    rdfs:label "Art. 71 1." ;
+    ex:partOf ex:Article71 .
+
+ex:Article71_2 a ex:Clause ;
+    rdfs:label "Art. 71 2." ;
+    ex:partOf ex:Article71 .
+
+ex:Article72_1 a ex:Clause ;
+    rdfs:label "Art. 72 1." ;
+    ex:partOf ex:Article72 .
+
+ex:Article72_2 a ex:Clause ;
+    rdfs:label "Art. 72 2." ;
+    ex:partOf ex:Article72 .
+
+ex:Article73_1 a ex:Clause ;
+    rdfs:label "Art. 73 1." ;
+    ex:partOf ex:Article73 .
+
+ex:Article73_2 a ex:Clause ;
+    rdfs:label "Art. 73 2." ;
+    ex:partOf ex:Article73 .
+
+ex:Article74_1 a ex:Clause ;
+    rdfs:label "Art. 74 1." ;
+    ex:partOf ex:Article74 .
+
+ex:Article74_2 a ex:Clause ;
+    rdfs:label "Art. 74 2." ;
+    ex:partOf ex:Article74 .
+
+ex:Article74_3 a ex:Clause ;
+    rdfs:label "Art. 74 3." ;
+    ex:partOf ex:Article74 .
+
+ex:Article74_4 a ex:Clause ;
+    rdfs:label "Art. 74 4." ;
+    ex:partOf ex:Article74 .
+
+ex:Article74_5 a ex:Clause ;
+    rdfs:label "Art. 74 5." ;
+    ex:partOf ex:Article74 .
+
+ex:Article75_1 a ex:Clause ;
+    rdfs:label "Art. 75 1." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_10 a ex:Clause ;
+    rdfs:label "Art. 75 10." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_11 a ex:Clause ;
+    rdfs:label "Art. 75 11." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_12 a ex:Clause ;
+    rdfs:label "Art. 75 12." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_13 a ex:Clause ;
+    rdfs:label "Art. 75 13." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_2 a ex:Clause ;
+    rdfs:label "Art. 75 2." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_3 a ex:Clause ;
+    rdfs:label "Art. 75 3." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_4 a ex:Clause ;
+    rdfs:label "Art. 75 4." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_5 a ex:Clause ;
+    rdfs:label "Art. 75 5." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_6 a ex:Clause ;
+    rdfs:label "Art. 75 6." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_7 a ex:Clause ;
+    rdfs:label "Art. 75 7." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_8 a ex:Clause ;
+    rdfs:label "Art. 75 8." ;
+    ex:partOf ex:Article75 .
+
+ex:Article75_9 a ex:Clause ;
+    rdfs:label "Art. 75 9." ;
+    ex:partOf ex:Article75 .
+
+ex:Article76_1 a ex:Clause ;
+    rdfs:label "Art. 76 1." ;
+    ex:partOf ex:Article76 .
+
+ex:Article76_2 a ex:Clause ;
+    rdfs:label "Art. 76 2." ;
+    ex:partOf ex:Article76 .
+
+ex:Article77_1 a ex:Clause ;
+    rdfs:label "Art. 77 1." ;
+    ex:partOf ex:Article77 .
+
+ex:Article77_2 a ex:Clause ;
+    rdfs:label "Art. 77 2." ;
+    ex:partOf ex:Article77 .
+
+ex:Article78_1 a ex:Clause ;
+    rdfs:label "Art. 78 1." ;
+    ex:partOf ex:Article78 .
+
+ex:Article78_2 a ex:Clause ;
+    rdfs:label "Art. 78 2." ;
+    ex:partOf ex:Article78 .
+
+ex:Article78_3 a ex:Clause ;
+    rdfs:label "Art. 78 3." ;
+    ex:partOf ex:Article78 .
+
+ex:Article78_4 a ex:Clause ;
+    rdfs:label "Art. 78 4." ;
+    ex:partOf ex:Article78 .
+
+ex:Article79_1 a ex:Clause ;
+    rdfs:label "Art. 79 1." ;
+    ex:partOf ex:Article79 .
+
+ex:Article79_2 a ex:Clause ;
+    rdfs:label "Art. 79 2." ;
+    ex:partOf ex:Article79 .
+
+ex:Article7_1 a ex:Clause ;
+    rdfs:label "Art. 7 1." ;
+    ex:partOf ex:Article7 .
+
+ex:Article7_2 a ex:Clause ;
+    rdfs:label "Art. 7 2." ;
+    ex:partOf ex:Article7 .
+
+ex:Article7_4 a ex:Clause ;
+    rdfs:label "Art. 7 4." ;
+    ex:partOf ex:Article7 .
+
+ex:Article80_2 a ex:Clause ;
+    rdfs:label "Art. 80 2." ;
+    ex:partOf ex:Article80 .
+
+ex:Article81_1 a ex:Clause ;
+    rdfs:label "Art. 81 1." ;
+    ex:partOf ex:Article81 .
+
+ex:Article81_2 a ex:Clause ;
+    rdfs:label "Art. 81 2." ;
+    ex:partOf ex:Article81 .
+
+ex:Article81_3 a ex:Clause ;
+    rdfs:label "Art. 81 3." ;
+    ex:partOf ex:Article81 .
+
+ex:Article82_1 a ex:Clause ;
+    rdfs:label "Art. 82 1." ;
+    ex:partOf ex:Article82 .
+
+ex:Article82_2 a ex:Clause ;
+    rdfs:label "Art. 82 2." ;
+    ex:partOf ex:Article82 .
+
+ex:Article82_3 a ex:Clause ;
+    rdfs:label "Art. 82 3." ;
+    ex:partOf ex:Article82 .
+
+ex:Article82_4 a ex:Clause ;
+    rdfs:label "Art. 82 4." ;
+    ex:partOf ex:Article82 .
+
+ex:Article82_5 a ex:Clause ;
+    rdfs:label "Art. 82 5." ;
+    ex:partOf ex:Article82 .
+
+ex:Article82_6 a ex:Clause ;
+    rdfs:label "Art. 82 6." ;
+    ex:partOf ex:Article82 .
+
+ex:Article83_1 a ex:Clause ;
+    rdfs:label "Art. 83 1." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_10 a ex:Clause ;
+    rdfs:label "Art. 83 10." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_11 a ex:Clause ;
+    rdfs:label "Art. 83 11." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_12 a ex:Clause ;
+    rdfs:label "Art. 83 12." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_13 a ex:Clause ;
+    rdfs:label "Art. 83 13." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_14 a ex:Clause ;
+    rdfs:label "Art. 83 14." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_15 a ex:Clause ;
+    rdfs:label "Art. 83 15." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_16 a ex:Clause ;
+    rdfs:label "Art. 83 16." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_17 a ex:Clause ;
+    rdfs:label "Art. 83 17." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_18 a ex:Clause ;
+    rdfs:label "Art. 83 18." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_19 a ex:Clause ;
+    rdfs:label "Art. 83 19." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_2 a ex:Clause ;
+    rdfs:label "Art. 83 2." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_20 a ex:Clause ;
+    rdfs:label "Art. 83 20." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_21 a ex:Clause ;
+    rdfs:label "Art. 83 21." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_22 a ex:Clause ;
+    rdfs:label "Art. 83 22." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_23 a ex:Clause ;
+    rdfs:label "Art. 83 23." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_24 a ex:Clause ;
+    rdfs:label "Art. 83 24." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_25 a ex:Clause ;
+    rdfs:label "Art. 83 25." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_26 a ex:Clause ;
+    rdfs:label "Art. 83 26." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_27 a ex:Clause ;
+    rdfs:label "Art. 83 27." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_28 a ex:Clause ;
+    rdfs:label "Art. 83 28." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_3 a ex:Clause ;
+    rdfs:label "Art. 83 3." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_4 a ex:Clause ;
+    rdfs:label "Art. 83 4." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_5 a ex:Clause ;
+    rdfs:label "Art. 83 5." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_6 a ex:Clause ;
+    rdfs:label "Art. 83 6." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_7 a ex:Clause ;
+    rdfs:label "Art. 83 7." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_8 a ex:Clause ;
+    rdfs:label "Art. 83 8." ;
+    ex:partOf ex:Article83 .
+
+ex:Article83_9 a ex:Clause ;
+    rdfs:label "Art. 83 9." ;
+    ex:partOf ex:Article83 .
+
+ex:Article84_1 a ex:Clause ;
+    rdfs:label "Art. 84 1." ;
+    ex:partOf ex:Article84 .
+
+ex:Article84_2 a ex:Clause ;
+    rdfs:label "Art. 84 2." ;
+    ex:partOf ex:Article84 .
+
+ex:Article85_1 a ex:Clause ;
+    rdfs:label "Art. 85 1." ;
+    ex:partOf ex:Article85 .
+
+ex:Article85_2 a ex:Clause ;
+    rdfs:label "Art. 85 2." ;
+    ex:partOf ex:Article85 .
+
+ex:Article85_3 a ex:Clause ;
+    rdfs:label "Art. 85 3." ;
+    ex:partOf ex:Article85 .
+
+ex:Article86_1 a ex:Clause ;
+    rdfs:label "Art. 86 1." ;
+    ex:partOf ex:Article86 .
+
+ex:Article87_1 a ex:Clause ;
+    rdfs:label "Art. 87 1." ;
+    ex:partOf ex:Article87 .
+
+ex:Article88_1 a ex:Clause ;
+    rdfs:label "Art. 88 1." ;
+    ex:partOf ex:Article88 .
+
+ex:Article88_3 a ex:Clause ;
+    rdfs:label "Art. 88 3." ;
+    ex:partOf ex:Article88 .
+
+ex:Article89_1 a ex:Clause ;
+    rdfs:label "Art. 89 1." ;
+    ex:partOf ex:Article89 .
+
+ex:Article89_2 a ex:Clause ;
+    rdfs:label "Art. 89 2." ;
+    ex:partOf ex:Article89 .
+
+ex:Article89_3 a ex:Clause ;
+    rdfs:label "Art. 89 3." ;
+    ex:partOf ex:Article89 .
+
+ex:Article89_4 a ex:Clause ;
+    rdfs:label "Art. 89 4." ;
+    ex:partOf ex:Article89 .
+
+ex:Article8_1 a ex:Clause ;
+    rdfs:label "Art. 8 1." ;
+    ex:partOf ex:Article8 .
+
+ex:Article8_2 a ex:Clause ;
+    rdfs:label "Art. 8 2." ;
+    ex:partOf ex:Article8 .
+
+ex:Article8_3 a ex:Clause ;
+    rdfs:label "Art. 8 3." ;
+    ex:partOf ex:Article8 .
+
+ex:Article90_1 a ex:Clause ;
+    rdfs:label "Art. 90 1." ;
+    ex:partOf ex:Article90 .
+
+ex:Article90_2 a ex:Clause ;
+    rdfs:label "Art. 90 2." ;
+    ex:partOf ex:Article90 .
+
+ex:Article91_1 a ex:Clause ;
+    rdfs:label "Art. 91 1." ;
+    ex:partOf ex:Article91 .
+
+ex:Article91_2 a ex:Clause ;
+    rdfs:label "Art. 91 2." ;
+    ex:partOf ex:Article91 .
+
+ex:Article92_1 a ex:Clause ;
+    rdfs:label "Art. 92 1." ;
+    ex:partOf ex:Article92 .
+
+ex:Article92_2 a ex:Clause ;
+    rdfs:label "Art. 92 2." ;
+    ex:partOf ex:Article92 .
+
+ex:Article92_3 a ex:Clause ;
+    rdfs:label "Art. 92 3." ;
+    ex:partOf ex:Article92 .
+
+ex:Article92_4 a ex:Clause ;
+    rdfs:label "Art. 92 4." ;
+    ex:partOf ex:Article92 .
+
+ex:Article92_5 a ex:Clause ;
+    rdfs:label "Art. 92 5." ;
+    ex:partOf ex:Article92 .
+
+ex:Article93_1 a ex:Clause ;
+    rdfs:label "Art. 93 1." ;
+    ex:partOf ex:Article93 .
+
+ex:Article93_2 a ex:Clause ;
+    rdfs:label "Art. 93 2." ;
+    ex:partOf ex:Article93 .
+
+ex:Article93_3 a ex:Clause ;
+    rdfs:label "Art. 93 3." ;
+    ex:partOf ex:Article93 .
+
+ex:Article94_1 a ex:Clause ;
+    rdfs:label "Art. 94 1." ;
+    ex:partOf ex:Article94 .
+
+ex:Article94_2 a ex:Clause ;
+    rdfs:label "Art. 94 2." ;
+    ex:partOf ex:Article94 .
+
+ex:Article95_1 a ex:Clause ;
+    rdfs:label "Art. 95 1." ;
+    ex:partOf ex:Article95 .
+
+ex:Article96_1 a ex:Clause ;
+    rdfs:label "Art. 96 1." ;
+    ex:partOf ex:Article96 .
+
+ex:Article97_1 a ex:Clause ;
+    rdfs:label "Art. 97 1." ;
+    ex:partOf ex:Article97 .
+
+ex:Article97_2 a ex:Clause ;
+    rdfs:label "Art. 97 2." ;
+    ex:partOf ex:Article97 .
+
+ex:Article97_4 a ex:Clause ;
+    rdfs:label "Art. 97 4." ;
+    ex:partOf ex:Article97 .
+
+ex:Article97_5 a ex:Clause ;
+    rdfs:label "Art. 97 5." ;
+    ex:partOf ex:Article97 .
+
+ex:Article97_6 a ex:Clause ;
+    rdfs:label "Art. 97 6." ;
+    ex:partOf ex:Article97 .
+
+ex:Article97_7 a ex:Clause ;
+    rdfs:label "Art. 97 7." ;
+    ex:partOf ex:Article97 .
+
+ex:Article98_1 a ex:Clause ;
+    rdfs:label "Art. 98 1." ;
+    ex:partOf ex:Article98 .
+
+ex:Article99_1 a ex:Clause ;
+    rdfs:label "Art. 99 1." ;
+    ex:partOf ex:Article99 .
+
+ex:Article99_2 a ex:Clause ;
+    rdfs:label "Art. 99 2." ;
+    ex:partOf ex:Article99 .
+
+ex:Article9_1 a ex:Clause ;
+    rdfs:label "Art. 9 1." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_10 a ex:Clause ;
+    rdfs:label "Art. 9 10." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_11 a ex:Clause ;
+    rdfs:label "Art. 9 11." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_12 a ex:Clause ;
+    rdfs:label "Art. 9 12." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_13 a ex:Clause ;
+    rdfs:label "Art. 9 13." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_14 a ex:Clause ;
+    rdfs:label "Art. 9 14." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_2 a ex:Clause ;
+    rdfs:label "Art. 9 2." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_3 a ex:Clause ;
+    rdfs:label "Art. 9 3." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_4 a ex:Clause ;
+    rdfs:label "Art. 9 4." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_5 a ex:Clause ;
+    rdfs:label "Art. 9 5." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_6 a ex:Clause ;
+    rdfs:label "Art. 9 6." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_7 a ex:Clause ;
+    rdfs:label "Art. 9 7." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_8 a ex:Clause ;
+    rdfs:label "Art. 9 8." ;
+    ex:partOf ex:Article9 .
+
+ex:Article9_9 a ex:Clause ;
+    rdfs:label "Art. 9 9." ;
+    ex:partOf ex:Article9 .
+
+ex:PolicySection1 a ex:PolicySection ;
+    rdfs:label "1. Who is the responsible controller for the data processing and whom you may contact?" ;
+    ex:relatesToClause ex:Article12_4,
+        ex:Article28_8,
+        ex:Article30_1,
+        ex:Article31_1,
+        ex:Article58_13 ;
+    ex:similarityScore "0.355"^^xsd:float,
+        "0.3571"^^xsd:float,
+        "0.3594"^^xsd:float,
+        "0.3618"^^xsd:float,
+        "0.3805"^^xsd:float .
+
+ex:PolicySection2 a ex:PolicySection ;
+    rdfs:label "2. What data is being processed and from which sources do these stem from?" ;
+    ex:relatesToClause ex:Article13_1,
+        ex:Article14_1,
+        ex:Article17_7,
+        ex:Article25_2,
+        ex:Article5_1 ;
+    ex:similarityScore "0.3994"^^xsd:float,
+        "0.3997"^^xsd:float,
+        "0.4"^^xsd:float,
+        "0.4013"^^xsd:float,
+        "0.4437"^^xsd:float .
+
+ex:PolicySection3 a ex:PolicySection ;
+    rdfs:label "3. For which purpose and for how long is the data being processed?" ;
+    ex:relatesToClause ex:Article14_17,
+        ex:Article15_1,
+        ex:Article5_1,
+        ex:Article5_6,
+        ex:Article6_12 ;
+    ex:similarityScore "0.6378"^^xsd:float,
+        "0.6429"^^xsd:float,
+        "0.6569"^^xsd:float,
+        "0.6753"^^xsd:float,
+        "0.6763"^^xsd:float .
+
+ex:PolicySection4 a ex:PolicySection ;
+    rdfs:label "4. On which legal basis is personal data being processed?" ;
+    ex:relatesToClause ex:Article13_8,
+        ex:Article15_1,
+        ex:Article16_1,
+        ex:Article19_1,
+        ex:Article7_3 ;
+    ex:similarityScore "0.6428"^^xsd:float,
+        "0.6431"^^xsd:float,
+        "0.646"^^xsd:float,
+        "0.6557"^^xsd:float,
+        "0.685"^^xsd:float .
+
+ex:PolicySection5 a ex:PolicySection ;
+    rdfs:label "5. Who will be receiving your data?" ;
+    ex:relatesToClause ex:Article14_1,
+        ex:Article28_4,
+        ex:Article70_10,
+        ex:Article80_1,
+        ex:Article88_2 ;
+    ex:similarityScore "0.5268"^^xsd:float,
+        "0.5301"^^xsd:float,
+        "0.5313"^^xsd:float,
+        "0.5406"^^xsd:float,
+        "0.5533"^^xsd:float .
+
+ex:PolicySection6 a ex:PolicySection ;
+    rdfs:label "6. Are you obliged to provide data?" ;
+    ex:relatesToClause ex:Article13_13,
+        ex:Article15_11,
+        ex:Article17_7,
+        ex:Article25_2,
+        ex:Article3_3 ;
+    ex:similarityScore "0.4141"^^xsd:float,
+        "0.416"^^xsd:float,
+        "0.4256"^^xsd:float,
+        "0.4369"^^xsd:float,
+        "0.46"^^xsd:float .
+
+ex:PolicySection7 a ex:PolicySection ;
+    rdfs:label "7. Is there automated decision-making including profiling?" ;
+    ex:relatesToClause ex:Article13_14,
+        ex:Article14_15,
+        ex:Article15_9,
+        ex:Article22_1,
+        ex:Article22_7 ;
+    ex:similarityScore "0.4847"^^xsd:float,
+        "0.5354"^^xsd:float,
+        "0.5355"^^xsd:float,
+        "0.536"^^xsd:float,
+        "0.5376"^^xsd:float .
+
+ex:PolicySection8 a ex:PolicySection ;
+    rdfs:label "8. Your rights in processing your personal data" ;
+    ex:relatesToClause ex:Article14_1,
+        ex:Article15_10,
+        ex:Article40_2,
+        ex:Article50_1,
+        ex:Article97_3 ;
+    ex:similarityScore "0.5771"^^xsd:float,
+        "0.5796"^^xsd:float,
+        "0.5884"^^xsd:float,
+        "0.5906"^^xsd:float,
+        "0.5931"^^xsd:float .
+
+ex:Article10 a ex:Article ;
+    rdfs:label "Article 10: Processing of personal data relating to criminal convictions and offences" .
+
+ex:Article12_4 a ex:Clause ;
+    rdfs:label "Art. 12 4." ;
+    ex:partOf ex:Article12 .
+
+ex:Article13_1 a ex:Clause ;
+    rdfs:label "Art. 13 1." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_13 a ex:Clause ;
+    rdfs:label "Art. 13 13." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_14 a ex:Clause ;
+    rdfs:label "Art. 13 14." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_8 a ex:Clause ;
+    rdfs:label "Art. 13 8." ;
+    ex:partOf ex:Article13 .
+
+ex:Article14_15 a ex:Clause ;
+    rdfs:label "Art. 14 15." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_17 a ex:Clause ;
+    rdfs:label "Art. 14 17." ;
+    ex:partOf ex:Article14 .
+
+ex:Article15_10 a ex:Clause ;
+    rdfs:label "Art. 15 10." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_11 a ex:Clause ;
+    rdfs:label "Art. 15 11." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_9 a ex:Clause ;
+    rdfs:label "Art. 15 9." ;
+    ex:partOf ex:Article15 .
+
+ex:Article16 a ex:Article ;
+    rdfs:label "Article 16: Right to rectification" .
+
+ex:Article16_1 a ex:Clause ;
+    rdfs:label "Art. 16 1." ;
+    ex:partOf ex:Article16 .
+
+ex:Article19 a ex:Article ;
+    rdfs:label "Article 19: Notification obligation regarding rectification or erasure of personal data or restriction of processing" .
+
+ex:Article19_1 a ex:Clause ;
+    rdfs:label "Art. 19 1." ;
+    ex:partOf ex:Article19 .
+
+ex:Article22_1 a ex:Clause ;
+    rdfs:label "Art. 22 1." ;
+    ex:partOf ex:Article22 .
+
+ex:Article22_7 a ex:Clause ;
+    rdfs:label "Art. 22 7." ;
+    ex:partOf ex:Article22 .
+
+ex:Article28_4 a ex:Clause ;
+    rdfs:label "Art. 28 4." ;
+    ex:partOf ex:Article28 .
+
+ex:Article28_8 a ex:Clause ;
+    rdfs:label "Art. 28 8." ;
+    ex:partOf ex:Article28 .
+
+ex:Article29 a ex:Article ;
+    rdfs:label "Article 29: Processing under the authority of the controller or processor" .
+
+ex:Article30_1 a ex:Clause ;
+    rdfs:label "Art. 30 1." ;
+    ex:partOf ex:Article30 .
+
+ex:Article31 a ex:Article ;
+    rdfs:label "Article 31: Cooperation with the supervisory authority" .
+
+ex:Article31_1 a ex:Clause ;
+    rdfs:label "Art. 31 1." ;
+    ex:partOf ex:Article31 .
+
+ex:Article3_3 a ex:Clause ;
+    rdfs:label "Art. 3 3." ;
+    ex:partOf ex:Article3 .
+
+ex:Article40_2 a ex:Clause ;
+    rdfs:label "Art. 40 2." ;
+    ex:partOf ex:Article40 .
+
+ex:Article44 a ex:Article ;
+    rdfs:label "Article 44: General principle for transfers" .
+
+ex:Article48 a ex:Article ;
+    rdfs:label "Article 48: Transfers or disclosures not authorised by Union law" .
+
+ex:Article50_1 a ex:Clause ;
+    rdfs:label "Art. 50 1." ;
+    ex:partOf ex:Article50 .
+
+ex:Article58_13 a ex:Clause ;
+    rdfs:label "Art. 58 13." ;
+    ex:partOf ex:Article58 .
+
+ex:Article59 a ex:Article ;
+    rdfs:label "Article 59: Activity reports" .
+
+ex:Article5_6 a ex:Clause ;
+    rdfs:label "Art. 5 6." ;
+    ex:partOf ex:Article5 .
+
+ex:Article63 a ex:Article ;
+    rdfs:label "Article 63: Consistency mechanism" .
+
+ex:Article67 a ex:Article ;
+    rdfs:label "Article 67: Exchange of information" .
+
+ex:Article6_12 a ex:Clause ;
+    rdfs:label "Art. 6 12." ;
+    ex:partOf ex:Article6 .
+
+ex:Article70_10 a ex:Clause ;
+    rdfs:label "Art. 70 10." ;
+    ex:partOf ex:Article70 .
+
+ex:Article7_3 a ex:Clause ;
+    rdfs:label "Art. 7 3." ;
+    ex:partOf ex:Article7 .
+
+ex:Article80_1 a ex:Clause ;
+    rdfs:label "Art. 80 1." ;
+    ex:partOf ex:Article80 .
+
+ex:Article86 a ex:Article ;
+    rdfs:label "Article 86: Processing and public access to official documents" .
+
+ex:Article87 a ex:Article ;
+    rdfs:label "Article 87: Processing of the national identification number" .
+
+ex:Article88_2 a ex:Clause ;
+    rdfs:label "Art. 88 2." ;
+    ex:partOf ex:Article88 .
+
+ex:Article95 a ex:Article ;
+    rdfs:label "Article 95: Relationship with Directive 2002/58/EC" .
+
+ex:Article96 a ex:Article ;
+    rdfs:label "Article 96: Relationship with previously concluded Agreements" .
+
+ex:Article97_3 a ex:Clause ;
+    rdfs:label "Art. 97 3." ;
+    ex:partOf ex:Article97 .
+
+ex:Article98 a ex:Article ;
+    rdfs:label "Article 98: Review of other Union legal acts on data protection" .
+
+ex:Article11 a ex:Article ;
+    rdfs:label "Article 11: Processing which does not require identification" .
+
+ex:Article15_1 a ex:Clause ;
+    rdfs:label "Art. 15 1." ;
+    ex:partOf ex:Article15 .
+
+ex:Article17_7 a ex:Clause ;
+    rdfs:label "Art. 17 7." ;
+    ex:partOf ex:Article17 .
+
+ex:Article25_2 a ex:Clause ;
+    rdfs:label "Art. 25 2." ;
+    ex:partOf ex:Article25 .
+
+ex:Article5_1 a ex:Clause ;
+    rdfs:label "Art. 5 1." ;
+    ex:partOf ex:Article5 .
+
+ex:Article69 a ex:Article ;
+    rdfs:label "Article 69: Independence" .
+
+ex:Article71 a ex:Article ;
+    rdfs:label "Article 71: Reports" .
+
+ex:Article72 a ex:Article ;
+    rdfs:label "Article 72: Procedure" .
+
+ex:Article73 a ex:Article ;
+    rdfs:label "Article 73: Chair" .
+
+ex:Article76 a ex:Article ;
+    rdfs:label "Article 76: Confidentiality" .
+
+ex:Article77 a ex:Article ;
+    rdfs:label "Article 77: Right to lodge a complaint with a supervisory authority" .
+
+ex:Article79 a ex:Article ;
+    rdfs:label "Article 79: Right to an effective judicial remedy against a controller or processor" .
+
+ex:Article80 a ex:Article ;
+    rdfs:label "Article 80: Representation of data subjects" .
+
+ex:Article84 a ex:Article ;
+    rdfs:label "Article 84: Penalties" .
+
+ex:Article90 a ex:Article ;
+    rdfs:label "Article 90: Obligations of secrecy" .
+
+ex:Article91 a ex:Article ;
+    rdfs:label "Article 91: Existing data protection rules of churches and religious associations" .
+
+ex:Article94 a ex:Article ;
+    rdfs:label "Article 94: Repeal of Directive 95/46/EC" .
+
+ex:Article99 a ex:Article ;
+    rdfs:label "Article 99: Entry into force and application" .
+
+ex:Article1 a ex:Article ;
+    rdfs:label "Article 1: Subject-matter and objectives" .
+
+ex:Article14_1 a ex:Clause ;
+    rdfs:label "Art. 14 1." ;
+    ex:partOf ex:Article14 .
+
+ex:Article24 a ex:Article ;
+    rdfs:label "Article 24: Responsibility of the controller" .
+
+ex:Article25 a ex:Article ;
+    rdfs:label "Article 25: Data protection by design and by default" .
+
+ex:Article26 a ex:Article ;
+    rdfs:label "Article 26: Joint controllers" .
+
+ex:Article55 a ex:Article ;
+    rdfs:label "Article 55: Competence" .
+
+ex:Article8 a ex:Article ;
+    rdfs:label "Article 8: Conditions applicable to child's consent in relation to information society services" .
+
+ex:Article81 a ex:Article ;
+    rdfs:label "Article 81: Suspension of proceedings" .
+
+ex:Article85 a ex:Article ;
+    rdfs:label "Article 85: Processing and freedom of expression and information" .
+
+ex:Article88 a ex:Article ;
+    rdfs:label "Article 88: Processing in the context of employment" .
+
+ex:Article93 a ex:Article ;
+    rdfs:label "Article 93: Committee procedure" .
+
+ex:Article51 a ex:Article ;
+    rdfs:label "Article 51: Supervisory authority" .
+
+ex:Article53 a ex:Article ;
+    rdfs:label "Article 53: General conditions for the members of the supervisory authority" .
+
+ex:Article66 a ex:Article ;
+    rdfs:label "Article 66: Urgency procedure" .
+
+ex:Article7 a ex:Article ;
+    rdfs:label "Article 7: Conditions for consent" .
+
+ex:Article78 a ex:Article ;
+    rdfs:label "Article 78: Right to an effective judicial remedy against a supervisory authority" .
+
+ex:Article89 a ex:Article ;
+    rdfs:label "Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes" .
+
+ex:Article3 a ex:Article ;
+    rdfs:label "Article 3: Territorial scope" .
+
+ex:Article50 a ex:Article ;
+    rdfs:label "Article 50: International cooperation for the protection of personal data" .
+
+ex:Article74 a ex:Article ;
+    rdfs:label "Article 74: Tasks of the Chair" .
+
+ex:Article92 a ex:Article ;
+    rdfs:label "Article 92: Exercise of the delegation" .
+
+ex:Article20 a ex:Article ;
+    rdfs:label "Article 20: Right to data portability" .
+
+ex:Article21 a ex:Article ;
+    rdfs:label "Article 21: Right to object" .
+
+ex:Article38 a ex:Article ;
+    rdfs:label "Article 38: Position of the data protection officer" .
+
+ex:Article52 a ex:Article ;
+    rdfs:label "Article 52: Independence" .
+
+ex:Article56 a ex:Article ;
+    rdfs:label "Article 56: Competence of the lead supervisory authority" .
+
+ex:Article68 a ex:Article ;
+    rdfs:label "Article 68: European Data Protection Board" .
+
+ex:Article82 a ex:Article ;
+    rdfs:label "Article 82: Right to compensation and liability" .
+
+ex:Article18 a ex:Article ;
+    rdfs:label "Article 18: Right to restriction of processing" .
+
+ex:Article22 a ex:Article ;
+    rdfs:label "Article 22: Automated individual decision-making, including profiling" .
+
+ex:Article27 a ex:Article ;
+    rdfs:label "Article 27: Representatives of controllers or processors not established in the Union" .
+
+ex:Article34 a ex:Article ;
+    rdfs:label "Article 34: Communication of a personal data breach to the data subject" .
+
+ex:Article39 a ex:Article ;
+    rdfs:label "Article 39: Tasks of the data protection officer" .
+
+ex:Article62 a ex:Article ;
+    rdfs:label "Article 62: Joint operations of supervisory authorities" .
+
+ex:Article97 a ex:Article ;
+    rdfs:label "Article 97: Commission reports" .
+
+ex:Article2 a ex:Article ;
+    rdfs:label "Article 2: Material scope" .
+
+ex:Article32 a ex:Article ;
+    rdfs:label "Article 32: Security of processing" .
+
+ex:Article42 a ex:Article ;
+    rdfs:label "Article 42: Certification" .
+
+ex:Article5 a ex:Article ;
+    rdfs:label "Article 5: Principles relating to processing of personal data" .
+
+ex:Article54 a ex:Article ;
+    rdfs:label "Article 54: Rules on the establishment of the supervisory authority" .
+
+ex:Article33 a ex:Article ;
+    rdfs:label "Article 33: Notification of a personal data breach to the supervisory authority" .
+
+ex:Article65 a ex:Article ;
+    rdfs:label "Article 65: Dispute resolution by the Board" .
+
+ex:Article12 a ex:Article ;
+    rdfs:label "Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject" .
+
+ex:Article37 a ex:Article ;
+    rdfs:label "Article 37: Designation of the data protection officer" .
+
+ex:Article41 a ex:Article ;
+    rdfs:label "Article 41: Monitoring of approved codes of conduct" .
+
+ex:Article28 a ex:Article ;
+    rdfs:label "Article 28: Processor" .
+
+ex:Article36 a ex:Article ;
+    rdfs:label "Article 36: Prior consultation" .
+
+ex:Article61 a ex:Article ;
+    rdfs:label "Article 61: Mutual assistance" .
+
+ex:Article15 a ex:Article ;
+    rdfs:label "Article 15: Right of access by the data subject" .
+
+ex:Article45 a ex:Article ;
+    rdfs:label "Article 45: Transfers on the basis of an adequacy decision" .
+
+ex:Article60 a ex:Article ;
+    rdfs:label "Article 60: Cooperation between the lead supervisory authority and the other supervisory authorities concerned" .
+
+ex:Article46 a ex:Article ;
+    rdfs:label "Article 46: Transfers subject to appropriate safeguards" .
+
+ex:Article49 a ex:Article ;
+    rdfs:label "Article 49: Derogations for specific situations" .
+
+ex:Article75 a ex:Article ;
+    rdfs:label "Article 75: Secretariat" .
+
+ex:Article17 a ex:Article ;
+    rdfs:label "Article 17: Right to erasure (‘right to be forgotten’)" .
+
+ex:Article9 a ex:Article ;
+    rdfs:label "Article 9: Processing of special categories of personal data" .
+
+ex:Article13 a ex:Article ;
+    rdfs:label "Article 13: Information to be provided where personal data are collected from the data subject" .
+
+ex:Article30 a ex:Article ;
+    rdfs:label "Article 30: Records of processing activities" .
+
+ex:Article43 a ex:Article ;
+    rdfs:label "Article 43: Certification bodies" .
+
+ex:Article64 a ex:Article ;
+    rdfs:label "Article 64: Opinion of the Board" .
+
+ex:Article6 a ex:Article ;
+    rdfs:label "Article 6: Lawfulness of processing" .
+
+ex:Article35 a ex:Article ;
+    rdfs:label "Article 35: Data protection impact assessment" .
+
+ex:Article23 a ex:Article ;
+    rdfs:label "Article 23: Restrictions" .
+
+ex:Article47 a ex:Article ;
+    rdfs:label "Article 47: Binding corporate rules" .
+
+ex:Article40 a ex:Article ;
+    rdfs:label "Article 40: Codes of conduct" .
+
+ex:Article14 a ex:Article ;
+    rdfs:label "Article 14: Information to be provided where personal data have not been obtained from the data subject" .
+
+ex:Article57 a ex:Article ;
+    rdfs:label "Article 57: Tasks" .
+
+ex:Article83 a ex:Article ;
+    rdfs:label "Article 83: General conditions for imposing administrative fines" .
+
+ex:Article70 a ex:Article ;
+    rdfs:label "Article 70: Tasks of the Board" .
+
+ex:Article58 a ex:Article ;
+    rdfs:label "Article 58: Powers" .
+
+ex:Article4 a ex:Article ;
+    rdfs:label "Article 4: Definitions" .
+
