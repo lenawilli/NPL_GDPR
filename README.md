@@ -56,6 +56,7 @@ Place the following files in the app folder:
 - `logistic_regression_vectorizer.joblib`
 - `multinomialNB_model.joblib`
 - `multinomialNB_vectorizer.joblib`
+- `sentence_transformer_model`
 
 ## Supported Models
 
@@ -63,6 +64,7 @@ You can choose one of the following models in the sidebar:
 - **Logistic Regression** (TF-IDF + classifier)
 - **MultinomialNB** (Naive Bayes + TF-IDF)
 - **LegalBERT (Eurlex)** (Transformer embeddings + cosine similarity)
+- **Sentence Transformer** (Embeddings + cosine similarity)
 - **Knowledge Graphs** (Not implemented yet)
 
 ## Input Files
