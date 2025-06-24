@@ -3,4 +3,8 @@ scikit-learn
 nltk
 joblib
 streamlit
+sentence-transformers==2.2.2
+nltk==3.8.1
+torch==2.1.0
+
 
