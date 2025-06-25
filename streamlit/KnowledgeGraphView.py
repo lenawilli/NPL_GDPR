@@ -2,16 +2,23 @@ import streamlit as st
 from rdflib import Graph, RDFS, Namespace, URIRef, RDF, Literal
 from pyvis.network import Network
 import streamlit.components.v1 as components
+import os
+st.set_page_config(layout="wide")
+TTL_DIR = "../KnowledgeGraph"
+ttl_files = [f for f in os.listdir(TTL_DIR) if f.endswith(".ttl")]
+
+st.sidebar.header("📁 Select RDF File")
+selected_ttl = st.sidebar.selectbox("Choose a TTL file:", ttl_files)
 
 # --- Load RDF ---
 g = Graph()
-g.parse("../KnowledgeGraph/gdpr_policy_graph.ttl", format="ttl")
+g.parse(os.path.join(TTL_DIR, selected_ttl), format="ttl")
 
 BASE_URI = "http://example.org/gdpr#"
 EX = Namespace(BASE_URI)
 
 # --- UI Layout ---
-st.set_page_config(layout="wide")
+
 st.title("🕸️ GDPR Knowledge Graph Visualizer")
 
 # --- Get Filter Options ---
