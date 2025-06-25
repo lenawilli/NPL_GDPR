@@ -1,0 +1,22 @@
+GDPR Article Classification Summary for outlook.com
+============================================================
+
+Cookies And Tracking: 2863 points, 2193 sentences
+Article 7 Consent: 1091 points, 997 sentences
+Article 6 Lawful Basis: 1057 points, 925 sentences
+Third Party Sharing: 755 points, 593 sentences
+Article 14 Information Third Parties: 479 points, 371 sentences
+Article 37 Data Protection Officer: 362 points, 96 sentences
+Article 13 Information Collection: 263 points, 237 sentences
+Article 21 Right To Object: 253 points, 239 sentences
+Retention And Storage: 137 points, 137 sentences
+Article 33 34 Data Breach: 124 points, 68 sentences
+Article 32 Security Of Processing: 84 points, 70 sentences
+Article 15 Right Of Access: 54 points, 54 sentences
+Article 17 Right To Erasure: 42 points, 14 sentences
+Article 16 Right To Rectification: 42 points, 14 sentences
+Article 25 Data Protection By Design: 27 points, 27 sentences
+International Transfers: 14 points, 14 sentences
+
+Total classified sentences: 6049
+Total content length: 4266662 characters

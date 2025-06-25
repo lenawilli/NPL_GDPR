@@ -1,0 +1,74 @@
+=== Article 13 Information Collection ===
+
+Sentence 1 (Confidence: 1):
+Below, we detail the information we collect through each of these channels:From YouAccount Data: We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information
+
+Sentence 2 (Confidence: 1):
+Use of these features may result in data collection
+
+Sentence 3 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 4 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 5 (Confidence: 1):
+Below, we detail the information we collect through each of these channels:From YouAccount Data: We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information
+
+Sentence 6 (Confidence: 1):
+Use of these features may result in data collection
+
+Sentence 7 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 8 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 9 (Confidence: 1):
+Below, we detail the information we collect through each of these channels:From YouAccount Data: We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information
+
+Sentence 10 (Confidence: 1):
+Use of these features may result in data collection
+
+Sentence 11 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 12 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 13 (Confidence: 1):
+Below, we detail the information we collect through each of these channels:From YouAccount Data: We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information
+
+Sentence 14 (Confidence: 1):
+Use of these features may result in data collection
+
+Sentence 15 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 16 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 17 (Confidence: 1):
+Below, we detail the information we collect through each of these channels:From YouAccount Data: We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information
+
+Sentence 18 (Confidence: 1):
+Use of these features may result in data collection
+
+Sentence 19 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 20 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 21 (Confidence: 1):
+Below, we detail the information we collect through each of these channels: Account Data: We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information
+
+Sentence 22 (Confidence: 1):
+Use of these features may result in data collection
+
+Sentence 23 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 24 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+

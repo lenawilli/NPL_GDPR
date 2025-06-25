@@ -1,0 +1,2777 @@
+=== Article 6 Lawful Basis ===
+
+Sentence 1 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 2 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 3 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 4 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 5 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 6 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 7 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 8 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 9 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 10 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 11 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 12 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 13 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 14 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 15 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 16 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 17 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 18 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 19 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 20 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 21 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 22 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 23 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 24 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 25 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 26 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 27 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 28 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 29 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 30 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 31 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 32 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 33 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 34 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 35 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 36 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 37 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 38 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 39 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 40 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 41 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 42 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 43 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 44 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 45 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 46 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 47 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 48 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 49 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 50 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 51 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 52 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 53 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 54 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 55 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 56 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 57 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 58 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 59 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 60 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 61 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 62 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 63 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 64 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 65 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 66 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 67 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 68 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 69 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 70 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 71 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 72 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 73 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 74 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 75 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 76 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 77 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 78 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 79 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 80 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 81 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 82 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 83 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 84 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 85 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 86 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 87 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 88 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 89 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 90 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 91 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 92 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 93 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 94 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 95 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 96 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 97 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 98 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 99 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 100 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 101 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 102 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 103 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 104 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 105 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 106 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 107 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 108 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 109 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 110 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 111 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 112 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 113 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 114 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 115 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 116 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 117 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 118 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 119 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 120 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 121 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 122 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 123 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 124 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 125 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 126 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 127 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 128 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 129 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 130 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 131 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 132 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 133 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 134 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 135 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 136 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 137 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 138 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 139 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 140 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 141 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 142 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 143 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 144 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 145 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 146 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 147 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 148 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 149 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 150 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 151 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 152 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 153 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 154 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 155 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 156 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 157 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 158 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 159 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 160 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 161 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 162 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 163 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 164 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 165 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 166 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 167 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 168 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 169 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 170 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 171 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 172 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 173 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 174 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 175 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 176 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 177 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 178 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 179 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 180 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 181 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 182 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 183 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 184 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 185 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 186 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 187 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 188 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 189 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 190 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 191 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 192 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 193 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 194 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 195 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 196 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 197 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 198 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 199 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 200 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 201 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 202 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 203 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 204 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 205 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 206 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 207 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 208 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 209 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 210 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 211 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 212 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 213 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 214 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 215 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 216 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 217 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 218 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 219 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 220 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 221 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 222 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 223 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 224 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 225 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 226 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 227 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 228 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 229 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 230 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 231 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 232 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 233 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 234 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 235 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 236 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 237 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 238 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 239 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 240 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 241 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 242 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 243 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 244 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 245 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 246 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 247 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 248 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 249 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 250 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 251 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 252 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 253 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 254 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 255 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 256 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 257 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 258 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 259 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 260 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 261 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 262 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 263 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 264 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 265 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 266 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 267 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 268 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 269 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 270 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 271 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 272 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 273 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 274 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 275 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 276 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 277 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 278 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 279 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 280 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 281 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 282 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 283 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 284 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 285 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 286 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 287 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 288 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 289 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 290 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 291 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 292 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 293 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 294 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 295 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 296 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 297 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 298 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 299 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 300 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 301 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 302 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 303 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 304 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 305 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 306 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 307 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 308 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 309 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 310 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 311 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 312 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 313 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 314 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 315 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 316 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 317 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 318 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 319 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 320 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 321 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 322 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 323 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 324 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 325 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 326 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 327 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 328 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 329 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 330 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 331 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 332 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 333 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 334 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 335 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 336 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 337 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 338 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 339 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 340 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 341 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 342 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 343 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 344 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 345 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 346 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 347 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 348 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 349 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 350 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 351 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 352 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 353 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 354 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 355 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 356 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 357 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 358 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 359 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 360 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 361 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 362 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 363 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 364 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 365 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 366 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 367 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 368 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 369 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 370 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 371 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 372 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 373 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 374 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 375 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 376 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 377 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 378 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 379 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 380 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 381 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 382 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 383 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 384 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 385 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 386 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 387 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 388 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 389 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 390 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 391 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 392 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 393 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 394 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 395 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 396 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 397 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 398 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 399 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 400 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 401 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 402 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 403 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 404 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 405 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 406 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 407 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 408 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 409 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 410 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 411 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 412 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 413 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 414 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 415 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 416 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 417 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 418 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 419 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 420 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 421 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 422 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 423 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 424 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 425 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 426 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 427 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 428 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 429 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 430 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 431 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 432 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 433 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 434 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 435 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 436 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 437 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 438 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 439 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 440 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 441 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 442 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 443 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 444 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 445 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 446 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 447 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 448 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 449 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 450 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 451 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 452 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 453 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 454 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 455 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 456 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 457 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 458 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 459 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 460 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 461 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 462 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 463 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 464 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 465 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 466 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 467 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 468 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 469 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 470 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 471 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 472 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 473 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 474 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 475 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 476 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 477 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 478 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 479 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 480 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 481 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 482 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 483 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 484 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 485 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 486 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 487 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 488 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 489 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 490 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 491 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 492 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 493 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 494 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 495 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 496 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 497 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 498 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 499 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 500 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 501 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 502 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 503 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 504 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 505 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 506 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 507 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 508 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 509 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 510 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 511 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 512 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 513 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 514 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 515 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 516 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 517 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 518 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 519 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 520 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 521 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 522 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 523 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 524 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 525 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 526 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 527 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 528 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 529 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 530 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 531 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 532 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 533 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 534 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 535 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 536 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 537 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 538 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 539 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 540 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 541 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 542 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 543 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 544 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 545 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 546 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 547 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 548 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 549 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 550 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 551 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 552 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 553 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 554 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 555 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 556 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 557 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 558 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 559 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 560 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 561 (Confidence: 1):
+View SummaryLearn moreBack to topReasons we share personal dataWe share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 562 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 563 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 564 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 565 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 566 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 567 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 568 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 569 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 570 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 571 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 572 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 573 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 574 (Confidence: 1):
+View SummaryLearn moreBack to topCollection of data from childrenFor users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 575 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 576 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 577 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 578 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 579 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 580 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 581 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 582 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 583 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 584 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 585 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 586 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 587 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 588 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 589 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 590 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 591 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 592 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 593 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 594 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 595 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 596 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 597 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 598 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 599 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 600 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 601 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 602 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 603 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 604 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 605 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 606 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 607 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 608 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 609 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 610 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 611 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 612 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 613 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 614 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 615 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 616 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 617 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 618 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 619 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 620 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 621 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 622 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 623 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 624 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 625 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 626 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 627 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 628 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 629 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 630 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 631 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it
+
+Sentence 632 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 633 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 634 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 635 (Confidence: 4):
+We rely on a variety of legal reasons and permissions (sometimes called legal bases) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below
+
+Sentence 636 (Confidence: 1):
+Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product youre using, we may have to suspend or cancel it
+
+Sentence 637 (Confidence: 1):
+We will process your traffic data only as required to provide, maintain, and improve our communications services and we do so with your consent
+
+Sentence 638 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 639 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 640 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 641 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 642 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 643 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 644 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 645 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 646 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 647 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 648 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 649 (Confidence: 4):
+Purposes and legal bases for processingWhen we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 650 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 651 (Confidence: 1):
+We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 652 (Confidence: 4):
+Purposes and legal bases for processing When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in theReasons we share personal datasection of this privacy statement
+
+Sentence 653 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 654 (Confidence: 1):
+View SummaryLearn more Reasons we share personal data Reasons we share personal data Reasons we share personal data We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 655 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 656 (Confidence: 1):
+View SummaryLearn more We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 657 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 658 (Confidence: 1):
+View SummaryLearn more We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 659 (Confidence: 1):
+We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized
+
+Sentence 660 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 661 (Confidence: 1):
+We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized
+
+Sentence 662 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 663 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 664 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 665 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 666 (Confidence: 1):
+For instance:If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 667 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 668 (Confidence: 1):
+For instance: If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time
+
+Sentence 669 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 670 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 671 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 672 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 673 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 674 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 675 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 676 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 677 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 678 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 679 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 680 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 681 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 682 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 683 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 684 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 685 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 686 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 687 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 688 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 689 (Confidence: 1):
+For example, you can use controls in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies
+
+Sentence 690 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 691 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 692 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 693 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 694 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 695 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 696 (Confidence: 1):
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie
+
+Sentence 697 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 698 (Confidence: 1):
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising
+
+Sentence 699 (Confidence: 1):
+Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 700 (Confidence: 1):
+As mentioned above, where required, we obtain your consent before placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication
+
+Sentence 701 (Confidence: 1):
+You may consent to certain categories of optional cookies and not others
+
+Sentence 702 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 703 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 704 (Confidence: 1):
+When you use a Microsoft product provided by your organization, Microsofts processing of your personal data in connection with that product is governed by a contract between Microsoft and your organization
+
+Sentence 705 (Confidence: 1):
+View SummaryLearn more Collection of data from children Collection of data from children Collection of data from children For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 706 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 707 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 708 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 709 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 710 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 711 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 712 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 713 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 714 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 715 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 716 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 717 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 718 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 719 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 720 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 721 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 722 (Confidence: 1):
+View SummaryLearn more For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 723 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 724 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 725 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 726 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 727 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 728 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 729 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 730 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 731 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 732 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 733 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 734 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 735 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 736 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 737 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 738 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 739 (Confidence: 1):
+View SummaryLearn more For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 740 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 741 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 742 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 743 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 744 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 745 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 746 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 747 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 748 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 749 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 750 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 751 (Confidence: 1):
+For child accounts that do not require parental consent to be created, (e
+
+Sentence 752 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 753 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 754 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 755 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 756 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 757 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 758 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 759 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 760 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 761 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 762 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 763 (Confidence: 1):
+For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services
+
+Sentence 764 (Confidence: 1):
+Once parental consent or authorization is granted, the child's account is treated much like any other account
+
+Sentence 765 (Confidence: 1):
+Learn more about parental consent and Microsoft child accounts
+
+Sentence 766 (Confidence: 1):
+Parents or guardians can change or revoke the consent choices previously made
+
+Sentence 767 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who provided the consent for account creation
+
+Sentence 768 (Confidence: 1):
+For child accounts that do not require parental consent to be created (e
+
+Sentence 769 (Confidence: 1):
+, for children who are over the age at which parental consent is legally required), the parent or guardian may still use a family group, but must add the child account to their family group after the account is created
+
+Sentence 770 (Confidence: 1):
+For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parentsprivacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data
+
+Sentence 771 (Confidence: 1):
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction
+
+Sentence 772 (Confidence: 1):
+When you create your childs Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network
+
+Sentence 773 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 774 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 775 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 776 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 777 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 778 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 779 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 780 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 781 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 782 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 783 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 784 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 785 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 786 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 787 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 788 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 789 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 790 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 791 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 792 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 793 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 794 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 795 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 796 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 797 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 798 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 799 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 800 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 801 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 802 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 803 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 804 (Confidence: 1):
+Back to topOur retention of personal dataMicrosoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 805 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 806 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 807 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 808 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 809 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 810 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 811 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 812 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 813 (Confidence: 1):
+When we engage in such transfers, we use a variety of legal mechanisms, including contracts such as the standard contractual clauses published by the European Commission under Commission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 814 (Confidence: 1):
+Our retention of personal data Microsoft retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements
+
+Sentence 815 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 816 (Confidence: 1):
+If so, we will retain data in accordance with your consent
+
+Sentence 817 (Confidence: 1):
+Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data
+
+Sentence 818 (Confidence: 1):
+We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws
+
+Sentence 819 (Confidence: 1):
+Similarly, we process all categories of personal data for the purposes described in theHow we use personal datasection, such as meeting our legal obligations, developing our workforce, and doing research
+
+Sentence 820 (Confidence: 1):
+Subject to yourprivacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as sensitive data under applicable U
+
+Sentence 821 (Confidence: 1):
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge
+
+Sentence 822 (Confidence: 1):
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer
+
+Sentence 823 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 824 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 825 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 826 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 827 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 828 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 829 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 830 (Confidence: 1):
+They include: Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 831 (Confidence: 1):
+They include:Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 832 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 833 (Confidence: 1):
+They include: Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (Enterprise Online Services)
+
+Sentence 834 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 835 (Confidence: 1):
+We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, detect and prevent fraud, and comply with our legal obligations
+
+Sentence 836 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 837 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 838 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 839 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 840 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 841 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 842 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 843 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 844 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 845 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 846 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 847 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 848 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 849 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 850 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 851 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 852 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 853 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 854 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 855 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 856 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 857 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 858 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 859 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 860 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 861 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 862 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 863 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 864 (Confidence: 1):
+Accounts that require parental consent to be created are automatically included as part of the family group of the individual who consented to the child accounts creation
+
+Sentence 865 (Confidence: 1):
+For accounts that do not require parental consent to be created, the parent or guardian must add the account to their family group in order to use Family Safety controls
+
+Sentence 866 (Confidence: 1):
+With your consent, you can share your location with friends and family
+
+Sentence 867 (Confidence: 1):
+If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services
+
+Sentence 868 (Confidence: 1):
+If you have consented to use third-party data on other Microsoft apps and services, please note that removing this third-party account data in Teams may impact your experiences on other Microsoft apps and services
+
+Sentence 869 (Confidence: 1):
+Sharing location for children is permitted with parental consent and in groups where an adult from the Microsoft family group is present
+
+Sentence 870 (Confidence: 1):
+When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access
+
+Sentence 871 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 872 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 873 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 874 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 875 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 876 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 877 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 878 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 879 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 880 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 881 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 882 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 883 (Confidence: 1):
+Microsoft will use this data as described in this statement or as further limited by our contractual obligations with our partners
+
+Sentence 884 (Confidence: 1):
+You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings
+
+Sentence 885 (Confidence: 1):
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings
+
+Sentence 886 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 887 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 888 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 889 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 890 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 891 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 892 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 893 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 894 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 895 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 896 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 897 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 898 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 899 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 900 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 901 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 902 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 903 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 904 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 905 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 906 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 907 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 908 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 909 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 910 (Confidence: 1):
+If an organization (such as your employer or school) uses Microsoft Entra ID to manage the account it provides to you and enrolls your device in the Windows diagnostic data processor configuration, Microsofts processing of diagnostic data in connection with Windows is governed by a contract between Microsoft and the organization
+
+Sentence 911 (Confidence: 1):
+Enterprise account users may also be permitted to create a customer support case depending on their organizations support contract, and if enabled by their tenant administrator
+
+Sentence 912 (Confidence: 1):
+If you consent, diagnostic data is handled in accordance with theDiagnosticssection
+
+Sentence 913 (Confidence: 1):
+This may include obtaining the prior consent of everyone participating in the conversation or any other authorizations as required
+
+Sentence 914 (Confidence: 1):
+If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent
+
+Sentence 915 (Confidence: 1):
+If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adults email
+
+Sentence 916 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 917 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 918 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 919 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 920 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 921 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 922 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 923 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+
+Sentence 924 (Confidence: 1):
+Adult organizers in your Microsoft family group can change consent choices and online safety settings for child and teen profiles onXbox
+
+Sentence 925 (Confidence: 1):
+You will be prompted for consent if an updated app accesses certain features, such as location
+

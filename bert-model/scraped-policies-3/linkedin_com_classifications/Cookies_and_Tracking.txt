@@ -1,0 +1,554 @@
+=== Cookies And Tracking ===
+
+Sentence 1 (Confidence: 1):
+We offer our userschoicesabout the data we collect, use and share as described in this Privacy Policy,Cookie Policy, Settings and ourHelp Center
+
+Sentence 2 (Confidence: 1):
+ServicesThis Privacy Policy, including our Cookie Policy applies to your use of our Services
+
+Sentence 3 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 4 (Confidence: 1):
+We use log-ins, cookies,device informationand internet protocol (IP) addresses to identify you and log your use
+
+Sentence 5 (Confidence: 1):
+4 Cookies and Similar TechnologiesWe collect data through cookies and similar technologies
+
+Sentence 6 (Confidence: 2):
+As further described in ourCookie Policy, we use cookies and similar technologies (e
+
+Sentence 7 (Confidence: 1):
+, pixels and ad tags) to collect data (e
+
+Sentence 8 (Confidence: 2):
+We also allow some others to use cookies as described in our Cookie Policy
+
+Sentence 9 (Confidence: 2):
+You canopt outfrom our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes
+
+Sentence 10 (Confidence: 1):
+5 Your Device and LocationWe receive data through cookies and similar technologiesWhen you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit
+
+Sentence 11 (Confidence: 1):
+8 Sites and Services of OthersWe get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account
+
+Sentence 12 (Confidence: 1):
+We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others services that include some of our plugins (such as Apply with LinkedIn) or our ads, cookies or similar technologies
+
+Sentence 13 (Confidence: 1):
+, content analytics and followers)
+
+Sentence 14 (Confidence: 1):
+4 AdvertisingWe serve you tailored ads both on and off our Services
+
+Sentence 15 (Confidence: 2):
+We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined:Data collected by advertising technologies on and off our Services using pixels, ad tags (e
+
+Sentence 16 (Confidence: 1):
+, when an advertiser installs a LinkedIntagon their website), cookies, and other device identifiers;Member-provided information (e
+
+Sentence 17 (Confidence: 1):
+Learn moreabout the inferences we make and how they may be used for advertising
+
+Sentence 18 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 19 (Confidence: 1):
+We will show you ads calledsponsored contentwhich look similar to non-sponsored content, except that they are labeled as advertising (e
+
+Sentence 20 (Confidence: 1):
+However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you
+
+Sentence 21 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 22 (Confidence: 1):
+In addition to advertising our Services, we use Members data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services
+
+Sentence 23 (Confidence: 1):
+We use yourdatato perform analytics to produce and share insights that do not identify you
+
+Sentence 24 (Confidence: 1):
+, for basic business reporting to support billing and budget management or, subject to yoursettings, for reports to advertisers who may use them to inform their advertising campaigns), to show Members' information about engagement with apostor LinkedInPage, to publish visitor demographics for a Service or create demographic workforce insights, or to understand usage of our services
+
+Sentence 25 (Confidence: 1):
+Enterprise AccountsYour employer may offer you access to our enterprise Services such as Recruiter, Sales Navigator, LinkedIn Learning or our advertising Campaign Manager
+
+Sentence 26 (Confidence: 1):
+We provide manychoicesabout the collection, use and sharing of your data, from deleting or correcting data you include in yourprofileand controlling the visibility of yourpoststo advertisingopt-outsandcommunicationcontrols
+
+Sentence 27 (Confidence: 1):
+We offer our userschoicesabout the data we collect, use and share as described in this Privacy Policy,Cookie Policy, Settings and ourHelp Center
+
+Sentence 28 (Confidence: 1):
+ServicesThis Privacy Policy, including our Cookie Policy applies to your use of our Services
+
+Sentence 29 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 30 (Confidence: 1):
+We use log-ins, cookies,device informationand internet protocol (IP) addresses to identify you and log your use
+
+Sentence 31 (Confidence: 1):
+4 Cookies and Similar TechnologiesWe collect data through cookies and similar technologies
+
+Sentence 32 (Confidence: 2):
+As further described in ourCookie Policy, we use cookies and similar technologies (e
+
+Sentence 33 (Confidence: 1):
+, pixels and ad tags) to collect data (e
+
+Sentence 34 (Confidence: 2):
+We also allow some others to use cookies as described in our Cookie Policy
+
+Sentence 35 (Confidence: 2):
+You canopt outfrom our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes
+
+Sentence 36 (Confidence: 1):
+5 Your Device and LocationWe receive data through cookies and similar technologiesWhen you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit
+
+Sentence 37 (Confidence: 1):
+8 Sites and Services of OthersWe get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account
+
+Sentence 38 (Confidence: 1):
+We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others services that include some of our plugins (such as Apply with LinkedIn) or our ads, cookies or similar technologies
+
+Sentence 39 (Confidence: 1):
+, content analytics and followers)
+
+Sentence 40 (Confidence: 1):
+4 AdvertisingWe serve you tailored ads both on and off our Services
+
+Sentence 41 (Confidence: 2):
+We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined:Data collected by advertising technologies on and off our Services using pixels, ad tags (e
+
+Sentence 42 (Confidence: 1):
+, when an advertiser installs a LinkedIntagon their website), cookies, and other device identifiers;Member-provided information (e
+
+Sentence 43 (Confidence: 1):
+Learn moreabout the inferences we make and how they may be used for advertising
+
+Sentence 44 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 45 (Confidence: 1):
+We will show you ads calledsponsored contentwhich look similar to non-sponsored content, except that they are labeled as advertising (e
+
+Sentence 46 (Confidence: 1):
+However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you
+
+Sentence 47 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 48 (Confidence: 1):
+In addition to advertising our Services, we use Members data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services
+
+Sentence 49 (Confidence: 1):
+We use yourdatato perform analytics to produce and share insights that do not identify you
+
+Sentence 50 (Confidence: 1):
+, for basic business reporting to support billing and budget management or, subject to yoursettings, for reports to advertisers who may use them to inform their advertising campaigns), to show Members' information about engagement with apostor LinkedInPage, to publish visitor demographics for a Service or create demographic workforce insights, or to understand usage of our services
+
+Sentence 51 (Confidence: 1):
+Enterprise AccountsYour employer may offer you access to our enterprise Services such as Recruiter, Sales Navigator, LinkedIn Learning or our advertising Campaign Manager
+
+Sentence 52 (Confidence: 1):
+We provide manychoicesabout the collection, use and sharing of your data, from deleting or correcting data you include in yourprofileand controlling the visibility of yourpoststo advertisingopt-outsandcommunicationcontrols
+
+Sentence 53 (Confidence: 1):
+We offer our userschoicesabout the data we collect, use and share as described in this Privacy Policy,Cookie Policy, Settings and ourHelp Center
+
+Sentence 54 (Confidence: 1):
+We offer our userschoicesabout the data we collect, use and share as described in this Privacy Policy,Cookie Policy, Settings and ourHelp Center
+
+Sentence 55 (Confidence: 1):
+We offer our userschoicesabout the data we collect, use and share as described in this Privacy Policy,Cookie Policy, Settings and ourHelp Center
+
+Sentence 56 (Confidence: 1):
+ServicesThis Privacy Policy, including our Cookie Policy applies to your use of our Services
+
+Sentence 57 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 58 (Confidence: 1):
+We use log-ins, cookies,device informationand internet protocol (IP) addresses to identify you and log your use
+
+Sentence 59 (Confidence: 1):
+4 Cookies and Similar TechnologiesWe collect data through cookies and similar technologies
+
+Sentence 60 (Confidence: 2):
+As further described in ourCookie Policy, we use cookies and similar technologies (e
+
+Sentence 61 (Confidence: 1):
+, pixels and ad tags) to collect data (e
+
+Sentence 62 (Confidence: 2):
+We also allow some others to use cookies as described in our Cookie Policy
+
+Sentence 63 (Confidence: 2):
+You canopt outfrom our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes
+
+Sentence 64 (Confidence: 1):
+5 Your Device and LocationWe receive data through cookies and similar technologiesWhen you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit
+
+Sentence 65 (Confidence: 1):
+8 Sites and Services of OthersWe get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account
+
+Sentence 66 (Confidence: 1):
+We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others services that include some of our plugins (such as Apply with LinkedIn) or our ads, cookies or similar technologies
+
+Sentence 67 (Confidence: 1):
+, content analytics and followers)
+
+Sentence 68 (Confidence: 1):
+4 AdvertisingWe serve you tailored ads both on and off our Services
+
+Sentence 69 (Confidence: 2):
+We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined:Data collected by advertising technologies on and off our Services using pixels, ad tags (e
+
+Sentence 70 (Confidence: 1):
+, when an advertiser installs a LinkedIntagon their website), cookies, and other device identifiers;Member-provided information (e
+
+Sentence 71 (Confidence: 1):
+Learn moreabout the inferences we make and how they may be used for advertising
+
+Sentence 72 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 73 (Confidence: 1):
+We will show you ads calledsponsored contentwhich look similar to non-sponsored content, except that they are labeled as advertising (e
+
+Sentence 74 (Confidence: 1):
+However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you
+
+Sentence 75 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 76 (Confidence: 1):
+In addition to advertising our Services, we use Members data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services
+
+Sentence 77 (Confidence: 1):
+We use yourdatato perform analytics to produce and share insights that do not identify you
+
+Sentence 78 (Confidence: 1):
+, for basic business reporting to support billing and budget management or, subject to yoursettings, for reports to advertisers who may use them to inform their advertising campaigns), to show Members' information about engagement with apostor LinkedInPage, to publish visitor demographics for a Service or create demographic workforce insights, or to understand usage of our services
+
+Sentence 79 (Confidence: 1):
+Enterprise AccountsYour employer may offer you access to our enterprise Services such as Recruiter, Sales Navigator, LinkedIn Learning or our advertising Campaign Manager
+
+Sentence 80 (Confidence: 1):
+We provide manychoicesabout the collection, use and sharing of your data, from deleting or correcting data you include in yourprofileand controlling the visibility of yourpoststo advertisingopt-outsandcommunicationcontrols
+
+Sentence 81 (Confidence: 1):
+ServicesThis Privacy Policy, including our Cookie Policy applies to your use of our Services
+
+Sentence 82 (Confidence: 1):
+This Privacy Policy, including our Cookie Policy applies to your use of our Services
+
+Sentence 83 (Confidence: 1):
+This Privacy Policy, including our Cookie Policy applies to your use of our Services
+
+Sentence 84 (Confidence: 1):
+This Privacy Policy, including our Cookie Policy applies to your use of our Services
+
+Sentence 85 (Confidence: 1):
+This Privacy Policy, including our Cookie Policy applies to your use of our Services
+
+Sentence 86 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 87 (Confidence: 1):
+We use log-ins, cookies,device informationand internet protocol (IP) addresses to identify you and log your use
+
+Sentence 88 (Confidence: 1):
+4 Cookies and Similar TechnologiesWe collect data through cookies and similar technologies
+
+Sentence 89 (Confidence: 2):
+As further described in ourCookie Policy, we use cookies and similar technologies (e
+
+Sentence 90 (Confidence: 1):
+, pixels and ad tags) to collect data (e
+
+Sentence 91 (Confidence: 2):
+We also allow some others to use cookies as described in our Cookie Policy
+
+Sentence 92 (Confidence: 2):
+You canopt outfrom our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes
+
+Sentence 93 (Confidence: 1):
+5 Your Device and LocationWe receive data through cookies and similar technologiesWhen you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit
+
+Sentence 94 (Confidence: 1):
+8 Sites and Services of OthersWe get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account
+
+Sentence 95 (Confidence: 1):
+We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others services that include some of our plugins (such as Apply with LinkedIn) or our ads, cookies or similar technologies
+
+Sentence 96 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 97 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 98 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 99 (Confidence: 1):
+We use log-ins, cookies,device informationand internet protocol (IP) addresses to identify you and log your use
+
+Sentence 100 (Confidence: 1):
+4 Cookies and Similar Technologies We log usage data when you visit or otherwise use our Services, including our sites, app and platform technology, such as when you view or click on content (e
+
+Sentence 101 (Confidence: 1):
+We use log-ins, cookies,device informationand internet protocol (IP) addresses to identify you and log your use
+
+Sentence 102 (Confidence: 1):
+4 Cookies and Similar Technologies We log usage data when you visit or otherwise use our Services, including our sites, app and platform technology, such as when you view or click on content (e
+
+Sentence 103 (Confidence: 1):
+We use log-ins, cookies,device informationand internet protocol (IP) addresses to identify you and log your use
+
+Sentence 104 (Confidence: 1):
+4 Cookies and Similar Technologies We collect data through cookies and similar technologies
+
+Sentence 105 (Confidence: 1):
+We collect data through cookies and similar technologies
+
+Sentence 106 (Confidence: 1):
+We collect data through cookies and similar technologies
+
+Sentence 107 (Confidence: 1):
+We collect data through cookies and similar technologies
+
+Sentence 108 (Confidence: 2):
+As further described in ourCookie Policy, we use cookies and similar technologies (e
+
+Sentence 109 (Confidence: 1):
+, pixels and ad tags) to collect data (e
+
+Sentence 110 (Confidence: 2):
+We also allow some others to use cookies as described in our Cookie Policy
+
+Sentence 111 (Confidence: 2):
+You canopt outfrom our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes
+
+Sentence 112 (Confidence: 2):
+As further described in ourCookie Policy, we use cookies and similar technologies (e
+
+Sentence 113 (Confidence: 1):
+, pixels and ad tags) to collect data (e
+
+Sentence 114 (Confidence: 2):
+We also allow some others to use cookies as described in our Cookie Policy
+
+Sentence 115 (Confidence: 2):
+You canopt outfrom our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes
+
+Sentence 116 (Confidence: 2):
+As further described in ourCookie Policy, we use cookies and similar technologies (e
+
+Sentence 117 (Confidence: 1):
+, pixels and ad tags) to collect data (e
+
+Sentence 118 (Confidence: 2):
+We also allow some others to use cookies as described in our Cookie Policy
+
+Sentence 119 (Confidence: 2):
+You canopt outfrom our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes
+
+Sentence 120 (Confidence: 1):
+5 Your Device and Location We receive data through cookies and similar technologies We receive data through cookies and similar technologies We receive data through cookies and similar technologies We receive data through cookies and similar technologies When you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit
+
+Sentence 121 (Confidence: 1):
+6 Communications When you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit
+
+Sentence 122 (Confidence: 1):
+6 Communications When you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit
+
+Sentence 123 (Confidence: 1):
+8 Sites and Services of Others We get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account
+
+Sentence 124 (Confidence: 1):
+We get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account
+
+Sentence 125 (Confidence: 1):
+We get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account
+
+Sentence 126 (Confidence: 1):
+We get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account
+
+Sentence 127 (Confidence: 1):
+We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others services that include some of our plugins (such as Apply with LinkedIn) or our ads, cookies or similar technologies
+
+Sentence 128 (Confidence: 1):
+9 Other We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others services that include some of our plugins (such as Apply with LinkedIn) or our ads, cookies or similar technologies
+
+Sentence 129 (Confidence: 1):
+9 Other We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others services that include some of our plugins (such as Apply with LinkedIn) or our ads, cookies or similar technologies
+
+Sentence 130 (Confidence: 1):
+, content analytics and followers)
+
+Sentence 131 (Confidence: 1):
+4 AdvertisingWe serve you tailored ads both on and off our Services
+
+Sentence 132 (Confidence: 2):
+We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined:Data collected by advertising technologies on and off our Services using pixels, ad tags (e
+
+Sentence 133 (Confidence: 1):
+, when an advertiser installs a LinkedIntagon their website), cookies, and other device identifiers;Member-provided information (e
+
+Sentence 134 (Confidence: 1):
+Learn moreabout the inferences we make and how they may be used for advertising
+
+Sentence 135 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 136 (Confidence: 1):
+We will show you ads calledsponsored contentwhich look similar to non-sponsored content, except that they are labeled as advertising (e
+
+Sentence 137 (Confidence: 1):
+However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you
+
+Sentence 138 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 139 (Confidence: 1):
+In addition to advertising our Services, we use Members data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services
+
+Sentence 140 (Confidence: 1):
+We use yourdatato perform analytics to produce and share insights that do not identify you
+
+Sentence 141 (Confidence: 1):
+, for basic business reporting to support billing and budget management or, subject to yoursettings, for reports to advertisers who may use them to inform their advertising campaigns), to show Members' information about engagement with apostor LinkedInPage, to publish visitor demographics for a Service or create demographic workforce insights, or to understand usage of our services
+
+Sentence 142 (Confidence: 1):
+, content analytics and followers)
+
+Sentence 143 (Confidence: 1):
+, content analytics and followers)
+
+Sentence 144 (Confidence: 1):
+, content analytics and followers)
+
+Sentence 145 (Confidence: 1):
+4 Advertising We will contact you through email, mobile phone, notices posted on our websites or apps, messages to your LinkedIn inbox, and other ways through our Services, including text messages and push notifications
+
+Sentence 146 (Confidence: 1):
+4 Advertising We will contact you through email, mobile phone, notices posted on our websites or apps, messages to your LinkedIn inbox, and other ways through our Services, including text messages and push notifications
+
+Sentence 147 (Confidence: 2):
+We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined:Data collected by advertising technologies on and off our Services using pixels, ad tags (e
+
+Sentence 148 (Confidence: 1):
+, when an advertiser installs a LinkedIntagon their website), cookies, and other device identifiers;Member-provided information (e
+
+Sentence 149 (Confidence: 1):
+Learn moreabout the inferences we make and how they may be used for advertising
+
+Sentence 150 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 151 (Confidence: 1):
+We will show you ads calledsponsored contentwhich look similar to non-sponsored content, except that they are labeled as advertising (e
+
+Sentence 152 (Confidence: 1):
+However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you
+
+Sentence 153 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 154 (Confidence: 2):
+5 Marketing We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined:Data collected by advertising technologies on and off our Services using pixels, ad tags (e
+
+Sentence 155 (Confidence: 1):
+, when an advertiser installs a LinkedIntagon their website), cookies, and other device identifiers;Member-provided information (e
+
+Sentence 156 (Confidence: 1):
+Learn moreabout the inferences we make and how they may be used for advertising
+
+Sentence 157 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 158 (Confidence: 1):
+We will show you ads calledsponsored contentwhich look similar to non-sponsored content, except that they are labeled as advertising (e
+
+Sentence 159 (Confidence: 1):
+However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you
+
+Sentence 160 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 161 (Confidence: 2):
+5 Marketing We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined: Data collected by advertising technologies on and off our Services using pixels, ad tags (e
+
+Sentence 162 (Confidence: 1):
+, when an advertiser installs a LinkedIntagon their website), cookies, and other device identifiers; Member-provided information (e
+
+Sentence 163 (Confidence: 1):
+Learn moreabout the inferences we make and how they may be used for advertising
+
+Sentence 164 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 165 (Confidence: 1):
+We will show you ads calledsponsored contentwhich look similar to non-sponsored content, except that they are labeled as advertising (e
+
+Sentence 166 (Confidence: 1):
+However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you
+
+Sentence 167 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 168 (Confidence: 1):
+In addition to advertising our Services, we use Members data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services
+
+Sentence 169 (Confidence: 1):
+6 Developing Services and Research In addition to advertising our Services, we use Members data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services
+
+Sentence 170 (Confidence: 1):
+6 Developing Services and Research In addition to advertising our Services, we use Members data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services
+
+Sentence 171 (Confidence: 1):
+We use yourdatato perform analytics to produce and share insights that do not identify you
+
+Sentence 172 (Confidence: 1):
+, for basic business reporting to support billing and budget management or, subject to yoursettings, for reports to advertisers who may use them to inform their advertising campaigns), to show Members' information about engagement with apostor LinkedInPage, to publish visitor demographics for a Service or create demographic workforce insights, or to understand usage of our services
+
+Sentence 173 (Confidence: 1):
+9 Security and Investigations We use yourdatato perform analytics to produce and share insights that do not identify you
+
+Sentence 174 (Confidence: 1):
+, for basic business reporting to support billing and budget management or, subject to yoursettings, for reports to advertisers who may use them to inform their advertising campaigns), to show Members' information about engagement with apostor LinkedInPage, to publish visitor demographics for a Service or create demographic workforce insights, or to understand usage of our services
+
+Sentence 175 (Confidence: 1):
+9 Security and Investigations We use yourdatato perform analytics to produce and share insights that do not identify you
+
+Sentence 176 (Confidence: 1):
+, for basic business reporting to support billing and budget management or, subject to yoursettings, for reports to advertisers who may use them to inform their advertising campaigns), to show Members' information about engagement with apostor LinkedInPage, to publish visitor demographics for a Service or create demographic workforce insights, or to understand usage of our services
+
+Sentence 177 (Confidence: 1):
+Enterprise AccountsYour employer may offer you access to our enterprise Services such as Recruiter, Sales Navigator, LinkedIn Learning or our advertising Campaign Manager
+
+Sentence 178 (Confidence: 1):
+Enterprise AccountsYour employer may offer you access to our enterprise Services such as Recruiter, Sales Navigator, LinkedIn Learning or our advertising Campaign Manager
+
+Sentence 179 (Confidence: 1):
+2 Communication Archival Enterprise AccountsYour employer may offer you access to our enterprise Services such as Recruiter, Sales Navigator, LinkedIn Learning or our advertising Campaign Manager
+
+Sentence 180 (Confidence: 1):
+2 Communication Archival Your employer may offer you access to our enterprise Services such as Recruiter, Sales Navigator, LinkedIn Learning or our advertising Campaign Manager
+
+Sentence 181 (Confidence: 1):
+We provide manychoicesabout the collection, use and sharing of your data, from deleting or correcting data you include in yourprofileand controlling the visibility of yourpoststo advertisingopt-outsandcommunicationcontrols
+
+Sentence 182 (Confidence: 1):
+We provide manychoicesabout the collection, use and sharing of your data, from deleting or correcting data you include in yourprofileand controlling the visibility of yourpoststo advertisingopt-outsandcommunicationcontrols
+
+Sentence 183 (Confidence: 1):
+3 Account Closure We provide manychoicesabout the collection, use and sharing of your data, from deleting or correcting data you include in yourprofileand controlling the visibility of yourpoststo advertisingopt-outsandcommunicationcontrols
+
+Sentence 184 (Confidence: 1):
+3 Account Closure We provide manychoicesabout the collection, use and sharing of your data, from deleting or correcting data you include in yourprofileand controlling the visibility of yourpoststo advertisingopt-outsandcommunicationcontrols
+

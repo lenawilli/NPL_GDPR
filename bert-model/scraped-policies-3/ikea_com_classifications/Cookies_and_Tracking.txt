@@ -1,0 +1,1064 @@
+=== Cookies And Tracking ===
+
+Sentence 1 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 2 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 3 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 4 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 5 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 6 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 7 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 8 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 9 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 10 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 11 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 12 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 13 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 14 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 15 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 16 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 17 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 18 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 19 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 20 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 21 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 22 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 23 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 24 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 25 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 26 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 27 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 28 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 29 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 30 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 31 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 32 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 33 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 34 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 35 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 36 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 37 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 38 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 39 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 40 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 41 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 42 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 43 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 44 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 45 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 46 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 47 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 48 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 49 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 50 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 51 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 52 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 53 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 54 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 55 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 56 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 57 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 58 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 59 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 60 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 61 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 62 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 63 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 64 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 65 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 66 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 67 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 68 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 69 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 70 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 71 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 72 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 73 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 74 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 75 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 76 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 77 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 78 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 79 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 80 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 81 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 82 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 83 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 84 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 85 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 86 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 87 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 88 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 89 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 90 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 91 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 92 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 93 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 94 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 95 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 96 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 97 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 98 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 99 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 100 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 101 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 102 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 103 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 104 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 105 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 106 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 107 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 108 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 109 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 110 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 111 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 112 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 113 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 114 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 115 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 116 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 117 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 118 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 119 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 120 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 121 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 122 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 123 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 124 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 125 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 126 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 127 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 128 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 129 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 130 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 131 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 132 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 133 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 134 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 135 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 136 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 137 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 138 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 139 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 140 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 141 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 142 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 143 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 144 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 145 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 146 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 147 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 148 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 149 (Confidence: 1):
+The personal data we collect from you and process may include:Your name and titleYour email addressYour mobile telephone numberYour date of birthYour addressYour IKEA Family card numberYour purchasing activityYour credit or debit card, or other payment informationYour account password and login detailsYour preferred storeYour comments, product reviews and responses on surveys you completeYour interactions with any marketing emails sent from us to youAny shopping preferences or details to help us suggest items for youYour images on CCTV and security body worn camerasYour car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crimeInformation about your device typeWebsite / browsing history, including location dataCookie information (please see ourCookie Policyfor details)It may also include any information you give us:When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 150 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 151 (Confidence: 1):
+The personal data we collect from you and process may include: Your mobile telephone number Your IKEA Family card number Your purchasing activity Your credit or debit card, or other payment information Your account password and login details Your comments, product reviews and responses on surveys you complete Your interactions with any marketing emails sent from us to you Any shopping preferences or details to help us suggest items for you Your images on CCTV and security body worn cameras Your car number plate if recorded to manage parking at our stores, or to detect vehicles of interest for the purposes of prevention and detection of crime Information about your device type Website / browsing history, including location data Cookie information (please see ourCookie Policyfor details) It may also include any information you give us: When you contact or are contacted by; our customer services, remote sales, planning or remote planning teams
+
+Sentence 152 (Confidence: 1):
+These providers may collect personal data directly from you to organise and book their services, or for their own marketing and tracking purposes
+
+Sentence 153 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 154 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 155 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 156 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 157 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 158 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 159 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 160 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 161 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phoneWhen processing requests for tax invoices related to purchases made in store or onlineWhen you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policyWhen you have your WiFi settings switched on and are logged into our in-store WiFiWhen you join our IKEA Family loyalty clubWhen you contact us or we contact you to take part in surveys, competitions or promotionsWhen you register for in store events or activitiesWhen you provide feedback using our digital tools both in store and onlineWhen you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chatWhen you engage with us on social media (by mentioning/tagging us or by contacting us directly)When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 162 (Confidence: 5):
+When you purchase products and services from us in store, online, using the IKEA App or over the phone When processing requests for tax invoices related to purchases made in store or online When you access our website or use any of our mobile apps, our website also uses cookies; to find out more about the use of cookies and how you can manage them, please read our Cookie policy When you have your WiFi settings switched on and are logged into our in-store WiFi When you join our IKEA Family loyalty club When you contact us or we contact you to take part in surveys, competitions or promotions When you register for in store events or activities When you provide feedback using our digital tools both in store and online When you contact or are contacted by our Customer Services, sales and planning teams whilst in store, via online, over the phone or via web chat When you engage with us on social media (by mentioning/tagging us or by contacting us directly) When your image may be captured via our CCTV system or body camera worn by our security team
+
+Sentence 163 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 164 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 165 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 166 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 167 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 168 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 169 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 170 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 171 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 172 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 173 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 174 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 175 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 176 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 177 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 178 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 179 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 180 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 181 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 182 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 183 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 184 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 185 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 186 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 187 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 188 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 189 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 190 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 191 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 192 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 193 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 194 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 195 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 196 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 197 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 198 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 199 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 200 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 201 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 202 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 203 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 204 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 205 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 206 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 207 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 208 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 209 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 210 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 211 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 212 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 213 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 214 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 215 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 216 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 217 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 218 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 219 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 220 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 221 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 222 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 223 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 224 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 225 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 226 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 227 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 228 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 229 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 230 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 231 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 232 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 233 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 234 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 235 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 236 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our websiteHow we use this personal data:To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 237 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 238 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 239 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 240 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 241 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 242 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 243 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 244 (Confidence: 1):
+Some of this data will be shared with selected third parties such as Google Analytics etc
+
+Sentence 245 (Confidence: 1):
+Personal data: Your device information, preferences and cookies provided when you browse our website How we use this personal data: To tailor your experience online and send you personalised emails (in combination with other information you have provided us or our third parties) so that we can offer you goods and services and promotions, offers and events we think you will be interested in
+
+Sentence 246 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 247 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 248 (Confidence: 1):
+To show you advertising on such Social Media platforms as Facebook and Twitter or third party advertising that may appear on other websites you use
+
+Sentence 249 (Confidence: 4):
+Why we do it (lawful basis)We will do this where you have consented to the use of cookies on our database
+
+Sentence 250 (Confidence: 2):
+Please see our section on Cookies and our Cookie Policy for more details
+
+Sentence 251 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you; manage your reward keys balance based on purchases and interactions you have with us; in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday; measure the effectiveness of our marketing campaigns and our advertising; carry out limited automated decision making based on the information you have given us when we segment our We rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 252 (Confidence: 2):
+For information on how we use cookies, please see ourCookie policy
+
+Sentence 253 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 254 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 255 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 256 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 257 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 258 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 259 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 260 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 261 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 262 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 263 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 264 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 265 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 266 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 267 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 268 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 269 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 270 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 271 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 272 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 273 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 274 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 275 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 276 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 277 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 278 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 279 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 280 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 281 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 282 (Confidence: 1):
+You can see ourCookie policy
+
+Sentence 283 (Confidence: 1):
+We work with carefully selected third parties, such as our customer database hosting provider, marketing agencies and advertising partners who assist us in providing you with a positive customer experience
+
+Sentence 284 (Confidence: 2):
+In order to do this, we use pixels and cookies
+
+Sentence 285 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 286 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 287 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 288 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 289 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 290 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 291 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 292 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 293 (Confidence: 2):
+You can opt out of other marketing as follows:For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profileIn all our SMS communications, you can also opt out on your online profileFor targeted or personalised adverts  by opting out of cookies  see cookie policy for more detailsIt might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 294 (Confidence: 2):
+You can opt out of other marketing as follows: For direct mail  in all our direct mail communications, we offer the opportunity to opt out by mail, you can also opt out on your online profile In all our SMS communications, you can also opt out on your online profile For targeted or personalised adverts  by opting out of cookies  see cookie policy for more details It might take some time for all our systems to be updated, so you might get messages from us while we fully process your request, but we will ensure that we mark you as having opted out on our database as soon as we receive your request
+
+Sentence 295 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 296 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 297 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 298 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 299 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 300 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 301 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 302 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 303 (Confidence: 1):
+Automated decision-making and ProfilingWe bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 304 (Confidence: 1):
+Automated decision-making and Profiling We bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience
+
+Sentence 305 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 306 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 307 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 308 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 309 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 310 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 311 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 312 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 313 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 314 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 315 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 316 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 317 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 318 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 319 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 320 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 321 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 322 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 323 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 324 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 325 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 326 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 327 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 328 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 329 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 330 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 331 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 332 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 333 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 334 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 335 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 336 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 337 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 338 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 339 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 340 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 341 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 342 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 343 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 344 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 345 (Confidence: 1):
+CookiesCookies are small encrypted text files that are stored on your device by a website
+
+Sentence 346 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 347 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 348 (Confidence: 1):
+uk/You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 349 (Confidence: 1):
+Our Cookie Policy is set outhere
+
+Sentence 350 (Confidence: 1):
+Cookies are small encrypted text files that are stored on your device by a website
+
+Sentence 351 (Confidence: 1):
+Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic
+
+Sentence 352 (Confidence: 1):
+For further information visithttp://aboutcookies
+
+Sentence 353 (Confidence: 1):
+uk/ You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser
+
+Sentence 354 (Confidence: 1):
+Our Cookie Policy is set outhere
+

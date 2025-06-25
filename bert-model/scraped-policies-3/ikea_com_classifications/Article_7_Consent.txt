@@ -1,0 +1,674 @@
+=== Article 7 Consent ===
+
+Sentence 1 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 2 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 3 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 4 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 5 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 6 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 7 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 8 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 9 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 10 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 11 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 12 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 13 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 14 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 15 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 16 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 17 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 18 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 19 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 20 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 21 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 22 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 23 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 24 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 25 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 26 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 27 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 28 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 29 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 30 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 31 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 32 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 33 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 34 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 35 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 36 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 37 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 38 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 39 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 40 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 41 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 42 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 43 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 44 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 45 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 46 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 47 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 48 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 49 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 50 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 51 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 52 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 53 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 54 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 55 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 56 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 57 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 58 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 59 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 60 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 61 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 62 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 63 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 64 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 65 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 66 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 67 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 68 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 69 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 70 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 71 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 72 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 73 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 74 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 75 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 76 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 77 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 78 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 79 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 80 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 81 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 82 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 83 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 84 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 85 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 86 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 87 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 88 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 89 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 90 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 91 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 92 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 93 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 94 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 95 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 96 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 97 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 98 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 99 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 100 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 101 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 102 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 103 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 104 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 105 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 106 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 107 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 108 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 109 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 110 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 111 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 112 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 113 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 114 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 115 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 116 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 117 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 118 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 119 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 120 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 121 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 122 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 123 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 124 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 125 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 126 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 127 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 128 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 129 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 130 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 131 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 132 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 133 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 134 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 135 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 136 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 137 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 138 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 139 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 140 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 141 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 142 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 143 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 144 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 145 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 146 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 147 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 148 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 149 (Confidence: 1):
+In relation to your IKEA Family membershipWe use your personal data to personalise your experience with IKEA to:provide you with marketing material via SMS, post and email if you have given us your consent to this;process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 150 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you;manage your reward keys balance based on purchases and interactions you have with us;in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday;measure the effectiveness of our marketing campaigns and our advertising;carry out limited automated decision making based on the information you have given us when we segment ourWe rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 151 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content unless you have opted-in to receive marketing from us
+
+Sentence 152 (Confidence: 1):
+You are free to opt-out of receiving these communications at any time
+
+Sentence 153 (Confidence: 1):
+If a third party will use these details to contact you directly as part of the prize draw or competition, we will ask for your consent to that third party contacting you
+
+Sentence 154 (Confidence: 1):
+We don't need your consent to send you these communications, but they will not include any promotional content
+
+Sentence 155 (Confidence: 1):
+To combine the information that we collect directly from you with any information that we obtain from third parties to whom you have given your consent to pass that data onto us, such as the Social Media platforms and publicly available information we describe above
+
+Sentence 156 (Confidence: 1):
+We will also ask you if you want to consent to email marketing through this registration
+
+Sentence 157 (Confidence: 1):
+In relation to your IKEA Family membership We use your personal data to personalise your experience with IKEA to: provide you with marketing material via SMS, post and email if you have given us your consent to this; process your registration details, account activity and purchase history to analyse how you shop and what you shop for
+
+Sentence 158 (Confidence: 1):
+This allows us to provide a browsing experience which is relevant to you; manage your reward keys balance based on purchases and interactions you have with us; in some instances we will send specific offers to our members based on their in-store spend or on a special occasion such as when we know it's your birthday; measure the effectiveness of our marketing campaigns and our advertising; carry out limited automated decision making based on the information you have given us when we segment our We rely on your consent to send direct SMS, postal and email marketing messages to you as an IKEA Family member based on the consent we acquired from you when you signed up, as amended by you from time to time
+
+Sentence 159 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 160 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 161 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 162 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 163 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 164 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 165 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 166 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 167 (Confidence: 2):
+You are entitled to:have your data processed in a fair, lawful and transparent way;be informed about how your personal data is being used, an example being this privacy policy;access personal data we hold about you;require us to correct any mistakes in your personal data;require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;request that we transfer your personal data to you or another service provider in a simple, structured format;object at any time to processing of your personal data for direct marketing purposes;object to automated decision-making which produces legal effects concerning you or similarly significantly affects you;object in certain other situations to our continued processing of your personal data;withdraw consent provided by you; andotherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 168 (Confidence: 2):
+You are entitled to: have your data processed in a fair, lawful and transparent way; be informed about how your personal data is being used, an example being this privacy policy; access personal data we hold about you; require us to correct any mistakes in your personal data; require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it; request that we transfer your personal data to you or another service provider in a simple, structured format; object at any time to processing of your personal data for direct marketing purposes; object to automated decision-making which produces legal effects concerning you or similarly significantly affects you; object in certain other situations to our continued processing of your personal data; withdraw consent provided by you; and otherwise restrict or temporarily stop our processing of your personal data in certain circumstances
+
+Sentence 169 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 170 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 171 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 172 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 173 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 174 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 175 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 176 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 177 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 178 (Confidence: 1):
+Where you have asked us to provide assistance or special delivery instructions, we will do this on the basis of your consent to us using it in this way
+
+Sentence 179 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 180 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 181 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 182 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 183 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 184 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 185 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 186 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 187 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 188 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 189 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 190 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 191 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 192 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 193 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 194 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 195 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 196 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 197 (Confidence: 1):
+When we collect your personal data, we give you the opportunity to opt-in to receive those marketing messages by simply ticking the boxes
+
+Sentence 198 (Confidence: 1):
+If you are currently opted-out of our marketing, you can always choose to opt-in to receive our emails by amending your preferences
+
+Sentence 199 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 200 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 201 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 202 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 203 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 204 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 205 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 206 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 207 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 208 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 209 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 210 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 211 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 212 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 213 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 214 (Confidence: 1):
+The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication
+
+Sentence 215 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 216 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 217 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 218 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 219 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 220 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 221 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 222 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 223 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+
+Sentence 224 (Confidence: 1):
+We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us
+

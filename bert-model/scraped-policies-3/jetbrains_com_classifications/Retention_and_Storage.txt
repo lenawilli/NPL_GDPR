@@ -1,0 +1,107 @@
+=== Retention And Storage ===
+
+Sentence 1 (Confidence: 1):
+For example, we may usethird-party service providersto provide data storage and backup services
+
+Sentence 2 (Confidence: 1):
+When the reason for data storage expires, and we are no longer required to keep it, we remove your Personal Data from our servers or anonymize it for further usage
+
+Sentence 3 (Confidence: 1):
+For JetBrains AI, the default location of Personal Data storage may differ; seethis link
+
+Sentence 4 (Confidence: 1):
+Data retention and deletion
+
+Sentence 5 (Confidence: 3):
+We may retain your information if it is required for compliance with legal obligations and/or defense in the event of a violation of the JetBrains Terms of Use and/or Privacy Policies
+
+Sentence 6 (Confidence: 1):
+For example, we may usethird-party service providersto provide data storage and backup services
+
+Sentence 7 (Confidence: 1):
+When the reason for data storage expires, and we are no longer required to keep it, we remove your Personal Data from our servers or anonymize it for further usage
+
+Sentence 8 (Confidence: 1):
+For JetBrains AI, the default location of Personal Data storage may differ; seethis link
+
+Sentence 9 (Confidence: 1):
+Data retention and deletion
+
+Sentence 10 (Confidence: 3):
+We may retain your information if it is required for compliance with legal obligations and/or defense in the event of a violation of the JetBrains Terms of Use and/or Privacy Policies
+
+Sentence 11 (Confidence: 1):
+For example, we may usethird-party service providersto provide data storage and backup services
+
+Sentence 12 (Confidence: 1):
+When the reason for data storage expires, and we are no longer required to keep it, we remove your Personal Data from our servers or anonymize it for further usage
+
+Sentence 13 (Confidence: 1):
+For JetBrains AI, the default location of Personal Data storage may differ; seethis link
+
+Sentence 14 (Confidence: 1):
+Data retention and deletion
+
+Sentence 15 (Confidence: 3):
+We may retain your information if it is required for compliance with legal obligations and/or defense in the event of a violation of the JetBrains Terms of Use and/or Privacy Policies
+
+Sentence 16 (Confidence: 1):
+For example, we may usethird-party service providersto provide data storage and backup services
+
+Sentence 17 (Confidence: 1):
+When the reason for data storage expires, and we are no longer required to keep it, we remove your Personal Data from our servers or anonymize it for further usage
+
+Sentence 18 (Confidence: 1):
+For JetBrains AI, the default location of Personal Data storage may differ; seethis link
+
+Sentence 19 (Confidence: 1):
+Data retention and deletion
+
+Sentence 20 (Confidence: 3):
+We may retain your information if it is required for compliance with legal obligations and/or defense in the event of a violation of the JetBrains Terms of Use and/or Privacy Policies
+
+Sentence 21 (Confidence: 1):
+For example, we may usethird-party service providersto provide data storage and backup services
+
+Sentence 22 (Confidence: 1):
+When the reason for data storage expires, and we are no longer required to keep it, we remove your Personal Data from our servers or anonymize it for further usage
+
+Sentence 23 (Confidence: 1):
+For JetBrains AI, the default location of Personal Data storage may differ; seethis link
+
+Sentence 24 (Confidence: 1):
+Data retention and deletion
+
+Sentence 25 (Confidence: 3):
+We may retain your information if it is required for compliance with legal obligations and/or defense in the event of a violation of the JetBrains Terms of Use and/or Privacy Policies
+
+Sentence 26 (Confidence: 1):
+For example, we may usethird-party service providersto provide data storage and backup services
+
+Sentence 27 (Confidence: 1):
+When the reason for data storage expires, and we are no longer required to keep it, we remove your Personal Data from our servers or anonymize it for further usage
+
+Sentence 28 (Confidence: 1):
+For JetBrains AI, the default location of Personal Data storage may differ; seethis link
+
+Sentence 29 (Confidence: 1):
+Data retention and deletion
+
+Sentence 30 (Confidence: 3):
+We may retain your information if it is required for compliance with legal obligations and/or defense in the event of a violation of the JetBrains Terms of Use and/or Privacy Policies
+
+Sentence 31 (Confidence: 1):
+For example, we may usethird-party service providersto provide data storage and backup services
+
+Sentence 32 (Confidence: 1):
+When the reason for data storage expires, and we are no longer required to keep it, we remove your Personal Data from our servers or anonymize it for further usage
+
+Sentence 33 (Confidence: 1):
+For JetBrains AI, the default location of Personal Data storage may differ; seethis link
+
+Sentence 34 (Confidence: 1):
+Data retention and deletion
+
+Sentence 35 (Confidence: 3):
+We may retain your information if it is required for compliance with legal obligations and/or defense in the event of a violation of the JetBrains Terms of Use and/or Privacy Policies
+

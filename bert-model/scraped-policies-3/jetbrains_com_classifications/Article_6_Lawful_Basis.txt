@@ -1,0 +1,359 @@
+=== Article 6 Lawful Basis ===
+
+Sentence 1 (Confidence: 2):
+The legal basis for this data processing is the performance of a contract between you and us
+
+Sentence 2 (Confidence: 1):
+With your consent, your Personal Data may also be transferred tothird-party service providers, acting as separate data controllers, who provide products and services complementary to JetBrains Products (further data processing performed by these service providers is governed by their privacy policies)
+
+Sentence 3 (Confidence: 2):
+The legal basis for this data processing is consent
+
+Sentence 4 (Confidence: 2):
+The legal basis for this data processing is JetBrains legitimate interest in protection from piracy and from the unlawful use of JetBrains software and services
+
+Sentence 5 (Confidence: 1):
+With your consent, we may collect anonymous data based on your use of JetBrains Products
+
+Sentence 6 (Confidence: 2):
+The legal basis for this data processing is our legitimate interest in keeping internal evidence and protecting the rights and interests of us and other users
+
+Sentence 7 (Confidence: 3):
+With your consent or if permitted by applicable law on the legal basis of legitimate interest, we may also use your contact details to send you commercial communications about our products and services
+
+Sentence 8 (Confidence: 3):
+The legal basis for this data processing is our legitimate interest in promoting and marketing our products and services, or your explicit consent
+
+Sentence 9 (Confidence: 2):
+The legal basis for this data processing is our compliance with our legal obligations
+
+Sentence 10 (Confidence: 1):
+You may object at any time to the processing of your Personal Data unless you provide us with consent for such processing
+
+Sentence 11 (Confidence: 1):
+In that case, you may revoke your consent
+
+Sentence 12 (Confidence: 1):
+Where appropriate, we will prompt you to give us your consent to collect and process your data as described above
+
+Sentence 13 (Confidence: 1):
+For this purpose, we use agreements, terms of use, and consent notices embedded in JetBrains Products and services, which are availablehere
+
+Sentence 14 (Confidence: 1):
+In that case, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+
+Sentence 15 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 16 (Confidence: 1):
+Our processing of Customer Underlying Data is governed by the contracts that we have in place with our customers, not this Privacy Notice
+
+Sentence 17 (Confidence: 1):
+Purposes of Collection, Use, and DisclosureAs described in more detail above in Sections 2 and 6,Why We Collect Your Data and What We CollectandSharing of Personal Data, in general, we may collect, use, disclose, and otherwise process personal information for the following business or commercial purposes and as otherwise directed or consented to by you:To provide our products and services to you;To protect us from piracy and the unlawful use of our software or services;To improve our offerings based on usage;For JetBrains internal evidence and to protect the rights and interests of JetBrains and other users;To advertise and market our products and services to you;General business and operational support; and,To comply with applicable laws
+
+Sentence 18 (Confidence: 2):
+The legal basis for this data processing is the performance of a contract between you and us
+
+Sentence 19 (Confidence: 1):
+With your consent, your Personal Data may also be transferred tothird-party service providers, acting as separate data controllers, who provide products and services complementary to JetBrains Products (further data processing performed by these service providers is governed by their privacy policies)
+
+Sentence 20 (Confidence: 2):
+The legal basis for this data processing is consent
+
+Sentence 21 (Confidence: 2):
+The legal basis for this data processing is JetBrains legitimate interest in protection from piracy and from the unlawful use of JetBrains software and services
+
+Sentence 22 (Confidence: 1):
+With your consent, we may collect anonymous data based on your use of JetBrains Products
+
+Sentence 23 (Confidence: 2):
+The legal basis for this data processing is our legitimate interest in keeping internal evidence and protecting the rights and interests of us and other users
+
+Sentence 24 (Confidence: 3):
+With your consent or if permitted by applicable law on the legal basis of legitimate interest, we may also use your contact details to send you commercial communications about our products and services
+
+Sentence 25 (Confidence: 3):
+The legal basis for this data processing is our legitimate interest in promoting and marketing our products and services, or your explicit consent
+
+Sentence 26 (Confidence: 2):
+The legal basis for this data processing is our compliance with our legal obligations
+
+Sentence 27 (Confidence: 1):
+You may object at any time to the processing of your Personal Data unless you provide us with consent for such processing
+
+Sentence 28 (Confidence: 1):
+In that case, you may revoke your consent
+
+Sentence 29 (Confidence: 1):
+Where appropriate, we will prompt you to give us your consent to collect and process your data as described above
+
+Sentence 30 (Confidence: 1):
+For this purpose, we use agreements, terms of use, and consent notices embedded in JetBrains Products and services, which are availablehere
+
+Sentence 31 (Confidence: 1):
+In that case, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+
+Sentence 32 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 33 (Confidence: 1):
+Our processing of Customer Underlying Data is governed by the contracts that we have in place with our customers, not this Privacy Notice
+
+Sentence 34 (Confidence: 1):
+Purposes of Collection, Use, and DisclosureAs described in more detail above in Sections 2 and 6,Why We Collect Your Data and What We CollectandSharing of Personal Data, in general, we may collect, use, disclose, and otherwise process personal information for the following business or commercial purposes and as otherwise directed or consented to by you:To provide our products and services to you;To protect us from piracy and the unlawful use of our software or services;To improve our offerings based on usage;For JetBrains internal evidence and to protect the rights and interests of JetBrains and other users;To advertise and market our products and services to you;General business and operational support; and,To comply with applicable laws
+
+Sentence 35 (Confidence: 2):
+The legal basis for this data processing is the performance of a contract between you and us
+
+Sentence 36 (Confidence: 1):
+With your consent, your Personal Data may also be transferred tothird-party service providers, acting as separate data controllers, who provide products and services complementary to JetBrains Products (further data processing performed by these service providers is governed by their privacy policies)
+
+Sentence 37 (Confidence: 2):
+The legal basis for this data processing is consent
+
+Sentence 38 (Confidence: 2):
+The legal basis for this data processing is JetBrains legitimate interest in protection from piracy and from the unlawful use of JetBrains software and services
+
+Sentence 39 (Confidence: 1):
+With your consent, we may collect anonymous data based on your use of JetBrains Products
+
+Sentence 40 (Confidence: 2):
+The legal basis for this data processing is our legitimate interest in keeping internal evidence and protecting the rights and interests of us and other users
+
+Sentence 41 (Confidence: 3):
+With your consent or if permitted by applicable law on the legal basis of legitimate interest, we may also use your contact details to send you commercial communications about our products and services
+
+Sentence 42 (Confidence: 3):
+The legal basis for this data processing is our legitimate interest in promoting and marketing our products and services, or your explicit consent
+
+Sentence 43 (Confidence: 2):
+The legal basis for this data processing is our compliance with our legal obligations
+
+Sentence 44 (Confidence: 1):
+You may object at any time to the processing of your Personal Data unless you provide us with consent for such processing
+
+Sentence 45 (Confidence: 1):
+In that case, you may revoke your consent
+
+Sentence 46 (Confidence: 1):
+Where appropriate, we will prompt you to give us your consent to collect and process your data as described above
+
+Sentence 47 (Confidence: 1):
+For this purpose, we use agreements, terms of use, and consent notices embedded in JetBrains Products and services, which are availablehere
+
+Sentence 48 (Confidence: 1):
+In that case, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+
+Sentence 49 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 50 (Confidence: 1):
+Our processing of Customer Underlying Data is governed by the contracts that we have in place with our customers, not this Privacy Notice
+
+Sentence 51 (Confidence: 1):
+Purposes of Collection, Use, and DisclosureAs described in more detail above in Sections 2 and 6,Why We Collect Your Data and What We CollectandSharing of Personal Data, in general, we may collect, use, disclose, and otherwise process personal information for the following business or commercial purposes and as otherwise directed or consented to by you:To provide our products and services to you;To protect us from piracy and the unlawful use of our software or services;To improve our offerings based on usage;For JetBrains internal evidence and to protect the rights and interests of JetBrains and other users;To advertise and market our products and services to you;General business and operational support; and,To comply with applicable laws
+
+Sentence 52 (Confidence: 2):
+The legal basis for this data processing is the performance of a contract between you and us
+
+Sentence 53 (Confidence: 1):
+With your consent, your Personal Data may also be transferred tothird-party service providers, acting as separate data controllers, who provide products and services complementary to JetBrains Products (further data processing performed by these service providers is governed by their privacy policies)
+
+Sentence 54 (Confidence: 2):
+The legal basis for this data processing is consent
+
+Sentence 55 (Confidence: 2):
+The legal basis for this data processing is JetBrains legitimate interest in protection from piracy and from the unlawful use of JetBrains software and services
+
+Sentence 56 (Confidence: 1):
+With your consent, we may collect anonymous data based on your use of JetBrains Products
+
+Sentence 57 (Confidence: 2):
+The legal basis for this data processing is our legitimate interest in keeping internal evidence and protecting the rights and interests of us and other users
+
+Sentence 58 (Confidence: 3):
+With your consent or if permitted by applicable law on the legal basis of legitimate interest, we may also use your contact details to send you commercial communications about our products and services
+
+Sentence 59 (Confidence: 3):
+The legal basis for this data processing is our legitimate interest in promoting and marketing our products and services, or your explicit consent
+
+Sentence 60 (Confidence: 2):
+The legal basis for this data processing is our compliance with our legal obligations
+
+Sentence 61 (Confidence: 1):
+You may object at any time to the processing of your Personal Data unless you provide us with consent for such processing
+
+Sentence 62 (Confidence: 1):
+In that case, you may revoke your consent
+
+Sentence 63 (Confidence: 1):
+Where appropriate, we will prompt you to give us your consent to collect and process your data as described above
+
+Sentence 64 (Confidence: 1):
+For this purpose, we use agreements, terms of use, and consent notices embedded in JetBrains Products and services, which are availablehere
+
+Sentence 65 (Confidence: 1):
+In that case, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+
+Sentence 66 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 67 (Confidence: 1):
+Our processing of Customer Underlying Data is governed by the contracts that we have in place with our customers, not this Privacy Notice
+
+Sentence 68 (Confidence: 1):
+Purposes of Collection, Use, and DisclosureAs described in more detail above in Sections 2 and 6,Why We Collect Your Data and What We CollectandSharing of Personal Data, in general, we may collect, use, disclose, and otherwise process personal information for the following business or commercial purposes and as otherwise directed or consented to by you:To provide our products and services to you;To protect us from piracy and the unlawful use of our software or services;To improve our offerings based on usage;For JetBrains internal evidence and to protect the rights and interests of JetBrains and other users;To advertise and market our products and services to you;General business and operational support; and,To comply with applicable laws
+
+Sentence 69 (Confidence: 2):
+The legal basis for this data processing is the performance of a contract between you and us
+
+Sentence 70 (Confidence: 1):
+With your consent, your Personal Data may also be transferred tothird-party service providers, acting as separate data controllers, who provide products and services complementary to JetBrains Products (further data processing performed by these service providers is governed by their privacy policies)
+
+Sentence 71 (Confidence: 2):
+The legal basis for this data processing is consent
+
+Sentence 72 (Confidence: 2):
+The legal basis for this data processing is JetBrains legitimate interest in protection from piracy and from the unlawful use of JetBrains software and services
+
+Sentence 73 (Confidence: 1):
+With your consent, we may collect anonymous data based on your use of JetBrains Products
+
+Sentence 74 (Confidence: 2):
+The legal basis for this data processing is our legitimate interest in keeping internal evidence and protecting the rights and interests of us and other users
+
+Sentence 75 (Confidence: 3):
+With your consent or if permitted by applicable law on the legal basis of legitimate interest, we may also use your contact details to send you commercial communications about our products and services
+
+Sentence 76 (Confidence: 3):
+The legal basis for this data processing is our legitimate interest in promoting and marketing our products and services, or your explicit consent
+
+Sentence 77 (Confidence: 2):
+The legal basis for this data processing is our compliance with our legal obligations
+
+Sentence 78 (Confidence: 1):
+You may object at any time to the processing of your Personal Data unless you provide us with consent for such processing
+
+Sentence 79 (Confidence: 1):
+In that case, you may revoke your consent
+
+Sentence 80 (Confidence: 1):
+Where appropriate, we will prompt you to give us your consent to collect and process your data as described above
+
+Sentence 81 (Confidence: 1):
+For this purpose, we use agreements, terms of use, and consent notices embedded in JetBrains Products and services, which are availablehere
+
+Sentence 82 (Confidence: 1):
+In that case, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+
+Sentence 83 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 84 (Confidence: 1):
+Our processing of Customer Underlying Data is governed by the contracts that we have in place with our customers, not this Privacy Notice
+
+Sentence 85 (Confidence: 1):
+Purposes of Collection, Use, and DisclosureAs described in more detail above in Sections 2 and 6,Why We Collect Your Data and What We CollectandSharing of Personal Data, in general, we may collect, use, disclose, and otherwise process personal information for the following business or commercial purposes and as otherwise directed or consented to by you:To provide our products and services to you;To protect us from piracy and the unlawful use of our software or services;To improve our offerings based on usage;For JetBrains internal evidence and to protect the rights and interests of JetBrains and other users;To advertise and market our products and services to you;General business and operational support; and,To comply with applicable laws
+
+Sentence 86 (Confidence: 2):
+The legal basis for this data processing is the performance of a contract between you and us
+
+Sentence 87 (Confidence: 1):
+With your consent, your Personal Data may also be transferred tothird-party service providers, acting as separate data controllers, who provide products and services complementary to JetBrains Products (further data processing performed by these service providers is governed by their privacy policies)
+
+Sentence 88 (Confidence: 2):
+The legal basis for this data processing is consent
+
+Sentence 89 (Confidence: 2):
+The legal basis for this data processing is JetBrains legitimate interest in protection from piracy and from the unlawful use of JetBrains software and services
+
+Sentence 90 (Confidence: 1):
+With your consent, we may collect anonymous data based on your use of JetBrains Products
+
+Sentence 91 (Confidence: 2):
+The legal basis for this data processing is our legitimate interest in keeping internal evidence and protecting the rights and interests of us and other users
+
+Sentence 92 (Confidence: 3):
+With your consent or if permitted by applicable law on the legal basis of legitimate interest, we may also use your contact details to send you commercial communications about our products and services
+
+Sentence 93 (Confidence: 3):
+The legal basis for this data processing is our legitimate interest in promoting and marketing our products and services, or your explicit consent
+
+Sentence 94 (Confidence: 2):
+The legal basis for this data processing is our compliance with our legal obligations
+
+Sentence 95 (Confidence: 1):
+You may object at any time to the processing of your Personal Data unless you provide us with consent for such processing
+
+Sentence 96 (Confidence: 1):
+In that case, you may revoke your consent
+
+Sentence 97 (Confidence: 1):
+Where appropriate, we will prompt you to give us your consent to collect and process your data as described above
+
+Sentence 98 (Confidence: 1):
+For this purpose, we use agreements, terms of use, and consent notices embedded in JetBrains Products and services, which are availablehere
+
+Sentence 99 (Confidence: 1):
+In that case, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+
+Sentence 100 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 101 (Confidence: 1):
+Our processing of Customer Underlying Data is governed by the contracts that we have in place with our customers, not this Privacy Notice
+
+Sentence 102 (Confidence: 1):
+Purposes of Collection, Use, and DisclosureAs described in more detail above in Sections 2 and 6,Why We Collect Your Data and What We CollectandSharing of Personal Data, in general, we may collect, use, disclose, and otherwise process personal information for the following business or commercial purposes and as otherwise directed or consented to by you:To provide our products and services to you;To protect us from piracy and the unlawful use of our software or services;To improve our offerings based on usage;For JetBrains internal evidence and to protect the rights and interests of JetBrains and other users;To advertise and market our products and services to you;General business and operational support; and,To comply with applicable laws
+
+Sentence 103 (Confidence: 2):
+The legal basis for this data processing is the performance of a contract between you and us
+
+Sentence 104 (Confidence: 1):
+With your consent, your Personal Data may also be transferred tothird-party service providers, acting as separate data controllers, who provide products and services complementary to JetBrains Products (further data processing performed by these service providers is governed by their privacy policies)
+
+Sentence 105 (Confidence: 2):
+The legal basis for this data processing is consent
+
+Sentence 106 (Confidence: 2):
+The legal basis for this data processing is JetBrains legitimate interest in protection from piracy and from the unlawful use of JetBrains software and services
+
+Sentence 107 (Confidence: 1):
+With your consent, we may collect anonymous data based on your use of JetBrains Products
+
+Sentence 108 (Confidence: 2):
+The legal basis for this data processing is our legitimate interest in keeping internal evidence and protecting the rights and interests of us and other users
+
+Sentence 109 (Confidence: 3):
+With your consent or if permitted by applicable law on the legal basis of legitimate interest, we may also use your contact details to send you commercial communications about our products and services
+
+Sentence 110 (Confidence: 3):
+The legal basis for this data processing is our legitimate interest in promoting and marketing our products and services, or your explicit consent
+
+Sentence 111 (Confidence: 2):
+The legal basis for this data processing is our compliance with our legal obligations
+
+Sentence 112 (Confidence: 1):
+You may object at any time to the processing of your Personal Data unless you provide us with consent for such processing
+
+Sentence 113 (Confidence: 1):
+In that case, you may revoke your consent
+
+Sentence 114 (Confidence: 1):
+Where appropriate, we will prompt you to give us your consent to collect and process your data as described above
+
+Sentence 115 (Confidence: 1):
+For this purpose, we use agreements, terms of use, and consent notices embedded in JetBrains Products and services, which are availablehere
+
+Sentence 116 (Confidence: 1):
+In that case, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+
+Sentence 117 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 118 (Confidence: 1):
+Our processing of Customer Underlying Data is governed by the contracts that we have in place with our customers, not this Privacy Notice
+
+Sentence 119 (Confidence: 1):
+Purposes of Collection, Use, and Disclosure As described in more detail above in Sections 2 and 6,Why We Collect Your Data and What We CollectandSharing of Personal Data, in general, we may collect, use, disclose, and otherwise process personal information for the following business or commercial purposes and as otherwise directed or consented to by you: To provide our products and services to you; To protect us from piracy and the unlawful use of our software or services; To improve our offerings based on usage; For JetBrains internal evidence and to protect the rights and interests of JetBrains and other users; To advertise and market our products and services to you; General business and operational support; and, To comply with applicable laws
+

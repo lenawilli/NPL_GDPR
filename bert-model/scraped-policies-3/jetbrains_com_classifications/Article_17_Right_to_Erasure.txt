@@ -1,0 +1,65 @@
+=== Article 17 Right To Erasure ===
+
+Sentence 1 (Confidence: 1):
+After the Personal Data removal, we may keep pseudonyms of your Personal Data solely as a record of the data removal
+
+Sentence 2 (Confidence: 5):
+Right to erasure (right to be forgotten)
+
+Sentence 3 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to delete your Personal Data
+
+Sentence 4 (Confidence: 1):
+After the Personal Data removal, we may keep pseudonyms of your Personal Data solely as a record of the data removal
+
+Sentence 5 (Confidence: 5):
+Right to erasure (right to be forgotten)
+
+Sentence 6 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to delete your Personal Data
+
+Sentence 7 (Confidence: 1):
+After the Personal Data removal, we may keep pseudonyms of your Personal Data solely as a record of the data removal
+
+Sentence 8 (Confidence: 5):
+Right to erasure (right to be forgotten)
+
+Sentence 9 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to delete your Personal Data
+
+Sentence 10 (Confidence: 1):
+After the Personal Data removal, we may keep pseudonyms of your Personal Data solely as a record of the data removal
+
+Sentence 11 (Confidence: 5):
+Right to erasure (right to be forgotten)
+
+Sentence 12 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to delete your Personal Data
+
+Sentence 13 (Confidence: 1):
+After the Personal Data removal, we may keep pseudonyms of your Personal Data solely as a record of the data removal
+
+Sentence 14 (Confidence: 5):
+Right to erasure (right to be forgotten)
+
+Sentence 15 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to delete your Personal Data
+
+Sentence 16 (Confidence: 1):
+After the Personal Data removal, we may keep pseudonyms of your Personal Data solely as a record of the data removal
+
+Sentence 17 (Confidence: 5):
+Right to erasure (right to be forgotten)
+
+Sentence 18 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to delete your Personal Data
+
+Sentence 19 (Confidence: 1):
+After the Personal Data removal, we may keep pseudonyms of your Personal Data solely as a record of the data removal
+
+Sentence 20 (Confidence: 5):
+Right to erasure (right to be forgotten)
+
+Sentence 21 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to delete your Personal Data
+

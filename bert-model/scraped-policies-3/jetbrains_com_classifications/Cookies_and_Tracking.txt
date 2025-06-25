@@ -1,0 +1,626 @@
+=== Cookies And Tracking ===
+
+Sentence 1 (Confidence: 1):
+Please refer to ourCookie Noticefor more information regarding the collection of non-anonymous data (cookies) when you are using the JetBrains Website
+
+Sentence 2 (Confidence: 1):
+We also may use data that we collect and aggregate to assist us in determining the appropriate marketing and advertising for our products and services
+
+Sentence 3 (Confidence: 1):
+As more fully described in theHow We Collect Datasection, we also may usethird-party service providersto assist us with our digital advertising, including through cross-contextual advertising on third-party properties
+
+Sentence 4 (Confidence: 2):
+Examples of Personal Data involved in data processing include:Name;Email address;Phone number;Username;Password;Photograph (if voluntarily provided);Cookies or other tracking identifiers;Internet Protocol (IP) address;Information about your device and/or internet browser;SSH public key;Physical address;Information about subscription and payments, including financial information associated with our accounts and payments;Tax ID;Data about your use of JetBrains Products, services, and your JetBrains Account;Comments, voluntarily provided feedback, and any data provided in survey responses or forms; andData in issue reports pertaining to JetBrains Products and services, such as project or device names
+
+Sentence 5 (Confidence: 1):
+We may collect certain information automatically when you use our services, such as your IP address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising, and other unique identifiers, browser or device information, location information (including approximate location derived from your IP address), and internet service provider
+
+Sentence 6 (Confidence: 1):
+Cookies (and other technologies)
+
+Sentence 7 (Confidence: 6):
+For more information regarding cookies and other tracking technologies, please refer to ourCookie Notice
+
+Sentence 8 (Confidence: 1):
+Through our JetBrains Website, we may share your Personal Data with third-party advertising partners
+
+Sentence 9 (Confidence: 2):
+These third-party advertising partners may apply technologies and other tracking tools on our services to collect information regarding your activities and your device (e
+
+Sentence 10 (Confidence: 1):
+These advertising partners may use this information (and similar information collected from other services) to deliver personalized advertisements to you when you visit digital properties within their networks
+
+Sentence 11 (Confidence: 1):
+This practice is commonly referred to as interest-based advertising, cross-context behavioral advertising, or personalized advertising
+
+Sentence 12 (Confidence: 1):
+It also collects information from the devices you use to access the JetBrains Website in accordance with your tracking preferences in accordance with ourCookie Notice
+
+Sentence 13 (Confidence: 1):
+We use first-party and third-party cookies to enhance and personalize your website experience
+
+Sentence 14 (Confidence: 2):
+Cookies and personalized advertising
+
+Sentence 15 (Confidence: 1):
+You may stop or restrict tracking by clicking on the Opt-Out linkin the footer of our Website
+
+Sentence 16 (Confidence: 1):
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs
+
+Sentence 17 (Confidence: 1):
+You can access these and learn more about targeted advertising and consumer choice and privacy by visiting theNetwork Advertising Initiative,the Digital Advertising Alliance,the European Digital Advertising Alliance, andthe Digital Advertising Alliance of Canada
+
+Sentence 18 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawCustomer records:Name, contact information, and financial or payment information (e
+
+Sentence 19 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInternet or other electronic network activity:Browsing history, search history, and information on a consumer's interaction with an internet website, application, or advertisement
+
+Sentence 20 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawLocation data:Physical location based on IP address and physical address
+
+Sentence 21 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInferences drawn from other personal information to create a profile about a consumer:Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Sentence 22 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawSources of Personal InformationFor details on sources of personal information, see the sectionHow We Collect Data
+
+Sentence 23 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 24 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 25 (Confidence: 1):
+In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the global privacy control (GPC) signal, we will opt that browser or device out of cookies that result in the sale or sharing of your personal information
+
+Sentence 26 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for the purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 27 (Confidence: 1):
+The right to opt out of certain types of processing, including:To opt out of the sale of their personal information;To opt out of targeted advertising by us; andTo opt out of any processing of personal information for the purpose of making decisions that produce legal or similarly significant effects
+
+Sentence 28 (Confidence: 1):
+To opt out of targeted advertising by us, you can adjust your cookie settingshereor on your device
+
+Sentence 29 (Confidence: 2):
+, via cookies and tracking tools) on our Website
+
+Sentence 30 (Confidence: 1):
+Please refer to ourCookie Noticefor more information regarding the collection of non-anonymous data (cookies) when you are using the JetBrains Website
+
+Sentence 31 (Confidence: 1):
+We also may use data that we collect and aggregate to assist us in determining the appropriate marketing and advertising for our products and services
+
+Sentence 32 (Confidence: 1):
+As more fully described in theHow We Collect Datasection, we also may usethird-party service providersto assist us with our digital advertising, including through cross-contextual advertising on third-party properties
+
+Sentence 33 (Confidence: 2):
+Examples of Personal Data involved in data processing include:Name;Email address;Phone number;Username;Password;Photograph (if voluntarily provided);Cookies or other tracking identifiers;Internet Protocol (IP) address;Information about your device and/or internet browser;SSH public key;Physical address;Information about subscription and payments, including financial information associated with our accounts and payments;Tax ID;Data about your use of JetBrains Products, services, and your JetBrains Account;Comments, voluntarily provided feedback, and any data provided in survey responses or forms; andData in issue reports pertaining to JetBrains Products and services, such as project or device names
+
+Sentence 34 (Confidence: 1):
+We may collect certain information automatically when you use our services, such as your IP address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising, and other unique identifiers, browser or device information, location information (including approximate location derived from your IP address), and internet service provider
+
+Sentence 35 (Confidence: 1):
+Cookies (and other technologies)
+
+Sentence 36 (Confidence: 6):
+For more information regarding cookies and other tracking technologies, please refer to ourCookie Notice
+
+Sentence 37 (Confidence: 1):
+Through our JetBrains Website, we may share your Personal Data with third-party advertising partners
+
+Sentence 38 (Confidence: 2):
+These third-party advertising partners may apply technologies and other tracking tools on our services to collect information regarding your activities and your device (e
+
+Sentence 39 (Confidence: 1):
+These advertising partners may use this information (and similar information collected from other services) to deliver personalized advertisements to you when you visit digital properties within their networks
+
+Sentence 40 (Confidence: 1):
+This practice is commonly referred to as interest-based advertising, cross-context behavioral advertising, or personalized advertising
+
+Sentence 41 (Confidence: 1):
+It also collects information from the devices you use to access the JetBrains Website in accordance with your tracking preferences in accordance with ourCookie Notice
+
+Sentence 42 (Confidence: 1):
+We use first-party and third-party cookies to enhance and personalize your website experience
+
+Sentence 43 (Confidence: 2):
+Cookies and personalized advertising
+
+Sentence 44 (Confidence: 1):
+You may stop or restrict tracking by clicking on the Opt-Out linkin the footer of our Website
+
+Sentence 45 (Confidence: 1):
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs
+
+Sentence 46 (Confidence: 1):
+You can access these and learn more about targeted advertising and consumer choice and privacy by visiting theNetwork Advertising Initiative,the Digital Advertising Alliance,the European Digital Advertising Alliance, andthe Digital Advertising Alliance of Canada
+
+Sentence 47 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawCustomer records:Name, contact information, and financial or payment information (e
+
+Sentence 48 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInternet or other electronic network activity:Browsing history, search history, and information on a consumer's interaction with an internet website, application, or advertisement
+
+Sentence 49 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawLocation data:Physical location based on IP address and physical address
+
+Sentence 50 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInferences drawn from other personal information to create a profile about a consumer:Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Sentence 51 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawSources of Personal InformationFor details on sources of personal information, see the sectionHow We Collect Data
+
+Sentence 52 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 53 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 54 (Confidence: 1):
+In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the global privacy control (GPC) signal, we will opt that browser or device out of cookies that result in the sale or sharing of your personal information
+
+Sentence 55 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for the purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 56 (Confidence: 1):
+The right to opt out of certain types of processing, including:To opt out of the sale of their personal information;To opt out of targeted advertising by us; andTo opt out of any processing of personal information for the purpose of making decisions that produce legal or similarly significant effects
+
+Sentence 57 (Confidence: 1):
+To opt out of targeted advertising by us, you can adjust your cookie settingshereor on your device
+
+Sentence 58 (Confidence: 2):
+, via cookies and tracking tools) on our Website
+
+Sentence 59 (Confidence: 1):
+Please refer to ourCookie Noticefor more information regarding the collection of non-anonymous data (cookies) when you are using the JetBrains Website
+
+Sentence 60 (Confidence: 1):
+We also may use data that we collect and aggregate to assist us in determining the appropriate marketing and advertising for our products and services
+
+Sentence 61 (Confidence: 1):
+As more fully described in theHow We Collect Datasection, we also may usethird-party service providersto assist us with our digital advertising, including through cross-contextual advertising on third-party properties
+
+Sentence 62 (Confidence: 2):
+Examples of Personal Data involved in data processing include:Name;Email address;Phone number;Username;Password;Photograph (if voluntarily provided);Cookies or other tracking identifiers;Internet Protocol (IP) address;Information about your device and/or internet browser;SSH public key;Physical address;Information about subscription and payments, including financial information associated with our accounts and payments;Tax ID;Data about your use of JetBrains Products, services, and your JetBrains Account;Comments, voluntarily provided feedback, and any data provided in survey responses or forms; andData in issue reports pertaining to JetBrains Products and services, such as project or device names
+
+Sentence 63 (Confidence: 1):
+We may collect certain information automatically when you use our services, such as your IP address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising, and other unique identifiers, browser or device information, location information (including approximate location derived from your IP address), and internet service provider
+
+Sentence 64 (Confidence: 1):
+Cookies (and other technologies)
+
+Sentence 65 (Confidence: 6):
+For more information regarding cookies and other tracking technologies, please refer to ourCookie Notice
+
+Sentence 66 (Confidence: 1):
+Through our JetBrains Website, we may share your Personal Data with third-party advertising partners
+
+Sentence 67 (Confidence: 2):
+These third-party advertising partners may apply technologies and other tracking tools on our services to collect information regarding your activities and your device (e
+
+Sentence 68 (Confidence: 1):
+These advertising partners may use this information (and similar information collected from other services) to deliver personalized advertisements to you when you visit digital properties within their networks
+
+Sentence 69 (Confidence: 1):
+This practice is commonly referred to as interest-based advertising, cross-context behavioral advertising, or personalized advertising
+
+Sentence 70 (Confidence: 1):
+It also collects information from the devices you use to access the JetBrains Website in accordance with your tracking preferences in accordance with ourCookie Notice
+
+Sentence 71 (Confidence: 1):
+We use first-party and third-party cookies to enhance and personalize your website experience
+
+Sentence 72 (Confidence: 2):
+Cookies and personalized advertising
+
+Sentence 73 (Confidence: 1):
+You may stop or restrict tracking by clicking on the Opt-Out linkin the footer of our Website
+
+Sentence 74 (Confidence: 1):
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs
+
+Sentence 75 (Confidence: 1):
+You can access these and learn more about targeted advertising and consumer choice and privacy by visiting theNetwork Advertising Initiative,the Digital Advertising Alliance,the European Digital Advertising Alliance, andthe Digital Advertising Alliance of Canada
+
+Sentence 76 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawCustomer records:Name, contact information, and financial or payment information (e
+
+Sentence 77 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInternet or other electronic network activity:Browsing history, search history, and information on a consumer's interaction with an internet website, application, or advertisement
+
+Sentence 78 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawLocation data:Physical location based on IP address and physical address
+
+Sentence 79 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInferences drawn from other personal information to create a profile about a consumer:Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Sentence 80 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawSources of Personal InformationFor details on sources of personal information, see the sectionHow We Collect Data
+
+Sentence 81 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 82 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 83 (Confidence: 1):
+In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the global privacy control (GPC) signal, we will opt that browser or device out of cookies that result in the sale or sharing of your personal information
+
+Sentence 84 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for the purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 85 (Confidence: 1):
+The right to opt out of certain types of processing, including:To opt out of the sale of their personal information;To opt out of targeted advertising by us; andTo opt out of any processing of personal information for the purpose of making decisions that produce legal or similarly significant effects
+
+Sentence 86 (Confidence: 1):
+To opt out of targeted advertising by us, you can adjust your cookie settingshereor on your device
+
+Sentence 87 (Confidence: 2):
+, via cookies and tracking tools) on our Website
+
+Sentence 88 (Confidence: 1):
+Please refer to ourCookie Noticefor more information regarding the collection of non-anonymous data (cookies) when you are using the JetBrains Website
+
+Sentence 89 (Confidence: 1):
+We also may use data that we collect and aggregate to assist us in determining the appropriate marketing and advertising for our products and services
+
+Sentence 90 (Confidence: 1):
+As more fully described in theHow We Collect Datasection, we also may usethird-party service providersto assist us with our digital advertising, including through cross-contextual advertising on third-party properties
+
+Sentence 91 (Confidence: 2):
+Examples of Personal Data involved in data processing include:Name;Email address;Phone number;Username;Password;Photograph (if voluntarily provided);Cookies or other tracking identifiers;Internet Protocol (IP) address;Information about your device and/or internet browser;SSH public key;Physical address;Information about subscription and payments, including financial information associated with our accounts and payments;Tax ID;Data about your use of JetBrains Products, services, and your JetBrains Account;Comments, voluntarily provided feedback, and any data provided in survey responses or forms; andData in issue reports pertaining to JetBrains Products and services, such as project or device names
+
+Sentence 92 (Confidence: 1):
+We may collect certain information automatically when you use our services, such as your IP address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising, and other unique identifiers, browser or device information, location information (including approximate location derived from your IP address), and internet service provider
+
+Sentence 93 (Confidence: 1):
+Cookies (and other technologies)
+
+Sentence 94 (Confidence: 6):
+For more information regarding cookies and other tracking technologies, please refer to ourCookie Notice
+
+Sentence 95 (Confidence: 1):
+Through our JetBrains Website, we may share your Personal Data with third-party advertising partners
+
+Sentence 96 (Confidence: 2):
+These third-party advertising partners may apply technologies and other tracking tools on our services to collect information regarding your activities and your device (e
+
+Sentence 97 (Confidence: 1):
+These advertising partners may use this information (and similar information collected from other services) to deliver personalized advertisements to you when you visit digital properties within their networks
+
+Sentence 98 (Confidence: 1):
+This practice is commonly referred to as interest-based advertising, cross-context behavioral advertising, or personalized advertising
+
+Sentence 99 (Confidence: 1):
+It also collects information from the devices you use to access the JetBrains Website in accordance with your tracking preferences in accordance with ourCookie Notice
+
+Sentence 100 (Confidence: 1):
+We use first-party and third-party cookies to enhance and personalize your website experience
+
+Sentence 101 (Confidence: 2):
+Cookies and personalized advertising
+
+Sentence 102 (Confidence: 1):
+You may stop or restrict tracking by clicking on the Opt-Out linkin the footer of our Website
+
+Sentence 103 (Confidence: 1):
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs
+
+Sentence 104 (Confidence: 1):
+You can access these and learn more about targeted advertising and consumer choice and privacy by visiting theNetwork Advertising Initiative,the Digital Advertising Alliance,the European Digital Advertising Alliance, andthe Digital Advertising Alliance of Canada
+
+Sentence 105 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawCustomer records:Name, contact information, and financial or payment information (e
+
+Sentence 106 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInternet or other electronic network activity:Browsing history, search history, and information on a consumer's interaction with an internet website, application, or advertisement
+
+Sentence 107 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawLocation data:Physical location based on IP address and physical address
+
+Sentence 108 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInferences drawn from other personal information to create a profile about a consumer:Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Sentence 109 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawSources of Personal InformationFor details on sources of personal information, see the sectionHow We Collect Data
+
+Sentence 110 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 111 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 112 (Confidence: 1):
+In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the global privacy control (GPC) signal, we will opt that browser or device out of cookies that result in the sale or sharing of your personal information
+
+Sentence 113 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for the purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 114 (Confidence: 1):
+The right to opt out of certain types of processing, including:To opt out of the sale of their personal information;To opt out of targeted advertising by us; andTo opt out of any processing of personal information for the purpose of making decisions that produce legal or similarly significant effects
+
+Sentence 115 (Confidence: 1):
+To opt out of targeted advertising by us, you can adjust your cookie settingshereor on your device
+
+Sentence 116 (Confidence: 2):
+, via cookies and tracking tools) on our Website
+
+Sentence 117 (Confidence: 1):
+Please refer to ourCookie Noticefor more information regarding the collection of non-anonymous data (cookies) when you are using the JetBrains Website
+
+Sentence 118 (Confidence: 1):
+We also may use data that we collect and aggregate to assist us in determining the appropriate marketing and advertising for our products and services
+
+Sentence 119 (Confidence: 1):
+As more fully described in theHow We Collect Datasection, we also may usethird-party service providersto assist us with our digital advertising, including through cross-contextual advertising on third-party properties
+
+Sentence 120 (Confidence: 2):
+Examples of Personal Data involved in data processing include:Name;Email address;Phone number;Username;Password;Photograph (if voluntarily provided);Cookies or other tracking identifiers;Internet Protocol (IP) address;Information about your device and/or internet browser;SSH public key;Physical address;Information about subscription and payments, including financial information associated with our accounts and payments;Tax ID;Data about your use of JetBrains Products, services, and your JetBrains Account;Comments, voluntarily provided feedback, and any data provided in survey responses or forms; andData in issue reports pertaining to JetBrains Products and services, such as project or device names
+
+Sentence 121 (Confidence: 1):
+We may collect certain information automatically when you use our services, such as your IP address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising, and other unique identifiers, browser or device information, location information (including approximate location derived from your IP address), and internet service provider
+
+Sentence 122 (Confidence: 1):
+Cookies (and other technologies)
+
+Sentence 123 (Confidence: 6):
+For more information regarding cookies and other tracking technologies, please refer to ourCookie Notice
+
+Sentence 124 (Confidence: 1):
+Through our JetBrains Website, we may share your Personal Data with third-party advertising partners
+
+Sentence 125 (Confidence: 2):
+These third-party advertising partners may apply technologies and other tracking tools on our services to collect information regarding your activities and your device (e
+
+Sentence 126 (Confidence: 1):
+These advertising partners may use this information (and similar information collected from other services) to deliver personalized advertisements to you when you visit digital properties within their networks
+
+Sentence 127 (Confidence: 1):
+This practice is commonly referred to as interest-based advertising, cross-context behavioral advertising, or personalized advertising
+
+Sentence 128 (Confidence: 1):
+It also collects information from the devices you use to access the JetBrains Website in accordance with your tracking preferences in accordance with ourCookie Notice
+
+Sentence 129 (Confidence: 1):
+We use first-party and third-party cookies to enhance and personalize your website experience
+
+Sentence 130 (Confidence: 2):
+Cookies and personalized advertising
+
+Sentence 131 (Confidence: 1):
+You may stop or restrict tracking by clicking on the Opt-Out linkin the footer of our Website
+
+Sentence 132 (Confidence: 1):
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs
+
+Sentence 133 (Confidence: 1):
+You can access these and learn more about targeted advertising and consumer choice and privacy by visiting theNetwork Advertising Initiative,the Digital Advertising Alliance,the European Digital Advertising Alliance, andthe Digital Advertising Alliance of Canada
+
+Sentence 134 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawCustomer records:Name, contact information, and financial or payment information (e
+
+Sentence 135 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInternet or other electronic network activity:Browsing history, search history, and information on a consumer's interaction with an internet website, application, or advertisement
+
+Sentence 136 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawLocation data:Physical location based on IP address and physical address
+
+Sentence 137 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInferences drawn from other personal information to create a profile about a consumer:Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Sentence 138 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawSources of Personal InformationFor details on sources of personal information, see the sectionHow We Collect Data
+
+Sentence 139 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 140 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 141 (Confidence: 1):
+In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the global privacy control (GPC) signal, we will opt that browser or device out of cookies that result in the sale or sharing of your personal information
+
+Sentence 142 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for the purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 143 (Confidence: 1):
+The right to opt out of certain types of processing, including:To opt out of the sale of their personal information;To opt out of targeted advertising by us; andTo opt out of any processing of personal information for the purpose of making decisions that produce legal or similarly significant effects
+
+Sentence 144 (Confidence: 1):
+To opt out of targeted advertising by us, you can adjust your cookie settingshereor on your device
+
+Sentence 145 (Confidence: 2):
+, via cookies and tracking tools) on our Website
+
+Sentence 146 (Confidence: 1):
+Please refer to ourCookie Noticefor more information regarding the collection of non-anonymous data (cookies) when you are using the JetBrains Website
+
+Sentence 147 (Confidence: 1):
+We also may use data that we collect and aggregate to assist us in determining the appropriate marketing and advertising for our products and services
+
+Sentence 148 (Confidence: 1):
+As more fully described in theHow We Collect Datasection, we also may usethird-party service providersto assist us with our digital advertising, including through cross-contextual advertising on third-party properties
+
+Sentence 149 (Confidence: 2):
+Examples of Personal Data involved in data processing include:Name;Email address;Phone number;Username;Password;Photograph (if voluntarily provided);Cookies or other tracking identifiers;Internet Protocol (IP) address;Information about your device and/or internet browser;SSH public key;Physical address;Information about subscription and payments, including financial information associated with our accounts and payments;Tax ID;Data about your use of JetBrains Products, services, and your JetBrains Account;Comments, voluntarily provided feedback, and any data provided in survey responses or forms; andData in issue reports pertaining to JetBrains Products and services, such as project or device names
+
+Sentence 150 (Confidence: 1):
+We may collect certain information automatically when you use our services, such as your IP address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising, and other unique identifiers, browser or device information, location information (including approximate location derived from your IP address), and internet service provider
+
+Sentence 151 (Confidence: 1):
+Cookies (and other technologies)
+
+Sentence 152 (Confidence: 6):
+For more information regarding cookies and other tracking technologies, please refer to ourCookie Notice
+
+Sentence 153 (Confidence: 1):
+Through our JetBrains Website, we may share your Personal Data with third-party advertising partners
+
+Sentence 154 (Confidence: 2):
+These third-party advertising partners may apply technologies and other tracking tools on our services to collect information regarding your activities and your device (e
+
+Sentence 155 (Confidence: 1):
+These advertising partners may use this information (and similar information collected from other services) to deliver personalized advertisements to you when you visit digital properties within their networks
+
+Sentence 156 (Confidence: 1):
+This practice is commonly referred to as interest-based advertising, cross-context behavioral advertising, or personalized advertising
+
+Sentence 157 (Confidence: 1):
+It also collects information from the devices you use to access the JetBrains Website in accordance with your tracking preferences in accordance with ourCookie Notice
+
+Sentence 158 (Confidence: 1):
+We use first-party and third-party cookies to enhance and personalize your website experience
+
+Sentence 159 (Confidence: 2):
+Cookies and personalized advertising
+
+Sentence 160 (Confidence: 1):
+You may stop or restrict tracking by clicking on the Opt-Out linkin the footer of our Website
+
+Sentence 161 (Confidence: 1):
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs
+
+Sentence 162 (Confidence: 1):
+You can access these and learn more about targeted advertising and consumer choice and privacy by visiting theNetwork Advertising Initiative,the Digital Advertising Alliance,the European Digital Advertising Alliance, andthe Digital Advertising Alliance of Canada
+
+Sentence 163 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawCustomer records:Name, contact information, and financial or payment information (e
+
+Sentence 164 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInternet or other electronic network activity:Browsing history, search history, and information on a consumer's interaction with an internet website, application, or advertisement
+
+Sentence 165 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawLocation data:Physical location based on IP address and physical address
+
+Sentence 166 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInferences drawn from other personal information to create a profile about a consumer:Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Sentence 167 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawSources of Personal InformationFor details on sources of personal information, see the sectionHow We Collect Data
+
+Sentence 168 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 169 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 170 (Confidence: 1):
+In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the global privacy control (GPC) signal, we will opt that browser or device out of cookies that result in the sale or sharing of your personal information
+
+Sentence 171 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for the purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 172 (Confidence: 1):
+The right to opt out of certain types of processing, including:To opt out of the sale of their personal information;To opt out of targeted advertising by us; andTo opt out of any processing of personal information for the purpose of making decisions that produce legal or similarly significant effects
+
+Sentence 173 (Confidence: 1):
+To opt out of targeted advertising by us, you can adjust your cookie settingshereor on your device
+
+Sentence 174 (Confidence: 2):
+, via cookies and tracking tools) on our Website
+
+Sentence 175 (Confidence: 1):
+Please refer to ourCookie Noticefor more information regarding the collection of non-anonymous data (cookies) when you are using the JetBrains Website
+
+Sentence 176 (Confidence: 1):
+We also may use data that we collect and aggregate to assist us in determining the appropriate marketing and advertising for our products and services
+
+Sentence 177 (Confidence: 1):
+As more fully described in theHow We Collect Datasection, we also may usethird-party service providersto assist us with our digital advertising, including through cross-contextual advertising on third-party properties
+
+Sentence 178 (Confidence: 2):
+Examples of Personal Data involved in data processing include: Photograph (if voluntarily provided); Cookies or other tracking identifiers; Internet Protocol (IP) address; Information about your device and/or internet browser; Information about subscription and payments, including financial information associated with our accounts and payments; Data about your use of JetBrains Products, services, and your JetBrains Account; Comments, voluntarily provided feedback, and any data provided in survey responses or forms; and Data in issue reports pertaining to JetBrains Products and services, such as project or device names
+
+Sentence 179 (Confidence: 1):
+We may collect certain information automatically when you use our services, such as your IP address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising, and other unique identifiers, browser or device information, location information (including approximate location derived from your IP address), and internet service provider
+
+Sentence 180 (Confidence: 1):
+Cookies (and other technologies)
+
+Sentence 181 (Confidence: 6):
+For more information regarding cookies and other tracking technologies, please refer to ourCookie Notice
+
+Sentence 182 (Confidence: 1):
+Through our JetBrains Website, we may share your Personal Data with third-party advertising partners
+
+Sentence 183 (Confidence: 2):
+These third-party advertising partners may apply technologies and other tracking tools on our services to collect information regarding your activities and your device (e
+
+Sentence 184 (Confidence: 1):
+These advertising partners may use this information (and similar information collected from other services) to deliver personalized advertisements to you when you visit digital properties within their networks
+
+Sentence 185 (Confidence: 1):
+This practice is commonly referred to as interest-based advertising, cross-context behavioral advertising, or personalized advertising
+
+Sentence 186 (Confidence: 1):
+It also collects information from the devices you use to access the JetBrains Website in accordance with your tracking preferences in accordance with ourCookie Notice
+
+Sentence 187 (Confidence: 1):
+We use first-party and third-party cookies to enhance and personalize your website experience
+
+Sentence 188 (Confidence: 2):
+Cookies and personalized advertising
+
+Sentence 189 (Confidence: 1):
+You may stop or restrict tracking by clicking on the Opt-Out linkin the footer of our Website
+
+Sentence 190 (Confidence: 1):
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs
+
+Sentence 191 (Confidence: 1):
+You can access these and learn more about targeted advertising and consumer choice and privacy by visiting theNetwork Advertising Initiative,the Digital Advertising Alliance,the European Digital Advertising Alliance, andthe Digital Advertising Alliance of Canada
+
+Sentence 192 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawCustomer records:Name, contact information, and financial or payment information (e
+
+Sentence 193 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInternet or other electronic network activity:Browsing history, search history, and information on a consumer's interaction with an internet website, application, or advertisement
+
+Sentence 194 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawLocation data:Physical location based on IP address and physical address
+
+Sentence 195 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by lawInferences drawn from other personal information to create a profile about a consumer:Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Sentence 196 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by law Category of Personal Information Collected by JetBrains Category of Third Parties We May Disclose Personal Information to for a Business Purpose Identifiers:Name, signature, address, unique personal identifier, online identifier, Internet Protocol address, and telephone number
+
+Sentence 197 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by law Data analytics providers Others as required by law Customer records:Name, contact information, and financial or payment information (e
+
+Sentence 198 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by law Data analytics providers Others as required by law Internet or other electronic network activity:Browsing history, search history, and information on a consumer's interaction with an internet website, application, or advertisement
+
+Sentence 199 (Confidence: 2):
+Business partnersAffiliatesData analytics providersAdvertising networksAdvisors and agentsOthers as required by law Data analytics providers Others as required by law Location data:Physical location based on IP address and physical address
+
+Sentence 200 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by law Data analytics providers Others as required by law Inferences drawn from other personal information to create a profile about a consumer:Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+
+Sentence 201 (Confidence: 2):
+Business partnersData analytics providersAdvertising networksAdvisors and agentsOthers as required by law Data analytics providers Others as required by law Sources of Personal Information For details on sources of personal information, see the sectionHow We Collect Data
+
+Sentence 202 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 203 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 204 (Confidence: 1):
+In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the global privacy control (GPC) signal, we will opt that browser or device out of cookies that result in the sale or sharing of your personal information
+
+Sentence 205 (Confidence: 2):
+We may disclose these categories to third-party advertising networks, analytics providers, and social networks for the purposes of marketing and advertising and to improve and measure our ad campaigns
+
+Sentence 206 (Confidence: 1):
+The right to opt out of certain types of processing, including: To opt out of the sale of their personal information; To opt out of targeted advertising by us; and To opt out of any processing of personal information for the purpose of making decisions that produce legal or similarly significant effects
+
+Sentence 207 (Confidence: 1):
+To opt out of targeted advertising by us, you can adjust your cookie settingshereor on your device
+
+Sentence 208 (Confidence: 2):
+, via cookies and tracking tools) on our Website
+

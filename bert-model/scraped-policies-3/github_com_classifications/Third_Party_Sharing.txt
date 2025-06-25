@@ -1,0 +1,254 @@
+=== Third Party Sharing ===
+
+Sentence 1 (Confidence: 3):
+Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement
+
+Sentence 2 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 3 (Confidence: 1):
+Our affiliates may only use the Personal Data in a manner consistent with this Privacy Statement
+
+Sentence 4 (Confidence: 1):
+Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services
+
+Sentence 5 (Confidence: 4):
+We may share your data with these partners and resellers where allowed, and with your consent when required
+
+Sentence 6 (Confidence: 3):
+Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services
+
+Sentence 7 (Confidence: 1):
+com/en/site-policy/privacy-policies/github-subprocessorsto see our list of Subprocessors
+
+Sentence 8 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 9 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 10 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 11 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 12 (Confidence: 2):
+Right to Know Data Recipients: We share your information with service providers for legitimate business operations, such as data storage and hosting
+
+Sentence 13 (Confidence: 1):
+Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same
+
+Sentence 14 (Confidence: 2):
+We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement
+
+Sentence 15 (Confidence: 3):
+Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement
+
+Sentence 16 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 17 (Confidence: 1):
+Our affiliates may only use the Personal Data in a manner consistent with this Privacy Statement
+
+Sentence 18 (Confidence: 1):
+Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services
+
+Sentence 19 (Confidence: 4):
+We may share your data with these partners and resellers where allowed, and with your consent when required
+
+Sentence 20 (Confidence: 3):
+Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services
+
+Sentence 21 (Confidence: 1):
+com/en/site-policy/privacy-policies/github-subprocessorsto see our list of Subprocessors
+
+Sentence 22 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 23 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 24 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 25 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 26 (Confidence: 2):
+Right to Know Data Recipients: We share your information with service providers for legitimate business operations, such as data storage and hosting
+
+Sentence 27 (Confidence: 1):
+Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same
+
+Sentence 28 (Confidence: 2):
+We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement
+
+Sentence 29 (Confidence: 3):
+Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement
+
+Sentence 30 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 31 (Confidence: 1):
+Our affiliates may only use the Personal Data in a manner consistent with this Privacy Statement
+
+Sentence 32 (Confidence: 1):
+Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services
+
+Sentence 33 (Confidence: 4):
+We may share your data with these partners and resellers where allowed, and with your consent when required
+
+Sentence 34 (Confidence: 3):
+Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services
+
+Sentence 35 (Confidence: 1):
+com/en/site-policy/privacy-policies/github-subprocessorsto see our list of Subprocessors
+
+Sentence 36 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 37 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 38 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 39 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 40 (Confidence: 2):
+Right to Know Data Recipients: We share your information with service providers for legitimate business operations, such as data storage and hosting
+
+Sentence 41 (Confidence: 1):
+Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same
+
+Sentence 42 (Confidence: 2):
+We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement
+
+Sentence 43 (Confidence: 3):
+Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement
+
+Sentence 44 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 45 (Confidence: 1):
+Our affiliates may only use the Personal Data in a manner consistent with this Privacy Statement
+
+Sentence 46 (Confidence: 1):
+Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services
+
+Sentence 47 (Confidence: 4):
+We may share your data with these partners and resellers where allowed, and with your consent when required
+
+Sentence 48 (Confidence: 3):
+Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services
+
+Sentence 49 (Confidence: 1):
+com/en/site-policy/privacy-policies/github-subprocessorsto see our list of Subprocessors
+
+Sentence 50 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 51 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 52 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 53 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 54 (Confidence: 2):
+Right to Know Data Recipients: We share your information with service providers for legitimate business operations, such as data storage and hosting
+
+Sentence 55 (Confidence: 1):
+Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same
+
+Sentence 56 (Confidence: 2):
+We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement
+
+Sentence 57 (Confidence: 3):
+Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement
+
+Sentence 58 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 59 (Confidence: 1):
+Our affiliates may only use the Personal Data in a manner consistent with this Privacy Statement
+
+Sentence 60 (Confidence: 1):
+Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services
+
+Sentence 61 (Confidence: 4):
+We may share your data with these partners and resellers where allowed, and with your consent when required
+
+Sentence 62 (Confidence: 3):
+Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services
+
+Sentence 63 (Confidence: 1):
+com/en/site-policy/privacy-policies/github-subprocessorsto see our list of Subprocessors
+
+Sentence 64 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 65 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 66 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 67 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 68 (Confidence: 2):
+Right to Know Data Recipients: We share your information with service providers for legitimate business operations, such as data storage and hosting
+
+Sentence 69 (Confidence: 1):
+Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same
+
+Sentence 70 (Confidence: 2):
+We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement
+
+Sentence 71 (Confidence: 3):
+Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement
+
+Sentence 72 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 73 (Confidence: 1):
+Our affiliates may only use the Personal Data in a manner consistent with this Privacy Statement
+
+Sentence 74 (Confidence: 1):
+Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services
+
+Sentence 75 (Confidence: 4):
+We may share your data with these partners and resellers where allowed, and with your consent when required
+
+Sentence 76 (Confidence: 3):
+Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services
+
+Sentence 77 (Confidence: 1):
+com/en/site-policy/privacy-policies/github-subprocessorsto see our list of Subprocessors
+
+Sentence 78 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 79 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 80 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 81 (Confidence: 1):
+We and/or our partners also share the information we collect or infer with third parties for these purposes
+
+Sentence 82 (Confidence: 2):
+Right to Know Data Recipients: We share your information with service providers for legitimate business operations, such as data storage and hosting
+
+Sentence 83 (Confidence: 1):
+Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same
+
+Sentence 84 (Confidence: 2):
+We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement
+

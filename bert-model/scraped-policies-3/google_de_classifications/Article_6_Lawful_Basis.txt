@@ -1,0 +1,623 @@
+=== Article 6 Lawful Basis ===
+
+Sentence 1 (Confidence: 1):
+Well ask for your consent before using your information for a purpose that isnt covered in this Privacy Policy
+
+Sentence 2 (Confidence: 1):
+When Google shares your informationWe do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:With your consentWell share personal information outside of Google when we have your consent
+
+Sentence 3 (Confidence: 1):
+Well ask for your explicit consent to share anysensitive personal information
+
+Sentence 4 (Confidence: 1):
+Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations
+
+Sentence 5 (Confidence: 2):
+Legal bases of processingWe process your information for thepurposesdescribed in this policy, based on the following legal grounds:We process your data in order to provide a service youve asked for under a contract
+
+Sentence 6 (Confidence: 1):
+We process your data for our legitimate interests and those ofthird partieswhile applyingappropriate safeguardsthat protect your privacy
+
+Sentence 7 (Confidence: 1):
+We process your data when necessary to protect the vital interests of you or another person
+
+Sentence 8 (Confidence: 1):
+We process your data when we have a legal obligation to do so
+
+Sentence 9 (Confidence: 1):
+We ask for your consent to process your data for specific purposes and you have the right to withdraw your consent at any time
+
+Sentence 10 (Confidence: 1):
+The table below explains these processing purposes, the kinds of data processed, and the legal grounds for processing this data, in more detail
+
+Sentence 11 (Confidence: 1):
+Why and how we process dataWhat data is processedLegal groundsTo provide Google services, products, and featuresExamples of processing activities:We process the terms you search for in order to return results
+
+Sentence 12 (Confidence: 1):
+As described in theSharing your informationsection, well share personal information outside of Google when we have your consent, and provide you with controls toreview and manage third party apps and sitesyou have given access to data in your Google Account
+
+Sentence 13 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as loading a YouTube video, or processing, fulfilling, and delivering your order when you purchase services or physical goods from us
+
+Sentence 14 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 15 (Confidence: 1):
+With yourconsent, such as when you choose to share your location with Google Location Sharing
+
+Sentence 16 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as using logs of interactions with Google apps to ensure they are working as intended
+
+Sentence 17 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 18 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Develop new products and features that are useful for our users
+
+Sentence 19 (Confidence: 1):
+With yourconsent, such as saving audio recordings of voice interactions with Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies
+
+Sentence 20 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when Google Assistant uses your contacts to send a message at your request, like Send a text to John Smith
+
+Sentence 21 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Customize our services to provide you with a better user experience
+
+Sentence 22 (Confidence: 1):
+(And when ads are personalized, we ask for your consent
+
+Sentence 23 (Confidence: 1):
+)With yourconsent, such as recommending apps on Google Play based on videos youve watched on YouTube, or showing you personalized ads based on your interests, like ads that relate to baking as you browse the web after watching videos about baking on YouTube
+
+Sentence 24 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Understand how people use our services to ensure and improve the performance of our services
+
+Sentence 25 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when you contact Google for support or sign up for communications about product updates
+
+Sentence 26 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 27 (Confidence: 1):
+Legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment youve made to Google for tax or accounting purposes
+
+Sentence 28 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Enforce legal claims, including investigation of potential violations of applicable Terms of Service
+
+Sentence 29 (Confidence: 1):
+When necessary to protect thevital interestsof you or another person
+
+Sentence 30 (Confidence: 1):
+When we have alegal obligationto do so, such as retaining certain information for purposes like financial record-keeping, or processing and retaining information to help ensure that users are old enough to use our services
+
+Sentence 31 (Confidence: 1):
+We will not reduce your rights under this Privacy Policy without your explicit consent
+
+Sentence 32 (Confidence: 1):
+Well ask for your consent before using your information for a purpose that isnt covered in this Privacy Policy
+
+Sentence 33 (Confidence: 1):
+When Google shares your informationWe do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:With your consentWell share personal information outside of Google when we have your consent
+
+Sentence 34 (Confidence: 1):
+Well ask for your explicit consent to share anysensitive personal information
+
+Sentence 35 (Confidence: 1):
+Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations
+
+Sentence 36 (Confidence: 2):
+Legal bases of processingWe process your information for thepurposesdescribed in this policy, based on the following legal grounds:We process your data in order to provide a service youve asked for under a contract
+
+Sentence 37 (Confidence: 1):
+We process your data for our legitimate interests and those ofthird partieswhile applyingappropriate safeguardsthat protect your privacy
+
+Sentence 38 (Confidence: 1):
+We process your data when necessary to protect the vital interests of you or another person
+
+Sentence 39 (Confidence: 1):
+We process your data when we have a legal obligation to do so
+
+Sentence 40 (Confidence: 1):
+We ask for your consent to process your data for specific purposes and you have the right to withdraw your consent at any time
+
+Sentence 41 (Confidence: 1):
+The table below explains these processing purposes, the kinds of data processed, and the legal grounds for processing this data, in more detail
+
+Sentence 42 (Confidence: 1):
+Why and how we process dataWhat data is processedLegal groundsTo provide Google services, products, and featuresExamples of processing activities:We process the terms you search for in order to return results
+
+Sentence 43 (Confidence: 1):
+As described in theSharing your informationsection, well share personal information outside of Google when we have your consent, and provide you with controls toreview and manage third party apps and sitesyou have given access to data in your Google Account
+
+Sentence 44 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as loading a YouTube video, or processing, fulfilling, and delivering your order when you purchase services or physical goods from us
+
+Sentence 45 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 46 (Confidence: 1):
+With yourconsent, such as when you choose to share your location with Google Location Sharing
+
+Sentence 47 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as using logs of interactions with Google apps to ensure they are working as intended
+
+Sentence 48 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 49 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Develop new products and features that are useful for our users
+
+Sentence 50 (Confidence: 1):
+With yourconsent, such as saving audio recordings of voice interactions with Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies
+
+Sentence 51 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when Google Assistant uses your contacts to send a message at your request, like Send a text to John Smith
+
+Sentence 52 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Customize our services to provide you with a better user experience
+
+Sentence 53 (Confidence: 1):
+(And when ads are personalized, we ask for your consent
+
+Sentence 54 (Confidence: 1):
+)With yourconsent, such as recommending apps on Google Play based on videos youve watched on YouTube, or showing you personalized ads based on your interests, like ads that relate to baking as you browse the web after watching videos about baking on YouTube
+
+Sentence 55 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Understand how people use our services to ensure and improve the performance of our services
+
+Sentence 56 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when you contact Google for support or sign up for communications about product updates
+
+Sentence 57 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 58 (Confidence: 1):
+Legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment youve made to Google for tax or accounting purposes
+
+Sentence 59 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Enforce legal claims, including investigation of potential violations of applicable Terms of Service
+
+Sentence 60 (Confidence: 1):
+When necessary to protect thevital interestsof you or another person
+
+Sentence 61 (Confidence: 1):
+When we have alegal obligationto do so, such as retaining certain information for purposes like financial record-keeping, or processing and retaining information to help ensure that users are old enough to use our services
+
+Sentence 62 (Confidence: 1):
+We will not reduce your rights under this Privacy Policy without your explicit consent
+
+Sentence 63 (Confidence: 1):
+Well ask for your consent before using your information for a purpose that isnt covered in this Privacy Policy
+
+Sentence 64 (Confidence: 1):
+When Google shares your informationWe do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:With your consentWell share personal information outside of Google when we have your consent
+
+Sentence 65 (Confidence: 1):
+Well ask for your explicit consent to share anysensitive personal information
+
+Sentence 66 (Confidence: 1):
+Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations
+
+Sentence 67 (Confidence: 2):
+Legal bases of processingWe process your information for thepurposesdescribed in this policy, based on the following legal grounds:We process your data in order to provide a service youve asked for under a contract
+
+Sentence 68 (Confidence: 1):
+We process your data for our legitimate interests and those ofthird partieswhile applyingappropriate safeguardsthat protect your privacy
+
+Sentence 69 (Confidence: 1):
+We process your data when necessary to protect the vital interests of you or another person
+
+Sentence 70 (Confidence: 1):
+We process your data when we have a legal obligation to do so
+
+Sentence 71 (Confidence: 1):
+We ask for your consent to process your data for specific purposes and you have the right to withdraw your consent at any time
+
+Sentence 72 (Confidence: 1):
+The table below explains these processing purposes, the kinds of data processed, and the legal grounds for processing this data, in more detail
+
+Sentence 73 (Confidence: 1):
+Why and how we process dataWhat data is processedLegal groundsTo provide Google services, products, and featuresExamples of processing activities:We process the terms you search for in order to return results
+
+Sentence 74 (Confidence: 1):
+As described in theSharing your informationsection, well share personal information outside of Google when we have your consent, and provide you with controls toreview and manage third party apps and sitesyou have given access to data in your Google Account
+
+Sentence 75 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as loading a YouTube video, or processing, fulfilling, and delivering your order when you purchase services or physical goods from us
+
+Sentence 76 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 77 (Confidence: 1):
+With yourconsent, such as when you choose to share your location with Google Location Sharing
+
+Sentence 78 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as using logs of interactions with Google apps to ensure they are working as intended
+
+Sentence 79 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 80 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Develop new products and features that are useful for our users
+
+Sentence 81 (Confidence: 1):
+With yourconsent, such as saving audio recordings of voice interactions with Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies
+
+Sentence 82 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when Google Assistant uses your contacts to send a message at your request, like Send a text to John Smith
+
+Sentence 83 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Customize our services to provide you with a better user experience
+
+Sentence 84 (Confidence: 1):
+(And when ads are personalized, we ask for your consent
+
+Sentence 85 (Confidence: 1):
+)With yourconsent, such as recommending apps on Google Play based on videos youve watched on YouTube, or showing you personalized ads based on your interests, like ads that relate to baking as you browse the web after watching videos about baking on YouTube
+
+Sentence 86 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Understand how people use our services to ensure and improve the performance of our services
+
+Sentence 87 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when you contact Google for support or sign up for communications about product updates
+
+Sentence 88 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 89 (Confidence: 1):
+Legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment youve made to Google for tax or accounting purposes
+
+Sentence 90 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Enforce legal claims, including investigation of potential violations of applicable Terms of Service
+
+Sentence 91 (Confidence: 1):
+When necessary to protect thevital interestsof you or another person
+
+Sentence 92 (Confidence: 1):
+When we have alegal obligationto do so, such as retaining certain information for purposes like financial record-keeping, or processing and retaining information to help ensure that users are old enough to use our services
+
+Sentence 93 (Confidence: 1):
+We will not reduce your rights under this Privacy Policy without your explicit consent
+
+Sentence 94 (Confidence: 1):
+Well ask for your consent before using your information for a purpose that isnt covered in this Privacy Policy
+
+Sentence 95 (Confidence: 1):
+Well ask for your consent before using your information for a purpose that isnt covered in this Privacy Policy
+
+Sentence 96 (Confidence: 1):
+Well ask for your consent before using your information for a purpose that isnt covered in this Privacy Policy
+
+Sentence 97 (Confidence: 1):
+Well ask for your consent before using your information for a purpose that isnt covered in this Privacy Policy
+
+Sentence 98 (Confidence: 1):
+Well ask for your consent before using your information for a purpose that isnt covered in this Privacy Policy
+
+Sentence 99 (Confidence: 1):
+When Google shares your informationWe do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:With your consentWell share personal information outside of Google when we have your consent
+
+Sentence 100 (Confidence: 1):
+Well ask for your explicit consent to share anysensitive personal information
+
+Sentence 101 (Confidence: 1):
+When Google shares your informationWe do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:With your consentWell share personal information outside of Google when we have your consent
+
+Sentence 102 (Confidence: 1):
+Well ask for your explicit consent to share anysensitive personal information
+
+Sentence 103 (Confidence: 1):
+When Google shares your information We do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases: Well share personal information outside of Google when we have your consent
+
+Sentence 104 (Confidence: 1):
+Well ask for your explicit consent to share anysensitive personal information
+
+Sentence 105 (Confidence: 1):
+Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations
+
+Sentence 106 (Confidence: 1):
+Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations
+
+Sentence 107 (Confidence: 1):
+Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations
+
+Sentence 108 (Confidence: 2):
+Legal bases of processingWe process your information for thepurposesdescribed in this policy, based on the following legal grounds:We process your data in order to provide a service youve asked for under a contract
+
+Sentence 109 (Confidence: 1):
+We process your data for our legitimate interests and those ofthird partieswhile applyingappropriate safeguardsthat protect your privacy
+
+Sentence 110 (Confidence: 1):
+We process your data when necessary to protect the vital interests of you or another person
+
+Sentence 111 (Confidence: 1):
+We process your data when we have a legal obligation to do so
+
+Sentence 112 (Confidence: 1):
+We ask for your consent to process your data for specific purposes and you have the right to withdraw your consent at any time
+
+Sentence 113 (Confidence: 1):
+The table below explains these processing purposes, the kinds of data processed, and the legal grounds for processing this data, in more detail
+
+Sentence 114 (Confidence: 1):
+Why and how we process dataWhat data is processedLegal groundsTo provide Google services, products, and featuresExamples of processing activities:We process the terms you search for in order to return results
+
+Sentence 115 (Confidence: 1):
+As described in theSharing your informationsection, well share personal information outside of Google when we have your consent, and provide you with controls toreview and manage third party apps and sitesyou have given access to data in your Google Account
+
+Sentence 116 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as loading a YouTube video, or processing, fulfilling, and delivering your order when you purchase services or physical goods from us
+
+Sentence 117 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 118 (Confidence: 1):
+With yourconsent, such as when you choose to share your location with Google Location Sharing
+
+Sentence 119 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as using logs of interactions with Google apps to ensure they are working as intended
+
+Sentence 120 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 121 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Develop new products and features that are useful for our users
+
+Sentence 122 (Confidence: 1):
+With yourconsent, such as saving audio recordings of voice interactions with Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies
+
+Sentence 123 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when Google Assistant uses your contacts to send a message at your request, like Send a text to John Smith
+
+Sentence 124 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Customize our services to provide you with a better user experience
+
+Sentence 125 (Confidence: 1):
+(And when ads are personalized, we ask for your consent
+
+Sentence 126 (Confidence: 1):
+)With yourconsent, such as recommending apps on Google Play based on videos youve watched on YouTube, or showing you personalized ads based on your interests, like ads that relate to baking as you browse the web after watching videos about baking on YouTube
+
+Sentence 127 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Understand how people use our services to ensure and improve the performance of our services
+
+Sentence 128 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when you contact Google for support or sign up for communications about product updates
+
+Sentence 129 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 130 (Confidence: 1):
+Legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment youve made to Google for tax or accounting purposes
+
+Sentence 131 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Enforce legal claims, including investigation of potential violations of applicable Terms of Service
+
+Sentence 132 (Confidence: 1):
+When necessary to protect thevital interestsof you or another person
+
+Sentence 133 (Confidence: 1):
+When we have alegal obligationto do so, such as retaining certain information for purposes like financial record-keeping, or processing and retaining information to help ensure that users are old enough to use our services
+
+Sentence 134 (Confidence: 2):
+Legal bases of processingWe process your information for thepurposesdescribed in this policy, based on the following legal grounds:We process your data in order to provide a service youve asked for under a contract
+
+Sentence 135 (Confidence: 1):
+We process your data for our legitimate interests and those ofthird partieswhile applyingappropriate safeguardsthat protect your privacy
+
+Sentence 136 (Confidence: 1):
+We process your data when necessary to protect the vital interests of you or another person
+
+Sentence 137 (Confidence: 1):
+We process your data when we have a legal obligation to do so
+
+Sentence 138 (Confidence: 1):
+We ask for your consent to process your data for specific purposes and you have the right to withdraw your consent at any time
+
+Sentence 139 (Confidence: 1):
+The table below explains these processing purposes, the kinds of data processed, and the legal grounds for processing this data, in more detail
+
+Sentence 140 (Confidence: 1):
+Why and how we process dataWhat data is processedLegal groundsTo provide Google services, products, and featuresExamples of processing activities:We process the terms you search for in order to return results
+
+Sentence 141 (Confidence: 1):
+As described in theSharing your informationsection, well share personal information outside of Google when we have your consent, and provide you with controls toreview and manage third party apps and sitesyou have given access to data in your Google Account
+
+Sentence 142 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as loading a YouTube video, or processing, fulfilling, and delivering your order when you purchase services or physical goods from us
+
+Sentence 143 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 144 (Confidence: 1):
+With yourconsent, such as when you choose to share your location with Google Location Sharing
+
+Sentence 145 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as using logs of interactions with Google apps to ensure they are working as intended
+
+Sentence 146 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 147 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Develop new products and features that are useful for our users
+
+Sentence 148 (Confidence: 1):
+With yourconsent, such as saving audio recordings of voice interactions with Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies
+
+Sentence 149 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when Google Assistant uses your contacts to send a message at your request, like Send a text to John Smith
+
+Sentence 150 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Customize our services to provide you with a better user experience
+
+Sentence 151 (Confidence: 1):
+(And when ads are personalized, we ask for your consent
+
+Sentence 152 (Confidence: 1):
+)With yourconsent, such as recommending apps on Google Play based on videos youve watched on YouTube, or showing you personalized ads based on your interests, like ads that relate to baking as you browse the web after watching videos about baking on YouTube
+
+Sentence 153 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Understand how people use our services to ensure and improve the performance of our services
+
+Sentence 154 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when you contact Google for support or sign up for communications about product updates
+
+Sentence 155 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 156 (Confidence: 1):
+Legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment youve made to Google for tax or accounting purposes
+
+Sentence 157 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Enforce legal claims, including investigation of potential violations of applicable Terms of Service
+
+Sentence 158 (Confidence: 1):
+When necessary to protect thevital interestsof you or another person
+
+Sentence 159 (Confidence: 1):
+When we have alegal obligationto do so, such as retaining certain information for purposes like financial record-keeping, or processing and retaining information to help ensure that users are old enough to use our services
+
+Sentence 160 (Confidence: 2):
+Legal bases of processing We process your information for thepurposesdescribed in this policy, based on the following legal grounds: We process your data in order to provide a service youve asked for under a contract
+
+Sentence 161 (Confidence: 1):
+We process your data for our legitimate interests and those ofthird partieswhile applyingappropriate safeguardsthat protect your privacy
+
+Sentence 162 (Confidence: 1):
+We process your data when necessary to protect the vital interests of you or another person
+
+Sentence 163 (Confidence: 1):
+We process your data when we have a legal obligation to do so
+
+Sentence 164 (Confidence: 1):
+We ask for your consent to process your data for specific purposes and you have the right to withdraw your consent at any time
+
+Sentence 165 (Confidence: 1):
+The table below explains these processing purposes, the kinds of data processed, and the legal grounds for processing this data, in more detail
+
+Sentence 166 (Confidence: 1):
+As described in theSharing your informationsection, well share personal information outside of Google when we have your consent, and provide you with controls toreview and manage third party apps and sitesyou have given access to data in your Google Account
+
+Sentence 167 (Confidence: 1):
+As described in theSharing your informationsection, well share personal information outside of Google when we have your consent, and provide you with controls toreview and manage third party apps and sitesyou have given access to data in your Google Account
+
+Sentence 168 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as loading a YouTube video, or processing, fulfilling, and delivering your order when you purchase services or physical goods from us
+
+Sentence 169 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 170 (Confidence: 1):
+With yourconsent, such as when you choose to share your location with Google Location Sharing
+
+Sentence 171 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following: Toperform a contractwith you, such as loading a YouTube video, or processing, fulfilling, and delivering your order when you purchase services or physical goods from us
+
+Sentence 172 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 173 (Confidence: 1):
+With yourconsent, such as when you choose to share your location with Google Location Sharing
+
+Sentence 174 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as using logs of interactions with Google apps to ensure they are working as intended
+
+Sentence 175 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 176 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following: Toperform a contractwith you, such as using logs of interactions with Google apps to ensure they are working as intended
+
+Sentence 177 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 178 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Develop new products and features that are useful for our users
+
+Sentence 179 (Confidence: 1):
+With yourconsent, such as saving audio recordings of voice interactions with Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies
+
+Sentence 180 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following: When necessary for ourlegitimate interestsand those of third parties, including to:Develop new products and features that are useful for our users
+
+Sentence 181 (Confidence: 1):
+With yourconsent, such as saving audio recordings of voice interactions with Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies
+
+Sentence 182 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when Google Assistant uses your contacts to send a message at your request, like Send a text to John Smith
+
+Sentence 183 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Customize our services to provide you with a better user experience
+
+Sentence 184 (Confidence: 1):
+(And when ads are personalized, we ask for your consent
+
+Sentence 185 (Confidence: 1):
+)With yourconsent, such as recommending apps on Google Play based on videos youve watched on YouTube, or showing you personalized ads based on your interests, like ads that relate to baking as you browse the web after watching videos about baking on YouTube
+
+Sentence 186 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following: Toperform a contractwith you, such as when Google Assistant uses your contacts to send a message at your request, like Send a text to John Smith
+
+Sentence 187 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Customize our services to provide you with a better user experience
+
+Sentence 188 (Confidence: 1):
+(And when ads are personalized, we ask for your consent
+
+Sentence 189 (Confidence: 1):
+(And when ads are personalized, we ask for your consent
+
+Sentence 190 (Confidence: 1):
+) With yourconsent, such as recommending apps on Google Play based on videos youve watched on YouTube, or showing you personalized ads based on your interests, like ads that relate to baking as you browse the web after watching videos about baking on YouTube
+
+Sentence 191 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Understand how people use our services to ensure and improve the performance of our services
+
+Sentence 192 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following: When necessary for ourlegitimate interestsand those of third parties, including to:Understand how people use our services to ensure and improve the performance of our services
+
+Sentence 193 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:Toperform a contractwith you, such as when you contact Google for support or sign up for communications about product updates
+
+Sentence 194 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 195 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following: Toperform a contractwith you, such as when you contact Google for support or sign up for communications about product updates
+
+Sentence 196 (Confidence: 1):
+When necessary for ourlegitimate interestsand those of third parties, including to:Provide, maintain, and improve services to meet the needs of our users
+
+Sentence 197 (Confidence: 1):
+Legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment youve made to Google for tax or accounting purposes
+
+Sentence 198 (Confidence: 1):
+Legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment youve made to Google for tax or accounting purposes
+
+Sentence 199 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:When necessary for ourlegitimate interestsand those of third parties, including to:Enforce legal claims, including investigation of potential violations of applicable Terms of Service
+
+Sentence 200 (Confidence: 1):
+When necessary to protect thevital interestsof you or another person
+
+Sentence 201 (Confidence: 1):
+When we have alegal obligationto do so, such as retaining certain information for purposes like financial record-keeping, or processing and retaining information to help ensure that users are old enough to use our services
+
+Sentence 202 (Confidence: 2):
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following: When necessary for ourlegitimate interestsand those of third parties, including to:Enforce legal claims, including investigation of potential violations of applicable Terms of Service
+
+Sentence 203 (Confidence: 1):
+When necessary to protect thevital interestsof you or another person
+
+Sentence 204 (Confidence: 1):
+When we have alegal obligationto do so, such as retaining certain information for purposes like financial record-keeping, or processing and retaining information to help ensure that users are old enough to use our services
+
+Sentence 205 (Confidence: 1):
+We will not reduce your rights under this Privacy Policy without your explicit consent
+
+Sentence 206 (Confidence: 1):
+We will not reduce your rights under this Privacy Policy without your explicit consent
+
+Sentence 207 (Confidence: 1):
+We will not reduce your rights under this Privacy Policy without your explicit consent
+

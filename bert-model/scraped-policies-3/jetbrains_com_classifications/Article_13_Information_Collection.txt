@@ -1,0 +1,191 @@
+=== Article 13 Information Collection ===
+
+Sentence 1 (Confidence: 1):
+0, last updated: 3 July, 2024In this Privacy Notice, we describe the types of data, including Personal Data, (collectively, data) that we and our associated companies collect from you when you use JetBrains Websites and certain JetBrains products and services as described in this Privacy Notice (collectively, our services), how we and our associated companies use and disclose that data, and your options for accessing or updating your data
+
+Sentence 2 (Confidence: 1):
+If you are a resident of California, please also refer to Section 13, Privacy Notice Specifications for California Residents, for information about the categories of personal information we collect and your rights under California privacy laws
+
+Sentence 3 (Confidence: 1):
+Information we collect
+
+Sentence 4 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 5 (Confidence: 1):
+You may manage your Personal Data in your JetBrains Account, including by opting out of certain kinds of data collection
+
+Sentence 6 (Confidence: 1):
+Categories of Personal Information Collected and DisclosedThe following table describes the categories of personal information JetBrains collects and the categories of third parties to whom we may disclose this information for a business or commercial purpose
+
+Sentence 7 (Confidence: 1):
+Category of Personal Information Collected by JetBrainsCategory of Third Parties We May Disclose Personal Information to for a Business PurposeIdentifiers:Name, signature, address, unique personal identifier, online identifier, Internet Protocol address, and telephone number
+
+Sentence 8 (Confidence: 1):
+We store the personal information we collect as described in this Privacy Notice for as long as you use JetBrains Products or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws, or based upon other criteria, including, but not limited to, the sensitivity and volume of such data
+
+Sentence 9 (Confidence: 1):
+You have the right to request (i) the categories of personal information we collected about you; (ii) the categories of sources from which the personal information is collected; (iii) our business or commercial purposes for collecting, selling, or sharing personal information; (iv) the categories of third parties to whom we have disclosed personal information; and (v) a copy of the specific pieces of personal information we have collected about you
+
+Sentence 10 (Confidence: 1):
+0, last updated: 3 July, 2024In this Privacy Notice, we describe the types of data, including Personal Data, (collectively, data) that we and our associated companies collect from you when you use JetBrains Websites and certain JetBrains products and services as described in this Privacy Notice (collectively, our services), how we and our associated companies use and disclose that data, and your options for accessing or updating your data
+
+Sentence 11 (Confidence: 1):
+If you are a resident of California, please also refer to Section 13, Privacy Notice Specifications for California Residents, for information about the categories of personal information we collect and your rights under California privacy laws
+
+Sentence 12 (Confidence: 1):
+Information we collect
+
+Sentence 13 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 14 (Confidence: 1):
+You may manage your Personal Data in your JetBrains Account, including by opting out of certain kinds of data collection
+
+Sentence 15 (Confidence: 1):
+Categories of Personal Information Collected and DisclosedThe following table describes the categories of personal information JetBrains collects and the categories of third parties to whom we may disclose this information for a business or commercial purpose
+
+Sentence 16 (Confidence: 1):
+Category of Personal Information Collected by JetBrainsCategory of Third Parties We May Disclose Personal Information to for a Business PurposeIdentifiers:Name, signature, address, unique personal identifier, online identifier, Internet Protocol address, and telephone number
+
+Sentence 17 (Confidence: 1):
+We store the personal information we collect as described in this Privacy Notice for as long as you use JetBrains Products or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws, or based upon other criteria, including, but not limited to, the sensitivity and volume of such data
+
+Sentence 18 (Confidence: 1):
+You have the right to request (i) the categories of personal information we collected about you; (ii) the categories of sources from which the personal information is collected; (iii) our business or commercial purposes for collecting, selling, or sharing personal information; (iv) the categories of third parties to whom we have disclosed personal information; and (v) a copy of the specific pieces of personal information we have collected about you
+
+Sentence 19 (Confidence: 1):
+0, last updated: 3 July, 2024In this Privacy Notice, we describe the types of data, including Personal Data, (collectively, data) that we and our associated companies collect from you when you use JetBrains Websites and certain JetBrains products and services as described in this Privacy Notice (collectively, our services), how we and our associated companies use and disclose that data, and your options for accessing or updating your data
+
+Sentence 20 (Confidence: 1):
+If you are a resident of California, please also refer to Section 13, Privacy Notice Specifications for California Residents, for information about the categories of personal information we collect and your rights under California privacy laws
+
+Sentence 21 (Confidence: 1):
+Information we collect
+
+Sentence 22 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 23 (Confidence: 1):
+You may manage your Personal Data in your JetBrains Account, including by opting out of certain kinds of data collection
+
+Sentence 24 (Confidence: 1):
+Categories of Personal Information Collected and DisclosedThe following table describes the categories of personal information JetBrains collects and the categories of third parties to whom we may disclose this information for a business or commercial purpose
+
+Sentence 25 (Confidence: 1):
+Category of Personal Information Collected by JetBrainsCategory of Third Parties We May Disclose Personal Information to for a Business PurposeIdentifiers:Name, signature, address, unique personal identifier, online identifier, Internet Protocol address, and telephone number
+
+Sentence 26 (Confidence: 1):
+We store the personal information we collect as described in this Privacy Notice for as long as you use JetBrains Products or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws, or based upon other criteria, including, but not limited to, the sensitivity and volume of such data
+
+Sentence 27 (Confidence: 1):
+You have the right to request (i) the categories of personal information we collected about you; (ii) the categories of sources from which the personal information is collected; (iii) our business or commercial purposes for collecting, selling, or sharing personal information; (iv) the categories of third parties to whom we have disclosed personal information; and (v) a copy of the specific pieces of personal information we have collected about you
+
+Sentence 28 (Confidence: 1):
+0, last updated: 3 July, 2024In this Privacy Notice, we describe the types of data, including Personal Data, (collectively, data) that we and our associated companies collect from you when you use JetBrains Websites and certain JetBrains products and services as described in this Privacy Notice (collectively, our services), how we and our associated companies use and disclose that data, and your options for accessing or updating your data
+
+Sentence 29 (Confidence: 1):
+If you are a resident of California, please also refer to Section 13, Privacy Notice Specifications for California Residents, for information about the categories of personal information we collect and your rights under California privacy laws
+
+Sentence 30 (Confidence: 1):
+Information we collect
+
+Sentence 31 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 32 (Confidence: 1):
+You may manage your Personal Data in your JetBrains Account, including by opting out of certain kinds of data collection
+
+Sentence 33 (Confidence: 1):
+Categories of Personal Information Collected and DisclosedThe following table describes the categories of personal information JetBrains collects and the categories of third parties to whom we may disclose this information for a business or commercial purpose
+
+Sentence 34 (Confidence: 1):
+Category of Personal Information Collected by JetBrainsCategory of Third Parties We May Disclose Personal Information to for a Business PurposeIdentifiers:Name, signature, address, unique personal identifier, online identifier, Internet Protocol address, and telephone number
+
+Sentence 35 (Confidence: 1):
+We store the personal information we collect as described in this Privacy Notice for as long as you use JetBrains Products or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws, or based upon other criteria, including, but not limited to, the sensitivity and volume of such data
+
+Sentence 36 (Confidence: 1):
+You have the right to request (i) the categories of personal information we collected about you; (ii) the categories of sources from which the personal information is collected; (iii) our business or commercial purposes for collecting, selling, or sharing personal information; (iv) the categories of third parties to whom we have disclosed personal information; and (v) a copy of the specific pieces of personal information we have collected about you
+
+Sentence 37 (Confidence: 1):
+0, last updated: 3 July, 2024In this Privacy Notice, we describe the types of data, including Personal Data, (collectively, data) that we and our associated companies collect from you when you use JetBrains Websites and certain JetBrains products and services as described in this Privacy Notice (collectively, our services), how we and our associated companies use and disclose that data, and your options for accessing or updating your data
+
+Sentence 38 (Confidence: 1):
+If you are a resident of California, please also refer to Section 13, Privacy Notice Specifications for California Residents, for information about the categories of personal information we collect and your rights under California privacy laws
+
+Sentence 39 (Confidence: 1):
+Information we collect
+
+Sentence 40 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 41 (Confidence: 1):
+You may manage your Personal Data in your JetBrains Account, including by opting out of certain kinds of data collection
+
+Sentence 42 (Confidence: 1):
+Categories of Personal Information Collected and DisclosedThe following table describes the categories of personal information JetBrains collects and the categories of third parties to whom we may disclose this information for a business or commercial purpose
+
+Sentence 43 (Confidence: 1):
+Category of Personal Information Collected by JetBrainsCategory of Third Parties We May Disclose Personal Information to for a Business PurposeIdentifiers:Name, signature, address, unique personal identifier, online identifier, Internet Protocol address, and telephone number
+
+Sentence 44 (Confidence: 1):
+We store the personal information we collect as described in this Privacy Notice for as long as you use JetBrains Products or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws, or based upon other criteria, including, but not limited to, the sensitivity and volume of such data
+
+Sentence 45 (Confidence: 1):
+You have the right to request (i) the categories of personal information we collected about you; (ii) the categories of sources from which the personal information is collected; (iii) our business or commercial purposes for collecting, selling, or sharing personal information; (iv) the categories of third parties to whom we have disclosed personal information; and (v) a copy of the specific pieces of personal information we have collected about you
+
+Sentence 46 (Confidence: 1):
+0, last updated: 3 July, 2024In this Privacy Notice, we describe the types of data, including Personal Data, (collectively, data) that we and our associated companies collect from you when you use JetBrains Websites and certain JetBrains products and services as described in this Privacy Notice (collectively, our services), how we and our associated companies use and disclose that data, and your options for accessing or updating your data
+
+Sentence 47 (Confidence: 1):
+If you are a resident of California, please also refer to Section 13, Privacy Notice Specifications for California Residents, for information about the categories of personal information we collect and your rights under California privacy laws
+
+Sentence 48 (Confidence: 1):
+Information we collect
+
+Sentence 49 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 50 (Confidence: 1):
+You may manage your Personal Data in your JetBrains Account, including by opting out of certain kinds of data collection
+
+Sentence 51 (Confidence: 1):
+Categories of Personal Information Collected and DisclosedThe following table describes the categories of personal information JetBrains collects and the categories of third parties to whom we may disclose this information for a business or commercial purpose
+
+Sentence 52 (Confidence: 1):
+Category of Personal Information Collected by JetBrainsCategory of Third Parties We May Disclose Personal Information to for a Business PurposeIdentifiers:Name, signature, address, unique personal identifier, online identifier, Internet Protocol address, and telephone number
+
+Sentence 53 (Confidence: 1):
+We store the personal information we collect as described in this Privacy Notice for as long as you use JetBrains Products or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws, or based upon other criteria, including, but not limited to, the sensitivity and volume of such data
+
+Sentence 54 (Confidence: 1):
+You have the right to request (i) the categories of personal information we collected about you; (ii) the categories of sources from which the personal information is collected; (iii) our business or commercial purposes for collecting, selling, or sharing personal information; (iv) the categories of third parties to whom we have disclosed personal information; and (v) a copy of the specific pieces of personal information we have collected about you
+
+Sentence 55 (Confidence: 1):
+0, last updated: 3 July, 2024 In this Privacy Notice, we describe the types of data, including Personal Data, (collectively, data) that we and our associated companies collect from you when you use JetBrains Websites and certain JetBrains products and services as described in this Privacy Notice (collectively, our services), how we and our associated companies use and disclose that data, and your options for accessing or updating your data
+
+Sentence 56 (Confidence: 1):
+If you are a resident of California, please also refer to Section 13, Privacy Notice Specifications for California Residents, for information about the categories of personal information we collect and your rights under California privacy laws
+
+Sentence 57 (Confidence: 1):
+Information we collect
+
+Sentence 58 (Confidence: 1):
+We may also have copies of your information in application logs, weblogs, and/or backups made for security and support purposes if this is mentioned in a JetBrains Terms of Use or consent text accepted before the Personal Data collection
+
+Sentence 59 (Confidence: 1):
+You may manage your Personal Data in your JetBrains Account, including by opting out of certain kinds of data collection
+
+Sentence 60 (Confidence: 1):
+Categories of Personal Information Collected and Disclosed The following table describes the categories of personal information JetBrains collects and the categories of third parties to whom we may disclose this information for a business or commercial purpose
+
+Sentence 61 (Confidence: 1):
+Category of Personal Information Collected by JetBrainsCategory of Third Parties We May Disclose Personal Information to for a Business PurposeIdentifiers:Name, signature, address, unique personal identifier, online identifier, Internet Protocol address, and telephone number
+
+Sentence 62 (Confidence: 1):
+We store the personal information we collect as described in this Privacy Notice for as long as you use JetBrains Products or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws, or based upon other criteria, including, but not limited to, the sensitivity and volume of such data
+
+Sentence 63 (Confidence: 1):
+You have the right to request (i) the categories of personal information we collected about you; (ii) the categories of sources from which the personal information is collected; (iii) our business or commercial purposes for collecting, selling, or sharing personal information; (iv) the categories of third parties to whom we have disclosed personal information; and (v) a copy of the specific pieces of personal information we have collected about you
+

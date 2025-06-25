@@ -1,0 +1,35 @@
+=== Retention And Storage ===
+
+Sentence 1 (Confidence: 1):
+1 Data RetentionWe keep most of your personal data for as long as your account is open
+
+Sentence 2 (Confidence: 3):
+Even if you only use our Services when looking for a new job every few years, we will retain your information and keep your profile open, unless you close your account
+
+Sentence 3 (Confidence: 1):
+1 Data RetentionWe keep most of your personal data for as long as your account is open
+
+Sentence 4 (Confidence: 3):
+Even if you only use our Services when looking for a new job every few years, we will retain your information and keep your profile open, unless you close your account
+
+Sentence 5 (Confidence: 1):
+1 Data RetentionWe keep most of your personal data for as long as your account is open
+
+Sentence 6 (Confidence: 3):
+Even if you only use our Services when looking for a new job every few years, we will retain your information and keep your profile open, unless you close your account
+
+Sentence 7 (Confidence: 1):
+1 Data RetentionWe keep most of your personal data for as long as your account is open
+
+Sentence 8 (Confidence: 3):
+Even if you only use our Services when looking for a new job every few years, we will retain your information and keep your profile open, unless you close your account
+
+Sentence 9 (Confidence: 3):
+Even if you only use our Services when looking for a new job every few years, we will retain your information and keep your profile open, unless you close your account
+
+Sentence 10 (Confidence: 3):
+Even if you only use our Services when looking for a new job every few years, we will retain your information and keep your profile open, unless you close your account
+
+Sentence 11 (Confidence: 3):
+Even if you only use our Services when looking for a new job every few years, we will retain your information and keep your profile open, unless you close your account
+

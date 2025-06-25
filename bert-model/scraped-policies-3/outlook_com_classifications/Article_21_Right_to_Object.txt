@@ -1,0 +1,719 @@
+=== Article 21 Right To Object ===
+
+Sentence 1 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 2 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 3 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 4 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 5 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 6 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 7 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 8 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 9 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 10 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 11 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 12 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 13 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 14 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 15 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 16 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 17 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 18 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 19 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 20 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 21 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 22 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 23 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 24 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 25 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 26 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 27 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 28 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 29 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 30 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 31 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 32 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 33 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 34 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 35 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 36 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 37 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 38 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 39 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 40 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 41 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 42 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 43 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 44 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 45 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 46 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 47 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 48 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 49 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 50 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 51 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 52 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 53 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 54 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 55 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 56 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 57 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 58 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 59 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 60 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 61 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 62 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 63 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 64 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 65 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 66 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 67 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 68 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 69 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 70 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 71 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 72 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 73 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 74 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 75 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 76 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 77 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 78 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 79 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 80 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 81 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 82 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 83 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 84 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 85 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 86 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 87 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 88 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 89 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 90 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 91 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 92 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 93 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 94 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 95 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 96 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 97 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 98 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 99 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 100 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 101 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 102 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 103 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 104 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 105 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 106 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 107 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 108 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 109 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 110 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 111 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 112 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 113 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 114 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 115 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 116 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 117 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 118 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 119 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 120 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 121 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 122 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 123 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 124 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 125 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 126 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 127 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 128 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 129 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 130 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 131 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 132 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 133 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 134 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 135 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 136 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 137 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 138 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 139 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 140 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 141 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 142 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 143 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 144 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 145 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 146 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 147 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 148 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 149 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 150 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 151 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 152 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 153 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 154 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 155 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 156 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 157 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 158 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 159 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 160 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 161 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 162 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 163 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 164 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 165 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 166 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 167 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 168 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 169 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 170 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 171 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 172 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 173 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 174 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 175 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 176 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 177 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 178 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 179 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 180 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 181 (Confidence: 1):
+For example, you can object at any time to our use of your personal data:For direct marketing purposes
+
+Sentence 182 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 183 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 184 (Confidence: 1):
+Your advertising choicesTo opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 185 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 186 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 187 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 188 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 189 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 190 (Confidence: 1):
+For example, you can object at any time to our use of your personal data: For direct marketing purposes
+
+Sentence 191 (Confidence: 1):
+If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message
+
+Sentence 192 (Confidence: 1):
+You can also make choices about the receipt of promotional email, telephone calls, and postal mail by signing in with your personal Microsoft account, and viewing yourcommunication permissionswhere you can update contact information, manage Microsoft-wide contact preferences, opt out of email subscriptions, and choose whether to share your contact information with Microsoft partners
+
+Sentence 193 (Confidence: 1):
+Your advertising choices To opt out of receiving personalized advertising from Microsoft, including Xandr, visit ouropt-out page
+
+Sentence 194 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 195 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 196 (Confidence: 1):
+For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings
+
+Sentence 197 (Confidence: 1):
+You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above)
+
+Sentence 198 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 199 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 200 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 201 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 202 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 203 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 204 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 205 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 206 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 207 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 208 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 209 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 210 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 211 (Confidence: 1):
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device
+
+Sentence 212 (Confidence: 1):
+You can opt out of receiving interest-based advertising from Microsoft as described in theHow to access and control your personal datasection of this privacy statement
+
+Sentence 213 (Confidence: 1):
+It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account
+
+Sentence 214 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 215 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 216 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 217 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 218 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 219 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 220 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 221 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 222 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 223 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 224 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 225 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 226 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 227 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 228 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 229 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 230 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 231 (Confidence: 1):
+Many of these companies are also members of theNAIorDAA, which each provide a simple way to opt out of ad targeting from participating companies
+
+Sentence 232 (Confidence: 1):
+To opt out of receiving personalized advertising from Microsoft, visit ouropt-outpage
+
+Sentence 233 (Confidence: 1):
+When you opt out, your preference is stored in a cookie that is specific to the web browser you are using
+
+Sentence 234 (Confidence: 1):
+If you delete the cookies on your device, you need to opt out again
+
+Sentence 235 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 236 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 237 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 238 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+
+Sentence 239 (Confidence: 1):
+You can opt out of interest-based advertising through the advertising links within Microsoft Start services, or by visiting the Microsoftopt-out page
+

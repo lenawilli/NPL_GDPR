@@ -1,0 +1,18 @@
+GDPR Article Classification Summary for github.com
+============================================================
+
+Cookies And Tracking: 507 points, 290 sentences
+Third Party Sharing: 174 points, 84 sentences
+Article 6 Lawful Basis: 139 points, 102 sentences
+Article 37 Data Protection Officer: 102 points, 30 sentences
+Article 21 Right To Object: 84 points, 42 sentences
+Article 7 Consent: 81 points, 37 sentences
+Article 14 Information Third Parties: 24 points, 24 sentences
+Article 13 Information Collection: 24 points, 24 sentences
+Article 20 Data Portability: 24 points, 0 sentences
+International Transfers: 24 points, 12 sentences
+Retention And Storage: 12 points, 6 sentences
+Article 25 Data Protection By Design: 6 points, 6 sentences
+
+Total classified sentences: 657
+Total content length: 241429 characters

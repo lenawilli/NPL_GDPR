@@ -1,0 +1,20 @@
+=== Article 25 Data Protection By Design ===
+
+Sentence 1 (Confidence: 1):
+When carrying out these activities, GitHub practices data minimization and uses the minimum amount of Personal Information required
+
+Sentence 2 (Confidence: 1):
+When carrying out these activities, GitHub practices data minimization and uses the minimum amount of Personal Information required
+
+Sentence 3 (Confidence: 1):
+When carrying out these activities, GitHub practices data minimization and uses the minimum amount of Personal Information required
+
+Sentence 4 (Confidence: 1):
+When carrying out these activities, GitHub practices data minimization and uses the minimum amount of Personal Information required
+
+Sentence 5 (Confidence: 1):
+When carrying out these activities, GitHub practices data minimization and uses the minimum amount of Personal Information required
+
+Sentence 6 (Confidence: 1):
+When carrying out these activities, GitHub practices data minimization and uses the minimum amount of Personal Information required
+

@@ -1,0 +1,308 @@
+=== Article 6 Lawful Basis ===
+
+Sentence 1 (Confidence: 1):
+These activities are clearly defined in a contractual agreement with your organization, known as a Data Protection Agreement
+
+Sentence 2 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 3 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 4 (Confidence: 1):
+Complying with and resolving legal obligations: including responding to Data Subject Requests for Personal Data processed by GitHub as Controller (for example website data), tax requirements, agreements and disputes
+
+Sentence 5 (Confidence: 1):
+They are bound by contractual obligations to ensure the security, privacy, and confidentiality of your information
+
+Sentence 6 (Confidence: 2):
+GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for:security purposesautomated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Serviceto assist the repository owner with a support matterto maintain the integrity of the Services, orto comply with our legal obligations if we have reason to believe the contents are in violation of the law
+
+Sentence 7 (Confidence: 1):
+Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)GitHub processes Personal Data in compliance with the GDPR, ensuring a lawful basis for each processing activity
+
+Sentence 8 (Confidence: 2):
+Our processing activities typically fall under these lawful bases:Contractual Necessity: Processing is required to fulfill our contractual duties to you, in accordance with the GitHub Terms of Service
+
+Sentence 9 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 10 (Confidence: 1):
+Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and improving our Services
+
+Sentence 11 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 12 (Confidence: 2):
+When we rely on consent as the legal basis, you have the right to withdraw your consent for data processing at any time
+
+Sentence 13 (Confidence: 1):
+Please note that we may retain certain data as necessary for legal obligations or for establishing, exercising, or defending legal claims
+
+Sentence 14 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 15 (Confidence: 1):
+Well retain your Personal Data as long as your account is active and as needed to fulfill contractual obligations, comply with legal requirements, resolve disputes, and enforce agreements
+
+Sentence 16 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 17 (Confidence: 1):
+Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues
+
+Sentence 18 (Confidence: 1):
+These activities are clearly defined in a contractual agreement with your organization, known as a Data Protection Agreement
+
+Sentence 19 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 20 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 21 (Confidence: 1):
+Complying with and resolving legal obligations: including responding to Data Subject Requests for Personal Data processed by GitHub as Controller (for example website data), tax requirements, agreements and disputes
+
+Sentence 22 (Confidence: 1):
+They are bound by contractual obligations to ensure the security, privacy, and confidentiality of your information
+
+Sentence 23 (Confidence: 2):
+GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for:security purposesautomated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Serviceto assist the repository owner with a support matterto maintain the integrity of the Services, orto comply with our legal obligations if we have reason to believe the contents are in violation of the law
+
+Sentence 24 (Confidence: 1):
+Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)GitHub processes Personal Data in compliance with the GDPR, ensuring a lawful basis for each processing activity
+
+Sentence 25 (Confidence: 2):
+Our processing activities typically fall under these lawful bases:Contractual Necessity: Processing is required to fulfill our contractual duties to you, in accordance with the GitHub Terms of Service
+
+Sentence 26 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 27 (Confidence: 1):
+Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and improving our Services
+
+Sentence 28 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 29 (Confidence: 2):
+When we rely on consent as the legal basis, you have the right to withdraw your consent for data processing at any time
+
+Sentence 30 (Confidence: 1):
+Please note that we may retain certain data as necessary for legal obligations or for establishing, exercising, or defending legal claims
+
+Sentence 31 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 32 (Confidence: 1):
+Well retain your Personal Data as long as your account is active and as needed to fulfill contractual obligations, comply with legal requirements, resolve disputes, and enforce agreements
+
+Sentence 33 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 34 (Confidence: 1):
+Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues
+
+Sentence 35 (Confidence: 1):
+These activities are clearly defined in a contractual agreement with your organization, known as a Data Protection Agreement
+
+Sentence 36 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 37 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 38 (Confidence: 1):
+Complying with and resolving legal obligations: including responding to Data Subject Requests for Personal Data processed by GitHub as Controller (for example website data), tax requirements, agreements and disputes
+
+Sentence 39 (Confidence: 1):
+They are bound by contractual obligations to ensure the security, privacy, and confidentiality of your information
+
+Sentence 40 (Confidence: 2):
+GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for:security purposesautomated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Serviceto assist the repository owner with a support matterto maintain the integrity of the Services, orto comply with our legal obligations if we have reason to believe the contents are in violation of the law
+
+Sentence 41 (Confidence: 1):
+Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)GitHub processes Personal Data in compliance with the GDPR, ensuring a lawful basis for each processing activity
+
+Sentence 42 (Confidence: 2):
+Our processing activities typically fall under these lawful bases:Contractual Necessity: Processing is required to fulfill our contractual duties to you, in accordance with the GitHub Terms of Service
+
+Sentence 43 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 44 (Confidence: 1):
+Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and improving our Services
+
+Sentence 45 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 46 (Confidence: 2):
+When we rely on consent as the legal basis, you have the right to withdraw your consent for data processing at any time
+
+Sentence 47 (Confidence: 1):
+Please note that we may retain certain data as necessary for legal obligations or for establishing, exercising, or defending legal claims
+
+Sentence 48 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 49 (Confidence: 1):
+Well retain your Personal Data as long as your account is active and as needed to fulfill contractual obligations, comply with legal requirements, resolve disputes, and enforce agreements
+
+Sentence 50 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 51 (Confidence: 1):
+Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues
+
+Sentence 52 (Confidence: 1):
+These activities are clearly defined in a contractual agreement with your organization, known as a Data Protection Agreement
+
+Sentence 53 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 54 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 55 (Confidence: 1):
+Complying with and resolving legal obligations: including responding to Data Subject Requests for Personal Data processed by GitHub as Controller (for example website data), tax requirements, agreements and disputes
+
+Sentence 56 (Confidence: 1):
+They are bound by contractual obligations to ensure the security, privacy, and confidentiality of your information
+
+Sentence 57 (Confidence: 2):
+GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for:security purposesautomated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Serviceto assist the repository owner with a support matterto maintain the integrity of the Services, orto comply with our legal obligations if we have reason to believe the contents are in violation of the law
+
+Sentence 58 (Confidence: 1):
+Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)GitHub processes Personal Data in compliance with the GDPR, ensuring a lawful basis for each processing activity
+
+Sentence 59 (Confidence: 2):
+Our processing activities typically fall under these lawful bases:Contractual Necessity: Processing is required to fulfill our contractual duties to you, in accordance with the GitHub Terms of Service
+
+Sentence 60 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 61 (Confidence: 1):
+Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and improving our Services
+
+Sentence 62 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 63 (Confidence: 2):
+When we rely on consent as the legal basis, you have the right to withdraw your consent for data processing at any time
+
+Sentence 64 (Confidence: 1):
+Please note that we may retain certain data as necessary for legal obligations or for establishing, exercising, or defending legal claims
+
+Sentence 65 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 66 (Confidence: 1):
+Well retain your Personal Data as long as your account is active and as needed to fulfill contractual obligations, comply with legal requirements, resolve disputes, and enforce agreements
+
+Sentence 67 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 68 (Confidence: 1):
+Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues
+
+Sentence 69 (Confidence: 1):
+These activities are clearly defined in a contractual agreement with your organization, known as a Data Protection Agreement
+
+Sentence 70 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 71 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 72 (Confidence: 1):
+Complying with and resolving legal obligations: including responding to Data Subject Requests for Personal Data processed by GitHub as Controller (for example website data), tax requirements, agreements and disputes
+
+Sentence 73 (Confidence: 1):
+They are bound by contractual obligations to ensure the security, privacy, and confidentiality of your information
+
+Sentence 74 (Confidence: 2):
+GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for:security purposesautomated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Serviceto assist the repository owner with a support matterto maintain the integrity of the Services, orto comply with our legal obligations if we have reason to believe the contents are in violation of the law
+
+Sentence 75 (Confidence: 1):
+Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)GitHub processes Personal Data in compliance with the GDPR, ensuring a lawful basis for each processing activity
+
+Sentence 76 (Confidence: 2):
+Our processing activities typically fall under these lawful bases:Contractual Necessity: Processing is required to fulfill our contractual duties to you, in accordance with the GitHub Terms of Service
+
+Sentence 77 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 78 (Confidence: 1):
+Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and improving our Services
+
+Sentence 79 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 80 (Confidence: 2):
+When we rely on consent as the legal basis, you have the right to withdraw your consent for data processing at any time
+
+Sentence 81 (Confidence: 1):
+Please note that we may retain certain data as necessary for legal obligations or for establishing, exercising, or defending legal claims
+
+Sentence 82 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 83 (Confidence: 1):
+Well retain your Personal Data as long as your account is active and as needed to fulfill contractual obligations, comply with legal requirements, resolve disputes, and enforce agreements
+
+Sentence 84 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 85 (Confidence: 1):
+Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues
+
+Sentence 86 (Confidence: 1):
+These activities are clearly defined in a contractual agreement with your organization, known as a Data Protection Agreement
+
+Sentence 87 (Confidence: 1):
+Third Party Access and Data Protection When you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 88 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 89 (Confidence: 1):
+Complying with and resolving legal obligations: including responding to Data Subject Requests for Personal Data processed by GitHub as Controller (for example website data), tax requirements, agreements and disputes
+
+Sentence 90 (Confidence: 1):
+They are bound by contractual obligations to ensure the security, privacy, and confidentiality of your information
+
+Sentence 91 (Confidence: 2):
+GitHub personnel does not access private repository information without your consent except as provided in this Privacy Statement and for: automated scanning or manual review for known vulnerabilities, active malware, or other content known to violate our Terms of Service to assist the repository owner with a support matter to maintain the integrity of the Services, or to comply with our legal obligations if we have reason to believe the contents are in violation of the law
+
+Sentence 92 (Confidence: 1):
+Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users) GitHub processes Personal Data in compliance with the GDPR, ensuring a lawful basis for each processing activity
+
+Sentence 93 (Confidence: 2):
+Our processing activities typically fall under these lawful bases: Contractual Necessity: Processing is required to fulfill our contractual duties to you, in accordance with the GitHub Terms of Service
+
+Sentence 94 (Confidence: 1):
+Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties
+
+Sentence 95 (Confidence: 1):
+Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and improving our Services
+
+Sentence 96 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 97 (Confidence: 2):
+When we rely on consent as the legal basis, you have the right to withdraw your consent for data processing at any time
+
+Sentence 98 (Confidence: 1):
+Please note that we may retain certain data as necessary for legal obligations or for establishing, exercising, or defending legal claims
+
+Sentence 99 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 100 (Confidence: 1):
+Well retain your Personal Data as long as your account is active and as needed to fulfill contractual obligations, comply with legal requirements, resolve disputes, and enforce agreements
+
+Sentence 101 (Confidence: 1):
+The retention duration depends on the purpose of data collection and any legal obligations
+
+Sentence 102 (Confidence: 1):
+Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues
+

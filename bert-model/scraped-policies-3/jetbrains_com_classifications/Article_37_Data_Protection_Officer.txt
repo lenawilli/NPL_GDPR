@@ -1,0 +1,65 @@
+=== Article 37 Data Protection Officer ===
+
+Sentence 1 (Confidence: 1):
+For more information, please consult our dedicatedpolicy
+
+Sentence 2 (Confidence: 1):
+You may lodge a complaint related to the processing of your Personal Data with the competent data protection authority for the country where you are located or with theCzech data protection authority, as we are based in that country
+
+Sentence 3 (Confidence: 4):
+If you wish to contact our DPO, please contactdpo@jetbrains
+
+Sentence 4 (Confidence: 1):
+For more information, please consult our dedicatedpolicy
+
+Sentence 5 (Confidence: 1):
+You may lodge a complaint related to the processing of your Personal Data with the competent data protection authority for the country where you are located or with theCzech data protection authority, as we are based in that country
+
+Sentence 6 (Confidence: 4):
+If you wish to contact our DPO, please contactdpo@jetbrains
+
+Sentence 7 (Confidence: 1):
+For more information, please consult our dedicatedpolicy
+
+Sentence 8 (Confidence: 1):
+You may lodge a complaint related to the processing of your Personal Data with the competent data protection authority for the country where you are located or with theCzech data protection authority, as we are based in that country
+
+Sentence 9 (Confidence: 4):
+If you wish to contact our DPO, please contactdpo@jetbrains
+
+Sentence 10 (Confidence: 1):
+For more information, please consult our dedicatedpolicy
+
+Sentence 11 (Confidence: 1):
+You may lodge a complaint related to the processing of your Personal Data with the competent data protection authority for the country where you are located or with theCzech data protection authority, as we are based in that country
+
+Sentence 12 (Confidence: 4):
+If you wish to contact our DPO, please contactdpo@jetbrains
+
+Sentence 13 (Confidence: 1):
+For more information, please consult our dedicatedpolicy
+
+Sentence 14 (Confidence: 1):
+You may lodge a complaint related to the processing of your Personal Data with the competent data protection authority for the country where you are located or with theCzech data protection authority, as we are based in that country
+
+Sentence 15 (Confidence: 4):
+If you wish to contact our DPO, please contactdpo@jetbrains
+
+Sentence 16 (Confidence: 1):
+For more information, please consult our dedicatedpolicy
+
+Sentence 17 (Confidence: 1):
+You may lodge a complaint related to the processing of your Personal Data with the competent data protection authority for the country where you are located or with theCzech data protection authority, as we are based in that country
+
+Sentence 18 (Confidence: 4):
+If you wish to contact our DPO, please contactdpo@jetbrains
+
+Sentence 19 (Confidence: 1):
+For more information, please consult our dedicatedpolicy
+
+Sentence 20 (Confidence: 1):
+You may lodge a complaint related to the processing of your Personal Data with the competent data protection authority for the country where you are located or with theCzech data protection authority, as we are based in that country
+
+Sentence 21 (Confidence: 4):
+If you wish to contact our DPO, please contactdpo@jetbrains
+

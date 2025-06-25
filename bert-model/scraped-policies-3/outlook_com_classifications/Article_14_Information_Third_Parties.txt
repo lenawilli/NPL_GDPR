@@ -1,0 +1,1115 @@
+=== Article 14 Information Third Parties ===
+
+Sentence 1 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 2 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 3 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 4 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 5 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 6 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 7 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 8 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 9 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 10 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 11 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 12 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 13 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 14 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 15 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 16 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 17 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 18 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 19 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 20 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 21 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 22 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 23 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 24 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 25 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 26 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 27 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 28 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 29 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 30 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 31 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 32 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 33 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 34 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 35 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 36 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 37 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 38 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 39 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 40 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 41 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 42 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 43 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 44 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 45 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 46 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 47 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 48 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 49 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 50 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 51 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 52 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 53 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 54 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 55 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 56 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 57 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 58 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 59 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 60 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 61 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 62 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 63 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 64 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 65 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 66 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 67 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 68 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 69 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 70 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 71 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 72 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 73 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 74 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 75 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 76 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 77 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 78 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 79 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 80 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 81 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 82 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 83 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 84 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 85 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 86 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 87 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 88 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 89 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 90 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 91 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 92 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 93 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 94 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 95 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 96 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 97 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 98 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 99 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 100 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 101 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 102 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 103 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 104 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 105 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 106 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 107 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 108 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 109 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 110 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 111 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 112 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 113 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 114 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 115 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 116 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 117 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 118 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 119 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 120 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 121 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 122 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 123 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 124 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 125 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 126 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 127 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 128 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 129 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 130 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 131 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 132 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 133 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 134 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 135 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 136 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 137 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 138 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 139 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 140 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 141 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 142 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 143 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 144 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 145 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 146 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 147 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 148 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 149 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 150 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 151 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 152 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 153 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 154 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 155 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 156 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 157 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 158 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 159 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 160 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 161 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 162 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 163 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 164 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 165 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 166 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 167 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 168 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 169 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 170 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 171 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 172 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 173 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 174 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 175 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 176 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 177 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 178 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 179 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 180 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 181 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 182 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 183 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 184 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 185 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 186 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 187 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 188 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 189 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 190 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 191 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 192 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 193 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 194 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 195 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 196 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 197 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 198 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 199 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 200 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 201 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 202 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 203 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 204 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 205 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 206 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 207 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 208 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 209 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 210 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 211 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 212 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 213 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 214 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 215 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 216 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 217 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 218 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 219 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 220 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 221 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 222 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 223 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 224 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 225 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 226 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 227 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 228 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 229 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 230 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 231 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 232 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 233 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 234 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 235 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 236 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 237 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 238 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 239 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 240 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 241 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 242 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 243 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 244 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 245 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 246 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 247 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 248 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 249 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 250 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 251 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 252 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 253 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 254 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 255 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 256 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 257 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 258 (Confidence: 1):
+These third-party sources vary over time and include:Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 259 (Confidence: 3):
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data
+
+Sentence 260 (Confidence: 1):
+These third-party sources vary over time and include: Data brokers from which we purchase demographic data to supplement the data we collect
+
+Sentence 261 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 262 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 263 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 264 (Confidence: 1):
+When we process personal data based on our or a third partys legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests
+
+Sentence 265 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 266 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 267 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 268 (Confidence: 1):
+We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties
+
+Sentence 269 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 270 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 271 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 272 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 273 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 274 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 275 (Confidence: 1):
+Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party
+
+Sentence 276 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 277 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 278 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 279 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 280 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 281 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 282 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 283 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 284 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 285 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 286 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 287 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 288 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 289 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 290 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 291 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 292 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 293 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookieinventory
+
+Sentence 294 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 295 (Confidence: 1):
+Third Party CookiesIn addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites
+
+Sentence 296 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 297 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 298 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 299 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 300 (Confidence: 1):
+For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit ourthird party cookie inventory
+
+Sentence 301 (Confidence: 1):
+The third party cookie inventory also includes links to those third parties websites or privacy notices
+
+Sentence 302 (Confidence: 1):
+Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites
+
+Sentence 303 (Confidence: 1):
+The third parties on these sites may not be included in the list on ourthird party cookie inventory
+
+Sentence 304 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 305 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 306 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 307 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 308 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 309 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 310 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 311 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 312 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 313 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 314 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 315 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 316 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 317 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 318 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 319 (Confidence: 1):
+If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service
+
+Sentence 320 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 321 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 322 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 323 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 324 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 325 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 326 (Confidence: 1):
+If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third partys privacy policy
+
+Sentence 327 (Confidence: 1):
+The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated
+
+Sentence 328 (Confidence: 1):
+If you share your profile data, the third party can display your name or user name and your profile photo (if you have added one to your profile) when you are signed in to that third-party product
+
+Sentence 329 (Confidence: 1):
+If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third party or its vendors (e
+
+Sentence 330 (Confidence: 1):
+The third party can use or share the data it receives when you sign in or make a purchase according to its own practices and policies
+
+Sentence 331 (Confidence: 1):
+You should carefully review the terms the third party provided you to understand what it can do with your account
+
+Sentence 332 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 333 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 334 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 335 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 336 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 337 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 338 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 339 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 340 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 341 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 342 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 343 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 344 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 345 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 346 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 347 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 348 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 349 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 350 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 351 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 352 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 353 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 354 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 355 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 356 (Confidence: 1):
+In the context of an onward transfer, Microsoft Corporation has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on our behalf
+
+Sentence 357 (Confidence: 1):
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting oursharing opt-out page
+
+Sentence 358 (Confidence: 1):
+In certain situations, we may allow a third party to control the collection of your personal data
+
+Sentence 359 (Confidence: 1):
+For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices
+
+Sentence 360 (Confidence: 1):
+You can viewour third party ad partnerson theU
+
+Sentence 361 (Confidence: 1):
+We may also use such data to select and deliver ads on third party digital properties
+
+Sentence 362 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 363 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 364 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 365 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 366 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 367 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 368 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 369 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+
+Sentence 370 (Confidence: 1):
+When you use the camera feature in SwiftKey, you can choose to enhance your video and images with third party lens services
+
+Sentence 371 (Confidence: 1):
+This data is not sent to SwiftKey or any third party
+

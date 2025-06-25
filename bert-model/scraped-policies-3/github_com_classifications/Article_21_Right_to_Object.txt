@@ -1,0 +1,128 @@
+=== Article 21 Right To Object ===
+
+Sentence 1 (Confidence: 1):
+To opt out, go to File > Preferences > Settings in the top left menu of VS Code
+
+Sentence 2 (Confidence: 7):
+Your Privacy RightsDepending on your residence location, you may have specific legal rights regarding your Personal Data:The right to access the data collected about youThe right to request detailed information about the specific types of Personal Data we've collected over the past 12 months, including data disclosed for business purposesThe right to rectify or update inaccurate or incomplete Personal Data under certain circumstancesThe right to erase or limit the processing of your Personal Data under specific conditionsThe right to object to the processing of your Personal Data, as allowed by applicable lawThe right to withdraw consent, where processing is based on your consentThe right to receive your collected Personal Data in a structured, commonly used, and machine-readable format to facilitate its transfer to another company, where technically feasibleTo exercise these rights, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 3 (Confidence: 1):
+To opt out of the sharing of your personal information, you can click on the "Do Not Share My Personal Information" link on the footer of our Websites or use the Global Privacy Control ("GPC") if available
+
+Sentence 4 (Confidence: 1):
+83, also known as the Shine the Light law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (California Customers) may request information about whether the business has disclosed personal information to any third parties for the third parties direct marketing purposes
+
+Sentence 5 (Confidence: 1):
+Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law
+
+Sentence 6 (Confidence: 1):
+You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer
+
+Sentence 7 (Confidence: 1):
+GitHub does not engage in such profiling as defined by Colorado law, so theres no need to opt out
+
+Sentence 8 (Confidence: 1):
+To opt out, go to File > Preferences > Settings in the top left menu of VS Code
+
+Sentence 9 (Confidence: 7):
+Your Privacy RightsDepending on your residence location, you may have specific legal rights regarding your Personal Data:The right to access the data collected about youThe right to request detailed information about the specific types of Personal Data we've collected over the past 12 months, including data disclosed for business purposesThe right to rectify or update inaccurate or incomplete Personal Data under certain circumstancesThe right to erase or limit the processing of your Personal Data under specific conditionsThe right to object to the processing of your Personal Data, as allowed by applicable lawThe right to withdraw consent, where processing is based on your consentThe right to receive your collected Personal Data in a structured, commonly used, and machine-readable format to facilitate its transfer to another company, where technically feasibleTo exercise these rights, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 10 (Confidence: 1):
+To opt out of the sharing of your personal information, you can click on the "Do Not Share My Personal Information" link on the footer of our Websites or use the Global Privacy Control ("GPC") if available
+
+Sentence 11 (Confidence: 1):
+83, also known as the Shine the Light law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (California Customers) may request information about whether the business has disclosed personal information to any third parties for the third parties direct marketing purposes
+
+Sentence 12 (Confidence: 1):
+Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law
+
+Sentence 13 (Confidence: 1):
+You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer
+
+Sentence 14 (Confidence: 1):
+GitHub does not engage in such profiling as defined by Colorado law, so theres no need to opt out
+
+Sentence 15 (Confidence: 1):
+To opt out, go to File > Preferences > Settings in the top left menu of VS Code
+
+Sentence 16 (Confidence: 7):
+Your Privacy RightsDepending on your residence location, you may have specific legal rights regarding your Personal Data:The right to access the data collected about youThe right to request detailed information about the specific types of Personal Data we've collected over the past 12 months, including data disclosed for business purposesThe right to rectify or update inaccurate or incomplete Personal Data under certain circumstancesThe right to erase or limit the processing of your Personal Data under specific conditionsThe right to object to the processing of your Personal Data, as allowed by applicable lawThe right to withdraw consent, where processing is based on your consentThe right to receive your collected Personal Data in a structured, commonly used, and machine-readable format to facilitate its transfer to another company, where technically feasibleTo exercise these rights, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 17 (Confidence: 1):
+To opt out of the sharing of your personal information, you can click on the "Do Not Share My Personal Information" link on the footer of our Websites or use the Global Privacy Control ("GPC") if available
+
+Sentence 18 (Confidence: 1):
+83, also known as the Shine the Light law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (California Customers) may request information about whether the business has disclosed personal information to any third parties for the third parties direct marketing purposes
+
+Sentence 19 (Confidence: 1):
+Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law
+
+Sentence 20 (Confidence: 1):
+You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer
+
+Sentence 21 (Confidence: 1):
+GitHub does not engage in such profiling as defined by Colorado law, so theres no need to opt out
+
+Sentence 22 (Confidence: 1):
+To opt out, go to File > Preferences > Settings in the top left menu of VS Code
+
+Sentence 23 (Confidence: 7):
+Your Privacy RightsDepending on your residence location, you may have specific legal rights regarding your Personal Data:The right to access the data collected about youThe right to request detailed information about the specific types of Personal Data we've collected over the past 12 months, including data disclosed for business purposesThe right to rectify or update inaccurate or incomplete Personal Data under certain circumstancesThe right to erase or limit the processing of your Personal Data under specific conditionsThe right to object to the processing of your Personal Data, as allowed by applicable lawThe right to withdraw consent, where processing is based on your consentThe right to receive your collected Personal Data in a structured, commonly used, and machine-readable format to facilitate its transfer to another company, where technically feasibleTo exercise these rights, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 24 (Confidence: 1):
+To opt out of the sharing of your personal information, you can click on the "Do Not Share My Personal Information" link on the footer of our Websites or use the Global Privacy Control ("GPC") if available
+
+Sentence 25 (Confidence: 1):
+83, also known as the Shine the Light law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (California Customers) may request information about whether the business has disclosed personal information to any third parties for the third parties direct marketing purposes
+
+Sentence 26 (Confidence: 1):
+Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law
+
+Sentence 27 (Confidence: 1):
+You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer
+
+Sentence 28 (Confidence: 1):
+GitHub does not engage in such profiling as defined by Colorado law, so theres no need to opt out
+
+Sentence 29 (Confidence: 1):
+To opt out, go to File > Preferences > Settings in the top left menu of VS Code
+
+Sentence 30 (Confidence: 7):
+Your Privacy RightsDepending on your residence location, you may have specific legal rights regarding your Personal Data:The right to access the data collected about youThe right to request detailed information about the specific types of Personal Data we've collected over the past 12 months, including data disclosed for business purposesThe right to rectify or update inaccurate or incomplete Personal Data under certain circumstancesThe right to erase or limit the processing of your Personal Data under specific conditionsThe right to object to the processing of your Personal Data, as allowed by applicable lawThe right to withdraw consent, where processing is based on your consentThe right to receive your collected Personal Data in a structured, commonly used, and machine-readable format to facilitate its transfer to another company, where technically feasibleTo exercise these rights, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 31 (Confidence: 1):
+To opt out of the sharing of your personal information, you can click on the "Do Not Share My Personal Information" link on the footer of our Websites or use the Global Privacy Control ("GPC") if available
+
+Sentence 32 (Confidence: 1):
+83, also known as the Shine the Light law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (California Customers) may request information about whether the business has disclosed personal information to any third parties for the third parties direct marketing purposes
+
+Sentence 33 (Confidence: 1):
+Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law
+
+Sentence 34 (Confidence: 1):
+You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer
+
+Sentence 35 (Confidence: 1):
+GitHub does not engage in such profiling as defined by Colorado law, so theres no need to opt out
+
+Sentence 36 (Confidence: 1):
+To opt out, go to File > Preferences > Settings in the top left menu of VS Code
+
+Sentence 37 (Confidence: 7):
+Depending on your residence location, you may have specific legal rights regarding your Personal Data: The right to access the data collected about you The right to request detailed information about the specific types of Personal Data we've collected over the past 12 months, including data disclosed for business purposes The right to rectify or update inaccurate or incomplete Personal Data under certain circumstances The right to erase or limit the processing of your Personal Data under specific conditions The right to object to the processing of your Personal Data, as allowed by applicable law The right to withdraw consent, where processing is based on your consent The right to receive your collected Personal Data in a structured, commonly used, and machine-readable format to facilitate its transfer to another company, where technically feasible To exercise these rights, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 38 (Confidence: 1):
+To opt out of the sharing of your personal information, you can click on the "Do Not Share My Personal Information" link on the footer of our Websites or use the Global Privacy Control ("GPC") if available
+
+Sentence 39 (Confidence: 1):
+83, also known as the Shine the Light law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (California Customers) may request information about whether the business has disclosed personal information to any third parties for the third parties direct marketing purposes
+
+Sentence 40 (Confidence: 1):
+Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law
+
+Sentence 41 (Confidence: 1):
+You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer
+
+Sentence 42 (Confidence: 1):
+GitHub does not engage in such profiling as defined by Colorado law, so theres no need to opt out
+
