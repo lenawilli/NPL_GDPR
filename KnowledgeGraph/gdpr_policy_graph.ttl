@@ -8,11 +8,29 @@ ex:Article1 a ex:Article ;
 ex:Article10 a ex:Article ;
     rdfs:label "Article 10: Processing of personal data relating to criminal convictions and offences" .
 
+ex:Article11 a ex:Article ;
+    rdfs:label "Article 11: Processing which does not require identification" .
+
+ex:Article12 a ex:Article ;
+    rdfs:label "Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject" .
+
+ex:Article13 a ex:Article ;
+    rdfs:label "Article 13: Information to be provided where personal data are collected from the data subject" .
+
+ex:Article15 a ex:Article ;
+    rdfs:label "Article 15: Right of access by the data subject" .
+
 ex:Article16 a ex:Article ;
     rdfs:label "Article 16: Right to rectification" .
 
+ex:Article17 a ex:Article ;
+    rdfs:label "Article 17: Right to erasure (‘right to be forgotten’)" .
+
 ex:Article18 a ex:Article ;
     rdfs:label "Article 18: Right to restriction of processing" .
+
+ex:Article19 a ex:Article ;
+    rdfs:label "Article 19: Notification obligation regarding rectification or erasure of personal data or restriction of processing" .
 
 ex:Article2 a ex:Article ;
     rdfs:label "Article 2: Material scope" .
@@ -29,6 +47,9 @@ ex:Article22 a ex:Article ;
 ex:Article23 a ex:Article ;
     rdfs:label "Article 23: Restrictions" .
 
+ex:Article24 a ex:Article ;
+    rdfs:label "Article 24: Responsibility of the controller" .
+
 ex:Article25 a ex:Article ;
     rdfs:label "Article 25: Data protection by design and by default" .
 
@@ -40,6 +61,9 @@ ex:Article27 a ex:Article ;
 
 ex:Article28 a ex:Article ;
     rdfs:label "Article 28: Processor" .
+
+ex:Article29 a ex:Article ;
+    rdfs:label "Article 29: Processing under the authority of the controller or processor" .
 
 ex:Article3 a ex:Article ;
     rdfs:label "Article 3: Territorial scope" .
@@ -89,6 +113,9 @@ ex:Article44 a ex:Article ;
 ex:Article45 a ex:Article ;
     rdfs:label "Article 45: Transfers on the basis of an adequacy decision" .
 
+ex:Article46 a ex:Article ;
+    rdfs:label "Article 46: Transfers subject to appropriate safeguards" .
+
 ex:Article47 a ex:Article ;
     rdfs:label "Article 47: Binding corporate rules" .
 
@@ -97,6 +124,9 @@ ex:Article48 a ex:Article ;
 
 ex:Article49 a ex:Article ;
     rdfs:label "Article 49: Derogations for specific situations" .
+
+ex:Article50 a ex:Article ;
+    rdfs:label "Article 50: International cooperation for the protection of personal data" .
 
 ex:Article51 a ex:Article ;
     rdfs:label "Article 51: Supervisory authority" .
@@ -149,6 +179,9 @@ ex:Article65 a ex:Article ;
 ex:Article66 a ex:Article ;
     rdfs:label "Article 66: Urgency procedure" .
 
+ex:Article67 a ex:Article ;
+    rdfs:label "Article 67: Exchange of information" .
+
 ex:Article68 a ex:Article ;
     rdfs:label "Article 68: European Data Protection Board" .
 
@@ -176,6 +209,9 @@ ex:Article75 a ex:Article ;
 ex:Article76 a ex:Article ;
     rdfs:label "Article 76: Confidentiality" .
 
+ex:Article77 a ex:Article ;
+    rdfs:label "Article 77: Right to lodge a complaint with a supervisory authority" .
+
 ex:Article78 a ex:Article ;
     rdfs:label "Article 78: Right to an effective judicial remedy against a supervisory authority" .
 
@@ -184,6 +220,9 @@ ex:Article79 a ex:Article ;
 
 ex:Article8 a ex:Article ;
     rdfs:label "Article 8: Conditions applicable to child's consent in relation to information society services" .
+
+ex:Article80 a ex:Article ;
+    rdfs:label "Article 80: Representation of data subjects" .
 
 ex:Article81 a ex:Article ;
     rdfs:label "Article 81: Suspension of proceedings" .
@@ -211,6 +250,9 @@ ex:Article88 a ex:Article ;
 
 ex:Article89 a ex:Article ;
     rdfs:label "Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes" .
+
+ex:Article9 a ex:Article ;
+    rdfs:label "Article 9: Processing of special categories of personal data" .
 
 ex:Article90 a ex:Article ;
     rdfs:label "Article 90: Obligations of secrecy" .
@@ -244,161 +286,55 @@ ex:Article99 a ex:Article ;
 
 ex:PolicySection1 a ex:PolicySection ;
     rdfs:label "1. Who is the responsible controller for the data processing and whom you may contact?" ;
-    ex:relatesTo ex:Article13,
-        ex:Article14,
-        ex:Article24,
-        ex:Article30,
-        ex:Article77 ;
-    ex:similarityScore "0.3257"^^xsd:float,
-        "0.3472"^^xsd:float,
-        "0.3528"^^xsd:float,
-        "0.3697"^^xsd:float,
-        "0.3899"^^xsd:float .
+    ex:relatesTo ex:Article30 ;
+    ex:similarityScore "0.3899"^^xsd:float .
 
 ex:PolicySection2 a ex:PolicySection ;
     rdfs:label "2. What data is being processed and from which sources do these stem from?" ;
-    ex:relatesTo ex:Article13,
-        ex:Article14,
-        ex:Article15,
-        ex:Article30,
-        ex:Article5 ;
-    ex:similarityScore "0.3724"^^xsd:float,
-        "0.3767"^^xsd:float,
-        "0.3877"^^xsd:float,
-        "0.3967"^^xsd:float,
-        "0.4291"^^xsd:float .
+    ex:relatesTo ex:Article14 ;
+    ex:similarityScore "0.4291"^^xsd:float .
 
 ex:PolicySection3 a ex:PolicySection ;
     rdfs:label "3. For which purpose and for how long is the data being processed?" ;
-    ex:relatesTo ex:Article13,
-        ex:Article14,
-        ex:Article15,
-        ex:Article5,
-        ex:Article9 ;
-    ex:similarityScore "0.58"^^xsd:float,
-        "0.5846"^^xsd:float,
-        "0.591"^^xsd:float,
-        "0.6227"^^xsd:float,
-        "0.6618"^^xsd:float .
+    ex:relatesTo ex:Article5 ;
+    ex:similarityScore "0.6618"^^xsd:float .
 
 ex:PolicySection4 a ex:PolicySection ;
     rdfs:label "4. On which legal basis is personal data being processed?" ;
-    ex:relatesTo ex:Article14,
-        ex:Article15,
-        ex:Article17,
-        ex:Article19,
-        ex:Article7 ;
-    ex:similarityScore "0.6077"^^xsd:float,
-        "0.6142"^^xsd:float,
-        "0.6196"^^xsd:float,
-        "0.6686"^^xsd:float,
-        "0.7125"^^xsd:float .
+    ex:relatesTo ex:Article7 ;
+    ex:similarityScore "0.7125"^^xsd:float .
 
 ex:PolicySection5 a ex:PolicySection ;
     rdfs:label "5. Who will be receiving your data?" ;
-    ex:relatesTo ex:Article13,
-        ex:Article14,
-        ex:Article30,
-        ex:Article46,
-        ex:Article80 ;
-    ex:similarityScore "0.4945"^^xsd:float,
-        "0.4946"^^xsd:float,
-        "0.5127"^^xsd:float,
-        "0.5138"^^xsd:float,
-        "0.5388"^^xsd:float .
+    ex:relatesTo ex:Article14 ;
+    ex:similarityScore "0.5388"^^xsd:float .
 
 ex:PolicySection6 a ex:PolicySection ;
     rdfs:label "6. Are you obliged to provide data?" ;
-    ex:relatesTo ex:Article11,
-        ex:Article12,
-        ex:Article13,
-        ex:Article14,
-        ex:Article15 ;
-    ex:similarityScore "0.3767"^^xsd:float,
-        "0.3803"^^xsd:float,
-        "0.3834"^^xsd:float,
-        "0.3841"^^xsd:float,
-        "0.3903"^^xsd:float .
+    ex:relatesTo ex:Article14 ;
+    ex:similarityScore "0.3903"^^xsd:float .
 
 ex:PolicySection7 a ex:PolicySection ;
     rdfs:label "7. Is there automated decision-making including profiling?" ;
-    ex:relatesTo ex:Article15,
-        ex:Article19,
-        ex:Article29,
-        ex:Article31,
-        ex:Article67 ;
-    ex:similarityScore "0.431"^^xsd:float,
-        "0.4338"^^xsd:float,
-        "0.4347"^^xsd:float,
-        "0.4404"^^xsd:float,
-        "0.4555"^^xsd:float .
+    ex:relatesTo ex:Article31 ;
+    ex:similarityScore "0.4555"^^xsd:float .
 
 ex:PolicySection8 a ex:PolicySection ;
     rdfs:label "8. Your rights in processing your personal data" ;
-    ex:relatesTo ex:Article13,
-        ex:Article14,
-        ex:Article17,
-        ex:Article50,
-        ex:Article80 ;
-    ex:similarityScore "0.5492"^^xsd:float,
-        "0.5496"^^xsd:float,
-        "0.561"^^xsd:float,
-        "0.5699"^^xsd:float,
-        "0.6057"^^xsd:float .
-
-ex:Article11 a ex:Article ;
-    rdfs:label "Article 11: Processing which does not require identification" .
-
-ex:Article12 a ex:Article ;
-    rdfs:label "Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject" .
-
-ex:Article24 a ex:Article ;
-    rdfs:label "Article 24: Responsibility of the controller" .
-
-ex:Article29 a ex:Article ;
-    rdfs:label "Article 29: Processing under the authority of the controller or processor" .
-
-ex:Article31 a ex:Article ;
-    rdfs:label "Article 31: Cooperation with the supervisory authority" .
-
-ex:Article46 a ex:Article ;
-    rdfs:label "Article 46: Transfers subject to appropriate safeguards" .
-
-ex:Article50 a ex:Article ;
-    rdfs:label "Article 50: International cooperation for the protection of personal data" .
-
-ex:Article67 a ex:Article ;
-    rdfs:label "Article 67: Exchange of information" .
-
-ex:Article7 a ex:Article ;
-    rdfs:label "Article 7: Conditions for consent" .
-
-ex:Article77 a ex:Article ;
-    rdfs:label "Article 77: Right to lodge a complaint with a supervisory authority" .
-
-ex:Article9 a ex:Article ;
-    rdfs:label "Article 9: Processing of special categories of personal data" .
-
-ex:Article17 a ex:Article ;
-    rdfs:label "Article 17: Right to erasure (‘right to be forgotten’)" .
-
-ex:Article19 a ex:Article ;
-    rdfs:label "Article 19: Notification obligation regarding rectification or erasure of personal data or restriction of processing" .
-
-ex:Article5 a ex:Article ;
-    rdfs:label "Article 5: Principles relating to processing of personal data" .
-
-ex:Article80 a ex:Article ;
-    rdfs:label "Article 80: Representation of data subjects" .
+    ex:relatesTo ex:Article14 ;
+    ex:similarityScore "0.6057"^^xsd:float .
 
 ex:Article30 a ex:Article ;
     rdfs:label "Article 30: Records of processing activities" .
 
-ex:Article15 a ex:Article ;
-    rdfs:label "Article 15: Right of access by the data subject" .
+ex:Article31 a ex:Article ;
+    rdfs:label "Article 31: Cooperation with the supervisory authority" .
 
-ex:Article13 a ex:Article ;
-    rdfs:label "Article 13: Information to be provided where personal data are collected from the data subject" .
+ex:Article5 a ex:Article ;
+    rdfs:label "Article 5: Principles relating to processing of personal data" .
+
+ex:Article7 a ex:Article ;
+    rdfs:label "Article 7: Conditions for consent" .
 
 ex:Article14 a ex:Article ;
     rdfs:label "Article 14: Information to be provided where personal data have not been obtained from the data subject" .
