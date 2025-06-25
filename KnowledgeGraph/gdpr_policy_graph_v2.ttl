@@ -30,6 +30,10 @@ ex:Article12_3 a ex:Clause ;
     rdfs:label "Art. 12 3." ;
     ex:partOf ex:Article12 .
 
+ex:Article12_4 a ex:Clause ;
+    rdfs:label "Art. 12 4." ;
+    ex:partOf ex:Article12 .
+
 ex:Article12_5 a ex:Clause ;
     rdfs:label "Art. 12 5." ;
     ex:partOf ex:Article12 .
@@ -50,6 +54,10 @@ ex:Article12_9 a ex:Clause ;
     rdfs:label "Art. 12 9." ;
     ex:partOf ex:Article12 .
 
+ex:Article13_1 a ex:Clause ;
+    rdfs:label "Art. 13 1." ;
+    ex:partOf ex:Article13 .
+
 ex:Article13_10 a ex:Clause ;
     rdfs:label "Art. 13 10." ;
     ex:partOf ex:Article13 .
@@ -60,6 +68,10 @@ ex:Article13_11 a ex:Clause ;
 
 ex:Article13_12 a ex:Clause ;
     rdfs:label "Art. 13 12." ;
+    ex:partOf ex:Article13 .
+
+ex:Article13_14 a ex:Clause ;
+    rdfs:label "Art. 13 14." ;
     ex:partOf ex:Article13 .
 
 ex:Article13_15 a ex:Clause ;
@@ -98,6 +110,10 @@ ex:Article13_9 a ex:Clause ;
     rdfs:label "Art. 13 9." ;
     ex:partOf ex:Article13 .
 
+ex:Article14_1 a ex:Clause ;
+    rdfs:label "Art. 14 1." ;
+    ex:partOf ex:Article14 .
+
 ex:Article14_10 a ex:Clause ;
     rdfs:label "Art. 14 10." ;
     ex:partOf ex:Article14 .
@@ -118,8 +134,16 @@ ex:Article14_14 a ex:Clause ;
     rdfs:label "Art. 14 14." ;
     ex:partOf ex:Article14 .
 
+ex:Article14_15 a ex:Clause ;
+    rdfs:label "Art. 14 15." ;
+    ex:partOf ex:Article14 .
+
 ex:Article14_16 a ex:Clause ;
     rdfs:label "Art. 14 16." ;
+    ex:partOf ex:Article14 .
+
+ex:Article14_17 a ex:Clause ;
+    rdfs:label "Art. 14 17." ;
     ex:partOf ex:Article14 .
 
 ex:Article14_18 a ex:Clause ;
@@ -186,6 +210,18 @@ ex:Article14_9 a ex:Clause ;
     rdfs:label "Art. 14 9." ;
     ex:partOf ex:Article14 .
 
+ex:Article15_1 a ex:Clause ;
+    rdfs:label "Art. 15 1." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_10 a ex:Clause ;
+    rdfs:label "Art. 15 10." ;
+    ex:partOf ex:Article15 .
+
+ex:Article15_11 a ex:Clause ;
+    rdfs:label "Art. 15 11." ;
+    ex:partOf ex:Article15 .
+
 ex:Article15_12 a ex:Clause ;
     rdfs:label "Art. 15 12." ;
     ex:partOf ex:Article15 .
@@ -217,6 +253,10 @@ ex:Article15_7 a ex:Clause ;
 ex:Article15_8 a ex:Clause ;
     rdfs:label "Art. 15 8." ;
     ex:partOf ex:Article15 .
+
+ex:Article16_1 a ex:Clause ;
+    rdfs:label "Art. 16 1." ;
+    ex:partOf ex:Article16 .
 
 ex:Article17_1 a ex:Clause ;
     rdfs:label "Art. 17 1." ;
@@ -298,6 +338,10 @@ ex:Article18_7 a ex:Clause ;
     rdfs:label "Art. 18 7." ;
     ex:partOf ex:Article18 .
 
+ex:Article19_1 a ex:Clause ;
+    rdfs:label "Art. 19 1." ;
+    ex:partOf ex:Article19 .
+
 ex:Article1_1 a ex:Clause ;
     rdfs:label "Art. 1 1." ;
     ex:partOf ex:Article1 .
@@ -358,6 +402,10 @@ ex:Article21_6 a ex:Clause ;
     rdfs:label "Art. 21 6." ;
     ex:partOf ex:Article21 .
 
+ex:Article22_1 a ex:Clause ;
+    rdfs:label "Art. 22 1." ;
+    ex:partOf ex:Article22 .
+
 ex:Article22_2 a ex:Clause ;
     rdfs:label "Art. 22 2." ;
     ex:partOf ex:Article22 .
@@ -376,6 +424,10 @@ ex:Article22_5 a ex:Clause ;
 
 ex:Article22_6 a ex:Clause ;
     rdfs:label "Art. 22 6." ;
+    ex:partOf ex:Article22 .
+
+ex:Article22_7 a ex:Clause ;
+    rdfs:label "Art. 22 7." ;
     ex:partOf ex:Article22 .
 
 ex:Article23_1 a ex:Clause ;
@@ -474,6 +526,10 @@ ex:Article25_1 a ex:Clause ;
     rdfs:label "Art. 25 1." ;
     ex:partOf ex:Article25 .
 
+ex:Article25_2 a ex:Clause ;
+    rdfs:label "Art. 25 2." ;
+    ex:partOf ex:Article25 .
+
 ex:Article25_3 a ex:Clause ;
     rdfs:label "Art. 25 3." ;
     ex:partOf ex:Article25 .
@@ -538,6 +594,10 @@ ex:Article28_3 a ex:Clause ;
     rdfs:label "Art. 28 3." ;
     ex:partOf ex:Article28 .
 
+ex:Article28_4 a ex:Clause ;
+    rdfs:label "Art. 28 4." ;
+    ex:partOf ex:Article28 .
+
 ex:Article28_5 a ex:Clause ;
     rdfs:label "Art. 28 5." ;
     ex:partOf ex:Article28 .
@@ -589,6 +649,10 @@ ex:Article2_7 a ex:Clause ;
 ex:Article2_8 a ex:Clause ;
     rdfs:label "Art. 2 8." ;
     ex:partOf ex:Article2 .
+
+ex:Article30_1 a ex:Clause ;
+    rdfs:label "Art. 30 1." ;
+    ex:partOf ex:Article30 .
 
 ex:Article30_10 a ex:Clause ;
     rdfs:label "Art. 30 10." ;
@@ -649,6 +713,10 @@ ex:Article30_8 a ex:Clause ;
 ex:Article30_9 a ex:Clause ;
     rdfs:label "Art. 30 9." ;
     ex:partOf ex:Article30 .
+
+ex:Article31_1 a ex:Clause ;
+    rdfs:label "Art. 31 1." ;
+    ex:partOf ex:Article31 .
 
 ex:Article32_1 a ex:Clause ;
     rdfs:label "Art. 32 1." ;
@@ -962,6 +1030,10 @@ ex:Article3_2 a ex:Clause ;
     rdfs:label "Art. 3 2." ;
     ex:partOf ex:Article3 .
 
+ex:Article3_3 a ex:Clause ;
+    rdfs:label "Art. 3 3." ;
+    ex:partOf ex:Article3 .
+
 ex:Article3_4 a ex:Clause ;
     rdfs:label "Art. 3 4." ;
     ex:partOf ex:Article3 .
@@ -1012,6 +1084,10 @@ ex:Article40_18 a ex:Clause ;
 
 ex:Article40_19 a ex:Clause ;
     rdfs:label "Art. 40 19." ;
+    ex:partOf ex:Article40 .
+
+ex:Article40_2 a ex:Clause ;
+    rdfs:label "Art. 40 2." ;
     ex:partOf ex:Article40 .
 
 ex:Article40_20 a ex:Clause ;
@@ -1822,6 +1898,10 @@ ex:Article58_12 a ex:Clause ;
     rdfs:label "Art. 58 12." ;
     ex:partOf ex:Article58 .
 
+ex:Article58_13 a ex:Clause ;
+    rdfs:label "Art. 58 13." ;
+    ex:partOf ex:Article58 .
+
 ex:Article58_14 a ex:Clause ;
     rdfs:label "Art. 58 14." ;
     ex:partOf ex:Article58 .
@@ -1933,6 +2013,10 @@ ex:Article58_9 a ex:Clause ;
 ex:Article59_1 a ex:Clause ;
     rdfs:label "Art. 59 1." ;
     ex:partOf ex:Article59 .
+
+ex:Article5_1 a ex:Clause ;
+    rdfs:label "Art. 5 1." ;
+    ex:partOf ex:Article5 .
 
 ex:Article5_2 a ex:Clause ;
     rdfs:label "Art. 5 2." ;
@@ -2246,6 +2330,10 @@ ex:Article6_11 a ex:Clause ;
     rdfs:label "Art. 6 11." ;
     ex:partOf ex:Article6 .
 
+ex:Article6_12 a ex:Clause ;
+    rdfs:label "Art. 6 12." ;
+    ex:partOf ex:Article6 .
+
 ex:Article6_13 a ex:Clause ;
     rdfs:label "Art. 6 13." ;
     ex:partOf ex:Article6 .
@@ -2554,9 +2642,17 @@ ex:Article7_2 a ex:Clause ;
     rdfs:label "Art. 7 2." ;
     ex:partOf ex:Article7 .
 
+ex:Article7_3 a ex:Clause ;
+    rdfs:label "Art. 7 3." ;
+    ex:partOf ex:Article7 .
+
 ex:Article7_4 a ex:Clause ;
     rdfs:label "Art. 7 4." ;
     ex:partOf ex:Article7 .
+
+ex:Article80_1 a ex:Clause ;
+    rdfs:label "Art. 80 1." ;
+    ex:partOf ex:Article80 .
 
 ex:Article80_2 a ex:Clause ;
     rdfs:label "Art. 80 2." ;
@@ -2742,6 +2838,10 @@ ex:Article88_1 a ex:Clause ;
     rdfs:label "Art. 88 1." ;
     ex:partOf ex:Article88 .
 
+ex:Article88_2 a ex:Clause ;
+    rdfs:label "Art. 88 2." ;
+    ex:partOf ex:Article88 .
+
 ex:Article88_3 a ex:Clause ;
     rdfs:label "Art. 88 3." ;
     ex:partOf ex:Article88 .
@@ -2846,6 +2946,10 @@ ex:Article97_2 a ex:Clause ;
     rdfs:label "Art. 97 2." ;
     ex:partOf ex:Article97 .
 
+ex:Article97_3 a ex:Clause ;
+    rdfs:label "Art. 97 3." ;
+    ex:partOf ex:Article97 .
+
 ex:Article97_4 a ex:Clause ;
     rdfs:label "Art. 97 4." ;
     ex:partOf ex:Article97 .
@@ -2932,146 +3036,54 @@ ex:Article9_9 a ex:Clause ;
 
 ex:PolicySection1 a ex:PolicySection ;
     rdfs:label "1. Who is the responsible controller for the data processing and whom you may contact?" ;
-    ex:relatesToClause ex:Article12_4,
-        ex:Article28_8,
-        ex:Article30_1,
-        ex:Article31_1,
-        ex:Article58_13 ;
-    ex:similarityScore "0.355"^^xsd:float,
-        "0.3571"^^xsd:float,
-        "0.3594"^^xsd:float,
-        "0.3618"^^xsd:float,
-        "0.3805"^^xsd:float .
+    ex:relatesToClause ex:Article28_8 ;
+    ex:similarityScore "0.3805"^^xsd:float .
 
 ex:PolicySection2 a ex:PolicySection ;
     rdfs:label "2. What data is being processed and from which sources do these stem from?" ;
-    ex:relatesToClause ex:Article13_1,
-        ex:Article14_1,
-        ex:Article17_7,
-        ex:Article25_2,
-        ex:Article5_1 ;
-    ex:similarityScore "0.3994"^^xsd:float,
-        "0.3997"^^xsd:float,
-        "0.4"^^xsd:float,
-        "0.4013"^^xsd:float,
-        "0.4437"^^xsd:float .
+    ex:relatesToClause ex:Article17_7 ;
+    ex:similarityScore "0.4437"^^xsd:float .
 
 ex:PolicySection3 a ex:PolicySection ;
     rdfs:label "3. For which purpose and for how long is the data being processed?" ;
-    ex:relatesToClause ex:Article14_17,
-        ex:Article15_1,
-        ex:Article5_1,
-        ex:Article5_6,
-        ex:Article6_12 ;
-    ex:similarityScore "0.6378"^^xsd:float,
-        "0.6429"^^xsd:float,
-        "0.6569"^^xsd:float,
-        "0.6753"^^xsd:float,
-        "0.6763"^^xsd:float .
+    ex:relatesToClause ex:Article5_6 ;
+    ex:similarityScore "0.6763"^^xsd:float .
 
 ex:PolicySection4 a ex:PolicySection ;
     rdfs:label "4. On which legal basis is personal data being processed?" ;
-    ex:relatesToClause ex:Article13_8,
-        ex:Article15_1,
-        ex:Article16_1,
-        ex:Article19_1,
-        ex:Article7_3 ;
-    ex:similarityScore "0.6428"^^xsd:float,
-        "0.6431"^^xsd:float,
-        "0.646"^^xsd:float,
-        "0.6557"^^xsd:float,
-        "0.685"^^xsd:float .
+    ex:relatesToClause ex:Article13_8 ;
+    ex:similarityScore "0.685"^^xsd:float .
 
 ex:PolicySection5 a ex:PolicySection ;
     rdfs:label "5. Who will be receiving your data?" ;
-    ex:relatesToClause ex:Article14_1,
-        ex:Article28_4,
-        ex:Article70_10,
-        ex:Article80_1,
-        ex:Article88_2 ;
-    ex:similarityScore "0.5268"^^xsd:float,
-        "0.5301"^^xsd:float,
-        "0.5313"^^xsd:float,
-        "0.5406"^^xsd:float,
-        "0.5533"^^xsd:float .
+    ex:relatesToClause ex:Article70_10 ;
+    ex:similarityScore "0.5533"^^xsd:float .
 
 ex:PolicySection6 a ex:PolicySection ;
     rdfs:label "6. Are you obliged to provide data?" ;
-    ex:relatesToClause ex:Article13_13,
-        ex:Article15_11,
-        ex:Article17_7,
-        ex:Article25_2,
-        ex:Article3_3 ;
-    ex:similarityScore "0.4141"^^xsd:float,
-        "0.416"^^xsd:float,
-        "0.4256"^^xsd:float,
-        "0.4369"^^xsd:float,
-        "0.46"^^xsd:float .
+    ex:relatesToClause ex:Article13_13 ;
+    ex:similarityScore "0.46"^^xsd:float .
 
 ex:PolicySection7 a ex:PolicySection ;
     rdfs:label "7. Is there automated decision-making including profiling?" ;
-    ex:relatesToClause ex:Article13_14,
-        ex:Article14_15,
-        ex:Article15_9,
-        ex:Article22_1,
-        ex:Article22_7 ;
-    ex:similarityScore "0.4847"^^xsd:float,
-        "0.5354"^^xsd:float,
-        "0.5355"^^xsd:float,
-        "0.536"^^xsd:float,
-        "0.5376"^^xsd:float .
+    ex:relatesToClause ex:Article15_9 ;
+    ex:similarityScore "0.5376"^^xsd:float .
 
 ex:PolicySection8 a ex:PolicySection ;
     rdfs:label "8. Your rights in processing your personal data" ;
-    ex:relatesToClause ex:Article14_1,
-        ex:Article15_10,
-        ex:Article40_2,
-        ex:Article50_1,
-        ex:Article97_3 ;
-    ex:similarityScore "0.5771"^^xsd:float,
-        "0.5796"^^xsd:float,
-        "0.5884"^^xsd:float,
-        "0.5906"^^xsd:float,
-        "0.5931"^^xsd:float .
+    ex:relatesToClause ex:Article50_1 ;
+    ex:similarityScore "0.5931"^^xsd:float .
 
 ex:Article10 a ex:Article ;
     rdfs:label "Article 10: Processing of personal data relating to criminal convictions and offences" .
-
-ex:Article12_4 a ex:Clause ;
-    rdfs:label "Art. 12 4." ;
-    ex:partOf ex:Article12 .
-
-ex:Article13_1 a ex:Clause ;
-    rdfs:label "Art. 13 1." ;
-    ex:partOf ex:Article13 .
 
 ex:Article13_13 a ex:Clause ;
     rdfs:label "Art. 13 13." ;
     ex:partOf ex:Article13 .
 
-ex:Article13_14 a ex:Clause ;
-    rdfs:label "Art. 13 14." ;
-    ex:partOf ex:Article13 .
-
 ex:Article13_8 a ex:Clause ;
     rdfs:label "Art. 13 8." ;
     ex:partOf ex:Article13 .
-
-ex:Article14_15 a ex:Clause ;
-    rdfs:label "Art. 14 15." ;
-    ex:partOf ex:Article14 .
-
-ex:Article14_17 a ex:Clause ;
-    rdfs:label "Art. 14 17." ;
-    ex:partOf ex:Article14 .
-
-ex:Article15_10 a ex:Clause ;
-    rdfs:label "Art. 15 10." ;
-    ex:partOf ex:Article15 .
-
-ex:Article15_11 a ex:Clause ;
-    rdfs:label "Art. 15 11." ;
-    ex:partOf ex:Article15 .
 
 ex:Article15_9 a ex:Clause ;
     rdfs:label "Art. 15 9." ;
@@ -3080,28 +3092,12 @@ ex:Article15_9 a ex:Clause ;
 ex:Article16 a ex:Article ;
     rdfs:label "Article 16: Right to rectification" .
 
-ex:Article16_1 a ex:Clause ;
-    rdfs:label "Art. 16 1." ;
-    ex:partOf ex:Article16 .
+ex:Article17_7 a ex:Clause ;
+    rdfs:label "Art. 17 7." ;
+    ex:partOf ex:Article17 .
 
 ex:Article19 a ex:Article ;
     rdfs:label "Article 19: Notification obligation regarding rectification or erasure of personal data or restriction of processing" .
-
-ex:Article19_1 a ex:Clause ;
-    rdfs:label "Art. 19 1." ;
-    ex:partOf ex:Article19 .
-
-ex:Article22_1 a ex:Clause ;
-    rdfs:label "Art. 22 1." ;
-    ex:partOf ex:Article22 .
-
-ex:Article22_7 a ex:Clause ;
-    rdfs:label "Art. 22 7." ;
-    ex:partOf ex:Article22 .
-
-ex:Article28_4 a ex:Clause ;
-    rdfs:label "Art. 28 4." ;
-    ex:partOf ex:Article28 .
 
 ex:Article28_8 a ex:Clause ;
     rdfs:label "Art. 28 8." ;
@@ -3110,24 +3106,8 @@ ex:Article28_8 a ex:Clause ;
 ex:Article29 a ex:Article ;
     rdfs:label "Article 29: Processing under the authority of the controller or processor" .
 
-ex:Article30_1 a ex:Clause ;
-    rdfs:label "Art. 30 1." ;
-    ex:partOf ex:Article30 .
-
 ex:Article31 a ex:Article ;
     rdfs:label "Article 31: Cooperation with the supervisory authority" .
-
-ex:Article31_1 a ex:Clause ;
-    rdfs:label "Art. 31 1." ;
-    ex:partOf ex:Article31 .
-
-ex:Article3_3 a ex:Clause ;
-    rdfs:label "Art. 3 3." ;
-    ex:partOf ex:Article3 .
-
-ex:Article40_2 a ex:Clause ;
-    rdfs:label "Art. 40 2." ;
-    ex:partOf ex:Article40 .
 
 ex:Article44 a ex:Article ;
     rdfs:label "Article 44: General principle for transfers" .
@@ -3138,10 +3118,6 @@ ex:Article48 a ex:Article ;
 ex:Article50_1 a ex:Clause ;
     rdfs:label "Art. 50 1." ;
     ex:partOf ex:Article50 .
-
-ex:Article58_13 a ex:Clause ;
-    rdfs:label "Art. 58 13." ;
-    ex:partOf ex:Article58 .
 
 ex:Article59 a ex:Article ;
     rdfs:label "Article 59: Activity reports" .
@@ -3156,21 +3132,9 @@ ex:Article63 a ex:Article ;
 ex:Article67 a ex:Article ;
     rdfs:label "Article 67: Exchange of information" .
 
-ex:Article6_12 a ex:Clause ;
-    rdfs:label "Art. 6 12." ;
-    ex:partOf ex:Article6 .
-
 ex:Article70_10 a ex:Clause ;
     rdfs:label "Art. 70 10." ;
     ex:partOf ex:Article70 .
-
-ex:Article7_3 a ex:Clause ;
-    rdfs:label "Art. 7 3." ;
-    ex:partOf ex:Article7 .
-
-ex:Article80_1 a ex:Clause ;
-    rdfs:label "Art. 80 1." ;
-    ex:partOf ex:Article80 .
 
 ex:Article86 a ex:Article ;
     rdfs:label "Article 86: Processing and public access to official documents" .
@@ -3178,41 +3142,17 @@ ex:Article86 a ex:Article ;
 ex:Article87 a ex:Article ;
     rdfs:label "Article 87: Processing of the national identification number" .
 
-ex:Article88_2 a ex:Clause ;
-    rdfs:label "Art. 88 2." ;
-    ex:partOf ex:Article88 .
-
 ex:Article95 a ex:Article ;
     rdfs:label "Article 95: Relationship with Directive 2002/58/EC" .
 
 ex:Article96 a ex:Article ;
     rdfs:label "Article 96: Relationship with previously concluded Agreements" .
 
-ex:Article97_3 a ex:Clause ;
-    rdfs:label "Art. 97 3." ;
-    ex:partOf ex:Article97 .
-
 ex:Article98 a ex:Article ;
     rdfs:label "Article 98: Review of other Union legal acts on data protection" .
 
 ex:Article11 a ex:Article ;
     rdfs:label "Article 11: Processing which does not require identification" .
-
-ex:Article15_1 a ex:Clause ;
-    rdfs:label "Art. 15 1." ;
-    ex:partOf ex:Article15 .
-
-ex:Article17_7 a ex:Clause ;
-    rdfs:label "Art. 17 7." ;
-    ex:partOf ex:Article17 .
-
-ex:Article25_2 a ex:Clause ;
-    rdfs:label "Art. 25 2." ;
-    ex:partOf ex:Article25 .
-
-ex:Article5_1 a ex:Clause ;
-    rdfs:label "Art. 5 1." ;
-    ex:partOf ex:Article5 .
 
 ex:Article69 a ex:Article ;
     rdfs:label "Article 69: Independence" .
@@ -3255,10 +3195,6 @@ ex:Article99 a ex:Article ;
 
 ex:Article1 a ex:Article ;
     rdfs:label "Article 1: Subject-matter and objectives" .
-
-ex:Article14_1 a ex:Clause ;
-    rdfs:label "Art. 14 1." ;
-    ex:partOf ex:Article14 .
 
 ex:Article24 a ex:Article ;
     rdfs:label "Article 24: Responsibility of the controller" .

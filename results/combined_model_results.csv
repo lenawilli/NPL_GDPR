@@ -1,0 +1,105 @@
+model,section_index,section_title,article,article_title,similarity
+Ikea Knowledgegraph,1,1. Who is the responsible controller for the data processing and whom you may contact?,30,Records of processing activities,0.3899
+Ikea Knowledgegraph,1,1. Who is the responsible controller for the data processing and whom you may contact?,14,Information to be provided where personal data have not been obtained from the data subject,0.3697
+Ikea Knowledgegraph,1,1. Who is the responsible controller for the data processing and whom you may contact?,13,Information to be provided where personal data are collected from the data subject,0.3528
+Ikea Knowledgegraph,1,1. Who is the responsible controller for the data processing and whom you may contact?,77,Right to lodge a complaint with a supervisory authority,0.3472
+Ikea Knowledgegraph,1,1. Who is the responsible controller for the data processing and whom you may contact?,24,Responsibility of the controller,0.3257
+Ikea Knowledgegraph,2,2. What data is being processed and from which sources do these stem from?,14,Information to be provided where personal data have not been obtained from the data subject,0.4291
+Ikea Knowledgegraph,2,2. What data is being processed and from which sources do these stem from?,13,Information to be provided where personal data are collected from the data subject,0.3967
+Ikea Knowledgegraph,2,2. What data is being processed and from which sources do these stem from?,5,Principles relating to processing of personal data,0.3877
+Ikea Knowledgegraph,2,2. What data is being processed and from which sources do these stem from?,15,Right of access by the data subject,0.3767
+Ikea Knowledgegraph,2,2. What data is being processed and from which sources do these stem from?,30,Records of processing activities,0.3724
+Ikea Knowledgegraph,3,3. For which purpose and for how long is the data being processed?,5,Principles relating to processing of personal data,0.6618
+Ikea Knowledgegraph,3,3. For which purpose and for how long is the data being processed?,15,Right of access by the data subject,0.6227
+Ikea Knowledgegraph,3,3. For which purpose and for how long is the data being processed?,13,Information to be provided where personal data are collected from the data subject,0.591
+Ikea Knowledgegraph,3,3. For which purpose and for how long is the data being processed?,9,Processing of special categories of personal data,0.5846
+Ikea Knowledgegraph,3,3. For which purpose and for how long is the data being processed?,14,Information to be provided where personal data have not been obtained from the data subject,0.58
+Ikea Knowledgegraph,4,4. On which legal basis is personal data being processed?,7,Conditions for consent,0.7125
+Ikea Knowledgegraph,4,4. On which legal basis is personal data being processed?,19,Notification obligation regarding rectification or erasure of personal data or restriction of processing,0.6686
+Ikea Knowledgegraph,4,4. On which legal basis is personal data being processed?,14,Information to be provided where personal data have not been obtained from the data subject,0.6196
+Ikea Knowledgegraph,4,4. On which legal basis is personal data being processed?,15,Right of access by the data subject,0.6142
+Ikea Knowledgegraph,4,4. On which legal basis is personal data being processed?,17,Right to erasure (‘right to be forgotten’),0.6077
+Ikea Knowledgegraph,5,5. Who will be receiving your data?,14,Information to be provided where personal data have not been obtained from the data subject,0.5388
+Ikea Knowledgegraph,5,5. Who will be receiving your data?,80,Representation of data subjects,0.5138
+Ikea Knowledgegraph,5,5. Who will be receiving your data?,46,Transfers subject to appropriate safeguards,0.5127
+Ikea Knowledgegraph,5,5. Who will be receiving your data?,30,Records of processing activities,0.4946
+Ikea Knowledgegraph,5,5. Who will be receiving your data?,13,Information to be provided where personal data are collected from the data subject,0.4945
+Ikea Knowledgegraph,6,6. Are you obliged to provide data?,14,Information to be provided where personal data have not been obtained from the data subject,0.3903
+Ikea Knowledgegraph,6,6. Are you obliged to provide data?,12,"Transparent information, communication and modalities for the exercise of the rights of the data subject",0.3841
+Ikea Knowledgegraph,6,6. Are you obliged to provide data?,11,Processing which does not require identification,0.3834
+Ikea Knowledgegraph,6,6. Are you obliged to provide data?,15,Right of access by the data subject,0.3803
+Ikea Knowledgegraph,6,6. Are you obliged to provide data?,13,Information to be provided where personal data are collected from the data subject,0.3767
+Ikea Knowledgegraph,7,7. Is there automated decision-making including profiling?,31,Cooperation with the supervisory authority,0.4555
+Ikea Knowledgegraph,7,7. Is there automated decision-making including profiling?,29,Processing under the authority of the controller or processor,0.4404
+Ikea Knowledgegraph,7,7. Is there automated decision-making including profiling?,15,Right of access by the data subject,0.4347
+Ikea Knowledgegraph,7,7. Is there automated decision-making including profiling?,67,Exchange of information,0.4338
+Ikea Knowledgegraph,7,7. Is there automated decision-making including profiling?,19,Notification obligation regarding rectification or erasure of personal data or restriction of processing,0.431
+Ikea Knowledgegraph,8,8. Your rights in processing your personal data,14,Information to be provided where personal data have not been obtained from the data subject,0.6057
+Ikea Knowledgegraph,8,8. Your rights in processing your personal data,80,Representation of data subjects,0.5699
+Ikea Knowledgegraph,8,8. Your rights in processing your personal data,50,International cooperation for the protection of personal data,0.561
+Ikea Knowledgegraph,8,8. Your rights in processing your personal data,13,Information to be provided where personal data are collected from the data subject,0.5496
+Ikea Knowledgegraph,8,8. Your rights in processing your personal data,17,Right to erasure (‘right to be forgotten’),0.5492
+Ikea Knowledgegraphv2,1,1. Who is the responsible controller for the data processing and whom you may contact?,28,,0.3805
+Ikea Knowledgegraphv2,1,1. Who is the responsible controller for the data processing and whom you may contact?,30,,0.3618
+Ikea Knowledgegraphv2,1,1. Who is the responsible controller for the data processing and whom you may contact?,58,,0.3594
+Ikea Knowledgegraphv2,1,1. Who is the responsible controller for the data processing and whom you may contact?,31,,0.3571
+Ikea Knowledgegraphv2,1,1. Who is the responsible controller for the data processing and whom you may contact?,12,,0.355
+Ikea Knowledgegraphv2,2,2. What data is being processed and from which sources do these stem from?,17,,0.4437
+Ikea Knowledgegraphv2,2,2. What data is being processed and from which sources do these stem from?,5,,0.4013
+Ikea Knowledgegraphv2,2,2. What data is being processed and from which sources do these stem from?,14,,0.4
+Ikea Knowledgegraphv2,2,2. What data is being processed and from which sources do these stem from?,25,,0.3997
+Ikea Knowledgegraphv2,2,2. What data is being processed and from which sources do these stem from?,13,,0.3994
+Ikea Knowledgegraphv2,3,3. For which purpose and for how long is the data being processed?,5,,0.6763
+Ikea Knowledgegraphv2,3,3. For which purpose and for how long is the data being processed?,5,,0.6753
+Ikea Knowledgegraphv2,3,3. For which purpose and for how long is the data being processed?,15,,0.6569
+Ikea Knowledgegraphv2,3,3. For which purpose and for how long is the data being processed?,6,,0.6429
+Ikea Knowledgegraphv2,3,3. For which purpose and for how long is the data being processed?,14,,0.6378
+Ikea Knowledgegraphv2,4,4. On which legal basis is personal data being processed?,13,,0.685
+Ikea Knowledgegraphv2,4,4. On which legal basis is personal data being processed?,19,,0.6557
+Ikea Knowledgegraphv2,4,4. On which legal basis is personal data being processed?,7,,0.646
+Ikea Knowledgegraphv2,4,4. On which legal basis is personal data being processed?,15,,0.6431
+Ikea Knowledgegraphv2,4,4. On which legal basis is personal data being processed?,16,,0.6428
+Ikea Knowledgegraphv2,5,5. Who will be receiving your data?,70,,0.5533
+Ikea Knowledgegraphv2,5,5. Who will be receiving your data?,14,,0.5406
+Ikea Knowledgegraphv2,5,5. Who will be receiving your data?,28,,0.5313
+Ikea Knowledgegraphv2,5,5. Who will be receiving your data?,88,,0.5301
+Ikea Knowledgegraphv2,5,5. Who will be receiving your data?,80,,0.5268
+Ikea Knowledgegraphv2,6,6. Are you obliged to provide data?,13,,0.46
+Ikea Knowledgegraphv2,6,6. Are you obliged to provide data?,15,,0.4369
+Ikea Knowledgegraphv2,6,6. Are you obliged to provide data?,25,,0.4256
+Ikea Knowledgegraphv2,6,6. Are you obliged to provide data?,3,,0.416
+Ikea Knowledgegraphv2,6,6. Are you obliged to provide data?,17,,0.4141
+Ikea Knowledgegraphv2,7,7. Is there automated decision-making including profiling?,15,,0.5376
+Ikea Knowledgegraphv2,7,7. Is there automated decision-making including profiling?,13,,0.536
+Ikea Knowledgegraphv2,7,7. Is there automated decision-making including profiling?,14,,0.5355
+Ikea Knowledgegraphv2,7,7. Is there automated decision-making including profiling?,22,,0.5354
+Ikea Knowledgegraphv2,7,7. Is there automated decision-making including profiling?,22,,0.4847
+Ikea Knowledgegraphv2,8,8. Your rights in processing your personal data,50,,0.5931
+Ikea Knowledgegraphv2,8,8. Your rights in processing your personal data,15,,0.5906
+Ikea Knowledgegraphv2,8,8. Your rights in processing your personal data,14,,0.5884
+Ikea Knowledgegraphv2,8,8. Your rights in processing your personal data,97,,0.5796
+Ikea Knowledgegraphv2,8,8. Your rights in processing your personal data,40,,0.5771
+Ikea Llm,1,1. Who is the responsible controller for the data processing and whom you may contact?,28,Processor,0.4693
+Ikea Llm,2,2. What data is being processed and from which sources do these stem from?,13,Information to be provided where personal data are collected from the data subject,0.4975
+Ikea Llm,3,3. For which purpose and for how long is the data being processed?,13,Information to be provided where personal data are collected from the data subject,0.5906
+Ikea Llm,4,4. On which legal basis is personal data being processed?,6,Lawfulness of processing,0.6778
+Ikea Llm,5,5. Who will be receiving your data?,28,Processor,0.4983
+Ikea Llm,6,6. Are you obliged to provide data?,13,Information to be provided where personal data are collected from the data subject,0.4364
+Ikea Llm,7,7. Is there automated decision-making including profiling?,22,"Automated individual decision-making, including profiling",0.6317
+Ikea Llm,8,8. Your rights in processing your personal data,15,Right of access by the data subject,0.6323
+Ikea Sentencetransformer,1,1. Who is the responsible controller for the data processing and whom you may contact?,28,Unknown Article,0.39523419737815857
+Ikea Sentencetransformer,2,2. What data is being processed and from which sources do these stem from?,17,Unknown Article,0.4358285665512085
+Ikea Sentencetransformer,3,3. For which purpose and for how long is the data being processed?,13,Unknown Article,0.7248451709747314
+Ikea Sentencetransformer,4,4. On which legal basis is personal data being processed?,13,Unknown Article,0.6803147792816162
+Ikea Sentencetransformer,5,5. Who will be receiving your data?,28,Unknown Article,0.551923394203186
+Ikea Sentencetransformer,6,6. Are you obliged to provide data?,13,Unknown Article,0.47824516892433167
+Ikea Sentencetransformer,7,7. Is there automated decision-making including profiling?,13,Unknown Article,0.5337119102478027
+Ikea Sentencetransformer,8,8. Your rights in processing your personal data,50,Unknown Article,0.6304006576538086
+Ikea Tfidf,1,1. Who is the responsible controller for the data processing and whom you may contact?,7,Unknown Article,0.054669328527275685
+Ikea Tfidf,2,2. What data is being processed and from which sources do these stem from?,6,Unknown Article,0.09243356530009153
+Ikea Tfidf,3,3. For which purpose and for how long is the data being processed?,6,Unknown Article,0.22448017549541302
+Ikea Tfidf,4,4. On which legal basis is personal data being processed?,6,Unknown Article,0.1488158107453388
+Ikea Tfidf,5,5. Who will be receiving your data?,6,Unknown Article,0.12959872421966304
+Ikea Tfidf,6,6. Are you obliged to provide data?,7,Unknown Article,0.08954248898884729
+Ikea Tfidf,7,7. Is there automated decision-making including profiling?,6,Unknown Article,0.03273428803829381
+Ikea Tfidf,8,8. Your rights in processing your personal data,6,Unknown Article,0.14766480251547703

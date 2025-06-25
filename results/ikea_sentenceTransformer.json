@@ -1,0 +1,90 @@
+[
+  {
+    "section_index": "1",
+    "section_title": "1. Who is the responsible controller for the data processing and whom you may contact?",
+    "top_matches": [
+      {
+        "article": 28,
+        "title": "Processor",
+        "similarity": 0.39523419737815857
+      }
+    ]
+  },
+  {
+    "section_index": "2",
+    "section_title": "2. What data is being processed and from which sources do these stem from?",
+    "top_matches": [
+      {
+        "article": 17,
+        "title": "Right to erasure (‘right to be forgotten’)",
+        "similarity": 0.4358285665512085
+      }
+    ]
+  },
+  {
+    "section_index": "3",
+    "section_title": "3. For which purpose and for how long is the data being processed?",
+    "top_matches": [
+      {
+        "article": 13,
+        "title": "Information to be provided where personal data are collected from the data subject",
+        "similarity": 0.7248451709747314
+      }
+    ]
+  },
+  {
+    "section_index": "4",
+    "section_title": "4. On which legal basis is personal data being processed?",
+    "top_matches": [
+      {
+        "article": 13,
+        "title": "Information to be provided where personal data are collected from the data subject",
+        "similarity": 0.6803147792816162
+      }
+    ]
+  },
+  {
+    "section_index": "5",
+    "section_title": "5. Who will be receiving your data?",
+    "top_matches": [
+      {
+        "article": 28,
+        "title": "Processor",
+        "similarity": 0.551923394203186
+      }
+    ]
+  },
+  {
+    "section_index": "6",
+    "section_title": "6. Are you obliged to provide data?",
+    "top_matches": [
+      {
+        "article": 13,
+        "title": "Information to be provided where personal data are collected from the data subject",
+        "similarity": 0.47824516892433167
+      }
+    ]
+  },
+  {
+    "section_index": "7",
+    "section_title": "7. Is there automated decision-making including profiling?",
+    "top_matches": [
+      {
+        "article": 13,
+        "title": "Information to be provided where personal data are collected from the data subject",
+        "similarity": 0.5337119102478027
+      }
+    ]
+  },
+  {
+    "section_index": "8",
+    "section_title": "8. Your rights in processing your personal data",
+    "top_matches": [
+      {
+        "article": 50,
+        "title": "International cooperation for the protection of personal data",
+        "similarity": 0.6304006576538086
+      }
+    ]
+  }
+]
