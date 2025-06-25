@@ -1,0 +1,38 @@
+=== International Transfers ===
+
+Sentence 1 (Confidence: 3):
+International data transfersGitHub stores and processes Personal Data in a variety of locations, including your local region, the United States, and other countries where GitHub, its affiliates, subsidiaries, or subprocessors have operations
+
+Sentence 2 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 3 (Confidence: 3):
+International data transfersGitHub stores and processes Personal Data in a variety of locations, including your local region, the United States, and other countries where GitHub, its affiliates, subsidiaries, or subprocessors have operations
+
+Sentence 4 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 5 (Confidence: 3):
+International data transfersGitHub stores and processes Personal Data in a variety of locations, including your local region, the United States, and other countries where GitHub, its affiliates, subsidiaries, or subprocessors have operations
+
+Sentence 6 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 7 (Confidence: 3):
+International data transfersGitHub stores and processes Personal Data in a variety of locations, including your local region, the United States, and other countries where GitHub, its affiliates, subsidiaries, or subprocessors have operations
+
+Sentence 8 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 9 (Confidence: 3):
+International data transfersGitHub stores and processes Personal Data in a variety of locations, including your local region, the United States, and other countries where GitHub, its affiliates, subsidiaries, or subprocessors have operations
+
+Sentence 10 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+
+Sentence 11 (Confidence: 3):
+International data transfers GitHub stores and processes Personal Data in a variety of locations, including your local region, the United States, and other countries where GitHub, its affiliates, subsidiaries, or subprocessors have operations
+
+Sentence 12 (Confidence: 1):
+When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission underCommission Implementing Decision 2021/914, to help protect your rights and enable these protections to travel with your data
+

@@ -1,0 +1,20 @@
+GDPR Article Classification Summary for google.de
+============================================================
+
+Cookies And Tracking: 327 points, 291 sentences
+Article 6 Lawful Basis: 268 points, 207 sentences
+Third Party Sharing: 149 points, 139 sentences
+Article 13 Information Collection: 106 points, 106 sentences
+Article 7 Consent: 68 points, 68 sentences
+Article 20 Data Portability: 48 points, 18 sentences
+Article 21 Right To Object: 42 points, 6 sentences
+Retention And Storage: 30 points, 6 sentences
+Article 14 Information Third Parties: 25 points, 25 sentences
+Article 16 Right To Rectification: 24 points, 12 sentences
+Article 32 Security Of Processing: 18 points, 12 sentences
+Article 18 Right To Restriction: 18 points, 6 sentences
+Article 33 34 Data Breach: 12 points, 6 sentences
+Article 37 Data Protection Officer: 6 points, 6 sentences
+
+Total classified sentences: 908
+Total content length: 580612 characters

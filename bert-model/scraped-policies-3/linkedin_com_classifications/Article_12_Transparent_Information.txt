@@ -1,0 +1,17 @@
+=== Article 12 Transparent Information ===
+
+Sentence 1 (Confidence: 1):
+Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared
+
+Sentence 2 (Confidence: 1):
+Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared
+
+Sentence 3 (Confidence: 1):
+Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared
+
+Sentence 4 (Confidence: 1):
+Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared
+
+Sentence 5 (Confidence: 1):
+Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared
+

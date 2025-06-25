@@ -1,0 +1,38 @@
+=== Article 16 Right To Rectification ===
+
+Sentence 1 (Confidence: 1):
+Go to Privacy CheckupManaging, reviewing, and updating your informationWhen youre signed in, you can always review and update information by visiting the services you use
+
+Sentence 2 (Confidence: 3):
+Go to How Google uses information from sites or apps that use our servicesWays to review & update your informationMy ActivityMy Activity allows you to review and control data thats saved to your Google Account when youre signed in and using Google services, like searches youve done or your visits to Google Play
+
+Sentence 3 (Confidence: 1):
+Go to Privacy CheckupManaging, reviewing, and updating your informationWhen youre signed in, you can always review and update information by visiting the services you use
+
+Sentence 4 (Confidence: 3):
+Go to How Google uses information from sites or apps that use our servicesWays to review & update your informationMy ActivityMy Activity allows you to review and control data thats saved to your Google Account when youre signed in and using Google services, like searches youve done or your visits to Google Play
+
+Sentence 5 (Confidence: 1):
+Go to Privacy CheckupManaging, reviewing, and updating your informationWhen youre signed in, you can always review and update information by visiting the services you use
+
+Sentence 6 (Confidence: 3):
+Go to How Google uses information from sites or apps that use our servicesWays to review & update your informationMy ActivityMy Activity allows you to review and control data thats saved to your Google Account when youre signed in and using Google services, like searches youve done or your visits to Google Play
+
+Sentence 7 (Confidence: 1):
+Go to Privacy CheckupManaging, reviewing, and updating your informationWhen youre signed in, you can always review and update information by visiting the services you use
+
+Sentence 8 (Confidence: 3):
+Go to How Google uses information from sites or apps that use our servicesWays to review & update your informationMy ActivityMy Activity allows you to review and control data thats saved to your Google Account when youre signed in and using Google services, like searches youve done or your visits to Google Play
+
+Sentence 9 (Confidence: 1):
+Go to Privacy CheckupManaging, reviewing, and updating your informationWhen youre signed in, you can always review and update information by visiting the services you use
+
+Sentence 10 (Confidence: 3):
+Go to How Google uses information from sites or apps that use our servicesWays to review & update your informationMy ActivityMy Activity allows you to review and control data thats saved to your Google Account when youre signed in and using Google services, like searches youve done or your visits to Google Play
+
+Sentence 11 (Confidence: 1):
+Go to Privacy Checkup Go to Privacy Checkup Go to Privacy Checkup Managing, reviewing, and updating your information When youre signed in, you can always review and update information by visiting the services you use
+
+Sentence 12 (Confidence: 3):
+Go to How Google uses information from sites or apps that use our services Ways to review & update your information My ActivityMy Activity allows you to review and control data thats saved to your Google Account when youre signed in and using Google services, like searches youve done or your visits to Google Play
+

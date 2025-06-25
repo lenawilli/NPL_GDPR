@@ -1,0 +1,74 @@
+=== Article 14 Information Third Parties ===
+
+Sentence 1 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 2 (Confidence: 1):
+GitHub has the responsibility for the processing of Personal Data it receives under the Data Privacy Framework (DPF) Principles and subsequently transfers to a third party acting as an agent on GitHubs behalf
+
+Sentence 3 (Confidence: 1):
+When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party)
+
+Sentence 4 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 5 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 6 (Confidence: 1):
+GitHub has the responsibility for the processing of Personal Data it receives under the Data Privacy Framework (DPF) Principles and subsequently transfers to a third party acting as an agent on GitHubs behalf
+
+Sentence 7 (Confidence: 1):
+When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party)
+
+Sentence 8 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 9 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 10 (Confidence: 1):
+GitHub has the responsibility for the processing of Personal Data it receives under the Data Privacy Framework (DPF) Principles and subsequently transfers to a third party acting as an agent on GitHubs behalf
+
+Sentence 11 (Confidence: 1):
+When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party)
+
+Sentence 12 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 13 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 14 (Confidence: 1):
+GitHub has the responsibility for the processing of Personal Data it receives under the Data Privacy Framework (DPF) Principles and subsequently transfers to a third party acting as an agent on GitHubs behalf
+
+Sentence 15 (Confidence: 1):
+When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party)
+
+Sentence 16 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 17 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 18 (Confidence: 1):
+GitHub has the responsibility for the processing of Personal Data it receives under the Data Privacy Framework (DPF) Principles and subsequently transfers to a third party acting as an agent on GitHubs behalf
+
+Sentence 19 (Confidence: 1):
+When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party)
+
+Sentence 20 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 21 (Confidence: 1):
+Third Party Access and Data Protection When you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 22 (Confidence: 1):
+GitHub has the responsibility for the processing of Personal Data it receives under the Data Privacy Framework (DPF) Principles and subsequently transfers to a third party acting as an agent on GitHubs behalf
+
+Sentence 23 (Confidence: 1):
+When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party)
+
+Sentence 24 (Confidence: 1):
+For example: If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+

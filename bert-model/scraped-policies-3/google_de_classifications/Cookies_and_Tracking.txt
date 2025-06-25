@@ -1,0 +1,875 @@
+=== Cookies And Tracking ===
+
+Sentence 1 (Confidence: 1):
+Our services include:Google apps, sites, and devices, like Search, YouTube, and Google HomePlatforms like the Chrome browser and Android operating systemProducts that are integrated into third-party apps and sites, like ads, analytics, and embedded Google MapsYou can use our services in a variety of ways to manage your privacy
+
+Sentence 2 (Confidence: 1):
+We also receive information from partners to provideadvertising and research services on their behalf
+
+Sentence 3 (Confidence: 1):
+We use various technologies to collect and store information, includingcookies,pixel tags, local storage, such asbrowser web storageorapplication data caches, databases, andserver logs
+
+Sentence 4 (Confidence: 1):
+Maintain & improve our servicesWe also use your information toensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us
+
+Sentence 5 (Confidence: 1):
+Go to My Ad CenterMeasure performanceWe use data for analytics and measurement to understand how our services are used
+
+Sentence 6 (Confidence: 1):
+We use a variety of tools to do this, including Google Analytics
+
+Sentence 7 (Confidence: 1):
+When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google tolink informationabout your activity from that site or app with activity from other sites or apps that use our ad services
+
+Sentence 8 (Confidence: 1):
+You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services
+
+Sentence 9 (Confidence: 1):
+Go to Shared EndorsementsSites and apps that use Google servicesManage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services
+
+Sentence 10 (Confidence: 1):
+You can also configure your browser to block all cookies from a specific domain or all domains
+
+Sentence 11 (Confidence: 1):
+But remember that our servicesrely on cookies to function properly, for things like remembering your language preferences
+
+Sentence 12 (Confidence: 2):
+We also allowspecific partnersto collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies
+
+Sentence 13 (Confidence: 1):
+Other data is deleted or anonymized automatically after a set period of time, such asadvertising datain server logs
+
+Sentence 14 (Confidence: 1):
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+
+Sentence 15 (Confidence: 1):
+To maintain and improve Google services, products, and featuresTo maintain the service so it works as intended, such as debugging the service, tracking issues or troubleshooting issues
+
+Sentence 16 (Confidence: 1):
+Provide advertising, which allows us to offer many of our services without a fee
+
+Sentence 17 (Confidence: 1):
+To measure performance - We use data for analytics and measurement to understand how our services are used
+
+Sentence 18 (Confidence: 1):
+About this policyWhen this policy appliesThis Privacy Policy applies to all of the services offered by Google LLC and itsaffiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services
+
+Sentence 19 (Confidence: 2):
+Your Google Accountis home to many of the settings you can use to manage your accountPrivacy Checkupguides you through key privacy settings for your Google AccountGoogles safety centerhelps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family onlineGoogles Teen Privacy Guideprovides answers to some of the top questions we get asked about privacyPrivacy & Termsprovides more context regarding this Privacy Policy and our Terms of ServiceTechnologiesincludes more information about:How Google uses cookiesTechnologies used forAdvertisingHow Google uses information from sites or apps that use our servicesKey termsAffiliatesAn affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc
+
+Sentence 20 (Confidence: 1):
+CookiesA cookie is a small file containing a string of characters that is sent to your computer when you visit a website
+
+Sentence 21 (Confidence: 1):
+Cookies may store user preferences and other information
+
+Sentence 22 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 23 (Confidence: 1):
+However, some website features or services may not function properly without cookies
+
+Sentence 24 (Confidence: 1):
+Learn more abouthow Google uses cookiesand how Google uses data, including cookies,when you use our partners' sites or apps
+
+Sentence 25 (Confidence: 1):
+Pixel tagA pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened
+
+Sentence 26 (Confidence: 1):
+Pixel tags are often used in combination with cookies
+
+Sentence 27 (Confidence: 1):
+These server logs typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser
+
+Sentence 28 (Confidence: 1):
+(Cookies can be deleted by users
+
+Sentence 29 (Confidence: 1):
+Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising
+
+Sentence 30 (Confidence: 1):
+For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language
+
+Sentence 31 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 32 (Confidence: 1):
+Learn more abouthow Google uses cookies
+
+Sentence 33 (Confidence: 1):
+For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can bemanagedin your devices settings
+
+Sentence 34 (Confidence: 1):
+activity on third-party sites and apps that use our servicesWebsites and apps that integrate Google services like ads and analytics share information with us
+
+Sentence 35 (Confidence: 1):
+advertising and research services on their behalfFor example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns
+
+Sentence 36 (Confidence: 1):
+deliver our servicesExamples of how we use your information to deliver our services include:We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube videoWe use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google AccountPhotos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share
+
+Sentence 37 (Confidence: 1):
+ensure and improveFor example, we analyze how people interact with advertising to improve the performance of our ads
+
+Sentence 38 (Confidence: 1):
+make improvementsFor example, we use cookies to analyze how people interact with our services
+
+Sentence 39 (Confidence: 2):
+may link informationGoogle Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer
+
+Sentence 40 (Confidence: 2):
+Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites
+
+Sentence 41 (Confidence: 1):
+For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic
+
+Sentence 42 (Confidence: 1):
+rely on cookies to function properlyFor example, we use a cookie called lbcs that makes it possible for you to open many Google Docs in one browser
+
+Sentence 43 (Confidence: 1):
+specific partnersFor example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies
+
+Sentence 44 (Confidence: 1):
+Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings
+
+Sentence 45 (Confidence: 2):
+For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube)
+
+Sentence 46 (Confidence: 2):
+These services may share information about your activity with Google and, depending on youraccount settingsand the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information
+
+Sentence 47 (Confidence: 1):
+Our services include:Google apps, sites, and devices, like Search, YouTube, and Google HomePlatforms like the Chrome browser and Android operating systemProducts that are integrated into third-party apps and sites, like ads, analytics, and embedded Google MapsYou can use our services in a variety of ways to manage your privacy
+
+Sentence 48 (Confidence: 1):
+We also receive information from partners to provideadvertising and research services on their behalf
+
+Sentence 49 (Confidence: 1):
+We use various technologies to collect and store information, includingcookies,pixel tags, local storage, such asbrowser web storageorapplication data caches, databases, andserver logs
+
+Sentence 50 (Confidence: 1):
+Maintain & improve our servicesWe also use your information toensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us
+
+Sentence 51 (Confidence: 1):
+Go to My Ad CenterMeasure performanceWe use data for analytics and measurement to understand how our services are used
+
+Sentence 52 (Confidence: 1):
+We use a variety of tools to do this, including Google Analytics
+
+Sentence 53 (Confidence: 1):
+When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google tolink informationabout your activity from that site or app with activity from other sites or apps that use our ad services
+
+Sentence 54 (Confidence: 1):
+You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services
+
+Sentence 55 (Confidence: 1):
+Go to Shared EndorsementsSites and apps that use Google servicesManage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services
+
+Sentence 56 (Confidence: 1):
+You can also configure your browser to block all cookies from a specific domain or all domains
+
+Sentence 57 (Confidence: 1):
+But remember that our servicesrely on cookies to function properly, for things like remembering your language preferences
+
+Sentence 58 (Confidence: 2):
+We also allowspecific partnersto collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies
+
+Sentence 59 (Confidence: 1):
+Other data is deleted or anonymized automatically after a set period of time, such asadvertising datain server logs
+
+Sentence 60 (Confidence: 1):
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+
+Sentence 61 (Confidence: 1):
+To maintain and improve Google services, products, and featuresTo maintain the service so it works as intended, such as debugging the service, tracking issues or troubleshooting issues
+
+Sentence 62 (Confidence: 1):
+Provide advertising, which allows us to offer many of our services without a fee
+
+Sentence 63 (Confidence: 1):
+To measure performance - We use data for analytics and measurement to understand how our services are used
+
+Sentence 64 (Confidence: 1):
+About this policyWhen this policy appliesThis Privacy Policy applies to all of the services offered by Google LLC and itsaffiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services
+
+Sentence 65 (Confidence: 2):
+Your Google Accountis home to many of the settings you can use to manage your accountPrivacy Checkupguides you through key privacy settings for your Google AccountGoogles safety centerhelps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family onlineGoogles Teen Privacy Guideprovides answers to some of the top questions we get asked about privacyPrivacy & Termsprovides more context regarding this Privacy Policy and our Terms of ServiceTechnologiesincludes more information about:How Google uses cookiesTechnologies used forAdvertisingHow Google uses information from sites or apps that use our servicesKey termsAffiliatesAn affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc
+
+Sentence 66 (Confidence: 1):
+CookiesA cookie is a small file containing a string of characters that is sent to your computer when you visit a website
+
+Sentence 67 (Confidence: 1):
+Cookies may store user preferences and other information
+
+Sentence 68 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 69 (Confidence: 1):
+However, some website features or services may not function properly without cookies
+
+Sentence 70 (Confidence: 1):
+Learn more abouthow Google uses cookiesand how Google uses data, including cookies,when you use our partners' sites or apps
+
+Sentence 71 (Confidence: 1):
+Pixel tagA pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened
+
+Sentence 72 (Confidence: 1):
+Pixel tags are often used in combination with cookies
+
+Sentence 73 (Confidence: 1):
+These server logs typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser
+
+Sentence 74 (Confidence: 1):
+(Cookies can be deleted by users
+
+Sentence 75 (Confidence: 1):
+Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising
+
+Sentence 76 (Confidence: 1):
+For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language
+
+Sentence 77 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 78 (Confidence: 1):
+Learn more abouthow Google uses cookies
+
+Sentence 79 (Confidence: 1):
+For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can bemanagedin your devices settings
+
+Sentence 80 (Confidence: 1):
+activity on third-party sites and apps that use our servicesWebsites and apps that integrate Google services like ads and analytics share information with us
+
+Sentence 81 (Confidence: 1):
+advertising and research services on their behalfFor example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns
+
+Sentence 82 (Confidence: 1):
+deliver our servicesExamples of how we use your information to deliver our services include:We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube videoWe use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google AccountPhotos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share
+
+Sentence 83 (Confidence: 1):
+ensure and improveFor example, we analyze how people interact with advertising to improve the performance of our ads
+
+Sentence 84 (Confidence: 1):
+make improvementsFor example, we use cookies to analyze how people interact with our services
+
+Sentence 85 (Confidence: 2):
+may link informationGoogle Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer
+
+Sentence 86 (Confidence: 2):
+Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites
+
+Sentence 87 (Confidence: 1):
+For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic
+
+Sentence 88 (Confidence: 1):
+rely on cookies to function properlyFor example, we use a cookie called lbcs that makes it possible for you to open many Google Docs in one browser
+
+Sentence 89 (Confidence: 1):
+specific partnersFor example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies
+
+Sentence 90 (Confidence: 1):
+Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings
+
+Sentence 91 (Confidence: 2):
+For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube)
+
+Sentence 92 (Confidence: 2):
+These services may share information about your activity with Google and, depending on youraccount settingsand the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information
+
+Sentence 93 (Confidence: 1):
+Our services include:Google apps, sites, and devices, like Search, YouTube, and Google HomePlatforms like the Chrome browser and Android operating systemProducts that are integrated into third-party apps and sites, like ads, analytics, and embedded Google MapsYou can use our services in a variety of ways to manage your privacy
+
+Sentence 94 (Confidence: 1):
+We also receive information from partners to provideadvertising and research services on their behalf
+
+Sentence 95 (Confidence: 1):
+We use various technologies to collect and store information, includingcookies,pixel tags, local storage, such asbrowser web storageorapplication data caches, databases, andserver logs
+
+Sentence 96 (Confidence: 1):
+Maintain & improve our servicesWe also use your information toensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us
+
+Sentence 97 (Confidence: 1):
+Go to My Ad CenterMeasure performanceWe use data for analytics and measurement to understand how our services are used
+
+Sentence 98 (Confidence: 1):
+We use a variety of tools to do this, including Google Analytics
+
+Sentence 99 (Confidence: 1):
+When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google tolink informationabout your activity from that site or app with activity from other sites or apps that use our ad services
+
+Sentence 100 (Confidence: 1):
+You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services
+
+Sentence 101 (Confidence: 1):
+Go to Shared EndorsementsSites and apps that use Google servicesManage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services
+
+Sentence 102 (Confidence: 1):
+You can also configure your browser to block all cookies from a specific domain or all domains
+
+Sentence 103 (Confidence: 1):
+But remember that our servicesrely on cookies to function properly, for things like remembering your language preferences
+
+Sentence 104 (Confidence: 2):
+We also allowspecific partnersto collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies
+
+Sentence 105 (Confidence: 1):
+Other data is deleted or anonymized automatically after a set period of time, such asadvertising datain server logs
+
+Sentence 106 (Confidence: 1):
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+
+Sentence 107 (Confidence: 1):
+To maintain and improve Google services, products, and featuresTo maintain the service so it works as intended, such as debugging the service, tracking issues or troubleshooting issues
+
+Sentence 108 (Confidence: 1):
+Provide advertising, which allows us to offer many of our services without a fee
+
+Sentence 109 (Confidence: 1):
+To measure performance - We use data for analytics and measurement to understand how our services are used
+
+Sentence 110 (Confidence: 1):
+About this policyWhen this policy appliesThis Privacy Policy applies to all of the services offered by Google LLC and itsaffiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services
+
+Sentence 111 (Confidence: 2):
+Your Google Accountis home to many of the settings you can use to manage your accountPrivacy Checkupguides you through key privacy settings for your Google AccountGoogles safety centerhelps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family onlineGoogles Teen Privacy Guideprovides answers to some of the top questions we get asked about privacyPrivacy & Termsprovides more context regarding this Privacy Policy and our Terms of ServiceTechnologiesincludes more information about:How Google uses cookiesTechnologies used forAdvertisingHow Google uses information from sites or apps that use our servicesKey termsAffiliatesAn affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc
+
+Sentence 112 (Confidence: 1):
+CookiesA cookie is a small file containing a string of characters that is sent to your computer when you visit a website
+
+Sentence 113 (Confidence: 1):
+Cookies may store user preferences and other information
+
+Sentence 114 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 115 (Confidence: 1):
+However, some website features or services may not function properly without cookies
+
+Sentence 116 (Confidence: 1):
+Learn more abouthow Google uses cookiesand how Google uses data, including cookies,when you use our partners' sites or apps
+
+Sentence 117 (Confidence: 1):
+Pixel tagA pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened
+
+Sentence 118 (Confidence: 1):
+Pixel tags are often used in combination with cookies
+
+Sentence 119 (Confidence: 1):
+These server logs typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser
+
+Sentence 120 (Confidence: 1):
+(Cookies can be deleted by users
+
+Sentence 121 (Confidence: 1):
+Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising
+
+Sentence 122 (Confidence: 1):
+For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language
+
+Sentence 123 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 124 (Confidence: 1):
+Learn more abouthow Google uses cookies
+
+Sentence 125 (Confidence: 1):
+For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can bemanagedin your devices settings
+
+Sentence 126 (Confidence: 1):
+activity on third-party sites and apps that use our servicesWebsites and apps that integrate Google services like ads and analytics share information with us
+
+Sentence 127 (Confidence: 1):
+advertising and research services on their behalfFor example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns
+
+Sentence 128 (Confidence: 1):
+deliver our servicesExamples of how we use your information to deliver our services include:We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube videoWe use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google AccountPhotos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share
+
+Sentence 129 (Confidence: 1):
+ensure and improveFor example, we analyze how people interact with advertising to improve the performance of our ads
+
+Sentence 130 (Confidence: 1):
+make improvementsFor example, we use cookies to analyze how people interact with our services
+
+Sentence 131 (Confidence: 2):
+may link informationGoogle Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer
+
+Sentence 132 (Confidence: 2):
+Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites
+
+Sentence 133 (Confidence: 1):
+For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic
+
+Sentence 134 (Confidence: 1):
+rely on cookies to function properlyFor example, we use a cookie called lbcs that makes it possible for you to open many Google Docs in one browser
+
+Sentence 135 (Confidence: 1):
+specific partnersFor example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies
+
+Sentence 136 (Confidence: 1):
+Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings
+
+Sentence 137 (Confidence: 2):
+For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube)
+
+Sentence 138 (Confidence: 2):
+These services may share information about your activity with Google and, depending on youraccount settingsand the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information
+
+Sentence 139 (Confidence: 1):
+Our services include:Google apps, sites, and devices, like Search, YouTube, and Google HomePlatforms like the Chrome browser and Android operating systemProducts that are integrated into third-party apps and sites, like ads, analytics, and embedded Google MapsYou can use our services in a variety of ways to manage your privacy
+
+Sentence 140 (Confidence: 1):
+Our services include:Google apps, sites, and devices, like Search, YouTube, and Google HomePlatforms like the Chrome browser and Android operating systemProducts that are integrated into third-party apps and sites, like ads, analytics, and embedded Google MapsYou can use our services in a variety of ways to manage your privacy
+
+Sentence 141 (Confidence: 1):
+Our services include: Google apps, sites, and devices, like Search, YouTube, and Google Home Platforms like the Chrome browser and Android operating system Products that are integrated into third-party apps and sites, like ads, analytics, and embedded Google Maps You can use our services in a variety of ways to manage your privacy
+
+Sentence 142 (Confidence: 1):
+We also receive information from partners to provideadvertising and research services on their behalf
+
+Sentence 143 (Confidence: 1):
+We use various technologies to collect and store information, includingcookies,pixel tags, local storage, such asbrowser web storageorapplication data caches, databases, andserver logs
+
+Sentence 144 (Confidence: 1):
+We also receive information from partners to provideadvertising and research services on their behalf
+
+Sentence 145 (Confidence: 1):
+We use various technologies to collect and store information, includingcookies,pixel tags, local storage, such asbrowser web storageorapplication data caches, databases, andserver logs
+
+Sentence 146 (Confidence: 1):
+We also receive information from partners to provideadvertising and research services on their behalf
+
+Sentence 147 (Confidence: 1):
+We use various technologies to collect and store information, includingcookies,pixel tags, local storage, such asbrowser web storageorapplication data caches, databases, andserver logs
+
+Sentence 148 (Confidence: 1):
+Maintain & improve our servicesWe also use your information toensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us
+
+Sentence 149 (Confidence: 1):
+Go to My Ad CenterMeasure performanceWe use data for analytics and measurement to understand how our services are used
+
+Sentence 150 (Confidence: 1):
+We use a variety of tools to do this, including Google Analytics
+
+Sentence 151 (Confidence: 1):
+When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google tolink informationabout your activity from that site or app with activity from other sites or apps that use our ad services
+
+Sentence 152 (Confidence: 1):
+Maintain & improve our servicesWe also use your information toensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us
+
+Sentence 153 (Confidence: 1):
+Go to My Ad CenterMeasure performanceWe use data for analytics and measurement to understand how our services are used
+
+Sentence 154 (Confidence: 1):
+We use a variety of tools to do this, including Google Analytics
+
+Sentence 155 (Confidence: 1):
+When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google tolink informationabout your activity from that site or app with activity from other sites or apps that use our ad services
+
+Sentence 156 (Confidence: 1):
+Maintain & improve our servicesWe also use your information toensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us
+
+Sentence 157 (Confidence: 1):
+Go to My Ad CenterMeasure performanceWe use data for analytics and measurement to understand how our services are used
+
+Sentence 158 (Confidence: 1):
+We use a variety of tools to do this, including Google Analytics
+
+Sentence 159 (Confidence: 1):
+When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google tolink informationabout your activity from that site or app with activity from other sites or apps that use our ad services
+
+Sentence 160 (Confidence: 1):
+Maintain & improve our services We also use your information toensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us
+
+Sentence 161 (Confidence: 1):
+Go to My Ad CenterMeasure performanceWe use data for analytics and measurement to understand how our services are used
+
+Sentence 162 (Confidence: 1):
+We use a variety of tools to do this, including Google Analytics
+
+Sentence 163 (Confidence: 1):
+When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google tolink informationabout your activity from that site or app with activity from other sites or apps that use our ad services
+
+Sentence 164 (Confidence: 1):
+We use data for analytics and measurement to understand how our services are used
+
+Sentence 165 (Confidence: 1):
+We use a variety of tools to do this, including Google Analytics
+
+Sentence 166 (Confidence: 1):
+When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google tolink informationabout your activity from that site or app with activity from other sites or apps that use our ad services
+
+Sentence 167 (Confidence: 1):
+You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services
+
+Sentence 168 (Confidence: 1):
+Go to Shared EndorsementsSites and apps that use Google servicesManage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services
+
+Sentence 169 (Confidence: 1):
+You can also configure your browser to block all cookies from a specific domain or all domains
+
+Sentence 170 (Confidence: 1):
+But remember that our servicesrely on cookies to function properly, for things like remembering your language preferences
+
+Sentence 171 (Confidence: 1):
+You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services
+
+Sentence 172 (Confidence: 1):
+Go to Shared EndorsementsSites and apps that use Google servicesManage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services
+
+Sentence 173 (Confidence: 1):
+You can also configure your browser to block all cookies from a specific domain or all domains
+
+Sentence 174 (Confidence: 1):
+But remember that our servicesrely on cookies to function properly, for things like remembering your language preferences
+
+Sentence 175 (Confidence: 1):
+You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services
+
+Sentence 176 (Confidence: 1):
+You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services
+
+Sentence 177 (Confidence: 1):
+You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services
+
+Sentence 178 (Confidence: 1):
+Go to Shared Endorsements Sites and apps that use Google servicesManage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services
+
+Sentence 179 (Confidence: 1):
+Go to How Google uses information from sites or apps that use our services Sites and apps that use Google servicesManage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services
+
+Sentence 180 (Confidence: 1):
+Go to How Google uses information from sites or apps that use our services Sites and apps that use Google services Manage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services
+
+Sentence 181 (Confidence: 1):
+You can also configure your browser to block all cookies from a specific domain or all domains
+
+Sentence 182 (Confidence: 1):
+But remember that our servicesrely on cookies to function properly, for things like remembering your language preferences
+
+Sentence 183 (Confidence: 2):
+We also allowspecific partnersto collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies
+
+Sentence 184 (Confidence: 2):
+We also allowspecific partnersto collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies
+
+Sentence 185 (Confidence: 2):
+We also allowspecific partnersto collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies
+
+Sentence 186 (Confidence: 1):
+Other data is deleted or anonymized automatically after a set period of time, such asadvertising datain server logs
+
+Sentence 187 (Confidence: 1):
+Other data is deleted or anonymized automatically after a set period of time, such asadvertising datain server logs
+
+Sentence 188 (Confidence: 1):
+Other data is deleted or anonymized automatically after a set period of time, such asadvertising datain server logs
+
+Sentence 189 (Confidence: 1):
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+
+Sentence 190 (Confidence: 1):
+To maintain and improve Google services, products, and featuresTo maintain the service so it works as intended, such as debugging the service, tracking issues or troubleshooting issues
+
+Sentence 191 (Confidence: 1):
+Provide advertising, which allows us to offer many of our services without a fee
+
+Sentence 192 (Confidence: 1):
+To measure performance - We use data for analytics and measurement to understand how our services are used
+
+Sentence 193 (Confidence: 1):
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+
+Sentence 194 (Confidence: 1):
+To maintain and improve Google services, products, and featuresTo maintain the service so it works as intended, such as debugging the service, tracking issues or troubleshooting issues
+
+Sentence 195 (Confidence: 1):
+Provide advertising, which allows us to offer many of our services without a fee
+
+Sentence 196 (Confidence: 1):
+To measure performance - We use data for analytics and measurement to understand how our services are used
+
+Sentence 197 (Confidence: 1):
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+
+Sentence 198 (Confidence: 1):
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+
+Sentence 199 (Confidence: 1):
+To maintain and improve Google services, products, and featuresTo maintain the service so it works as intended, such as debugging the service, tracking issues or troubleshooting issues
+
+Sentence 200 (Confidence: 1):
+To maintain and improve Google services, products, and features To maintain the service so it works as intended, such as debugging the service, tracking issues or troubleshooting issues
+
+Sentence 201 (Confidence: 1):
+Provide advertising, which allows us to offer many of our services without a fee
+
+Sentence 202 (Confidence: 1):
+Provide advertising, which allows us to offer many of our services without a fee
+
+Sentence 203 (Confidence: 1):
+Provide advertising, which allows us to offer many of our services without a fee
+
+Sentence 204 (Confidence: 1):
+To measure performance - We use data for analytics and measurement to understand how our services are used
+
+Sentence 205 (Confidence: 1):
+To measure performance - We use data for analytics and measurement to understand how our services are used
+
+Sentence 206 (Confidence: 1):
+About this policyWhen this policy appliesThis Privacy Policy applies to all of the services offered by Google LLC and itsaffiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services
+
+Sentence 207 (Confidence: 1):
+About this policyWhen this policy appliesThis Privacy Policy applies to all of the services offered by Google LLC and itsaffiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services
+
+Sentence 208 (Confidence: 1):
+When this policy applies This Privacy Policy applies to all of the services offered by Google LLC and itsaffiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services
+
+Sentence 209 (Confidence: 2):
+Your Google Accountis home to many of the settings you can use to manage your accountPrivacy Checkupguides you through key privacy settings for your Google AccountGoogles safety centerhelps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family onlineGoogles Teen Privacy Guideprovides answers to some of the top questions we get asked about privacyPrivacy & Termsprovides more context regarding this Privacy Policy and our Terms of ServiceTechnologiesincludes more information about:How Google uses cookiesTechnologies used forAdvertisingHow Google uses information from sites or apps that use our services Related privacy practicesSpecific Google servicesThe following privacy notices provide additional information about some Google services:PaymentsFiberGemini AppsGoogle FiGoogle Workspace for EducationRead AlongYouTube KidsGoogle Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)Family Link privacy guide for children & teensVoice and Audio Collection from Childrens Features on the Google AssistantIf youre a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in theGoogle Cloud Privacy Notice
+
+Sentence 210 (Confidence: 2):
+Your Google Accountis home to many of the settings you can use to manage your accountPrivacy Checkupguides you through key privacy settings for your Google AccountGoogles safety centerhelps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family onlineGoogles Teen Privacy Guideprovides answers to some of the top questions we get asked about privacyPrivacy & Termsprovides more context regarding this Privacy Policy and our Terms of ServiceTechnologiesincludes more information about:How Google uses cookiesTechnologies used forAdvertisingHow Google uses information from sites or apps that use our services Related privacy practices Specific Google services The following privacy notices provide additional information about some Google services: Google Workspace for Education Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country) Family Link privacy guide for children & teens Voice and Audio Collection from Childrens Features on the Google Assistant If youre a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in theGoogle Cloud Privacy Notice
+
+Sentence 211 (Confidence: 2):
+Your Google Accountis home to many of the settings you can use to manage your account Privacy Checkupguides you through key privacy settings for your Google Account Googles safety centerhelps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online Googles Teen Privacy Guideprovides answers to some of the top questions we get asked about privacy Privacy & Termsprovides more context regarding this Privacy Policy and our Terms of Service Technologiesincludes more information about:How Google uses cookiesTechnologies used forAdvertisingHow Google uses information from sites or apps that use our services How Google uses cookies Technologies used forAdvertising How Google uses information from sites or apps that use our services Key termsAffiliatesAn affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc
+
+Sentence 212 (Confidence: 1):
+CookiesA cookie is a small file containing a string of characters that is sent to your computer when you visit a website
+
+Sentence 213 (Confidence: 1):
+Cookies may store user preferences and other information
+
+Sentence 214 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 215 (Confidence: 1):
+However, some website features or services may not function properly without cookies
+
+Sentence 216 (Confidence: 1):
+Learn more abouthow Google uses cookiesand how Google uses data, including cookies,when you use our partners' sites or apps
+
+Sentence 217 (Confidence: 1):
+Pixel tagA pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened
+
+Sentence 218 (Confidence: 1):
+Pixel tags are often used in combination with cookies
+
+Sentence 219 (Confidence: 1):
+These server logs typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser
+
+Sentence 220 (Confidence: 1):
+(Cookies can be deleted by users
+
+Sentence 221 (Confidence: 1):
+Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising
+
+Sentence 222 (Confidence: 1):
+For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language
+
+Sentence 223 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 224 (Confidence: 1):
+Learn more abouthow Google uses cookies
+
+Sentence 225 (Confidence: 1):
+For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can bemanagedin your devices settings
+
+Sentence 226 (Confidence: 1):
+activity on third-party sites and apps that use our servicesWebsites and apps that integrate Google services like ads and analytics share information with us
+
+Sentence 227 (Confidence: 1):
+advertising and research services on their behalfFor example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns
+
+Sentence 228 (Confidence: 1):
+deliver our servicesExamples of how we use your information to deliver our services include:We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube videoWe use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google AccountPhotos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share
+
+Sentence 229 (Confidence: 1):
+ensure and improveFor example, we analyze how people interact with advertising to improve the performance of our ads
+
+Sentence 230 (Confidence: 1):
+make improvementsFor example, we use cookies to analyze how people interact with our services
+
+Sentence 231 (Confidence: 2):
+may link informationGoogle Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer
+
+Sentence 232 (Confidence: 2):
+Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites
+
+Sentence 233 (Confidence: 1):
+For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic
+
+Sentence 234 (Confidence: 1):
+rely on cookies to function properlyFor example, we use a cookie called lbcs that makes it possible for you to open many Google Docs in one browser
+
+Sentence 235 (Confidence: 1):
+specific partnersFor example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies
+
+Sentence 236 (Confidence: 1):
+Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings
+
+Sentence 237 (Confidence: 2):
+For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube)
+
+Sentence 238 (Confidence: 2):
+These services may share information about your activity with Google and, depending on youraccount settingsand the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information
+
+Sentence 239 (Confidence: 1):
+CookiesA cookie is a small file containing a string of characters that is sent to your computer when you visit a website
+
+Sentence 240 (Confidence: 1):
+Cookies may store user preferences and other information
+
+Sentence 241 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 242 (Confidence: 1):
+However, some website features or services may not function properly without cookies
+
+Sentence 243 (Confidence: 1):
+Learn more abouthow Google uses cookiesand how Google uses data, including cookies,when you use our partners' sites or apps
+
+Sentence 244 (Confidence: 1):
+Pixel tagA pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened
+
+Sentence 245 (Confidence: 1):
+Pixel tags are often used in combination with cookies
+
+Sentence 246 (Confidence: 1):
+These server logs typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser
+
+Sentence 247 (Confidence: 1):
+(Cookies can be deleted by users
+
+Sentence 248 (Confidence: 1):
+Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising
+
+Sentence 249 (Confidence: 1):
+For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language
+
+Sentence 250 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 251 (Confidence: 1):
+Learn more abouthow Google uses cookies
+
+Sentence 252 (Confidence: 1):
+For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can bemanagedin your devices settings
+
+Sentence 253 (Confidence: 1):
+activity on third-party sites and apps that use our servicesWebsites and apps that integrate Google services like ads and analytics share information with us
+
+Sentence 254 (Confidence: 1):
+advertising and research services on their behalfFor example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns
+
+Sentence 255 (Confidence: 1):
+deliver our servicesExamples of how we use your information to deliver our services include:We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube videoWe use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google AccountPhotos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share
+
+Sentence 256 (Confidence: 1):
+ensure and improveFor example, we analyze how people interact with advertising to improve the performance of our ads
+
+Sentence 257 (Confidence: 1):
+make improvementsFor example, we use cookies to analyze how people interact with our services
+
+Sentence 258 (Confidence: 2):
+may link informationGoogle Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer
+
+Sentence 259 (Confidence: 2):
+Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites
+
+Sentence 260 (Confidence: 1):
+For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic
+
+Sentence 261 (Confidence: 1):
+rely on cookies to function properlyFor example, we use a cookie called lbcs that makes it possible for you to open many Google Docs in one browser
+
+Sentence 262 (Confidence: 1):
+specific partnersFor example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies
+
+Sentence 263 (Confidence: 1):
+Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings
+
+Sentence 264 (Confidence: 2):
+For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube)
+
+Sentence 265 (Confidence: 2):
+These services may share information about your activity with Google and, depending on youraccount settingsand the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information
+
+Sentence 266 (Confidence: 1):
+Cookies may store user preferences and other information
+
+Sentence 267 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 268 (Confidence: 1):
+However, some website features or services may not function properly without cookies
+
+Sentence 269 (Confidence: 1):
+Learn more abouthow Google uses cookiesand how Google uses data, including cookies,when you use our partners' sites or apps
+
+Sentence 270 (Confidence: 1):
+A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened
+
+Sentence 271 (Confidence: 1):
+Pixel tags are often used in combination with cookies
+
+Sentence 272 (Confidence: 1):
+These server logs typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser
+
+Sentence 273 (Confidence: 1):
+(Cookies can be deleted by users
+
+Sentence 274 (Confidence: 1):
+Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising
+
+Sentence 275 (Confidence: 1):
+For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language
+
+Sentence 276 (Confidence: 1):
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent
+
+Sentence 277 (Confidence: 1):
+Learn more abouthow Google uses cookies
+
+Sentence 278 (Confidence: 1):
+For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can bemanagedin your devices settings
+
+Sentence 279 (Confidence: 1):
+activity on third-party sites and apps that use our services Websites and apps that integrate Google services like ads and analytics share information with us
+
+Sentence 280 (Confidence: 1):
+advertising and research services on their behalf For example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns
+
+Sentence 281 (Confidence: 1):
+Examples of how we use your information to deliver our services include: We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share
+
+Sentence 282 (Confidence: 1):
+For example, we analyze how people interact with advertising to improve the performance of our ads
+
+Sentence 283 (Confidence: 1):
+For example, we use cookies to analyze how people interact with our services
+
+Sentence 284 (Confidence: 2):
+Google Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer
+
+Sentence 285 (Confidence: 2):
+Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites
+
+Sentence 286 (Confidence: 1):
+For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic
+
+Sentence 287 (Confidence: 1):
+rely on cookies to function properly For example, we use a cookie called lbcs that makes it possible for you to open many Google Docs in one browser
+
+Sentence 288 (Confidence: 1):
+For example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies
+
+Sentence 289 (Confidence: 1):
+Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings
+
+Sentence 290 (Confidence: 2):
+For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube)
+
+Sentence 291 (Confidence: 2):
+These services may share information about your activity with Google and, depending on youraccount settingsand the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information
+

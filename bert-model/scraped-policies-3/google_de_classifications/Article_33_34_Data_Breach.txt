@@ -1,0 +1,20 @@
+=== Article 33 34 Data Breach ===
+
+Sentence 1 (Confidence: 1):
+This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others
+
+Sentence 2 (Confidence: 1):
+This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others
+
+Sentence 3 (Confidence: 1):
+This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others
+
+Sentence 4 (Confidence: 1):
+This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others
+
+Sentence 5 (Confidence: 1):
+This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others
+
+Sentence 6 (Confidence: 1):
+This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others
+

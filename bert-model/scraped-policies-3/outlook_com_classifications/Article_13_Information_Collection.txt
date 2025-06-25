@@ -1,0 +1,713 @@
+=== Article 13 Information Collection ===
+
+Sentence 1 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 2 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 3 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 4 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 5 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 6 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 7 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 8 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 9 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 10 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 11 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 12 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 13 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 14 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 15 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 16 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 17 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 18 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 19 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 20 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 21 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 22 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 23 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 24 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 25 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 26 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 27 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 28 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 29 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 30 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 31 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 32 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 33 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 34 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 35 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 36 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 37 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 38 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 39 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 40 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 41 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 42 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 43 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 44 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 45 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 46 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 47 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 48 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 49 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 50 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 51 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 52 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 53 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 54 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 55 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 56 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 57 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 58 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 59 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 60 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 61 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 62 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 63 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 64 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 65 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 66 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 67 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 68 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 69 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 70 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 71 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 72 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 73 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 74 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 75 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 76 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 77 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 78 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 79 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 80 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 81 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 82 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 83 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 84 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 85 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 86 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 87 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 88 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 89 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 90 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 91 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 92 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 93 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 94 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 95 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 96 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 97 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 98 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 99 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 100 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 101 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 102 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 103 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 104 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 105 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 106 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 107 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 108 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 109 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 110 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 111 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 112 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 113 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 114 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 115 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 116 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 117 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 118 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 119 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 120 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 121 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 122 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 123 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 124 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 125 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 126 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 127 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 128 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 129 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 130 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 131 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 132 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 133 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 134 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 135 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 136 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 137 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 138 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 139 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 140 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 141 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 142 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 143 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 144 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 145 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 146 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 147 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 148 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 149 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 150 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 151 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 152 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 153 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 154 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 155 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 156 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 157 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 158 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 159 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 160 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 161 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 162 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 163 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 164 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 165 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 166 (Confidence: 1):
+Product-specific sections below describe data collection practices applicable to use of those products
+
+Sentence 167 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 168 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 169 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 170 (Confidence: 1):
+In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above
+
+Sentence 171 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 172 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 173 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 174 (Confidence: 1):
+You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites:Adjust,AppsFlyer,Clicktale,Flurry Analytics,Google Analytics(requires you to install a browser add-on),Kissmetrics,Mixpanel,Nielsen,Acuity Ads,WebTrends, orOptimizely
+
+Sentence 175 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 176 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 177 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 178 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 179 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 180 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 181 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 182 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 183 (Confidence: 1):
+In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing
+
+Sentence 184 (Confidence: 1):
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners
+
+Sentence 185 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 186 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 187 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 188 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 189 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 190 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 191 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 192 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 193 (Confidence: 1):
+The main Copilot Pro website and app has similar data collection, use, and controls as consumer Copilot, as described above
+
+Sentence 194 (Confidence: 1):
+When Copilot is integrated with Microsoft 365 products, Copilot data collection is consistent with how data collection and use is described in the Productivity and Communications section of this privacy statement
+
+Sentence 195 (Confidence: 1):
+When enabled by an eligible enterprise, users logged in with their Entra ID who want to access consumer Copilot services are offered Copilot with Commercial Data Protection, which minimizes data collection and use consistent with the expectations of enterprise users
+
+Sentence 196 (Confidence: 1):
+Data collection and use in Microsoft 365 Copilot is consistent with the practices described in the Enterprise and Developer Products section of this privacy statement
+
+Sentence 197 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 198 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 199 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 200 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 201 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 202 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 203 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 204 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 205 (Confidence: 1):
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit theSQL Server privacy page
+
+Sentence 206 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 207 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 208 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 209 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 210 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 211 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 212 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 213 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 214 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 215 (Confidence: 1):
+Users have a choice between two different levels of diagnostic data collection, Required and Optional
+
+Sentence 216 (Confidence: 1):
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection
+
+Sentence 217 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 218 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 219 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 220 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 221 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 222 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 223 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 224 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 225 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 226 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 227 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 228 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 229 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 230 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 231 (Confidence: 1):
+Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device
+
+Sentence 232 (Confidence: 1):
+For more information about data collection in Windows, seeData collection summary for Windows
+
+Sentence 233 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 234 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 235 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 236 (Confidence: 1):
+Learn more about voice data collection
+
+Sentence 237 (Confidence: 1):
+Learn more about voice data collection
+

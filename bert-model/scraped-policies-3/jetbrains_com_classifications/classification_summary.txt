@@ -1,0 +1,24 @@
+GDPR Article Classification Summary for jetbrains.com
+============================================================
+
+Cookies And Tracking: 325 points, 208 sentences
+Third Party Sharing: 192 points, 123 sentences
+Article 6 Lawful Basis: 189 points, 119 sentences
+Article 7 Consent: 133 points, 105 sentences
+Article 21 Right To Object: 126 points, 105 sentences
+Article 15 Right Of Access: 77 points, 42 sentences
+Article 13 Information Collection: 64 points, 63 sentences
+Article 17 Right To Erasure: 63 points, 21 sentences
+Retention And Storage: 49 points, 35 sentences
+Article 18 Right To Restriction: 49 points, 14 sentences
+Article 37 Data Protection Officer: 42 points, 21 sentences
+Article 32 Security Of Processing: 42 points, 21 sentences
+Article 16 Right To Rectification: 42 points, 14 sentences
+Article 20 Data Portability: 35 points, 14 sentences
+Article 14 Information Third Parties: 14 points, 14 sentences
+Article 35 Data Protection Impact Assessment: 7 points, 0 sentences
+International Transfers: 7 points, 7 sentences
+Article 12 Transparent Information: 7 points, 7 sentences
+
+Total classified sentences: 933
+Total content length: 317133 characters

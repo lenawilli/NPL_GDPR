@@ -1,0 +1,92 @@
+=== Article 37 Data Protection Officer ===
+
+Sentence 1 (Confidence: 5):
+Please contact our Data Protection Officer at dpo[at]github[dot]com for any feedback or concerns
+
+Sentence 2 (Confidence: 1):
+Depending on your region, you have the right to complain to your local Data Protection Authority
+
+Sentence 3 (Confidence: 1):
+DPF should first contact GitHub at: dpo[at]github[dot]com
+
+Sentence 4 (Confidence: 5):
+Contact UsContact us via our contact form or by emailing our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 5 (Confidence: 5):
+If you have any questions or concerns about our privacy practices, please email our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 6 (Confidence: 5):
+Please contact our Data Protection Officer at dpo[at]github[dot]com for any feedback or concerns
+
+Sentence 7 (Confidence: 1):
+Depending on your region, you have the right to complain to your local Data Protection Authority
+
+Sentence 8 (Confidence: 1):
+DPF should first contact GitHub at: dpo[at]github[dot]com
+
+Sentence 9 (Confidence: 5):
+Contact UsContact us via our contact form or by emailing our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 10 (Confidence: 5):
+If you have any questions or concerns about our privacy practices, please email our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 11 (Confidence: 5):
+Please contact our Data Protection Officer at dpo[at]github[dot]com for any feedback or concerns
+
+Sentence 12 (Confidence: 1):
+Depending on your region, you have the right to complain to your local Data Protection Authority
+
+Sentence 13 (Confidence: 1):
+DPF should first contact GitHub at: dpo[at]github[dot]com
+
+Sentence 14 (Confidence: 5):
+Contact UsContact us via our contact form or by emailing our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 15 (Confidence: 5):
+If you have any questions or concerns about our privacy practices, please email our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 16 (Confidence: 5):
+Please contact our Data Protection Officer at dpo[at]github[dot]com for any feedback or concerns
+
+Sentence 17 (Confidence: 1):
+Depending on your region, you have the right to complain to your local Data Protection Authority
+
+Sentence 18 (Confidence: 1):
+DPF should first contact GitHub at: dpo[at]github[dot]com
+
+Sentence 19 (Confidence: 5):
+Contact UsContact us via our contact form or by emailing our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 20 (Confidence: 5):
+If you have any questions or concerns about our privacy practices, please email our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 21 (Confidence: 5):
+Please contact our Data Protection Officer at dpo[at]github[dot]com for any feedback or concerns
+
+Sentence 22 (Confidence: 1):
+Depending on your region, you have the right to complain to your local Data Protection Authority
+
+Sentence 23 (Confidence: 1):
+DPF should first contact GitHub at: dpo[at]github[dot]com
+
+Sentence 24 (Confidence: 5):
+Contact UsContact us via our contact form or by emailing our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 25 (Confidence: 5):
+If you have any questions or concerns about our privacy practices, please email our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 26 (Confidence: 5):
+Please contact our Data Protection Officer at dpo[at]github[dot]com for any feedback or concerns
+
+Sentence 27 (Confidence: 1):
+Depending on your region, you have the right to complain to your local Data Protection Authority
+
+Sentence 28 (Confidence: 1):
+DPF should first contact GitHub at: dpo[at]github[dot]com
+
+Sentence 29 (Confidence: 5):
+Contact us via our contact form or by emailing our Data Protection Officer at dpo[at]github[dot]com
+
+Sentence 30 (Confidence: 5):
+If you have any questions or concerns about our privacy practices, please email our Data Protection Officer at dpo[at]github[dot]com
+

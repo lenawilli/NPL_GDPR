@@ -1,0 +1,83 @@
+=== Article 25 Data Protection By Design ===
+
+Sentence 1 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 2 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 3 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 4 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 5 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 6 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 7 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 8 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 9 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 10 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 11 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 12 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 13 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 14 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 15 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 16 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 17 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 18 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 19 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 20 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 21 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 22 (Confidence: 1):
+With appropriate technical and organizational measures to safeguard individuals rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes
+
+Sentence 23 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 24 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 25 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 26 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+
+Sentence 27 (Confidence: 1):
+Microsoft has implemented business and technical measures designed to help de-identify the data you submit to Microsoft Translator
+

@@ -1,0 +1,872 @@
+=== Cookies And Tracking ===
+
+Sentence 1 (Confidence: 6):
+Essential Cookies and Similar Tracking Technologies: We use cookies and similar technologies to provide essential functionality like storing settings and recognizing you while using our Services
+
+Sentence 2 (Confidence: 2):
+Non-essential Cookies: Depending on your jurisdiction, we may use online analytics products that use cookies to help us analyze how de-identified users use our Services and to enhance your experience when you use the Services
+
+Sentence 3 (Confidence: 2):
+We may also employ third-party Cookies to gather data for interest-based advertising
+
+Sentence 4 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 5 (Confidence: 1):
+Email Marketing Interactions: Our emails may have web beacons that offer information on your device type, email client, email reception, opens, and link clicks
+
+Sentence 6 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 7 (Confidence: 9):
+Our use of cookies and tracking technologiesCookies and tracking technologiesGitHub uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service
+
+Sentence 8 (Confidence: 1):
+We provide more information aboutcookies on GitHubthat describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies
+
+Sentence 9 (Confidence: 2):
+For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts
+
+Sentence 10 (Confidence: 1):
+If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant
+
+Sentence 11 (Confidence: 1):
+Session cookies will only stay on your device until you stop browsing
+
+Sentence 12 (Confidence: 1):
+Persistent cookies stay until they expire or are deleted
+
+Sentence 13 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 14 (Confidence: 1):
+What are cookies and similar technologies
+
+Sentence 15 (Confidence: 3):
+We use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services
+
+Sentence 16 (Confidence: 2):
+com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes
+
+Sentence 17 (Confidence: 1):
+Cookies are small text files stored by your browser on your device
+
+Sentence 18 (Confidence: 1):
+Web beacons are electronic images (also called single-pixel or clear GIFs) that are contained within a website or email
+
+Sentence 19 (Confidence: 1):
+This allows that web server to log information about your device and to set and read its own cookies
+
+Sentence 20 (Confidence: 2):
+Mobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies
+
+Sentence 21 (Confidence: 2):
+com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes
+
+Sentence 22 (Confidence: 1):
+We may also use so-called flash cookies (also known as Local Shared Objects or LSOs) to collect and store information about your use of our Services
+
+Sentence 23 (Confidence: 1):
+Flash cookies are commonly used for advertisements and videos
+
+Sentence 24 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 25 (Confidence: 1):
+The GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes
+
+Sentence 26 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 27 (Confidence: 2):
+For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising
+
+Sentence 28 (Confidence: 1):
+GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources
+
+Sentence 29 (Confidence: 1):
+The table below provides additional information about how we use different types of cookies:PurposeDescriptionRequired CookiesGitHub uses required cookies to perform essential website functions and to provide the services
+
+Sentence 30 (Confidence: 1):
+For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement
+
+Sentence 31 (Confidence: 1):
+These cookies are necessary for our websites to work
+
+Sentence 32 (Confidence: 2):
+AnalyticsWe allow third parties to use analytics cookies to understand how you use our websites so we can make them better
+
+Sentence 33 (Confidence: 1):
+For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task
+
+Sentence 34 (Confidence: 3):
+We also use some analytics cookies to provide personalized advertising
+
+Sentence 35 (Confidence: 1):
+Social MediaGitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHubs websites
+
+Sentence 36 (Confidence: 5):
+AdvertisingIn addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen
+
+Sentence 37 (Confidence: 1):
+Cookies also track which ads you click or purchases you make after clicking an ad
+
+Sentence 38 (Confidence: 1):
+For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history
+
+Sentence 39 (Confidence: 1):
+You have several options to disable non-essential cookies:Specifically on GitHub Enterprise Marketing PagesAny GitHub page that serves non-essential cookies will have a link in the pages footer to cookie settings
+
+Sentence 40 (Confidence: 1):
+Generally for all websitesYou can control the cookies you encounter on the web using a variety of widely-available tools
+
+Sentence 41 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 42 (Confidence: 1):
+Many browsers provide cookie controls which may limit the types of cookies you encounter online
+
+Sentence 43 (Confidence: 2):
+If you enable a browser extension designed to block tracking, such asPrivacy Badger, non-essential cookies set by a website or third parties may be disabled
+
+Sentence 44 (Confidence: 1):
+If you enable a browser extension designed to block unwanted content, such asuBlock Origin, non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked
+
+Sentence 45 (Confidence: 1):
+To learn more, visitGlobal Privacy Control  Take Control Of Your PrivacyAdvertising controls
+
+Sentence 46 (Confidence: 2):
+Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:United States:NAIandDAACanada:Digital Advertising Alliance of CanadaEurope:European Digital Advertising AllianceThese choices are specific to the browser you are using
+
+Sentence 47 (Confidence: 2):
+We shared each category to or with advertising networks, data analytics providers, and social networks
+
+Sentence 48 (Confidence: 1):
+The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement
+
+Sentence 49 (Confidence: 6):
+Essential Cookies and Similar Tracking Technologies: We use cookies and similar technologies to provide essential functionality like storing settings and recognizing you while using our Services
+
+Sentence 50 (Confidence: 2):
+Non-essential Cookies: Depending on your jurisdiction, we may use online analytics products that use cookies to help us analyze how de-identified users use our Services and to enhance your experience when you use the Services
+
+Sentence 51 (Confidence: 2):
+We may also employ third-party Cookies to gather data for interest-based advertising
+
+Sentence 52 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 53 (Confidence: 1):
+Email Marketing Interactions: Our emails may have web beacons that offer information on your device type, email client, email reception, opens, and link clicks
+
+Sentence 54 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 55 (Confidence: 9):
+Our use of cookies and tracking technologiesCookies and tracking technologiesGitHub uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service
+
+Sentence 56 (Confidence: 1):
+We provide more information aboutcookies on GitHubthat describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies
+
+Sentence 57 (Confidence: 2):
+For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts
+
+Sentence 58 (Confidence: 1):
+If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant
+
+Sentence 59 (Confidence: 1):
+Session cookies will only stay on your device until you stop browsing
+
+Sentence 60 (Confidence: 1):
+Persistent cookies stay until they expire or are deleted
+
+Sentence 61 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 62 (Confidence: 1):
+What are cookies and similar technologies
+
+Sentence 63 (Confidence: 3):
+We use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services
+
+Sentence 64 (Confidence: 2):
+com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes
+
+Sentence 65 (Confidence: 1):
+Cookies are small text files stored by your browser on your device
+
+Sentence 66 (Confidence: 1):
+Web beacons are electronic images (also called single-pixel or clear GIFs) that are contained within a website or email
+
+Sentence 67 (Confidence: 1):
+This allows that web server to log information about your device and to set and read its own cookies
+
+Sentence 68 (Confidence: 2):
+Mobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies
+
+Sentence 69 (Confidence: 2):
+com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes
+
+Sentence 70 (Confidence: 1):
+We may also use so-called flash cookies (also known as Local Shared Objects or LSOs) to collect and store information about your use of our Services
+
+Sentence 71 (Confidence: 1):
+Flash cookies are commonly used for advertisements and videos
+
+Sentence 72 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 73 (Confidence: 1):
+The GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes
+
+Sentence 74 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 75 (Confidence: 2):
+For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising
+
+Sentence 76 (Confidence: 1):
+GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources
+
+Sentence 77 (Confidence: 1):
+The table below provides additional information about how we use different types of cookies:PurposeDescriptionRequired CookiesGitHub uses required cookies to perform essential website functions and to provide the services
+
+Sentence 78 (Confidence: 1):
+For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement
+
+Sentence 79 (Confidence: 1):
+These cookies are necessary for our websites to work
+
+Sentence 80 (Confidence: 2):
+AnalyticsWe allow third parties to use analytics cookies to understand how you use our websites so we can make them better
+
+Sentence 81 (Confidence: 1):
+For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task
+
+Sentence 82 (Confidence: 3):
+We also use some analytics cookies to provide personalized advertising
+
+Sentence 83 (Confidence: 1):
+Social MediaGitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHubs websites
+
+Sentence 84 (Confidence: 5):
+AdvertisingIn addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen
+
+Sentence 85 (Confidence: 1):
+Cookies also track which ads you click or purchases you make after clicking an ad
+
+Sentence 86 (Confidence: 1):
+For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history
+
+Sentence 87 (Confidence: 1):
+You have several options to disable non-essential cookies:Specifically on GitHub Enterprise Marketing PagesAny GitHub page that serves non-essential cookies will have a link in the pages footer to cookie settings
+
+Sentence 88 (Confidence: 1):
+Generally for all websitesYou can control the cookies you encounter on the web using a variety of widely-available tools
+
+Sentence 89 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 90 (Confidence: 1):
+Many browsers provide cookie controls which may limit the types of cookies you encounter online
+
+Sentence 91 (Confidence: 2):
+If you enable a browser extension designed to block tracking, such asPrivacy Badger, non-essential cookies set by a website or third parties may be disabled
+
+Sentence 92 (Confidence: 1):
+If you enable a browser extension designed to block unwanted content, such asuBlock Origin, non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked
+
+Sentence 93 (Confidence: 1):
+To learn more, visitGlobal Privacy Control  Take Control Of Your PrivacyAdvertising controls
+
+Sentence 94 (Confidence: 2):
+Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:United States:NAIandDAACanada:Digital Advertising Alliance of CanadaEurope:European Digital Advertising AllianceThese choices are specific to the browser you are using
+
+Sentence 95 (Confidence: 2):
+We shared each category to or with advertising networks, data analytics providers, and social networks
+
+Sentence 96 (Confidence: 1):
+The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement
+
+Sentence 97 (Confidence: 6):
+Essential Cookies and Similar Tracking Technologies: We use cookies and similar technologies to provide essential functionality like storing settings and recognizing you while using our Services
+
+Sentence 98 (Confidence: 2):
+Non-essential Cookies: Depending on your jurisdiction, we may use online analytics products that use cookies to help us analyze how de-identified users use our Services and to enhance your experience when you use the Services
+
+Sentence 99 (Confidence: 2):
+We may also employ third-party Cookies to gather data for interest-based advertising
+
+Sentence 100 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 101 (Confidence: 1):
+Email Marketing Interactions: Our emails may have web beacons that offer information on your device type, email client, email reception, opens, and link clicks
+
+Sentence 102 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 103 (Confidence: 9):
+Our use of cookies and tracking technologiesCookies and tracking technologiesGitHub uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service
+
+Sentence 104 (Confidence: 1):
+We provide more information aboutcookies on GitHubthat describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies
+
+Sentence 105 (Confidence: 2):
+For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts
+
+Sentence 106 (Confidence: 1):
+If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant
+
+Sentence 107 (Confidence: 1):
+Session cookies will only stay on your device until you stop browsing
+
+Sentence 108 (Confidence: 1):
+Persistent cookies stay until they expire or are deleted
+
+Sentence 109 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 110 (Confidence: 1):
+What are cookies and similar technologies
+
+Sentence 111 (Confidence: 3):
+We use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services
+
+Sentence 112 (Confidence: 2):
+com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes
+
+Sentence 113 (Confidence: 1):
+Cookies are small text files stored by your browser on your device
+
+Sentence 114 (Confidence: 1):
+Web beacons are electronic images (also called single-pixel or clear GIFs) that are contained within a website or email
+
+Sentence 115 (Confidence: 1):
+This allows that web server to log information about your device and to set and read its own cookies
+
+Sentence 116 (Confidence: 2):
+Mobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies
+
+Sentence 117 (Confidence: 2):
+com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes
+
+Sentence 118 (Confidence: 1):
+We may also use so-called flash cookies (also known as Local Shared Objects or LSOs) to collect and store information about your use of our Services
+
+Sentence 119 (Confidence: 1):
+Flash cookies are commonly used for advertisements and videos
+
+Sentence 120 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 121 (Confidence: 1):
+The GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes
+
+Sentence 122 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 123 (Confidence: 2):
+For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising
+
+Sentence 124 (Confidence: 1):
+GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources
+
+Sentence 125 (Confidence: 1):
+The table below provides additional information about how we use different types of cookies:PurposeDescriptionRequired CookiesGitHub uses required cookies to perform essential website functions and to provide the services
+
+Sentence 126 (Confidence: 1):
+For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement
+
+Sentence 127 (Confidence: 1):
+These cookies are necessary for our websites to work
+
+Sentence 128 (Confidence: 2):
+AnalyticsWe allow third parties to use analytics cookies to understand how you use our websites so we can make them better
+
+Sentence 129 (Confidence: 1):
+For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task
+
+Sentence 130 (Confidence: 3):
+We also use some analytics cookies to provide personalized advertising
+
+Sentence 131 (Confidence: 1):
+Social MediaGitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHubs websites
+
+Sentence 132 (Confidence: 5):
+AdvertisingIn addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen
+
+Sentence 133 (Confidence: 1):
+Cookies also track which ads you click or purchases you make after clicking an ad
+
+Sentence 134 (Confidence: 1):
+For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history
+
+Sentence 135 (Confidence: 1):
+You have several options to disable non-essential cookies:Specifically on GitHub Enterprise Marketing PagesAny GitHub page that serves non-essential cookies will have a link in the pages footer to cookie settings
+
+Sentence 136 (Confidence: 1):
+Generally for all websitesYou can control the cookies you encounter on the web using a variety of widely-available tools
+
+Sentence 137 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 138 (Confidence: 1):
+Many browsers provide cookie controls which may limit the types of cookies you encounter online
+
+Sentence 139 (Confidence: 2):
+If you enable a browser extension designed to block tracking, such asPrivacy Badger, non-essential cookies set by a website or third parties may be disabled
+
+Sentence 140 (Confidence: 1):
+If you enable a browser extension designed to block unwanted content, such asuBlock Origin, non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked
+
+Sentence 141 (Confidence: 1):
+To learn more, visitGlobal Privacy Control  Take Control Of Your PrivacyAdvertising controls
+
+Sentence 142 (Confidence: 2):
+Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:United States:NAIandDAACanada:Digital Advertising Alliance of CanadaEurope:European Digital Advertising AllianceThese choices are specific to the browser you are using
+
+Sentence 143 (Confidence: 2):
+We shared each category to or with advertising networks, data analytics providers, and social networks
+
+Sentence 144 (Confidence: 1):
+The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement
+
+Sentence 145 (Confidence: 6):
+Essential Cookies and Similar Tracking Technologies: We use cookies and similar technologies to provide essential functionality like storing settings and recognizing you while using our Services
+
+Sentence 146 (Confidence: 2):
+Non-essential Cookies: Depending on your jurisdiction, we may use online analytics products that use cookies to help us analyze how de-identified users use our Services and to enhance your experience when you use the Services
+
+Sentence 147 (Confidence: 2):
+We may also employ third-party Cookies to gather data for interest-based advertising
+
+Sentence 148 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 149 (Confidence: 1):
+Email Marketing Interactions: Our emails may have web beacons that offer information on your device type, email client, email reception, opens, and link clicks
+
+Sentence 150 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 151 (Confidence: 9):
+Our use of cookies and tracking technologiesCookies and tracking technologiesGitHub uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service
+
+Sentence 152 (Confidence: 1):
+We provide more information aboutcookies on GitHubthat describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies
+
+Sentence 153 (Confidence: 2):
+For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts
+
+Sentence 154 (Confidence: 1):
+If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant
+
+Sentence 155 (Confidence: 1):
+Session cookies will only stay on your device until you stop browsing
+
+Sentence 156 (Confidence: 1):
+Persistent cookies stay until they expire or are deleted
+
+Sentence 157 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 158 (Confidence: 1):
+What are cookies and similar technologies
+
+Sentence 159 (Confidence: 3):
+We use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services
+
+Sentence 160 (Confidence: 2):
+com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes
+
+Sentence 161 (Confidence: 1):
+Cookies are small text files stored by your browser on your device
+
+Sentence 162 (Confidence: 1):
+Web beacons are electronic images (also called single-pixel or clear GIFs) that are contained within a website or email
+
+Sentence 163 (Confidence: 1):
+This allows that web server to log information about your device and to set and read its own cookies
+
+Sentence 164 (Confidence: 2):
+Mobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies
+
+Sentence 165 (Confidence: 2):
+com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes
+
+Sentence 166 (Confidence: 1):
+We may also use so-called flash cookies (also known as Local Shared Objects or LSOs) to collect and store information about your use of our Services
+
+Sentence 167 (Confidence: 1):
+Flash cookies are commonly used for advertisements and videos
+
+Sentence 168 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 169 (Confidence: 1):
+The GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes
+
+Sentence 170 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 171 (Confidence: 2):
+For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising
+
+Sentence 172 (Confidence: 1):
+GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources
+
+Sentence 173 (Confidence: 1):
+The table below provides additional information about how we use different types of cookies:PurposeDescriptionRequired CookiesGitHub uses required cookies to perform essential website functions and to provide the services
+
+Sentence 174 (Confidence: 1):
+For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement
+
+Sentence 175 (Confidence: 1):
+These cookies are necessary for our websites to work
+
+Sentence 176 (Confidence: 2):
+AnalyticsWe allow third parties to use analytics cookies to understand how you use our websites so we can make them better
+
+Sentence 177 (Confidence: 1):
+For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task
+
+Sentence 178 (Confidence: 3):
+We also use some analytics cookies to provide personalized advertising
+
+Sentence 179 (Confidence: 1):
+Social MediaGitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHubs websites
+
+Sentence 180 (Confidence: 5):
+AdvertisingIn addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen
+
+Sentence 181 (Confidence: 1):
+Cookies also track which ads you click or purchases you make after clicking an ad
+
+Sentence 182 (Confidence: 1):
+For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history
+
+Sentence 183 (Confidence: 1):
+You have several options to disable non-essential cookies:Specifically on GitHub Enterprise Marketing PagesAny GitHub page that serves non-essential cookies will have a link in the pages footer to cookie settings
+
+Sentence 184 (Confidence: 1):
+Generally for all websitesYou can control the cookies you encounter on the web using a variety of widely-available tools
+
+Sentence 185 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 186 (Confidence: 1):
+Many browsers provide cookie controls which may limit the types of cookies you encounter online
+
+Sentence 187 (Confidence: 2):
+If you enable a browser extension designed to block tracking, such asPrivacy Badger, non-essential cookies set by a website or third parties may be disabled
+
+Sentence 188 (Confidence: 1):
+If you enable a browser extension designed to block unwanted content, such asuBlock Origin, non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked
+
+Sentence 189 (Confidence: 1):
+To learn more, visitGlobal Privacy Control  Take Control Of Your PrivacyAdvertising controls
+
+Sentence 190 (Confidence: 2):
+Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:United States:NAIandDAACanada:Digital Advertising Alliance of CanadaEurope:European Digital Advertising AllianceThese choices are specific to the browser you are using
+
+Sentence 191 (Confidence: 2):
+We shared each category to or with advertising networks, data analytics providers, and social networks
+
+Sentence 192 (Confidence: 1):
+The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement
+
+Sentence 193 (Confidence: 6):
+Essential Cookies and Similar Tracking Technologies: We use cookies and similar technologies to provide essential functionality like storing settings and recognizing you while using our Services
+
+Sentence 194 (Confidence: 2):
+Non-essential Cookies: Depending on your jurisdiction, we may use online analytics products that use cookies to help us analyze how de-identified users use our Services and to enhance your experience when you use the Services
+
+Sentence 195 (Confidence: 2):
+We may also employ third-party Cookies to gather data for interest-based advertising
+
+Sentence 196 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 197 (Confidence: 1):
+Email Marketing Interactions: Our emails may have web beacons that offer information on your device type, email client, email reception, opens, and link clicks
+
+Sentence 198 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 199 (Confidence: 9):
+Our use of cookies and tracking technologiesCookies and tracking technologiesGitHub uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service
+
+Sentence 200 (Confidence: 1):
+We provide more information aboutcookies on GitHubthat describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies
+
+Sentence 201 (Confidence: 2):
+For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts
+
+Sentence 202 (Confidence: 1):
+If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant
+
+Sentence 203 (Confidence: 1):
+Session cookies will only stay on your device until you stop browsing
+
+Sentence 204 (Confidence: 1):
+Persistent cookies stay until they expire or are deleted
+
+Sentence 205 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 206 (Confidence: 1):
+What are cookies and similar technologies
+
+Sentence 207 (Confidence: 3):
+We use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services
+
+Sentence 208 (Confidence: 2):
+com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes
+
+Sentence 209 (Confidence: 1):
+Cookies are small text files stored by your browser on your device
+
+Sentence 210 (Confidence: 1):
+Web beacons are electronic images (also called single-pixel or clear GIFs) that are contained within a website or email
+
+Sentence 211 (Confidence: 1):
+This allows that web server to log information about your device and to set and read its own cookies
+
+Sentence 212 (Confidence: 2):
+Mobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies
+
+Sentence 213 (Confidence: 2):
+com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes
+
+Sentence 214 (Confidence: 1):
+We may also use so-called flash cookies (also known as Local Shared Objects or LSOs) to collect and store information about your use of our Services
+
+Sentence 215 (Confidence: 1):
+Flash cookies are commonly used for advertisements and videos
+
+Sentence 216 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 217 (Confidence: 1):
+The GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes
+
+Sentence 218 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 219 (Confidence: 2):
+For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising
+
+Sentence 220 (Confidence: 1):
+GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources
+
+Sentence 221 (Confidence: 1):
+The table below provides additional information about how we use different types of cookies:PurposeDescriptionRequired CookiesGitHub uses required cookies to perform essential website functions and to provide the services
+
+Sentence 222 (Confidence: 1):
+For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement
+
+Sentence 223 (Confidence: 1):
+These cookies are necessary for our websites to work
+
+Sentence 224 (Confidence: 2):
+AnalyticsWe allow third parties to use analytics cookies to understand how you use our websites so we can make them better
+
+Sentence 225 (Confidence: 1):
+For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task
+
+Sentence 226 (Confidence: 3):
+We also use some analytics cookies to provide personalized advertising
+
+Sentence 227 (Confidence: 1):
+Social MediaGitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHubs websites
+
+Sentence 228 (Confidence: 5):
+AdvertisingIn addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen
+
+Sentence 229 (Confidence: 1):
+Cookies also track which ads you click or purchases you make after clicking an ad
+
+Sentence 230 (Confidence: 1):
+For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history
+
+Sentence 231 (Confidence: 1):
+You have several options to disable non-essential cookies:Specifically on GitHub Enterprise Marketing PagesAny GitHub page that serves non-essential cookies will have a link in the pages footer to cookie settings
+
+Sentence 232 (Confidence: 1):
+Generally for all websitesYou can control the cookies you encounter on the web using a variety of widely-available tools
+
+Sentence 233 (Confidence: 1):
+For example:If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 234 (Confidence: 1):
+Many browsers provide cookie controls which may limit the types of cookies you encounter online
+
+Sentence 235 (Confidence: 2):
+If you enable a browser extension designed to block tracking, such asPrivacy Badger, non-essential cookies set by a website or third parties may be disabled
+
+Sentence 236 (Confidence: 1):
+If you enable a browser extension designed to block unwanted content, such asuBlock Origin, non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked
+
+Sentence 237 (Confidence: 1):
+To learn more, visitGlobal Privacy Control  Take Control Of Your PrivacyAdvertising controls
+
+Sentence 238 (Confidence: 2):
+Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:United States:NAIandDAACanada:Digital Advertising Alliance of CanadaEurope:European Digital Advertising AllianceThese choices are specific to the browser you are using
+
+Sentence 239 (Confidence: 2):
+We shared each category to or with advertising networks, data analytics providers, and social networks
+
+Sentence 240 (Confidence: 1):
+The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement
+
+Sentence 241 (Confidence: 6):
+Essential Cookies and Similar Tracking Technologies: We use cookies and similar technologies to provide essential functionality like storing settings and recognizing you while using our Services
+
+Sentence 242 (Confidence: 2):
+Non-essential Cookies: Depending on your jurisdiction, we may use online analytics products that use cookies to help us analyze how de-identified users use our Services and to enhance your experience when you use the Services
+
+Sentence 243 (Confidence: 2):
+We may also employ third-party Cookies to gather data for interest-based advertising
+
+Sentence 244 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 245 (Confidence: 1):
+Email Marketing Interactions: Our emails may have web beacons that offer information on your device type, email client, email reception, opens, and link clicks
+
+Sentence 246 (Confidence: 1):
+Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, and legal and compliance obligations
+
+Sentence 247 (Confidence: 9):
+Our use of cookies and tracking technologies Cookies and tracking technologies GitHub uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service
+
+Sentence 248 (Confidence: 1):
+We provide more information aboutcookies on GitHubthat describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies
+
+Sentence 249 (Confidence: 2):
+For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts
+
+Sentence 250 (Confidence: 1):
+If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant
+
+Sentence 251 (Confidence: 1):
+Session cookies will only stay on your device until you stop browsing
+
+Sentence 252 (Confidence: 1):
+Persistent cookies stay until they expire or are deleted
+
+Sentence 253 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 254 (Confidence: 1):
+What are cookies and similar technologies
+
+Sentence 255 (Confidence: 3):
+We use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services
+
+Sentence 256 (Confidence: 2):
+com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes
+
+Sentence 257 (Confidence: 1):
+Cookies are small text files stored by your browser on your device
+
+Sentence 258 (Confidence: 1):
+Web beacons are electronic images (also called single-pixel or clear GIFs) that are contained within a website or email
+
+Sentence 259 (Confidence: 1):
+This allows that web server to log information about your device and to set and read its own cookies
+
+Sentence 260 (Confidence: 2):
+Mobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies
+
+Sentence 261 (Confidence: 2):
+com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes
+
+Sentence 262 (Confidence: 1):
+We may also use so-called flash cookies (also known as Local Shared Objects or LSOs) to collect and store information about your use of our Services
+
+Sentence 263 (Confidence: 1):
+Flash cookies are commonly used for advertisements and videos
+
+Sentence 264 (Confidence: 1):
+How do we and our partners use cookies and similar technologies
+
+Sentence 265 (Confidence: 1):
+The GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes
+
+Sentence 266 (Confidence: 2):
+Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners
+
+Sentence 267 (Confidence: 2):
+For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising
+
+Sentence 268 (Confidence: 1):
+GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources
+
+Sentence 269 (Confidence: 1):
+The table below provides additional information about how we use different types of cookies: GitHub uses required cookies to perform essential website functions and to provide the services
+
+Sentence 270 (Confidence: 1):
+For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement
+
+Sentence 271 (Confidence: 1):
+These cookies are necessary for our websites to work
+
+Sentence 272 (Confidence: 2):
+We allow third parties to use analytics cookies to understand how you use our websites so we can make them better
+
+Sentence 273 (Confidence: 1):
+For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task
+
+Sentence 274 (Confidence: 3):
+We also use some analytics cookies to provide personalized advertising
+
+Sentence 275 (Confidence: 1):
+GitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHubs websites
+
+Sentence 276 (Confidence: 5):
+In addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen
+
+Sentence 277 (Confidence: 1):
+Cookies also track which ads you click or purchases you make after clicking an ad
+
+Sentence 278 (Confidence: 1):
+For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history
+
+Sentence 279 (Confidence: 1):
+You have several options to disable non-essential cookies: Specifically on GitHub Enterprise Marketing PagesAny GitHub page that serves non-essential cookies will have a link in the pages footer to cookie settings
+
+Sentence 280 (Confidence: 1):
+Specifically on GitHub Enterprise Marketing Pages Any GitHub page that serves non-essential cookies will have a link in the pages footer to cookie settings
+
+Sentence 281 (Confidence: 1):
+Generally for all websitesYou can control the cookies you encounter on the web using a variety of widely-available tools
+
+Sentence 282 (Confidence: 1):
+For example: Generally for all websitesYou can control the cookies you encounter on the web using a variety of widely-available tools
+
+Sentence 283 (Confidence: 1):
+For example: If your browser sends aDo Not Track(DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies
+
+Sentence 284 (Confidence: 1):
+Many browsers provide cookie controls which may limit the types of cookies you encounter online
+
+Sentence 285 (Confidence: 2):
+If you enable a browser extension designed to block tracking, such asPrivacy Badger, non-essential cookies set by a website or third parties may be disabled
+
+Sentence 286 (Confidence: 1):
+If you enable a browser extension designed to block unwanted content, such asuBlock Origin, non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked
+
+Sentence 287 (Confidence: 1):
+To learn more, visitGlobal Privacy Control  Take Control Of Your Privacy Advertising controls
+
+Sentence 288 (Confidence: 2):
+Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at: United States:NAIandDAA Canada:Digital Advertising Alliance of Canada Europe:European Digital Advertising Alliance These choices are specific to the browser you are using
+
+Sentence 289 (Confidence: 2):
+We shared each category to or with advertising networks, data analytics providers, and social networks
+
+Sentence 290 (Confidence: 1):
+The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement
+

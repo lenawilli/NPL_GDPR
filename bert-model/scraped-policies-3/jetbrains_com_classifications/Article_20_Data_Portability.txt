@@ -1,0 +1,44 @@
+=== Article 20 Data Portability ===
+
+Sentence 1 (Confidence: 1):
+Right to Personal Data portability
+
+Sentence 2 (Confidence: 3):
+Under certain circumstances, you may have the right to receive the Personal Data that you have provided us concerning you in a structured, commonly used, and machine-readable format, and to transmit this Personal Data to another entity
+
+Sentence 3 (Confidence: 1):
+Right to Personal Data portability
+
+Sentence 4 (Confidence: 3):
+Under certain circumstances, you may have the right to receive the Personal Data that you have provided us concerning you in a structured, commonly used, and machine-readable format, and to transmit this Personal Data to another entity
+
+Sentence 5 (Confidence: 1):
+Right to Personal Data portability
+
+Sentence 6 (Confidence: 3):
+Under certain circumstances, you may have the right to receive the Personal Data that you have provided us concerning you in a structured, commonly used, and machine-readable format, and to transmit this Personal Data to another entity
+
+Sentence 7 (Confidence: 1):
+Right to Personal Data portability
+
+Sentence 8 (Confidence: 3):
+Under certain circumstances, you may have the right to receive the Personal Data that you have provided us concerning you in a structured, commonly used, and machine-readable format, and to transmit this Personal Data to another entity
+
+Sentence 9 (Confidence: 1):
+Right to Personal Data portability
+
+Sentence 10 (Confidence: 3):
+Under certain circumstances, you may have the right to receive the Personal Data that you have provided us concerning you in a structured, commonly used, and machine-readable format, and to transmit this Personal Data to another entity
+
+Sentence 11 (Confidence: 1):
+Right to Personal Data portability
+
+Sentence 12 (Confidence: 3):
+Under certain circumstances, you may have the right to receive the Personal Data that you have provided us concerning you in a structured, commonly used, and machine-readable format, and to transmit this Personal Data to another entity
+
+Sentence 13 (Confidence: 1):
+Right to Personal Data portability
+
+Sentence 14 (Confidence: 3):
+Under certain circumstances, you may have the right to receive the Personal Data that you have provided us concerning you in a structured, commonly used, and machine-readable format, and to transmit this Personal Data to another entity
+

@@ -1,0 +1,113 @@
+=== Article 7 Consent ===
+
+Sentence 1 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 2 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 3 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 4 (Confidence: 3):
+Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies
+
+Sentence 5 (Confidence: 1):
+Exercising your Privacy RightsTo make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 6 (Confidence: 1):
+Authorized agents can also submit opt-out requests on your behalf
+
+Sentence 7 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 8 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 9 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 10 (Confidence: 3):
+Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies
+
+Sentence 11 (Confidence: 1):
+Exercising your Privacy RightsTo make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 12 (Confidence: 1):
+Authorized agents can also submit opt-out requests on your behalf
+
+Sentence 13 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 14 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 15 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 16 (Confidence: 3):
+Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies
+
+Sentence 17 (Confidence: 1):
+Exercising your Privacy RightsTo make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 18 (Confidence: 1):
+Authorized agents can also submit opt-out requests on your behalf
+
+Sentence 19 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 20 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 21 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 22 (Confidence: 3):
+Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies
+
+Sentence 23 (Confidence: 1):
+Exercising your Privacy RightsTo make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 24 (Confidence: 1):
+Authorized agents can also submit opt-out requests on your behalf
+
+Sentence 25 (Confidence: 1):
+Third Party Access and Data ProtectionWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 26 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 27 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 28 (Confidence: 3):
+Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies
+
+Sentence 29 (Confidence: 1):
+Exercising your Privacy RightsTo make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 30 (Confidence: 1):
+Authorized agents can also submit opt-out requests on your behalf
+
+Sentence 31 (Confidence: 1):
+Third Party Access and Data Protection When you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them
+
+Sentence 32 (Confidence: 1):
+In some jurisdictions, we only use non-essential cookies after obtaining your consent
+
+Sentence 33 (Confidence: 1):
+Consent: We process data when you have explicitly consented to such processing
+
+Sentence 34 (Confidence: 3):
+Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies
+
+Sentence 35 (Confidence: 3):
+Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies
+
+Sentence 36 (Confidence: 1):
+Exercising your Privacy Rights To make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided
+
+Sentence 37 (Confidence: 1):
+Authorized agents can also submit opt-out requests on your behalf
+

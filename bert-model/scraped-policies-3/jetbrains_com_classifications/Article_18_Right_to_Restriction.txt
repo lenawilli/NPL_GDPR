@@ -1,0 +1,44 @@
+=== Article 18 Right To Restriction ===
+
+Sentence 1 (Confidence: 4):
+Right to a restriction of processing
+
+Sentence 2 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to restrict the processing of your Personal Data
+
+Sentence 3 (Confidence: 4):
+Right to a restriction of processing
+
+Sentence 4 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to restrict the processing of your Personal Data
+
+Sentence 5 (Confidence: 4):
+Right to a restriction of processing
+
+Sentence 6 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to restrict the processing of your Personal Data
+
+Sentence 7 (Confidence: 4):
+Right to a restriction of processing
+
+Sentence 8 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to restrict the processing of your Personal Data
+
+Sentence 9 (Confidence: 4):
+Right to a restriction of processing
+
+Sentence 10 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to restrict the processing of your Personal Data
+
+Sentence 11 (Confidence: 4):
+Right to a restriction of processing
+
+Sentence 12 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to restrict the processing of your Personal Data
+
+Sentence 13 (Confidence: 4):
+Right to a restriction of processing
+
+Sentence 14 (Confidence: 3):
+Under certain circumstances, you may have the right to require us to restrict the processing of your Personal Data
+

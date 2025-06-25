@@ -1,0 +1,371 @@
+=== Third Party Sharing ===
+
+Sentence 1 (Confidence: 1):
+Customers and partners may provide data to us
+
+Sentence 2 (Confidence: 1):
+PartnersWe receive personal data (e
+
+Sentence 3 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 4 (Confidence: 1):
+Related Companies and Other ServicesWe receive data about you when you use some of the other services provided by us or ourAffiliates, including Microsoft
+
+Sentence 5 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 6 (Confidence: 1):
+Stay ConnectedOur Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts
+
+Sentence 7 (Confidence: 1):
+ProductivityOur Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with
+
+Sentence 8 (Confidence: 1):
+We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners
+
+Sentence 9 (Confidence: 2):
+3;Information from advertisingpartners, vendors andpublishers; andInformation inferred from data described above (e
+
+Sentence 10 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 11 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 12 (Confidence: 1):
+We and our Affiliates, including Microsoft, may use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of the law, ourUser Agreementand/or attempts to harm our Members, Visitors, company, Affiliates, or others
+
+Sentence 13 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others3
+
+Sentence 14 (Confidence: 1):
+We will share your personal data with our Affiliates to provide and develop our Services
+
+Sentence 15 (Confidence: 1):
+In regions outside the Designated Countries, we may also share your publicly-shared content (such as your public LinkedIn posts) with our Affiliates, including Microsoft, to provide or develop their services
+
+Sentence 16 (Confidence: 1):
+5 Service ProvidersWe may use others to help us with our Services
+
+Sentence 17 (Confidence: 1):
+It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services or the products or services of our Affiliates (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others
+
+Sentence 18 (Confidence: 1):
+Customers and partners may provide data to us
+
+Sentence 19 (Confidence: 1):
+PartnersWe receive personal data (e
+
+Sentence 20 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 21 (Confidence: 1):
+Related Companies and Other ServicesWe receive data about you when you use some of the other services provided by us or ourAffiliates, including Microsoft
+
+Sentence 22 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 23 (Confidence: 1):
+Stay ConnectedOur Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts
+
+Sentence 24 (Confidence: 1):
+ProductivityOur Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with
+
+Sentence 25 (Confidence: 1):
+We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners
+
+Sentence 26 (Confidence: 2):
+3;Information from advertisingpartners, vendors andpublishers; andInformation inferred from data described above (e
+
+Sentence 27 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 28 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 29 (Confidence: 1):
+We and our Affiliates, including Microsoft, may use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of the law, ourUser Agreementand/or attempts to harm our Members, Visitors, company, Affiliates, or others
+
+Sentence 30 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others3
+
+Sentence 31 (Confidence: 1):
+We will share your personal data with our Affiliates to provide and develop our Services
+
+Sentence 32 (Confidence: 1):
+In regions outside the Designated Countries, we may also share your publicly-shared content (such as your public LinkedIn posts) with our Affiliates, including Microsoft, to provide or develop their services
+
+Sentence 33 (Confidence: 1):
+5 Service ProvidersWe may use others to help us with our Services
+
+Sentence 34 (Confidence: 1):
+It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services or the products or services of our Affiliates (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others
+
+Sentence 35 (Confidence: 1):
+Customers and partners may provide data to us
+
+Sentence 36 (Confidence: 1):
+PartnersWe receive personal data (e
+
+Sentence 37 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 38 (Confidence: 1):
+Related Companies and Other ServicesWe receive data about you when you use some of the other services provided by us or ourAffiliates, including Microsoft
+
+Sentence 39 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 40 (Confidence: 1):
+Stay ConnectedOur Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts
+
+Sentence 41 (Confidence: 1):
+ProductivityOur Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with
+
+Sentence 42 (Confidence: 1):
+We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners
+
+Sentence 43 (Confidence: 2):
+3;Information from advertisingpartners, vendors andpublishers; andInformation inferred from data described above (e
+
+Sentence 44 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 45 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 46 (Confidence: 1):
+We and our Affiliates, including Microsoft, may use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of the law, ourUser Agreementand/or attempts to harm our Members, Visitors, company, Affiliates, or others
+
+Sentence 47 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others3
+
+Sentence 48 (Confidence: 1):
+We will share your personal data with our Affiliates to provide and develop our Services
+
+Sentence 49 (Confidence: 1):
+In regions outside the Designated Countries, we may also share your publicly-shared content (such as your public LinkedIn posts) with our Affiliates, including Microsoft, to provide or develop their services
+
+Sentence 50 (Confidence: 1):
+5 Service ProvidersWe may use others to help us with our Services
+
+Sentence 51 (Confidence: 1):
+It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services or the products or services of our Affiliates (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others
+
+Sentence 52 (Confidence: 1):
+Customers and partners may provide data to us
+
+Sentence 53 (Confidence: 1):
+PartnersWe receive personal data (e
+
+Sentence 54 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 55 (Confidence: 1):
+Related Companies and Other ServicesWe receive data about you when you use some of the other services provided by us or ourAffiliates, including Microsoft
+
+Sentence 56 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 57 (Confidence: 1):
+Customers and partners may provide data to us
+
+Sentence 58 (Confidence: 1):
+Customers and partners may provide data to us
+
+Sentence 59 (Confidence: 1):
+Customers and partners may provide data to us
+
+Sentence 60 (Confidence: 1):
+Customers and partners may provide data to us
+
+Sentence 61 (Confidence: 1):
+PartnersWe receive personal data (e
+
+Sentence 62 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 63 (Confidence: 1):
+Related Companies and Other ServicesWe receive data about you when you use some of the other services provided by us or ourAffiliates, including Microsoft
+
+Sentence 64 (Confidence: 1):
+3 Service Use PartnersWe receive personal data (e
+
+Sentence 65 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 66 (Confidence: 1):
+Related Companies and Other ServicesWe receive data about you when you use some of the other services provided by us or ourAffiliates, including Microsoft
+
+Sentence 67 (Confidence: 1):
+, your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data
+
+Sentence 68 (Confidence: 1):
+Related Companies and Other Services We receive data about you when you use some of the other services provided by us or ourAffiliates, including Microsoft
+
+Sentence 69 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 70 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 71 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 72 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 73 (Confidence: 1):
+AffiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 74 (Confidence: 1):
+Affiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation
+
+Sentence 75 (Confidence: 1):
+Stay ConnectedOur Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts
+
+Sentence 76 (Confidence: 1):
+ProductivityOur Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with
+
+Sentence 77 (Confidence: 1):
+We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners
+
+Sentence 78 (Confidence: 2):
+3;Information from advertisingpartners, vendors andpublishers; andInformation inferred from data described above (e
+
+Sentence 79 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 80 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 81 (Confidence: 1):
+We and our Affiliates, including Microsoft, may use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of the law, ourUser Agreementand/or attempts to harm our Members, Visitors, company, Affiliates, or others
+
+Sentence 82 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others 2
+
+Sentence 83 (Confidence: 1):
+Stay ConnectedOur Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts
+
+Sentence 84 (Confidence: 1):
+ProductivityOur Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with
+
+Sentence 85 (Confidence: 1):
+Stay ConnectedOur Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts
+
+Sentence 86 (Confidence: 1):
+ProductivityOur Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with
+
+Sentence 87 (Confidence: 1):
+Our Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts
+
+Sentence 88 (Confidence: 1):
+Our Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with
+
+Sentence 89 (Confidence: 1):
+We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners
+
+Sentence 90 (Confidence: 1):
+We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners
+
+Sentence 91 (Confidence: 1):
+We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners
+
+Sentence 92 (Confidence: 2):
+3;Information from advertisingpartners, vendors andpublishers; andInformation inferred from data described above (e
+
+Sentence 93 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 94 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 95 (Confidence: 2):
+3;Information from advertisingpartners, vendors andpublishers; andInformation inferred from data described above (e
+
+Sentence 96 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 97 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 98 (Confidence: 2):
+3; Information from advertisingpartners, vendors andpublishers; and Information inferred from data described above (e
+
+Sentence 99 (Confidence: 1):
+Learn moreabout the ad technologies we use and our advertising services and partners
+
+Sentence 100 (Confidence: 1):
+Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us
+
+Sentence 101 (Confidence: 1):
+We and our Affiliates, including Microsoft, may use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of the law, ourUser Agreementand/or attempts to harm our Members, Visitors, company, Affiliates, or others
+
+Sentence 102 (Confidence: 1):
+We and our Affiliates, including Microsoft, may use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of the law, ourUser Agreementand/or attempts to harm our Members, Visitors, company, Affiliates, or others
+
+Sentence 103 (Confidence: 1):
+We and our Affiliates, including Microsoft, may use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of the law, ourUser Agreementand/or attempts to harm our Members, Visitors, company, Affiliates, or others
+
+Sentence 104 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others Social ActionE
+
+Sentence 105 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others Social ActionE
+
+Sentence 106 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others Social ActionE
+
+Sentence 107 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others Social ActionE
+
+Sentence 108 (Confidence: 1):
+like, comment, follow, sharePartnersPartners include ad networks, exchanges and others E
+
+Sentence 109 (Confidence: 1):
+like, comment, follow, share Partners include ad networks, exchanges and others 3
+
+Sentence 110 (Confidence: 1):
+We will share your personal data with our Affiliates to provide and develop our Services
+
+Sentence 111 (Confidence: 1):
+In regions outside the Designated Countries, we may also share your publicly-shared content (such as your public LinkedIn posts) with our Affiliates, including Microsoft, to provide or develop their services
+
+Sentence 112 (Confidence: 1):
+5 Service ProvidersWe may use others to help us with our Services
+
+Sentence 113 (Confidence: 1):
+It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services or the products or services of our Affiliates (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others
+
+Sentence 114 (Confidence: 1):
+We will share your personal data with our Affiliates to provide and develop our Services
+
+Sentence 115 (Confidence: 1):
+In regions outside the Designated Countries, we may also share your publicly-shared content (such as your public LinkedIn posts) with our Affiliates, including Microsoft, to provide or develop their services
+
+Sentence 116 (Confidence: 2):
+5 Service Providers We will share your personal data with our Affiliates to provide and develop our Services
+
+Sentence 117 (Confidence: 1):
+In regions outside the Designated Countries, we may also share your publicly-shared content (such as your public LinkedIn posts) with our Affiliates, including Microsoft, to provide or develop their services
+
+Sentence 118 (Confidence: 2):
+5 Service Providers We will share your personal data with our Affiliates to provide and develop our Services
+
+Sentence 119 (Confidence: 1):
+In regions outside the Designated Countries, we may also share your publicly-shared content (such as your public LinkedIn posts) with our Affiliates, including Microsoft, to provide or develop their services
+
+Sentence 120 (Confidence: 1):
+5 Service Providers We may use others to help us with our Services
+
+Sentence 121 (Confidence: 1):
+It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services or the products or services of our Affiliates (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others
+
+Sentence 122 (Confidence: 1):
+7 Change in Control or Sale It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services or the products or services of our Affiliates (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others
+
+Sentence 123 (Confidence: 1):
+7 Change in Control or Sale It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services or the products or services of our Affiliates (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others
+

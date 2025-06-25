@@ -1,0 +1,413 @@
+=== Retention And Storage ===
+
+Sentence 1 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 2 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 3 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 4 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 5 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 6 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 7 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 8 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 9 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 10 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 11 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 12 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 13 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 14 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 15 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 16 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 17 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 18 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 19 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 20 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 21 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 22 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 23 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 24 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 25 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 26 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 27 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 28 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 29 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 30 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 31 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 32 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 33 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 34 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 35 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 36 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 37 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 38 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 39 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 40 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 41 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 42 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 43 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 44 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 45 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 46 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 47 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 48 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 49 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 50 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 51 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 52 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 53 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 54 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 55 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 56 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 57 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 58 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 59 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 60 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 61 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 62 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 63 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 64 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 65 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 66 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 67 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 68 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 69 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 70 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 71 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 72 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 73 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 74 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 75 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 76 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 77 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 78 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 79 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 80 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 81 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 82 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 83 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 84 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 85 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 86 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 87 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 88 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 89 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 90 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 91 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 92 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 93 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 94 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 95 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 96 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 97 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 98 (Confidence: 1):
+Signing in to your Microsoft account enables personalization and consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 99 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 100 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 101 (Confidence: 1):
+Signing into your Microsoft account enables personalization, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features
+
+Sentence 102 (Confidence: 1):
+Signing in to your account enables improved personalization, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other enhanced features and settings
+
+Sentence 103 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 104 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 105 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 106 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 107 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 108 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 109 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 110 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 111 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 112 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 113 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 114 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 115 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 116 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 117 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 118 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 119 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 120 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 121 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 122 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 123 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 124 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 125 (Confidence: 1):
+Other criteria used to determine the retention periods include:Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 126 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 127 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 128 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 129 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 130 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+
+Sentence 131 (Confidence: 1):
+Because these needs can vary for different data types, the context of our interactions with you or your use of products, actual retention periods can vary significantly
+
+Sentence 132 (Confidence: 1):
+Other criteria used to determine the retention periods include: Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it
+
+Sentence 133 (Confidence: 1):
+If there is not, a shortened data retention time will generally be adopted
+
+Sentence 134 (Confidence: 1):
+Has Microsoft adopted and announced a specific retention period for a certain data type
+
+Sentence 135 (Confidence: 1):
+Has the user provided consent for a longer retention period
+
+Sentence 136 (Confidence: 1):
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation
+
+Sentence 137 (Confidence: 1):
+Please see theOur retention of personal datasection for information on personal data retention criteria
+

@@ -1,0 +1,44 @@
+=== Article 16 Right To Rectification ===
+
+Sentence 1 (Confidence: 4):
+Right to rectification
+
+Sentence 2 (Confidence: 1):
+You may have the right to obtain from us the rectification of inaccurate Personal Data
+
+Sentence 3 (Confidence: 4):
+Right to rectification
+
+Sentence 4 (Confidence: 1):
+You may have the right to obtain from us the rectification of inaccurate Personal Data
+
+Sentence 5 (Confidence: 4):
+Right to rectification
+
+Sentence 6 (Confidence: 1):
+You may have the right to obtain from us the rectification of inaccurate Personal Data
+
+Sentence 7 (Confidence: 4):
+Right to rectification
+
+Sentence 8 (Confidence: 1):
+You may have the right to obtain from us the rectification of inaccurate Personal Data
+
+Sentence 9 (Confidence: 4):
+Right to rectification
+
+Sentence 10 (Confidence: 1):
+You may have the right to obtain from us the rectification of inaccurate Personal Data
+
+Sentence 11 (Confidence: 4):
+Right to rectification
+
+Sentence 12 (Confidence: 1):
+You may have the right to obtain from us the rectification of inaccurate Personal Data
+
+Sentence 13 (Confidence: 4):
+Right to rectification
+
+Sentence 14 (Confidence: 1):
+You may have the right to obtain from us the rectification of inaccurate Personal Data
+

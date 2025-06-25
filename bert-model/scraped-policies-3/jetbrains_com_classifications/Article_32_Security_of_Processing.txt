@@ -1,0 +1,65 @@
+=== Article 32 Security Of Processing ===
+
+Sentence 1 (Confidence: 1):
+To encrypt data at rest, we use strong, up-to-date encryption algorithms, such as AES-256
+
+Sentence 2 (Confidence: 1):
+All encryption keys are regularly rotated, and access to them is strictly limited
+
+Sentence 3 (Confidence: 4):
+When choosing a supplier, JetBrains performs a supplier risk assessment process to evaluate their compliance with legal regulations and security standards and help ensure that your data is stored in a secure location with appropriate security measures in place
+
+Sentence 4 (Confidence: 1):
+To encrypt data at rest, we use strong, up-to-date encryption algorithms, such as AES-256
+
+Sentence 5 (Confidence: 1):
+All encryption keys are regularly rotated, and access to them is strictly limited
+
+Sentence 6 (Confidence: 4):
+When choosing a supplier, JetBrains performs a supplier risk assessment process to evaluate their compliance with legal regulations and security standards and help ensure that your data is stored in a secure location with appropriate security measures in place
+
+Sentence 7 (Confidence: 1):
+To encrypt data at rest, we use strong, up-to-date encryption algorithms, such as AES-256
+
+Sentence 8 (Confidence: 1):
+All encryption keys are regularly rotated, and access to them is strictly limited
+
+Sentence 9 (Confidence: 4):
+When choosing a supplier, JetBrains performs a supplier risk assessment process to evaluate their compliance with legal regulations and security standards and help ensure that your data is stored in a secure location with appropriate security measures in place
+
+Sentence 10 (Confidence: 1):
+To encrypt data at rest, we use strong, up-to-date encryption algorithms, such as AES-256
+
+Sentence 11 (Confidence: 1):
+All encryption keys are regularly rotated, and access to them is strictly limited
+
+Sentence 12 (Confidence: 4):
+When choosing a supplier, JetBrains performs a supplier risk assessment process to evaluate their compliance with legal regulations and security standards and help ensure that your data is stored in a secure location with appropriate security measures in place
+
+Sentence 13 (Confidence: 1):
+To encrypt data at rest, we use strong, up-to-date encryption algorithms, such as AES-256
+
+Sentence 14 (Confidence: 1):
+All encryption keys are regularly rotated, and access to them is strictly limited
+
+Sentence 15 (Confidence: 4):
+When choosing a supplier, JetBrains performs a supplier risk assessment process to evaluate their compliance with legal regulations and security standards and help ensure that your data is stored in a secure location with appropriate security measures in place
+
+Sentence 16 (Confidence: 1):
+To encrypt data at rest, we use strong, up-to-date encryption algorithms, such as AES-256
+
+Sentence 17 (Confidence: 1):
+All encryption keys are regularly rotated, and access to them is strictly limited
+
+Sentence 18 (Confidence: 4):
+When choosing a supplier, JetBrains performs a supplier risk assessment process to evaluate their compliance with legal regulations and security standards and help ensure that your data is stored in a secure location with appropriate security measures in place
+
+Sentence 19 (Confidence: 1):
+To encrypt data at rest, we use strong, up-to-date encryption algorithms, such as AES-256
+
+Sentence 20 (Confidence: 1):
+All encryption keys are regularly rotated, and access to them is strictly limited
+
+Sentence 21 (Confidence: 4):
+When choosing a supplier, JetBrains performs a supplier risk assessment process to evaluate their compliance with legal regulations and security standards and help ensure that your data is stored in a secure location with appropriate security measures in place
+

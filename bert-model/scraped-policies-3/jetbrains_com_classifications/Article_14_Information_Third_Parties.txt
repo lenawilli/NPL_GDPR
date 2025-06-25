@@ -1,0 +1,44 @@
+=== Article 14 Information Third Parties ===
+
+Sentence 1 (Confidence: 1):
+When following a link and providing information to a third-party website, please be aware that JetBrains is not responsible for the data provided to that third party
+
+Sentence 2 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 3 (Confidence: 1):
+When following a link and providing information to a third-party website, please be aware that JetBrains is not responsible for the data provided to that third party
+
+Sentence 4 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 5 (Confidence: 1):
+When following a link and providing information to a third-party website, please be aware that JetBrains is not responsible for the data provided to that third party
+
+Sentence 6 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 7 (Confidence: 1):
+When following a link and providing information to a third-party website, please be aware that JetBrains is not responsible for the data provided to that third party
+
+Sentence 8 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 9 (Confidence: 1):
+When following a link and providing information to a third-party website, please be aware that JetBrains is not responsible for the data provided to that third party
+
+Sentence 10 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 11 (Confidence: 1):
+When following a link and providing information to a third-party website, please be aware that JetBrains is not responsible for the data provided to that third party
+
+Sentence 12 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+
+Sentence 13 (Confidence: 1):
+When following a link and providing information to a third-party website, please be aware that JetBrains is not responsible for the data provided to that third party
+
+Sentence 14 (Confidence: 1):
+The CCPA defines sale as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and sharing includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising
+

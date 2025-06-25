@@ -1,0 +1,26 @@
+=== Article 17 Right To Erasure ===
+
+Sentence 1 (Confidence: 3):
+2 Rights to Access and Control Your Personal DataYou can access or delete your personal data
+
+Sentence 2 (Confidence: 3):
+2 Rights to Access and Control Your Personal DataYou can access or delete your personal data
+
+Sentence 3 (Confidence: 3):
+2 Rights to Access and Control Your Personal DataYou can access or delete your personal data
+
+Sentence 4 (Confidence: 3):
+2 Rights to Access and Control Your Personal DataYou can access or delete your personal data
+
+Sentence 5 (Confidence: 3):
+2 Rights to Access and Control Your Personal Data You can access or delete your personal data
+
+Sentence 6 (Confidence: 3):
+You can access or delete your personal data
+
+Sentence 7 (Confidence: 3):
+You can access or delete your personal data
+
+Sentence 8 (Confidence: 3):
+You can access or delete your personal data
+

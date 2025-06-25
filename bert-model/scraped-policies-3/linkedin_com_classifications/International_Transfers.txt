@@ -1,0 +1,17 @@
+=== International Transfers ===
+
+Sentence 1 (Confidence: 3):
+Cross-Border Data TransfersWe store and use your data outside your country
+
+Sentence 2 (Confidence: 3):
+Cross-Border Data TransfersWe store and use your data outside your country
+
+Sentence 3 (Confidence: 3):
+Cross-Border Data TransfersWe store and use your data outside your country
+
+Sentence 4 (Confidence: 3):
+Cross-Border Data TransfersWe store and use your data outside your country
+
+Sentence 5 (Confidence: 3):
+Cross-Border Data Transfers We store and use your data outside your country
+

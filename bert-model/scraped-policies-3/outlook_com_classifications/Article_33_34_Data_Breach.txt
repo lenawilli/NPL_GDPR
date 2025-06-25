@@ -1,0 +1,206 @@
+=== Article 33 34 Data Breach ===
+
+Sentence 1 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 2 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 3 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 4 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 5 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 6 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 7 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 8 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 9 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 10 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 11 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 12 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 13 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 14 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 15 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 16 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 17 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 18 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 19 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 20 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 21 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 22 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 23 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 24 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 25 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 26 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 27 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 28 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 29 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 30 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 31 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 32 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 33 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 34 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 35 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 36 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 37 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 38 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 39 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 40 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 41 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 42 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 43 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 44 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 45 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 46 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 47 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 48 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 49 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 50 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 51 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 52 (Confidence: 1):
+We use data to troubleshoot and diagnose product problems, repair customers devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents
+
+Sentence 53 (Confidence: 1):
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents
+
+Sentence 54 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 55 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 56 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 57 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 58 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 59 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 60 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 61 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 62 (Confidence: 1):
+We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure
+
+Sentence 63 (Confidence: 5):
+Microsoft complies with applicable data protection laws, including applicable security breach notification laws
+
+Sentence 64 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 65 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 66 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 67 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+
+Sentence 68 (Confidence: 1):
+This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities
+

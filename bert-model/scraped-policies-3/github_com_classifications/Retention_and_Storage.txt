@@ -1,0 +1,20 @@
+=== Retention And Storage ===
+
+Sentence 1 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 2 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 3 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 4 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 5 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
+Sentence 6 (Confidence: 1):
+The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used
+
