@@ -35,6 +35,8 @@ This project contributes to regulatory technology and automated auditing solutio
 
 ## How to Run the App
 
+**Please update the `OPEN_API_KEY` in the `.env` file.**
+
 ### 1. Install Python dependencies
 Make sure you have Python 3.8 or higher installed. Then install required packages:
 ```bash
